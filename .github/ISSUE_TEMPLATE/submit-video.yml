@@ -1,0 +1,36 @@
+name: Submit a selling video
+description: Send us a TikTok Shop video that sold, and we will reverse-engineer the prompt
+title: "submit: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Send the **video link** — not a prompt. Our pipeline does the reverse-engineering
+        and credits the original creator.
+  - type: input
+    id: url
+    attributes:
+      label: TikTok video URL
+      placeholder: https://www.tiktok.com/@handle/video/1234567890
+    validations:
+      required: true
+  - type: dropdown
+    id: market
+    attributes:
+      label: Market
+      options: [US, GB, DE, ES, FR, IT, JP, MX, BR, ID, MY, PH, SG, TH, VN, Not sure]
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this one? (optional)
+      placeholder: e.g. the first two seconds are the best pain-point hook I have seen for this category
+  - type: checkboxes
+    id: ack
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: This is a public TikTok video and I am not the rights holder asking for it to be added privately.
+          required: true
