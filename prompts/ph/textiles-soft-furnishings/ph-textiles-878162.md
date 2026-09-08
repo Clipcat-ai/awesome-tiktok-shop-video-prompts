@@ -1,6 +1,6 @@
 ---
 id: ph-textiles-878162
-title: "2in1 Bath Mat Absorbent Non Slip Bathroom Rug Quick Drying Kit — Real Review (Philippines · Textiles & Soft Furnishings)"
+title: "2in1 Bath Mat Absorbent Non Slip… — Real Review (Philippines · Textiles & Soft Furnishings)"
 market: ph
 category: textiles-soft-furnishings
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7607449511555878162
 creator: "@checkoutallyoucan"
 published: 2026-02-16
 ---
-# 2in1 Bath Mat Absorbent Non Slip Bathroom Rug Quick Drying Kit — Real Review (Philippines · Textiles & Soft Furnishings)
+# 2in1 Bath Mat Absorbent Non Slip… — Real Review (Philippines · Textiles & Soft Furnishings)
 **Weekly #1** · 🇵🇭 Philippines · Textiles & Soft Furnishings · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7607449511555878162) by [@checkoutallyoucan](https://www.tiktok.com/@checkoutallyoucan). Format: **Real Review** · 37s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Are you tired of the wet mats at the door?”
+**Opening line (translated from the video):** “Are you tired of the wet mats at the door?”
 
 **Pain point it attacks:** Bathroom door mats are wet and hard to manage
 
@@ -69,7 +68,7 @@ Shot 6:
   - Subject: quick absorbent rug. Nonsleep na din siya, napakabilis niyang mag-absorb ng water, kaya kahit paulit-ulit kang umapak na basa ang paamunan matutuyo agad.
 Shot 7:
   - Duration: 36.0sec - 38.0sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The final frame freezes again on the two new blue floor mats laid flat side by side, wrapping up the demonstration by showing the final effect of the product, and emphasizing the size and design advantages of the floor mat.
   - Subject: Dalawang piraso na siya.
 [Background Sound]:
@@ -119,7 +118,7 @@ Shot 6:
   - 口播: quick absorbent rug. Nonsleep na din siya, napakabilis niyang mag-absorb ng water, kaya kahit paulit-ulit kang umapak na basa ang paamunan matutuyo agad.
 Shot 7:
   - 时长: 36.0sec - 38.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头最后再次定格在并排平铺的两块蓝色新款地垫上，完整收尾展示产品的最终效果，强调地垫的尺寸和设计优势。
   - 口播: Dalawang piraso na siya.
 [Background Sound]:
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-textiles-878162](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-textiles-878162?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-textiles-878162)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-textiles-878162](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-textiles-878162?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-textiles-878162)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

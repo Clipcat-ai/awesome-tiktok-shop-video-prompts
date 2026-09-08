@@ -1,6 +1,6 @@
 ---
 id: jp-household-310728
-title: "Beelicious ノンフライヤー 4.5L 大容量、静音マットブラック / 木目調（指紋が目立ちにくい）・見える窓付き、 — Promo Pitch (Japan · Household Appliances)"
+title: "Beelicious ノンフライヤー 4.5L… — Promo Pitch (Japan · Household Appliances)"
 market: jp
 category: household-appliances
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670372276885310728
 creator: "@elchan0721"
 published: 2026-08-05
 ---
-# Beelicious ノンフライヤー 4.5L 大容量、静音マットブラック / 木目調（指紋が目立ちにくい）・見える窓付き、 — Promo Pitch (Japan · Household Appliances)
+# Beelicious ノンフライヤー 4.5L… — Promo Pitch (Japan · Household Appliances)
 **Weekly #1** · 🇯🇵 Japan · Household Appliances · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670372276885310728) by [@elchan0721](https://www.tiktok.com/@elchan0721). Format: **Promo Pitch** · 34s · hook: **Result First** · Hands only · Discount, Coupon
-**Opening line (from the video):** “Wait, this shows only 2500 yen on my screen”
+**Opening line (translated from the video):** “Wait, this shows only 2500 yen on my screen”
 
 **Pain point it attacks:** Worry about high air fryer price, can't see cooking status
 
@@ -72,8 +71,6 @@ Shot 7:
   - Scene Type: Show core design highlights
   - Scene: The shot shows a finger tapping the air fryer's touch keys in sequence to adjust the cooking time, through the air fryer's transparent window, the dynamic cooking process of the internal fried food slowly puffing up and turning golden under hot air can be clearly seen, users can intuitively observe the browning level of the food without pulling out the fry basket
   - Subject: おわり
-ご視聴ありがとうございました。
-ご視聴ありがとうございました。
 Shot 8:
   - Duration: 24.5sec - 29.5sec
   - Scene Type: Great value price
@@ -84,7 +81,6 @@ Shot 9:
   - Scene Type: Product usage scenarios
   - Scene: A hand pulls out the air fryer's fry basket again, sequentially showing the neatly arranged golden fried chicken inside the basket, and the plump golden fries lined with baking paper, the camera sweeps close-up across every food item, conveying the relaxed home cooking vibe of easily making a variety of delicious dishes
   - Subject: 揚げ物をもっと気軽に
-ご視聴ありがとうございました。
 [Background Sound]:
 - Very upbeat TikTok-style background music, with a brisk and lively rhythm, moderately high volume, electronic drum beats and playful synthesizer melodies, suitable for food/promotional product marketing videos, creating an atmosphere of 'limited-time offer + sense of surprise + sense of urgency', the song style is similar to viral promotional BGM online, designed to quickly grab young viewers' attention and drive clicks/orders
 [Transition / Editing]:
@@ -135,8 +131,6 @@ Shot 7:
   - 镜头类型: 展示核心设计亮点
   - 画面: 画面展示手指依次点按空气炸锅的触控按键，调整烹饪时间，透过空气炸锅的透明视窗，可以清晰看到内部炸物在热风作用下慢慢膨胀变金黄的动态烹饪过程，无需拉开炸篮就能直观观察食物的焦化程度。
   - 口播: おわり
-ご視聴ありがとうございました。
-ご視聴ありがとうございました。
 Shot 8:
   - 时长: 24.5sec - 29.5sec
   - 镜头类型: 超值价格
@@ -147,7 +141,6 @@ Shot 9:
   - 镜头类型: 产品使用场景
   - 画面: 一只手再次拉开空气炸锅的炸篮，先后展示炸篮内摆放整齐的金黄炸鸡，以及铺着烘焙纸的饱满金黄薯条，镜头近距离扫过每一样美食，传递出轻松制作多样美味的居家烹饪氛围。
   - 口播: 揚げ物をもっと気軽に
-ご視聴ありがとうございました。
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子鼓点和俏皮合成器旋律，适合美食/促销类带货视频，营造“限时优惠+惊喜感+紧迫感”的氛围，歌曲风格类似网络爆款促销BGM，适合快速吸引年轻观众注意力并推动点击/下单。
 [Transition / Editing]:
@@ -156,4 +149,4 @@ Shot 9:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-household-310728](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-household-310728?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-household-310728)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-household-310728](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-household-310728?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-household-310728)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

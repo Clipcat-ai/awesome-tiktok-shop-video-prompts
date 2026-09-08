@@ -1,6 +1,6 @@
 ---
 id: br-sports-423879
-title: "Tênis masculino academia Esportivo Impax Maverik Estiloso espo — Talking Head (Brazil · Sports & Outdoor)"
+title: "Tênis masculino academia Esportivo… — Talking Head (Brazil · Sports & Outdoor)"
 market: br
 category: sports-outdoor
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675340954349423879
 creator: "@dudashopttk"
 published: 2026-08-18
 ---
-# Tênis masculino academia Esportivo Impax Maverik Estiloso espo — Talking Head (Brazil · Sports & Outdoor)
+# Tênis masculino academia Esportivo… — Talking Head (Brazil · Sports & Outdoor)
 **Weekly #1** · 🇧🇷 Brazil · Sports & Outdoor · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675340954349423879) by [@dudashopttk](https://www.tiktok.com/@dudashopttk). Format: **Talking Head** · 18s · hook: **Benefit First** · On-camera host · No promo
-**Opening line (from the video):** “This shoe costs at least 200 reais in regular stores, seriously”
+**Opening line (translated from the video):** “This shoe costs at least 200 reais in regular stores, seriously”
 
 **Pain point it attacks:** Regular sports shoes are expensive
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-sports-423879](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-sports-423879?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-sports-423879)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-sports-423879](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-sports-423879?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-sports-423879)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

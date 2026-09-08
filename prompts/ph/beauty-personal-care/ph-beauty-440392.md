@@ -1,6 +1,6 @@
 ---
 id: ph-beauty-440392
-title: "【Handmade】New 10pcs Cat Eye Leopard Pattern — Product Close-Up (Philippines · Beauty & Personal Care)"
+title: "【Handmade】New 10pcs Cat Eye… — Product Close-Up (Philippines · Beauty & Personal Care)"
 market: ph
 category: beauty-personal-care
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672178770555440392
 creator: "@alizia.girlll"
 published: 2026-08-09
 ---
-# 【Handmade】New 10pcs Cat Eye Leopard Pattern — Product Close-Up (Philippines · Beauty & Personal Care)
+# 【Handmade】New 10pcs Cat Eye… — Product Close-Up (Philippines · Beauty & Personal Care)
 **Weekly #1** · 🇵🇭 Philippines · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672178770555440392) by [@alizia.girlll](https://www.tiktok.com/@alizia.girlll). Format: **Product Close-Up** · 10s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Hand holds leather fabric to display the nail art”
+**Opening beat:** “Hand holds leather fabric to display the nail art”
 
 **Key visuals:** Hand · Cat-eye Nail · Leopard Pattern · Leather Fabric · Knitted Fabric · Geometric Textile · Macro Lens
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-beauty-440392](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-beauty-440392?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-beauty-440392)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-beauty-440392](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-beauty-440392?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-beauty-440392)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

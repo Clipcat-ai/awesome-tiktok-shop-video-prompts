@@ -1,6 +1,6 @@
 ---
 id: jp-luggage-626580
-title: "TAKASYOU スーツケース キャリーケース キャリーバッグ 4カラー選ぶ 小型1-3日用 宿泊 超軽 大容量 Sサイズ — Handheld Demo (Japan · Luggage & Bags)"
+title: "TAKASYOU スーツケース… — Handheld Demo (Japan · Luggage & Bags)"
 market: jp
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7577595381190626580
 creator: "@takasyou__office"
 published: 2025-11-28
 ---
-# TAKASYOU スーツケース キャリーケース キャリーバッグ 4カラー選ぶ 小型1-3日用 宿泊 超軽 大容量 Sサイズ — Handheld Demo (Japan · Luggage & Bags)
+# TAKASYOU スーツケース… — Handheld Demo (Japan · Luggage & Bags)
 **Weekly #1** · 🇯🇵 Japan · Luggage & Bags · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7577595381190626580) by [@takasyou__office](https://www.tiktok.com/@takasyou__office). Format: **Handheld Demo** · 20s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “I finally found my ideal suitcase”
+**Opening line (translated from the video):** “I finally found my ideal suitcase”
 
 **Key visuals:** Silver Suitcase · Cup Holder · Hook · Silent Wheel · Airport Lobby · Living Room Sofa · Floor-to-ceiling Window
 
@@ -79,12 +78,10 @@ Shot 9:
   - Duration: 16.5sec - 18.5sec
   - Scene Type: Product design highlights
   - Scene: Close-up shot of the empty cup holder after the water cup is removed, then the camera cuts to a low-angle close-up of the suitcase wheels, as the suitcase wheels glide smoothly and steadily across a wooden floor.
-  - Subject: ご視聴ありがとうございました。
 Shot 10:
   - Duration: 18.5sec - 21.0sec
   - Scene Type: Emotional connection
   - Scene: Backlit silhouette shot, the woman holds the extended pull rod and pushes the suitcase forward through the warm golden light of the airport hall. The outline of the suitcase is edged with a soft golden glow from the sunlight, and the frame fades out naturally.
-  - Subject: ご視聴ありがとうございました。
 [Background Sound]:
 - Light, upbeat pop electronic instrumental music with a tempo of approximately 120 BPM, featuring bright, airy synthesizer melodies and drum beats that create a relaxed, joyful and energetic atmosphere. It follows a fresh urban lifestyle style, perfectly suited for travel gear showcase scenarios, with a moderately high volume and no lyrics. The music effectively enhances viewers' perception of the product's 'practical + fashionable' attributes and boosts purchase impulse.
 [Transition / Editing]:
@@ -144,12 +141,10 @@ Shot 9:
   - 时长: 16.5sec - 18.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 取走水杯后的空杯架特写，随后镜头切换到滚轮的低角度特写，行李箱滚轮在木质地板上顺滑平稳地滑行而过。
-  - 口播: ご視聴ありがとうございました。
 Shot 10:
   - 时长: 18.5sec - 21.0sec
   - 镜头类型: 情感连接
   - 画面: 逆光剪影镜头，人物握着升起的拉杆，在暖金色的机场大厅光线下向前推行，行李箱的轮廓被阳光勾勒出柔和的金边，画面逐渐自然淡出。
-  - 口播: ご視聴ありがとうございました。
 [Background Sound]:
 - 轻快活泼的流行电子纯音乐，节奏约120 BPM，带有轻盈的合成器旋律和鼓点，营造轻松愉悦、充满活力的氛围，属于轻快都市生活风，适配旅行好物展示场景，音量适中偏高，无歌词，能有效提升观众对产品“实用+时尚”属性的感知，增强购物冲动。
 [Transition / Editing]:
@@ -158,4 +153,4 @@ Shot 10:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-luggage-626580](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-luggage-626580?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-luggage-626580)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-luggage-626580](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-luggage-626580?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-luggage-626580)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

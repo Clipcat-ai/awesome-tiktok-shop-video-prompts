@@ -1,6 +1,6 @@
 ---
 id: id-beauty-970965
-title: "【Bisa Cod】Kacamata Baca TEH DINGIN CERAH Kacamata Baca Kacamat — Talking Head (Indonesia · Beauty & Personal Care)"
+title: "【Bisa Cod】Kacamata Baca TEH… — Talking Head (Indonesia · Beauty & Personal Care)"
 market: id
 category: beauty-personal-care
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674208857257970965
 creator: "@dinda.268"
 published: 2026-08-15
 ---
-# 【Bisa Cod】Kacamata Baca TEH DINGIN CERAH Kacamata Baca Kacamat — Talking Head (Indonesia · Beauty & Personal Care)
+# 【Bisa Cod】Kacamata Baca TEH… — Talking Head (Indonesia · Beauty & Personal Care)
 **Weekly #1** · 🇮🇩 Indonesia · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674208857257970965) by [@dinda.268](https://www.tiktok.com/@dinda.268). Format: **Talking Head** · 20s · hook: **POV Scenario** · On-camera host · Discount, Free gift
-**Opening line (from the video):** “Uncles and aunts, if your vision is blurry or you have trouble seeing far, try the glasses I wear”
+**Opening line (translated from the video):** “Uncles and aunts, if your vision is blurry or you have trouble seeing far, try the glasses I wear”
 
 **Pain point it attacks:** Blurred vision, difficulty seeing things far away
 
@@ -51,7 +50,7 @@ Shot 3:
   - Duration: 13.0sec - 20.0sec
   - Scene Type: Highlight promotional selling points
   - Scene: The shot cuts back to the original indoor selfie scene, the girl faces the camera again with a soft smile on her lips, continues to complete the subsequent product sharing presentation to the camera, looks natural and relaxed, maintains the friendly sharing atmosphere, and introduces the relevant benefit offers for these glasses to the camera.
-  - Subject: Kacamata ini sedang putusnya promo nggak sampai 20 ribuan,  khusus pesan sekarang, Ada gratis ongkir ya Terima kasih.
+  - Subject: Kacamata ini sedang putusnya promo nggak sampai 20 ribuan, khusus pesan sekarang, Ada gratis ongkir ya Terima kasih.
 [Background Sound]:
 - No background music, this short video features only live spoken narration with no accompanying soundtrack or background sound effects. The rhythm is entirely driven by the speaker's speaking speed and tone, making it a typical direct sales-focused short video that prioritizes efficient information delivery over atmosphere building.
 [Transition / Editing]:
@@ -81,7 +80,7 @@ Shot 3:
   - 时长: 13.0sec - 20.0sec
   - 镜头类型: 促销卖点强推
   - 画面: 镜头重新切回最初的室内自拍场景，女生再次面向镜头，嘴角带着柔和的笑意，继续对着镜头完成后续的好物分享表达，神态自然放松，保持着亲切的分享氛围，向镜头介绍这款眼镜的相关福利内容。
-  - 口播: Kacamata ini sedang putusnya promo nggak sampai 20 ribuan,  khusus pesan sekarang, Ada gratis ongkir ya Terima kasih.
+  - 口播: Kacamata ini sedang putusnya promo nggak sampai 20 ribuan, khusus pesan sekarang, Ada gratis ongkir ya Terima kasih.
 [Background Sound]:
 - 没有背景音乐，该短视频为纯人声口播内容，无配乐或背景音效，节奏以说话者语速和语气为主，属于典型的直接带货风格短视频，强调信息传递效率，而非氛围营造。
 [Transition / Editing]:
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-beauty-970965](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-beauty-970965?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-beauty-970965)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-beauty-970965](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-beauty-970965?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-beauty-970965)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

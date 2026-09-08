@@ -1,6 +1,6 @@
 ---
 id: gb-womenswear-856662
-title: "Women's Solid Color Modal Loungewear Two-Piece Set — OOTD Showcase (United Kingdom · Womenswear & Underwear)"
+title: "Women's Solid Color Modal… — OOTD Showcase (United Kingdom · Womenswear & Underwear)"
 market: gb
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7627613369171856662
 creator: "@hisandherstiktokshop"
 published: 2026-04-14
 ---
-# Women's Solid Color Modal Loungewear Two-Piece Set — OOTD Showcase (United Kingdom · Womenswear & Underwear)
+# Women's Solid Color Modal… — OOTD Showcase (United Kingdom · Womenswear & Underwear)
 **Weekly #1** · 🇬🇧 United Kingdom · Womenswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7627613369171856662) by [@hisandherstiktokshop](https://www.tiktok.com/@hisandherstiktokshop). Format: **OOTD Showcase** · 15s · hook: **Benefit First** · On-camera host · No promo
-**Opening line (from the video):** “This loungewear is so comfy and flattering”
+**Opening beat:** “This loungewear is so comfy and flattering”
 
 **Key visuals:** Bedroom · Loungewear Set · White Wardrobe · Pink Bedding · Sunglasses · Gold Necklace · Bed
 
@@ -90,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-womenswear-856662](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-womenswear-856662?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-womenswear-856662)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-womenswear-856662](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-womenswear-856662?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-womenswear-856662)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

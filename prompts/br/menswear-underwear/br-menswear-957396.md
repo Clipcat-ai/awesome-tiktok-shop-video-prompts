@@ -1,6 +1,6 @@
 ---
 id: br-menswear-957396
-title: "Kit Camiseta + Short Tectel BLESSED Camisa 100% Algodão Bermud — Product Close-Up (Brazil · Menswear & Underwear)"
+title: "Kit Camiseta + Short Tectel… — Product Close-Up (Brazil · Menswear & Underwear)"
 market: br
 category: menswear-underwear
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675466009309957396
 creator: "@streetvibe_7"
 published: 2026-08-18
 ---
-# Kit Camiseta + Short Tectel BLESSED Camisa 100% Algodão Bermud — Product Close-Up (Brazil · Menswear & Underwear)
+# Kit Camiseta + Short Tectel… — Product Close-Up (Brazil · Menswear & Underwear)
 **Weekly #1** · 🇧🇷 Brazil · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675466009309957396) by [@streetvibe_7](https://www.tiktok.com/@streetvibe_7). Format: **Product Close-Up** · 12s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “From a top-down view, a hand with a rose tattoo lays the Blessed T-shirt and shorts on a white carpet”
+**Opening beat:** “From a top-down view, a hand with a rose tattoo lays the Blessed T-shirt and shorts on a white carpet”
 
 **Key visuals:** White Plush Carpet · Lake Blue T-shirt · White Shorts · Blessed Print · Rose Tattoo · Metal Watch · Drawstring
 
@@ -98,4 +97,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-menswear-957396](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-menswear-957396?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-menswear-957396)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-menswear-957396](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-menswear-957396?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-menswear-957396)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

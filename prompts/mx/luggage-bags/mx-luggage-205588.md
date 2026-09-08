@@ -1,6 +1,6 @@
 ---
 id: mx-luggage-205588
-title: "Bolsa para mujer Hobo Essential - Felyfti - En colores que com — Handheld Demo (Mexico · Luggage & Bags)"
+title: "Bolsa para mujer Hobo Essential… — Handheld Demo (Mexico · Luggage & Bags)"
 market: mx
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7628700357480205588
 creator: "@cheetos.ss"
 published: 2026-04-14
 ---
-# Bolsa para mujer Hobo Essential - Felyfti - En colores que com — Handheld Demo (Mexico · Luggage & Bags)
+# Bolsa para mujer Hobo Essential… — Handheld Demo (Mexico · Luggage & Bags)
 **Weekly #1** · 🇲🇽 Mexico · Luggage & Bags · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7628700357480205588) by [@cheetos.ss](https://www.tiktok.com/@cheetos.ss). Format: **Handheld Demo** · 69s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “This is what's inside my Oval Bag I bought here on TikTok Shop”
+**Opening line (translated from the video):** “This is what's inside my Oval Bag I bought here on TikTok Shop”
 
 **Key visuals:** Yellow Hobo Bag · Silver Star Hair Clip · Pink Lip Balm · Ring Light · Black-Green Wallet · Wet Wipes · Loose Powder · Lip Liner
 
@@ -49,7 +48,7 @@ Shot 3:
   - Duration: 12.0sec - 16.0sec
   - Scene Type: Product multi-functionality showcase
   - Scene: The hand reaches into the open yellow bag, takes out a small fill light, holds the fill light in front of the camera, presses the switch of the fill light, the screen of the fill light lights up with soft pale blue light, clearly showing the compact appearance and lighting effect of the fill light.
-  - Subject: ...por si se me atraviesa algún videíto por hacer...
+  - Subject: por si se me atraviesa algún videíto por hacer...
 Shot 4:
   - Duration: 16.0sec - 21.0sec
   - Scene Type: Product multi-functionality showcase
@@ -114,7 +113,7 @@ Shot 3:
   - 时长: 12.0sec - 16.0sec
   - 镜头类型: 产品多功能性
   - 画面: 手伸进敞开的黄色包袋内，取出一个小型补光灯，将补光灯举到镜头前，按下补光灯的开关，补光灯屏幕亮起淡蓝色柔光，清晰展示补光灯的小巧外观与点亮效果。
-  - 口播: ...por si se me atraviesa algún videíto por hacer...
+  - 口播: por si se me atraviesa algún videíto por hacer...
 Shot 4:
   - 时长: 16.0sec - 21.0sec
   - 镜头类型: 产品多功能性
@@ -163,4 +162,4 @@ Shot 11:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-luggage-205588](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-luggage-205588?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-luggage-205588)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-luggage-205588](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-luggage-205588?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-luggage-205588)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

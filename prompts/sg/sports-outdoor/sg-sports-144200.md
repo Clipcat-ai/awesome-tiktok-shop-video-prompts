@@ -1,6 +1,6 @@
 ---
 id: sg-sports-144200
-title: "Men's Double Layer Sport Shorts Trendy Design Quick Dry Breath — OOTD Showcase (Singapore · Sports & Outdoor)"
+title: "Men's Double Layer Sport Shorts… — OOTD Showcase (Singapore · Sports & Outdoor)"
 market: sg
 category: sports-outdoor
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678333405167144200
 creator: "@padisteal"
 published: 2026-08-26
 ---
-# Men's Double Layer Sport Shorts Trendy Design Quick Dry Breath — OOTD Showcase (Singapore · Sports & Outdoor)
+# Men's Double Layer Sport Shorts… — OOTD Showcase (Singapore · Sports & Outdoor)
 **Weekly #1** · 🇸🇬 Singapore · Sports & Outdoor · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678333405167144200) by [@padisteal](https://www.tiktok.com/@padisteal). Format: **OOTD Showcase** · 25s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “On a city sidewalk in daytime, under sunlight, men's double-layer sports shorts are shown”
+**Opening beat:** “On a city sidewalk in daytime, under sunlight, men's double-layer sports shorts are shown”
 
 **Key visuals:** Asphalt Pavement · Yellow Road Marking · White Intersection Sign · Black Sports Shorts · White Sneakers · White T-shirt · Sunlight Shadow
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-sports-144200](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-sports-144200?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-sports-144200)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-sports-144200](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-sports-144200?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-sports-144200)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

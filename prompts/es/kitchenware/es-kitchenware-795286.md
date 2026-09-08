@@ -1,6 +1,6 @@
 ---
 id: es-kitchenware-795286
-title: "20pcs/32pcs Stainless Steel Mixing Bowls Set with Lids — Handheld Demo (Spain · Kitchenware)"
+title: "20pcs/32pcs Stainless Steel Mixing… — Handheld Demo (Spain · Kitchenware)"
 market: es
 category: kitchenware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677308093402795286
 creator: "@parri819"
 published: 2026-08-23
 ---
-# 20pcs/32pcs Stainless Steel Mixing Bowls Set with Lids — Handheld Demo (Spain · Kitchenware)
+# 20pcs/32pcs Stainless Steel Mixing… — Handheld Demo (Spain · Kitchenware)
 **Weekly #1** · 🇪🇸 Spain · Kitchenware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677308093402795286) by [@parri819](https://www.tiktok.com/@parri819). Format: **Handheld Demo** · 33s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “A set of five stainless steel bowls”
+**Opening line (translated from the video):** “A set of five stainless steel bowls”
 
 **Key visuals:** Stainless Steel Bowl · Black Seal Lid · Granite Countertop · White Tile · Wooden Shelf · Grater Attachment · Baking Tool
 
@@ -44,8 +43,7 @@ Shot 2:
   - Duration: 3.5sec - 10.5sec
   - Scene Type: Product material demonstration
   - Scene: The right hand lifts the black sealing lid of the bowl in hand and moves it temporarily to the side, then uses both hands to pick up the empty stainless steel bowl, slowly flipping the bowl body to sequentially show the smooth, bright mirror finish of the inner wall and the fine brushed texture of the outer wall. Finally, the lid is placed back onto the bowl opening, showing the edge of the black rubber lid fitting tightly against the bowl rim.
-  - Subject: inoxidable, disponible a un precio muy
-¡Suscríbete al canal!
+  - Subject: inoxidable, disponible a un precio muy ¡Suscríbete al canal!
 Shot 3:
   - Duration: 10.5sec - 14.0sec
   - Scene Type: Product multi-functionality showcase
@@ -55,10 +53,7 @@ Shot 4:
   - Duration: 14.0sec - 23.5sec
   - Scene Type: Core component showcase
   - Scene: The right hand takes the largest top bowl from the stacked set and places it aside, revealing the metal grater accessory embedded in the lid of the bowl below. Different grater blades with varying hole patterns are placed one by one on the lid, demonstrating three functional grater heads: coarse hole, fine hole, and slicing blade, before the black protective gasket is gently placed on top.
-  - Subject: tamaños con tapa para mantener tus alimentos calientes.
-seguros. Además, cuenta con un raya
-¡Suscríbete al canal!
-verduras, etcétera, con facilidad
+  - Subject: tamaños con tapa para mantener tus alimentos calientes. seguros. Además, cuenta con un raya ¡Suscríbete al canal! verduras, etcétera, con facilidad
 Shot 5:
   - Duration: 23.5sec - 27.0sec
   - Scene Type: Multiple style options showcase
@@ -68,9 +63,7 @@ Shot 6:
   - Duration: 27.0sec - 33.0sec
   - Scene Type: Checkout process guidance
   - Scene: The right hand places the previously removed large bowls back onto the stacked set one by one, aligning all five stainless steel bowls in complete stacked order from largest to smallest. The camera slowly pans around the fully stacked product set, finally sweeping across all the matching small baking accessories placed beside it, and stops on a full group shot of the entire product collection.
-  - Subject: pasteles. Si te gusta el producto, ha
-Añádelo a la cesta naranja.
-¡Gracias!
+  - Subject: pasteles. Si te gusta el producto, ha Añádelo a la cesta naranja. ¡Gracias!
 [Background Sound]:
 - Upbeat TikTok background music with a lively, brisk tempo, moderately high volume, and an electronic pop style. The melody has a strong rhythmic feel and a repetitive chorus, perfectly suited for fast-paced product sales videos. It effectively grabs the audience's attention and creates a shopping atmosphere of 'limited-time offer + high cost-performance', ideal for showcasing kitchenware and daily lifestyle products.
 [Transition / Editing]:
@@ -95,8 +88,7 @@ Shot 2:
   - 时长: 3.5sec - 10.5sec
   - 镜头类型: 产品材质展示
   - 画面: 右手掀开手中碗具的黑色密封盖并暂时挪到一旁，随后双手配合拿起空的不锈钢碗，缓慢翻转碗身，依次展示内壁光滑透亮的镜面质感与外壁细腻的拉丝纹理，最后将盖子重新盖回碗口，可见黑胶盖子边缘紧密贴合碗沿。
-  - 口播: inoxidable, disponible a un precio muy
-¡Suscríbete al canal!
+  - 口播: inoxidable, disponible a un precio muy ¡Suscríbete al canal!
 Shot 3:
   - 时长: 10.5sec - 14.0sec
   - 镜头类型: 产品多功能性
@@ -106,10 +98,7 @@ Shot 4:
   - 时长: 14.0sec - 23.5sec
   - 镜头类型: 展示核心成分
   - 画面: 右手将堆叠碗组最上方的大碗取下放置一旁，露出下方碗盖上嵌入的金属擦丝配件，依次将不同孔型的擦丝片逐一摆放在盖子上，展示粗孔、细孔、切片刀三种不同功能的擦丝刀头，随后轻轻盖上黑色保护垫片。
-  - 口播: tamaños con tapa para mantener tus alimentos calientes.
-seguros. Además, cuenta con un raya
-¡Suscríbete al canal!
-verduras, etcétera, con facilidad
+  - 口播: tamaños con tapa para mantener tus alimentos calientes. seguros. Además, cuenta con un raya ¡Suscríbete al canal! verduras, etcétera, con facilidad
 Shot 5:
   - 时长: 23.5sec - 27.0sec
   - 镜头类型: 展示多款式选择
@@ -119,9 +108,7 @@ Shot 6:
   - 时长: 27.0sec - 33.0sec
   - 镜头类型: 下单流程指引
   - 画面: 右手将取下的大碗逐一放回堆叠组，按照由大到小的顺序将五只不锈钢碗完整堆叠对齐，镜头缓慢平移环绕全套堆叠完毕的产品，最终扫过一旁所有配套的烘焙小配件，定格在整套产品的全家福画面上。
-  - 口播: pasteles. Si te gusta el producto, ha
-Añádelo a la cesta naranja.
-¡Gracias!
+  - 口播: pasteles. Si te gusta el producto, ha Añádelo a la cesta naranja. ¡Gracias!
 [Background Sound]:
 - 非常欢快的TikTok背景音乐，节奏轻快活泼、音量适中偏高、带有电子流行风格，旋律具有强烈节奏感和重复性副歌，适合快节奏带货视频，能有效吸引用户注意力并营造“限时优惠+高性价比”的购物氛围，适配厨房用品、生活好物类商品展示。
 [Transition / Editing]:
@@ -130,4 +117,4 @@ Añádelo a la cesta naranja.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-kitchenware-795286](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-kitchenware-795286?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-kitchenware-795286)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-kitchenware-795286](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-kitchenware-795286?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-kitchenware-795286)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

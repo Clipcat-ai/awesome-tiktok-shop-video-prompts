@@ -1,6 +1,6 @@
 ---
 id: jp-kitchenware-000341
-title: "タンブラー セラミックコーディング 保温 保冷 真空断熱 ストロー付き 3way 広口 シリコン 上品 水筒（Ｔ）【euni — Promo Pitch (Japan · Kitchenware)"
+title: "タンブラー セラミックコーディング… — Promo Pitch (Japan · Kitchenware)"
 market: jp
 category: kitchenware
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672329278583000341
 creator: "@miharu_snackdiary"
 published: 2026-08-10
 ---
-# タンブラー セラミックコーディング 保温 保冷 真空断熱 ストロー付き 3way 広口 シリコン 上品 水筒（Ｔ）【euni — Promo Pitch (Japan · Kitchenware)
+# タンブラー セラミックコーディング… — Promo Pitch (Japan · Kitchenware)
 **Weekly #1** · 🇯🇵 Japan · Kitchenware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672329278583000341) by [@miharu_snackdiary](https://www.tiktok.com/@miharu_snackdiary). Format: **Promo Pitch** · 15s · hook: **Result First** · On-camera host · Discount, Coupon
-**Opening line (from the video):** “Wait! With this coupon, it's only 1 yen?”
+**Opening line (translated from the video):** “Wait! With this coupon, it's only 1 yen?”
 
 **Pain point it attacks:** Regular thermoses affect coffee taste
 
@@ -54,7 +53,7 @@ Shot 3:
   - Subject: 便秘なストロー付きで保冷力も最強!これが1円で手に入る!
 Shot 4:
   - Duration: 11.0sec - 14.5sec
-  - Scene Type: Show Multiple Style Options (Fashion Category)
+  - Scene Type: Show Multiple Style Options
   - Scene: In front of a light beige product display background, multiple thermos cups in different colorways are neatly arranged on a magazine page printed with text, with a small number of coffee beans dotted around. The frame gradually zooms in to show the exterior details, the portable top handle, and the straw structure of each thermos cup. The camera then pans across all five products in different colorways, fully presenting the entire product line.
   - Subject: 入るなんてありえない!今のうちに急はないとすぐ売り切れるよ!
 Shot 5:
@@ -93,7 +92,7 @@ Shot 3:
   - 口播: 便秘なストロー付きで保冷力も最強!これが1円で手に入る!
 Shot 4:
   - 时长: 11.0sec - 14.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 浅米色的产品展示背景前，多款不同配色的保温杯整齐陈列在印有文字的杂志页面上，周围点缀少量咖啡豆，画面逐步放大展示每一款保温杯的外观细节、顶部便携提手与吸管结构，随后镜头扫过全部五款不同配色的产品，完整呈现全系列款式。
   - 口播: 入るなんてありえない!今のうちに急はないとすぐ売り切れるよ!
 Shot 5:
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-kitchenware-000341](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-kitchenware-000341?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-kitchenware-000341)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-kitchenware-000341](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-kitchenware-000341?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-kitchenware-000341)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

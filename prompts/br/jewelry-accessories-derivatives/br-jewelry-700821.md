@@ -1,6 +1,6 @@
 ---
 id: br-jewelry-700821
-title: "Colar Feminino Folheado a Ouro 24k Símbolo do seu Amor Infinit — Product Close-Up (Brazil · Jewelry Accessories & Derivatives)"
+title: "Colar Feminino Folheado a Ouro 24k… — Product Close-Up (Brazil · Jewelry Accessories & Derivatives)"
 market: br
 category: jewelry-accessories-derivatives
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678850286206700821
 creator: "@taistiktokshop"
 published: 2026-08-27
 ---
-# Colar Feminino Folheado a Ouro 24k Símbolo do seu Amor Infinit — Product Close-Up (Brazil · Jewelry Accessories & Derivatives)
+# Colar Feminino Folheado a Ouro 24k… — Product Close-Up (Brazil · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇧🇷 Brazil · Jewelry Accessories & Derivatives · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678850286206700821) by [@taistiktokshop](https://www.tiktok.com/@taistiktokshop). Format: **Product Close-Up** · 10s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Eternal love deserves a symbol”
+**Opening line (translated from the video):** “Eternal love deserves a symbol”
 
 **Key visuals:** Dark Green Velvet · Gold-Plated Necklace · Zircon · Manicured Hands · Macro Lens · Top-Side Lighting
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-jewelry-700821](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-jewelry-700821?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-jewelry-700821)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-jewelry-700821](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-jewelry-700821?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-jewelry-700821)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

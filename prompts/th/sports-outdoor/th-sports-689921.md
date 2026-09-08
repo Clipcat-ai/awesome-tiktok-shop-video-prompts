@@ -1,6 +1,6 @@
 ---
 id: th-sports-689921
-title: "ถุงเท้าฟุตบอล สำหรับผู้ชายและผู้หญิง ถุงเท้ากีฬา ถุงเท้าฟุตบอล — Lifestyle Scene (Thailand · Sports & Outdoor)"
+title: "ถุงเท้าฟุตบอล สำหรับผู้ชายและผู้หญิ… — Lifestyle Scene (Thailand · Sports & Outdoor)"
 market: th
 category: sports-outdoor
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7608282425176689921
 creator: "@songa.sp"
 published: 2026-02-18
 ---
-# ถุงเท้าฟุตบอล สำหรับผู้ชายและผู้หญิง ถุงเท้ากีฬา ถุงเท้าฟุตบอล — Lifestyle Scene (Thailand · Sports & Outdoor)
+# ถุงเท้าฟุตบอล สำหรับผู้ชายและผู้หญิ… — Lifestyle Scene (Thailand · Sports & Outdoor)
 **Weekly #1** · 🇹🇭 Thailand · Sports & Outdoor · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7608282425176689921) by [@songa.sp](https://www.tiktok.com/@songa.sp). Format: **Lifestyle Scene** · 8s · hook: **POV Scenario** · No one on camera · No promo
-**Opening line (from the video):** “Kids can buy them for one yuan each, but mom won't let them”
+**Opening line (translated from the video):** “Kids can buy them for one yuan each, but mom won't let them”
 
 **Pain point it attacks:** Kids want cheap football socks but parents stop them
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: 3D cartoon animation style, vivid and heartwarming imagery, bright and saturated colors, with the typical promotional texture of a Douyin e-commerce mascot.
+[Style]: 3D cartoon animation style, vivid and heartwarming imagery, bright and saturated colors, with the typical promotional texture of a TikTok e-commerce mascot.
 [Environment]: A tree-lined urban street on a clear sunny day, flanked by retro multi-story red brick buildings, with multicolored awnings over the storefronts facing the street. A few blurry moving vehicles are scattered on the distant road. The road surface is smooth urban asphalt, with bright and clear lighting, forming an American old town street scene full of everyday life atmosphere.
 [Tone & Pacing]: The overall rhythm is light and playful. The mascot transitions from strolling to trotting, then slows down to a stop, with smooth, bouncy movements paired with lively emotional expression changes. The pace progresses step by step and is highly engaging.
 [Camera]: A medium shot perspective with front follow shooting. The camera moves forward synchronously with the mascot at all times, keeping the main subject centered in the frame. There is no violent shaking throughout the process, the camera movement is stable and smooth, fully presenting the mascot's full set of limb movements.
@@ -62,7 +61,7 @@ Shot 4:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 3D卡通动画风格，形象生动治愈，色彩明快饱满，具有典型的抖音电商吉祥物宣传质感。
+[Style]: 3D卡通动画风格，形象生动治愈，色彩明快饱满，具有典型的TikTok电商吉祥物宣传质感。
 [Environment]: 晴朗白天的城市林荫街道，两侧是红砖复古多层建筑，搭配多色临街商铺遮阳篷，远处街道上零星有模糊的行驶车辆，路面是平整的沥青城市道路，光线明亮通透，是充满日常烟火气的美式老城街头场景。
 [Tone & Pacing]: 整体节奏轻快俏皮，吉祥物从漫步过渡到快跑再减速停下，动作流畅富有弹性，搭配活泼的情绪神态变化，节奏循序渐进，富有感染力。
 [Camera]: 采用正面跟拍的中景视角，镜头始终跟随吉祥物同步向前移动，保持主体始终处于画面中心，全程无剧烈晃动，运镜平稳顺滑，完整呈现吉祥物的全套肢体动作。
@@ -96,4 +95,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-sports-689921](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-sports-689921?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-sports-689921)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-sports-689921](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-sports-689921?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-sports-689921)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

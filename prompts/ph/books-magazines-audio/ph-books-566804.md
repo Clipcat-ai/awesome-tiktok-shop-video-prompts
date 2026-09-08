@@ -1,6 +1,6 @@
 ---
 id: ph-books-566804
-title: "Chess Book Collection — Product Close-Up (Philippines · Books, Magazines & Audio)"
+title: "Chess Book Collection (Bestsellerr) — Product Close-Up (Philippines · Books, Magazines & Audio)"
 market: ph
 category: books-magazines-audio
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677099195324566804
 creator: "@raineeeaffiliate"
 published: 2026-08-23
 ---
-# Chess Book Collection — Product Close-Up (Philippines · Books, Magazines & Audio)
+# Chess Book Collection (Bestsellerr) — Product Close-Up (Philippines · Books, Magazines & Audio)
 **Weekly #1** · 🇵🇭 Philippines · Books, Magazines & Audio · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677099195324566804) by [@raineeeaffiliate](https://www.tiktok.com/@raineeeaffiliate). Format: **Product Close-Up** · 10s · hook: **Result First** · No one on camera · No promo
-**Opening line (from the video):** “I'll leave this behind, promise”
+**Opening line (quoted from the video):** “I'll leave this behind, promise”
 
 **Key visuals:** Chessboard · White Knight · Glowing Arrow · Yellow Text · Black Bishop · Chess Pieces · Electronic Music
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-books-566804](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-books-566804?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-books-566804)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-books-566804](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-books-566804?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-books-566804)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

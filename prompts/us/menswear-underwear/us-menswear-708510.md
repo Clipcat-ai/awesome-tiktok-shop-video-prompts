@@ -1,6 +1,6 @@
 ---
 id: us-menswear-708510
-title: "Please Purchase A Size Up. Men's Solid Casual Polo Shirt & Dra — OOTD Showcase (United States · Menswear & Underwear)"
+title: "Please Purchase A Size Up. Men's… — OOTD Showcase (United States · Menswear & Underwear)"
 market: us
 category: menswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7623418377926708510
 creator: "@zimomo179"
 published: 2026-03-31
 ---
-# Please Purchase A Size Up. Men's Solid Casual Polo Shirt & Dra — OOTD Showcase (United States · Menswear & Underwear)
+# Please Purchase A Size Up. Men's… — OOTD Showcase (United States · Menswear & Underwear)
 **Weekly #1** · 🇺🇸 United States · Menswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7623418377926708510) by [@zimomo179](https://www.tiktok.com/@zimomo179). Format: **OOTD Showcase** · 5s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Show different color polo and shorts sets, highlight fabric elasticity and fit”
+**Opening beat:** “Show different color polo and shorts sets, highlight fabric elasticity and fit”
 
 **Key visuals:** Bed · Nightstand · Polo Shirt · Shorts · Metal Ornament · Pocket · Floor Tile
 
@@ -49,7 +48,7 @@ Shot 3:
   - Scene: The man holds the hem of the black Polo shirt firmly in his left hand, then pulls the side fabric of the shorts backward with his right hand, stretching it wide before releasing it quickly to intuitively showcase the outstanding stretch properties of the shorts fabric. The movement is sharp and powerful, perfectly timed to the drum beats of the background music.
 Shot 4:
   - Duration: 4.0sec - 5.0sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The scene switches seamlessly, and the man's tracksuit is simultaneously changed to the matching white version. He grips both sides of the white Polo shirt hem, pulls gently outward then releases to demonstrate that the white set also features excellent fabric stretch and a loose, comfortable cut, while he maintains an upright standing posture.
 Shot 5:
   - Duration: 5.0sec - 6.0sec
@@ -84,7 +83,7 @@ Shot 3:
   - 画面: 男士将黑色Polo衫的衣摆随意攥在左手中固定住，右手向后拉扯短裤的侧部面料，大幅度拉开后快速松开，直观展示短裤面料超强的弹力特性，动作利落有力，卡点贴合背景音乐的鼓点节奏。
 Shot 4:
   - 时长: 4.0sec - 5.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面无缝切换，男士身上的套装同步更换为白色同系列款式，他双手捏住白色Polo衫的两侧衣摆向外轻拉后松开，展示白色套装同样具备优秀的面料弹性与宽松舒适的版型效果，站姿保持挺拔。
 Shot 5:
   - 时长: 5.0sec - 6.0sec
@@ -98,4 +97,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-menswear-708510](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-menswear-708510?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-menswear-708510)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-menswear-708510](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-menswear-708510?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-menswear-708510)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

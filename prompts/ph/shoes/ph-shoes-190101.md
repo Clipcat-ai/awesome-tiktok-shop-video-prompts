@@ -1,6 +1,6 @@
 ---
 id: ph-shoes-190101
-title: "Stylish summer women's sandals with a thick sole for added hei — Handheld Demo (Philippines · Shoes)"
+title: "Stylish summer women's sandals… — Handheld Demo (Philippines · Shoes)"
 market: ph
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7663784765258190101
 creator: "@joeshon"
 published: 2026-07-18
 ---
-# Stylish summer women's sandals with a thick sole for added hei — Handheld Demo (Philippines · Shoes)
+# Stylish summer women's sandals… — Handheld Demo (Philippines · Shoes)
 **Weekly #1** · 🇵🇭 Philippines · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7663784765258190101) by [@joeshon](https://www.tiktok.com/@joeshon). Format: **Handheld Demo** · 10s · hook: **Benefit First** · Hands only · No promo
-**Opening line (from the video):** “Super cute, and it's very affordable”
+**Opening beat:** “Super cute, and it's very affordable”
 
 **Key visuals:** Wooden Floor · Plush Carpet · Sofa · Cartoon Slippers · Pink Nail Polish · Lower Legs
 
@@ -90,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-shoes-190101](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-shoes-190101?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-shoes-190101)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-shoes-190101](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-shoes-190101?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-shoes-190101)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

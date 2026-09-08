@@ -1,6 +1,6 @@
 ---
 id: th-menswear-061269
-title: "กางเกงคาร์โก้สำหรับผู้ชาย พลัสไซส์ ขายดี หลายกระเป๋า ทำจากผ้าฝ — Product Close-Up (Thailand · Menswear & Underwear)"
+title: "กางเกงคาร์โก้สำหรับผู้ชาย พลัสไซส์… — Product Close-Up (Thailand · Menswear & Underwear)"
 market: th
 category: menswear-underwear
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671523666559061269
 creator: "@moou_nt21"
 published: 2026-08-08
 ---
-# กางเกงคาร์โก้สำหรับผู้ชาย พลัสไซส์ ขายดี หลายกระเป๋า ทำจากผ้าฝ — Product Close-Up (Thailand · Menswear & Underwear)
+# กางเกงคาร์โก้สำหรับผู้ชาย พลัสไซส์… — Product Close-Up (Thailand · Menswear & Underwear)
 **Weekly #1** · 🇹🇭 Thailand · Menswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671523666559061269) by [@moou_nt21](https://www.tiktok.com/@moou_nt21). Format: **Product Close-Up** · 15s · hook: **Result First** · No one on camera · No promo
-**Opening line (from the video):** “Show two mannequins wearing gray casual pants front and back”
+**Opening beat:** “Show two mannequins wearing gray casual pants front and back”
 
 **Key visuals:** Mannequin · Gray Casual Pants · Black Flip-flops · Metal Button · Neon Light Strip · Wooden Shelf · Black T-shirt
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-menswear-061269](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-menswear-061269?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-menswear-061269)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-menswear-061269](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-menswear-061269?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-menswear-061269)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

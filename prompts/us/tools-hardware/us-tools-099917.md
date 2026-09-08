@@ -1,6 +1,6 @@
 ---
 id: us-tools-099917
-title: "Super Strong Neodymium Fishing Magnet Kit — Handheld Demo (United States · Tools & Hardware)"
+title: "Super Strong Neodymium Fishing… — Handheld Demo (United States · Tools & Hardware)"
 market: us
 category: tools-hardware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7643667863043099917
 creator: "@toolpuppro"
 published: 2026-05-25
 ---
-# Super Strong Neodymium Fishing Magnet Kit — Handheld Demo (United States · Tools & Hardware)
+# Super Strong Neodymium Fishing… — Handheld Demo (United States · Tools & Hardware)
 **Weekly #1** · 🇺🇸 United States · Tools & Hardware · week of 2026-08-10
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7643667863043099917) by [@toolpuppro](https://www.tiktok.com/@toolpuppro). Format: **Handheld Demo** · 15s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “Okay, they are finally back! The complete fishing kit that sold out three times last week”
+**Opening line (quoted from the video):** “Okay, they are finally back! The complete fishing kit that sold out three times last week”
 
 **Pain point it attacks:** Insufficient magnetic force to lift heavy objects during outdoor salvage
 
@@ -115,4 +114,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-tools-099917](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-tools-099917?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-tools-099917)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-tools-099917](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-tools-099917?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-tools-099917)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

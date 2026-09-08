@@ -1,6 +1,6 @@
 ---
 id: th-books-974984
-title: "หนังสือนิทานเล่มละ 10 บาท : นิทาน 2 ภาษา อังกฤษ-ไทย — Promo Pitch (Thailand · Books, Magazines & Audio)"
+title: "หนังสือนิทานเล่มละ 10 บาท : นิทาน… — Promo Pitch (Thailand · Books, Magazines & Audio)"
 market: th
 category: books-magazines-audio
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7632480342946974984
 creator: "@sbye.11"
 published: 2026-04-25
 ---
-# หนังสือนิทานเล่มละ 10 บาท : นิทาน 2 ภาษา อังกฤษ-ไทย — Promo Pitch (Thailand · Books, Magazines & Audio)
+# หนังสือนิทานเล่มละ 10 บาท : นิทาน… — Promo Pitch (Thailand · Books, Magazines & Audio)
 **Weekly #1** · 🇹🇭 Thailand · Books, Magazines & Audio · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7632480342946974984) by [@sbye.11](https://www.tiktok.com/@sbye.11). Format: **Promo Pitch** · 8s · hook: **Benefit First** · Hands only · Discount
-**Opening line (from the video):** “Bilingual fairy tales only 10 baht each”
+**Opening line (translated from the video):** “Bilingual fairy tales only 10 baht each”
 
 **Pain point it attacks:** Children's picture books are expensive
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-books-974984](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-books-974984?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-books-974984)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-books-974984](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-books-974984?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-books-974984)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

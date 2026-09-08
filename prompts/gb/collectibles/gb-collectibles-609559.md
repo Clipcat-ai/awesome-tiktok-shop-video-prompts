@@ -1,6 +1,6 @@
 ---
 id: gb-collectibles-609559
-title: "200PCS or 25PCS Trading Card Protector Set — Handheld Demo (United Kingdom · Collectibles)"
+title: "200PCS or 25PCS Trading Card… — Handheld Demo (United Kingdom · Collectibles)"
 market: gb
 category: collectibles
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675921490176609559
 creator: "@funmaxgam"
 published: 2026-08-20
 ---
-# 200PCS or 25PCS Trading Card Protector Set — Handheld Demo (United Kingdom · Collectibles)
+# 200PCS or 25PCS Trading Card… — Handheld Demo (United Kingdom · Collectibles)
 **Weekly #1** · 🇬🇧 United Kingdom · Collectibles · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675921490176609559) by [@funmaxgam](https://www.tiktok.com/@funmaxgam). Format: **Handheld Demo** · 15s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Leaving cards loose, these keep them protected”
+**Opening line (quoted from the video):** “Leaving cards loose, these keep them protected”
 
 **Pain point it attacks:** Loose trading cards are vulnerable to damage
 
@@ -49,9 +48,9 @@ Shot 2:
   - Subject: 35 point hard plastic, extra rigid.
 Shot 3:
   - Duration: 7.5sec - 11.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The camera cuts back to the original desktop scene. Two stacks of transparent card bricks with different heights and different quantities are placed on the desktop, and several unsealed collectible cards are scattered nearby. The text '25PCS OR 200PCS' pops up on the frame, paired with two arrows pointing to the different stacks of card bricks, to show the two purchase specification options of the product. Then a hand wearing a black smart watch reaches in from the top of the frame, gently holding the taller stack of card bricks to demonstrate the stable state of the product when stacked.
-  - Subject: and really clear.  For standard trading cards, with 25 or 200 piece options available.
+  - Subject: and really clear. For standard trading cards, with 25 or 200 piece options available.
 Shot 4:
   - Duration: 11.5sec - 15.5sec
   - Scene Type: Product effectiveness demonstration
@@ -84,9 +83,9 @@ Shot 2:
   - 口播: 35 point hard plastic, extra rigid.
 Shot 3:
   - 时长: 7.5sec - 11.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头切回原先的桌面场景，桌面上摆放着高矮两摞不同数量的透明卡砖，旁边还零散放置着几张未装封的收藏卡牌，画面弹出“25PCS OR 200PCS”的文字搭配两个指向不同卡砖堆叠的箭头，展示产品的两种购买规格选项，随后一只佩戴黑色智能手表的手从画面上方伸入，轻轻扶住高处的卡砖堆叠，展示产品堆叠后的稳定状态。
-  - 口播: and really clear.  For standard trading cards, with 25 or 200 piece options available.
+  - 口播: and really clear. For standard trading cards, with 25 or 200 piece options available.
 Shot 4:
   - 时长: 11.5sec - 15.5sec
   - 镜头类型: 产品有效性
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-collectibles-609559](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-collectibles-609559?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-collectibles-609559)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-collectibles-609559](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-collectibles-609559?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-collectibles-609559)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

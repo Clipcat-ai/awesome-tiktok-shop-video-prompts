@@ -1,6 +1,6 @@
 ---
 id: id-tools-454100
-title: "bor mini buat poles  12V DC 18000 RPM Mini Drill Electric Engr — Handheld Demo (Indonesia · Tools & Hardware)"
+title: "bor mini buat poles 12V DC 18000… — Handheld Demo (Indonesia · Tools & Hardware)"
 market: id
 category: tools-hardware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7662225341653454100
 creator: "@fahmiabenk.88"
 published: 2026-07-14
 ---
-# bor mini buat poles  12V DC 18000 RPM Mini Drill Electric Engr — Handheld Demo (Indonesia · Tools & Hardware)
+# bor mini buat poles 12V DC 18000… — Handheld Demo (Indonesia · Tools & Hardware)
 **Weekly #1** · 🇮🇩 Indonesia · Tools & Hardware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7662225341653454100) by [@fahmiabenk.88](https://www.tiktok.com/@fahmiabenk.88). Format: **Handheld Demo** · 32s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Still working hard? Or cutting manually with big tools is troublesome”
+**Opening line (translated from the video):** “Still working hard? Or cutting manually with big tools is troublesome”
 
 **Pain point it attacks:** Manual grinding is laborious, cutting with big tools is troublesome
 
@@ -59,7 +58,7 @@ Shot 4:
   - Subject: Kecil-kecil begini, tapi mata bornya dapat seandainya.
 Shot 5:
   - Duration: 8.5sec - 14.0sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: Tabletop scene against a solid light gray background, all kinds of grinding accessories are neatly spread across the surface: different colored cutting discs, grinding heads, drill bits, velvet polishing wheels and more, then the green electric grinder is placed next to the accessories. The person stands behind the table, giving two thumbs up at the same time, the product packaging box is visible at the bottom right corner of the table. The camera slowly pans across all the neatly arranged accessories, then focuses on the person's two thumbs-up action, clearly showing the full richness of the complete set of accessories.
   - Subject: Abrek dan selengkap ini.
 Shot 6:
@@ -104,7 +103,7 @@ Shot 4:
   - 口播: Kecil-kecil begini, tapi mata bornya dapat seandainya.
 Shot 5:
   - 时长: 8.5sec - 14.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 纯色浅灰背景下的桌面场景，地面上整齐铺满各式各样的打磨配件：不同颜色的切割片、打磨头、钻头、绒抛光轮等，随后绿色电动打磨机被放置在配件旁；人物站在桌后，双手同时竖起大拇指，桌面右下角露出产品包装盒，镜头缓慢扫过所有排列整齐的配件，随后聚焦人物双手点赞的动作，清晰展现全套配件的丰富度。
   - 口播: Abrek dan selengkap ini.
 Shot 6:
@@ -116,7 +115,7 @@ Shot 7:
   - 时长: 21.0sec - 32.0sec
   - 镜头类型: 下单流程指引
   - 画面: 纯色影棚场景，人物手持电动打磨机朝向镜头，多次调整握持姿势，用手指指向机身上的红色开关部位展示细节；画面底部弹出黄色文字与黄色购物车图标，人物伸出手指向画面下方引导观众点击下单，全程面带笑容，镜头从产品特写逐渐拉回中景，人物边展示产品边做出引导下单的手势，表情热情饱满。
-  - 口播: Satu alat buat semua kebutuhan DIY kamu di rumah. Udah bisa COD dan siap dikirim dalam 24 jam ya Yuk mumpung stoknya masih ada  Langsung klik ranjang kuning sekarang.
+  - 口播: Satu alat buat semua kebutuhan DIY kamu di rumah. Udah bisa COD dan siap dikirim dalam 24 jam ya Yuk mumpung stoknya masih ada Langsung klik ranjang kuning sekarang.
 [Background Sound]:
 - 非常欢快的TikTok风格带货背景音乐，节奏轻快上扬、音量中等偏高、带有电子鼓点和合成器旋律，同时搭配全程同步的印尼语产品解说人声，中途穿插电动打磨机真实运转的高频嗡嗡声与不同材质打磨时的摩擦音效，整体节奏明快，富有带货感染力，能有效激发观众点击购买冲动。
 [Transition / Editing]:
@@ -125,4 +124,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-tools-454100](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-tools-454100?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-tools-454100)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-tools-454100](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-tools-454100?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-tools-454100)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

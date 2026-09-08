@@ -1,6 +1,6 @@
 ---
 id: th-jewelry-681217
-title: "ต้นไม้หินมงคล Crystal Money Tree เสริมฮวงจุ้ย โต๊ะทำงาน/โต๊ะเก — Handheld Demo (Thailand · Jewelry Accessories & Derivatives)"
+title: "ต้นไม้หินมงคล Crystal Money Tree… — Handheld Demo (Thailand · Jewelry Accessories & Derivatives)"
 market: th
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676360864160681217
 creator: "@lovemoo3435"
 published: 2026-08-21
 ---
-# ต้นไม้หินมงคล Crystal Money Tree เสริมฮวงจุ้ย โต๊ะทำงาน/โต๊ะเก — Handheld Demo (Thailand · Jewelry Accessories & Derivatives)
+# ต้นไม้หินมงคล Crystal Money Tree… — Handheld Demo (Thailand · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇹🇭 Thailand · Jewelry Accessories & Derivatives · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676360864160681217) by [@lovemoo3435](https://www.tiktok.com/@lovemoo3435). Format: **Handheld Demo** · 10s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Do you believe in the energy of natural crystals”
+**Opening line (translated from the video):** “Do you believe in the energy of natural crystals”
 
 **Key visuals:** Crystal Money Tree · Peach Moonstone · Pink Ceramic Pot · White Round Table · Milk White Ceramic Cup · Green Plant · Sheer Curtain
 
@@ -136,4 +135,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-jewelry-681217](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-jewelry-681217?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-jewelry-681217)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-jewelry-681217](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-jewelry-681217?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-jewelry-681217)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

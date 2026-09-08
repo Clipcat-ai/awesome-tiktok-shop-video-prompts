@@ -1,6 +1,6 @@
 ---
 id: it-books-122006
-title: "Corano con penna 13 — Real Review (Italy · Books, Magazines & Audio)"
+title: "Corano con penna 13,5x19 cm — Real Review (Italy · Books, Magazines & Audio)"
 market: it
 category: books-magazines-audio
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678327390770122006
 creator: "@kitab.paradise"
 published: 2026-08-26
 ---
-# Corano con penna 13 — Real Review (Italy · Books, Magazines & Audio)
+# Corano con penna 13,5x19 cm — Real Review (Italy · Books, Magazines & Audio)
 **Weekly #1** · 🇮🇹 Italy · Books, Magazines & Audio · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678327390770122006) by [@kitab.paradise](https://www.tiktok.com/@kitab.paradise). Format: **Real Review** · 60s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “A woman's right hand with a thin bracelet holds a pen-shaped reader touching Quran verses”
+**Opening line (translated from the video):** “A woman's right hand with a thin bracelet holds a pen-shaped reader touching Quran verses”
 
 **Key visuals:** Quran · Pen-shaped Reader · Light-colored Table · Product Box · Bracelet · Arabic Script · Function Icon
 
@@ -39,44 +38,27 @@ Shot 1:
   - Duration: 0.0sec - 7.0sec
   - Scene Type: Product usage scenario
   - Scene: Only the right hand of a woman wearing a thin bracelet is visible, holding a white-gold reading pen, the pen tip touches the page of the open Quran scripture, the reading pen emits Arabic recitation sound, then the pen tip moves to tap the function icons on the side of the page one by one, demonstrating the basic point-and-read sound function of the product.
-  - Subject: rischi di nuove arrivi ragazzi tornano finalmente su chi ti ha parlato
-dai corani con la penna e funziona
-Grazie a tutti.
+  - Subject: rischi di nuove arrivi ragazzi tornano finalmente su chi ti ha parlato dai corani con la penna e funziona Grazie a tutti.
 Shot 2:
   - Duration: 7.0sec - 17.5sec
   - Scene Type: Product multi-functionality
   - Scene: The woman's right hand holds the reading pen and moves it widely across the scripture page, the pen tip glides over different scripture paragraphs, emitting the corresponding recitation voice every time it touches a piece of text, then the pen tip taps the function icons on the side of the page again, demonstrating the operation of switching recitation modes.
-  - Subject: e come si traspiò ala
-a
-Sì, sì, sì.
+  - Subject: e come si traspiò ala a Sì, sì, sì.
 Shot 3:
   - Duration: 17.5sec - 30.0sec
   - Scene Type: Ease of use demonstration
   - Scene: The woman's right thumb presses the button on the body of the reading pen, after completing the function switch, the pen tip is aimed at the scripture and tapped again, the reading pen switches to another recitation mode to produce sound, the whole process clearly shows the different effects after the mode switch.
-  - Subject: Potete anche cambiare il mondo del tempo.
-è un po' di
-Grazie a tutti.
-no
+  - Subject: Potete anche cambiare il mondo del tempo. è un po' di Grazie a tutti. no
 Shot 4:
   - Duration: 30.0sec - 50.0sec
   - Scene Type: Product effectiveness
   - Scene: The tip of the reading pen held by the woman's right hand is precisely aimed at a single Arabic word in the scripture, after tapping, the reading pen separately pronounces that word, the pen tip repeatedly taps multiple different words, demonstrating the word-by-word spelling and reading function of the reading pen.
-  - Subject: potete anche fare...
-Parola per parola. Scusate.
-Per esempio state leggendo Vinci e Pallone
-Grazie.
-Grazie.
-vi aiuta insomma è un ottimo ausilio
-per imparare a leggere il Coran in modo efficace
-autonomo. Ovviamente non sono arrivati
+  - Subject: potete anche fare... Parola per parola. Scusate. Per esempio state leggendo Vinci e Pallone Grazie. Grazie. vi aiuta insomma è un ottimo ausilio per imparare a leggere il Coran in modo efficace autonomo. Ovviamente non sono arrivati
 Shot 5:
   - Duration: 50.0sec - 61.0sec
   - Scene Type: Order process guidance
   - Scene: The camera briefly lifts and sweeps across the neatly arranged product packaging boxes in the background, then returns to the scripture and reading pen on the table, a white text pop-up window appears in the center of the frame, the right hand taps the position below the screen, simulating guiding the audience to click the order button, completing the demonstration of the purchase method.
-  - Subject: Grazie.
-Grazie.
-a questa ora e vi arriva in 24.48.
-Grazie.
+  - Subject: Grazie. Grazie. a questa ora e vi arriva in 24.48. Grazie.
 [Background Sound]:
 - None, the entire video features only a human voice narration, the environment is quiet, no background music or soundtrack elements are used at all.
 [Transition / Editing]:
@@ -96,44 +78,27 @@ Shot 1:
   - 时长: 0.0sec - 7.0sec
   - 镜头类型: 产品使用场景
   - 画面: 仅露出佩戴细手链的女性右手，握持白金色点读笔，笔尖触碰打开的古兰经经文页面，点读笔发出阿拉伯语朗读声音，随后移动笔尖依次点过页面侧边的功能图标，展示产品的基础点读发声功能。
-  - 口播: rischi di nuove arrivi ragazzi tornano finalmente su chi ti ha parlato
-dai corani con la penna e funziona
-Grazie a tutti.
+  - 口播: rischi di nuove arrivi ragazzi tornano finalmente su chi ti ha parlato dai corani con la penna e funziona Grazie a tutti.
 Shot 2:
   - 时长: 7.0sec - 17.5sec
   - 镜头类型: 产品多功能性
   - 画面: 女性右手手持点读笔在经文页面上大范围移动，笔尖划过不同的经文段落，每接触一处文字就发出对应的朗读语音，随后笔尖再次点向页面侧边的功能图标，展示切换朗读模式的操作。
-  - 口播: e come si traspiò ala
-a
-Sì, sì, sì.
+  - 口播: e come si traspiò ala a Sì, sì, sì.
 Shot 3:
   - 时长: 17.5sec - 30.0sec
   - 镜头类型: 展示易用性
   - 画面: 女性右手大拇指按下点读笔机身的按钮，完成功能切换后再次将笔尖对准经文点触，点读笔切换为另一种朗读模式进行发声，全程清晰展示模式切换后的不同效果。
-  - 口播: Potete anche cambiare il mondo del tempo.
-è un po' di
-Grazie a tutti.
-no
+  - 口播: Potete anche cambiare il mondo del tempo. è un po' di Grazie a tutti. no
 Shot 4:
   - 时长: 30.0sec - 50.0sec
   - 镜头类型: 产品有效性
   - 画面: 女性右手手持点读笔的笔尖精准对准经书中的单个阿拉伯语单词，点触后点读笔单独发出该单词的读音，笔尖反复点触多个不同的单词，逐词展示点读笔的逐词拼读功能。
-  - 口播: potete anche fare...
-Parola per parola. Scusate.
-Per esempio state leggendo Vinci e Pallone
-Grazie.
-Grazie.
-vi aiuta insomma è un ottimo ausilio
-per imparare a leggere il Coran in modo efficace
-autonomo. Ovviamente non sono arrivati
+  - 口播: potete anche fare... Parola per parola. Scusate. Per esempio state leggendo Vinci e Pallone Grazie. Grazie. vi aiuta insomma è un ottimo ausilio per imparare a leggere il Coran in modo efficace autonomo. Ovviamente non sono arrivati
 Shot 5:
   - 时长: 50.0sec - 61.0sec
   - 镜头类型: 下单流程指引
   - 画面: 镜头短暂抬升扫过背景中整齐排列的产品包装盒后，重新落回桌面的经书与点读笔上，画面中间弹出白色文字弹窗，右手手指轻点屏幕下方位置，模拟指引观众点击下单按钮，完成购买方式的展示。
-  - 口播: Grazie.
-Grazie.
-a questa ora e vi arriva in 24.48.
-Grazie.
+  - 口播: Grazie. Grazie. a questa ora e vi arriva in 24.48. Grazie.
 [Background Sound]:
 - 无，视频全程为纯人声讲解内容，环境安静，未使用任何背景音乐或配乐元素。
 [Transition / Editing]:
@@ -142,4 +107,4 @@ Grazie.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-books-122006](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-books-122006?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-books-122006)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-books-122006](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-books-122006?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-books-122006)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

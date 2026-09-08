@@ -1,6 +1,6 @@
 ---
 id: id-shoes-564309
-title: "ARKAPOLO Sendal Kulit Pria Berkualitas Nyaman Dipakai Selop Si — Handheld Demo (Indonesia · Shoes)"
+title: "ARKAPOLO Sendal Kulit Pria… — Handheld Demo (Indonesia · Shoes)"
 market: id
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7647431647339564309
 creator: "@trisigex"
 published: 2026-06-04
 ---
-# ARKAPOLO Sendal Kulit Pria Berkualitas Nyaman Dipakai Selop Si — Handheld Demo (Indonesia · Shoes)
+# ARKAPOLO Sendal Kulit Pria… — Handheld Demo (Indonesia · Shoes)
 **Weekly #1** · 🇮🇩 Indonesia · Shoes · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7647431647339564309) by [@trisigex](https://www.tiktok.com/@trisigex). Format: **Handheld Demo** · 30s · hook: **Contrarian** · Hands only · Discount
-**Opening line (from the video):** “Don't buy this ARKAPOLO leather sandal, or you'll regret it”
+**Opening line (translated from the video):** “Don't buy this ARKAPOLO leather sandal, or you'll regret it”
 
 **Pain point it attacks:** Can't buy affordable high-quality men's leather sandals
 
@@ -120,4 +119,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-shoes-564309](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-shoes-564309?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-shoes-564309)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-shoes-564309](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-shoes-564309?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-shoes-564309)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

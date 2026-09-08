@@ -1,6 +1,6 @@
 ---
 id: de-menswear-759327
-title: "Y2K High - Street Religious - Themed Tee With 'We Are Creation — Brand TVC (Germany · Menswear & Underwear)"
+title: "Y2K High - Street Religious… — Brand TVC (Germany · Menswear & Underwear)"
 market: de
 category: menswear-underwear
 video_type: brand-tvc
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674616594684759327
 creator: "@feegopod05"
 published: 2026-08-16
 ---
-# Y2K High - Street Religious - Themed Tee With 'We Are Creation — Brand TVC (Germany · Menswear & Underwear)
+# Y2K High - Street Religious… — Brand TVC (Germany · Menswear & Underwear)
 **Weekly #1** · 🇩🇪 Germany · Menswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674616594684759327) by [@feegopod05](https://www.tiktok.com/@feegopod05). Format: **Brand TVC** · 10s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “I'm a desire for all my needs”
+**Opening line (quoted from the video):** “I'm a desire for all my needs”
 
 **Pain point it attacks:** Standing in ruins, feeling sad and broken
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-menswear-759327](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-menswear-759327?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-menswear-759327)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-menswear-759327](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-menswear-759327?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-menswear-759327)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear brand tvc"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

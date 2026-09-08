@@ -1,6 +1,6 @@
 ---
 id: sg-shoes-268680
-title: "Cloud Insoles for Men & Women -  Honeycomb Breathable Design — Real Review (Singapore · Shoes)"
+title: "Cloud Insoles for Men & Women… — Real Review (Singapore · Shoes)"
 market: sg
 category: shoes
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7598035537886268680
 creator: "@sofiahnguyen"
 published: 2026-01-22
 ---
-# Cloud Insoles for Men & Women -  Honeycomb Breathable Design — Real Review (Singapore · Shoes)
+# Cloud Insoles for Men & Women… — Real Review (Singapore · Shoes)
 **Weekly #1** · 🇸🇬 Singapore · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7598035537886268680) by [@sofiahnguyen](https://www.tiktok.com/@sofiahnguyen). Format: **Real Review** · 19s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “My husband used to have foot pain and aching feet, but not anymore”
+**Opening line (quoted from the video):** “My husband used to have foot pain and aching feet, but not anymore”
 
 **Pain point it attacks:** Standing work for long hours causes foot pain and soreness
 
@@ -41,7 +40,6 @@ Shot 1:
   - Duration: 0.0sec - 1.0sec
   - Scene Type: Product exterior display
   - Scene: A pair of light grey insoles with raised massage dots are laid flat side by side on the light brown wood-grain floor, the static shot clearly presents the full appearance of the insoles.
-  - Subject: Thank you.
 Shot 2:
   - Duration: 1.0sec - 4.0sec
   - Scene Type: Product material display
@@ -81,7 +79,6 @@ Shot 1:
   - 时长: 0.0sec - 1.0sec
   - 镜头类型: 产品外观展示
   - 画面: 一双浅灰色带凸起按摩圆点的鞋垫平整并排摆放在浅棕色木纹地板上，画面静止清晰地展示鞋垫完整外观。
-  - 口播: Thank you.
 Shot 2:
   - 时长: 1.0sec - 4.0sec
   - 镜头类型: 产品材质展示
@@ -110,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-shoes-268680](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-shoes-268680?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-shoes-268680)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-shoes-268680](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-shoes-268680?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-shoes-268680)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

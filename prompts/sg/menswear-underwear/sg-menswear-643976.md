@@ -1,6 +1,6 @@
 ---
 id: sg-menswear-643976
-title: "Men Singlet Shaper Body Shirt Vests Compression Sleeveless Sof — Talking Head (Singapore · Menswear & Underwear)"
+title: "Men Singlet Shaper Body Shirt… — Talking Head (Singapore · Menswear & Underwear)"
 market: sg
 category: menswear-underwear
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7642508114230643976
 creator: "@kel_tzy87"
 published: 2026-05-23
 ---
-# Men Singlet Shaper Body Shirt Vests Compression Sleeveless Sof — Talking Head (Singapore · Menswear & Underwear)
+# Men Singlet Shaper Body Shirt… — Talking Head (Singapore · Menswear & Underwear)
 **Weekly #1** · 🇸🇬 Singapore · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7642508114230643976) by [@kel_tzy87](https://www.tiktok.com/@kel_tzy87). Format: **Talking Head** · 12s · hook: **Pain Point** · On-camera host · Discount
-**Opening line (from the video):** “Tired of loose fitting active wear? Let me show you something different”
+**Opening line (quoted from the video):** “Tired of loose fitting active wear? Let me show you something different”
 
 **Pain point it attacks:** Activewear is loose and ill-fitting
 
@@ -41,7 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 3.0sec
   - Scene Type: Product design highlight
   - Scene: In front of an outdoor background surrounded by high-rise residential buildings and palm trees, a muscular athletic Asian man wearing black-rimmed glasses stands facing the camera. He grips the hem of the outer black compression sports vest with both hands, gently pulling the vest downward to demonstrate how closely it fits the body. He then leans slightly forward toward the camera and faces the lens to share details about the product. The camera position remains fixed throughout, focusing entirely on the person's upper body for the demonstration.
-  - Subject: Tired of loose fitting active wear?  Let me show you something different.  3D compression.
+  - Subject: Tired of loose fitting active wear? Let me show you something different. 3D compression.
 Shot 2:
   - Duration: 3.0sec - 5.5sec
   - Scene Type: Product design highlight
@@ -55,12 +54,12 @@ Shot 4:
   - Duration: 6.5sec - 9.5sec
   - Scene Type: Product usage scenario
   - Scene: The scene shifts to a street-side pedestrian path at the base of a residential building. The Asian man, wearing the black compression sports vest paired with black athletic shorts, is jogging at a steady pace along the path. His arms swing naturally and his posture is stable, with the vest remaining close to his body without shifting at all throughout the movement. Street-side shops, green plants, and passing pedestrians are visible in the background. A steady tracking shot moves in sync with the man's running motion to capture the upper body movement of the character.
-  - Subject: Even during morning runs, it stays in place.  No more adjusting for mid-workout.
+  - Subject: Even during morning runs, it stays in place. No more adjusting for mid-workout.
 Shot 5:
   - Duration: 9.5sec - 13.0sec
   - Scene Type: Order process guide
   - Scene: The scene switches to the outdoor fitness area in the residential district, the Asian man stands next to the fitness equipment, pinches the two side hems of the black compression sports vest with both hands, pulls the vest fully sideways to demonstrate its super elasticity, then releases his hands, the vest immediately springs back to its close-fitting state, finally the man stands naturally facing the camera to finish the sharing. Fixed medium shot position, focusing on the character's movements above the waist throughout.
-  - Subject: DM fit to get yours now.  Free delivery in Singapore, limited stock. Thank you.
+  - Subject: DM fit to get yours now. Free delivery in Singapore, limited stock.
 [Background Sound]:
 - No background music or sound effects at all, only clear product narration voice is retained. There are no additional musical elements throughout, forming a pure voiceover audio track with no music and heavy copy focus, possibly accompanied by extremely faint natural ambient sounds, breathing sounds or clothing rustle.
 [Transition / Editing]:
@@ -80,7 +79,7 @@ Shot 1:
   - 时长: 0.0sec - 3.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 在高层居民楼与棕榈树环绕的户外背景前，佩戴黑框眼镜的亚裔健硕运动男士站在镜头前方，双手捏住外层黑色压缩运动背心的下摆，将背心微微向下拉扯，展示背心贴身贴合的效果，随后身体微微前倾靠近镜头，面向镜头进行产品分享。机位保持固定，全程聚焦人物上半身展示。
-  - 口播: Tired of loose fitting active wear?  Let me show you something different.  3D compression.
+  - 口播: Tired of loose fitting active wear? Let me show you something different. 3D compression.
 Shot 2:
   - 时长: 3.0sec - 5.5sec
   - 镜头类型: 产品设计亮点
@@ -94,12 +93,12 @@ Shot 4:
   - 时长: 6.5sec - 9.5sec
   - 镜头类型: 产品使用场景
   - 画面: 场景切换到居民楼下的临街步道，亚裔男士穿着黑色压缩运动背心搭配黑色运动短裤，正在步道上匀速慢跑，双臂自然摆动，身体姿态平稳，全程保持背心贴身不位移的状态，背景中可以看到街边商铺、绿植与路过的行人。稳定跟拍镜头，跟随人物跑步动作同步移动，捕捉人物上半身运动状态。
-  - 口播: Even during morning runs, it stays in place.  No more adjusting for mid-workout.
+  - 口播: Even during morning runs, it stays in place. No more adjusting for mid-workout.
 Shot 5:
   - 时长: 9.5sec - 13.0sec
   - 镜头类型: 下单流程指引
   - 画面: 场景切换到居民区户外健身区域，亚裔男士站在健身器材旁，双手捏住黑色压缩运动背心的两侧下摆，将背心横向充分拉扯开来，展示背心的超强弹力，随后松开手，背心立刻回弹恢复贴身状态，最后男士自然站立面向镜头完成分享。固定中景机位，全程聚焦人物腰部以上的动作展示。
-  - 口播: DM fit to get yours now.  Free delivery in Singapore, limited stock. Thank you.
+  - 口播: DM fit to get yours now. Free delivery in Singapore, limited stock.
 [Background Sound]:
 - 无任何配乐或背景音效，仅保留清晰的产品讲解人声，全程无额外音乐元素，为无音乐+强文案风格的纯口播音轨，仅可能伴随极轻微的自然环境音、呼吸声或衣物摩擦声。
 [Transition / Editing]:
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-menswear-643976](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-menswear-643976?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-menswear-643976)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-menswear-643976](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-menswear-643976?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-menswear-643976)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

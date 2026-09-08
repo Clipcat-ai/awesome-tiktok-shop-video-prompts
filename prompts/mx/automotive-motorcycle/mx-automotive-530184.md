@@ -1,6 +1,6 @@
 ---
 id: mx-automotive-530184
-title: "DOBLE POTENCIALuz de Trabajo Barra de Luces LED 32 Chips/56 Ch — Real Review (Mexico · Automotive & Motorcycle)"
+title: "DOBLE POTENCIALuz de Trabajo Barra… — Real Review (Mexico · Automotive & Motorcycle)"
 market: mx
 category: automotive-motorcycle
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7637427109400530184
 creator: "@casautmx001"
 published: 2026-05-08
 ---
-# DOBLE POTENCIALuz de Trabajo Barra de Luces LED 32 Chips/56 Ch — Real Review (Mexico · Automotive & Motorcycle)
+# DOBLE POTENCIALuz de Trabajo Barra… — Real Review (Mexico · Automotive & Motorcycle)
 **Weekly #1** · 🇲🇽 Mexico · Automotive & Motorcycle · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7637427109400530184) by [@casautmx001](https://www.tiktok.com/@casautmx001). Format: **Real Review** · 15s · hook: **Pain Point** · Hands only · Discount
-**Opening line (from the video):** “A single headlight can't cover the whole road”
+**Opening line (translated from the video):** “A single headlight can't cover the whole road”
 
 **Pain point it attacks:** Original car lights are dim and can't cover road surface at night off-roading
 
@@ -46,22 +45,22 @@ Shot 2:
   - Duration: 1.5sec - 3.0sec
   - Scene Type: Highlight product design features
   - Scene: In a daytime outdoor environment, the camera takes a close-up of the front bumper area of a blue pickup truck. A hand reaches into the frame from the left, with fingers pointing sequentially at the two newly installed rectangular LED lights on the bumper, clearly showing the appearance shape and installation position of the lights. The close-up fixed camera focuses on the light area on the front bumper, with no obvious camera movement.
-  - Subject: Dos luces.  28 LED.
+  - Subject: Dos luces. 28 LED.
 Shot 3:
   - Duration: 3.0sec - 5.0sec
   - Scene Type: Demonstrate product effectiveness
   - Scene: Cut to first-person in-vehicle perspective at night, the vehicle is driving on a rural dirt road overgrown with weeds on both sides. The two LED lights added to the front of the vehicle are all turned on, illuminating the road surface evenly. Several livestock are standing by the roadside in the distance. The frame then switches to a left-right split-screen comparison view: the left side shows the narrow beam effect with only the original single factory light turned on, the right side shows the wide illumination effect with both LED lights turned on. The first-person perspective shakes slightly along with the vehicle, then the frame switches to a static split-screen comparison display.
-  - Subject: Cada una.  Total, 56 LLs.  Ancho de cobertura 2.
+  - Subject: Cada una. Total, 56 LLs. Ancho de cobertura 2.
 Shot 4:
   - Duration: 5.0sec - 7.5sec
   - Scene Type: Showcase product material quality
   - Scene: On a daytime outdoor muddy off-road section, a silver-gray pickup truck speeds through a muddy puddle, with its wheels kicking up a large amount of mud that instantly covers the LED lights on the front of the vehicle. The camera then cuts to a close-up of the mud-covered lights, which still shine steadily as mud drips continuously from the surface of the light housings. The camera follows the vehicle's off-road driving movement, then switches to a close-up camera position focused on the lights.
-  - Subject: sin puntos ciegos.  IP68 y A,  aguanta barro
+  - Subject: sin puntos ciegos. IP68 y A, aguanta barro
 Shot 5:
   - Duration: 7.5sec - 11.0sec
   - Scene Type: Demonstrate ease of use
   - Scene: Return to the front of the blue pickup truck. A hand first holds the LED light with bare hands to adjust its position, then uses a power tool to tighten the fixing screw at the bottom of the light. After completing the installation, the hand gently shakes the light to show that it is installed firmly with no sign of loosening. The close-up fixed camera focuses on the details of the hand and the light during the installation operation.
-  - Subject: robusta.  Vibraciones, cero problema.  Iluminación un formas.
+  - Subject: robusta. Vibraciones, cero problema. Iluminación un formas.
 Shot 6:
   - Duration: 11.0sec - 14.5sec
   - Scene Type: Show product usage scenarios
@@ -96,22 +95,22 @@ Shot 2:
   - 时长: 1.5sec - 3.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 白天户外环境下，镜头特写蓝色皮卡车的车头保险杠区域，一只手从左侧伸入画面，手指依次指向保险杠上新安装的两盏长方形LED车灯，清晰展示车灯的外观造型与安装位置。特写固定机位聚焦车头保险杠的车灯区域，无明显镜头移动。
-  - 口播: Dos luces.  28 LED.
+  - 口播: Dos luces. 28 LED.
 Shot 3:
   - 时长: 3.0sec - 5.0sec
   - 镜头类型: 产品有效性
   - 画面: 切换至夜晚第一人称车内视角，车辆行驶在两旁长满杂草的乡间土路上，车头已加装的两盏LED车灯全部开启，路面被灯光均匀照亮，远处路边站着几头牲畜，画面随后切为左右分屏对比画面：左侧是仅开启原车单灯的狭窄光束效果，右侧是开启双LED灯的宽阔照明效果。第一人称视角随车轻微颠簸，随后画面切换为分屏静态对比展示。
-  - 口播: Cada una.  Total, 56 LLs.  Ancho de cobertura 2.
+  - 口播: Cada una. Total, 56 LLs. Ancho de cobertura 2.
 Shot 4:
   - 时长: 5.0sec - 7.5sec
   - 镜头类型: 产品材质展示
   - 画面: 白天户外的泥泞越野路段，一辆银灰色皮卡车快速冲过泥泞水坑，车轮扬起大量泥浆，泥水瞬间覆盖住车头的LED车灯，随后镜头给到沾满泥浆的车灯特写，车灯依旧稳定发光，泥水从灯体表面不断滴落。跟拍车辆越野行驶动作，随后切换为车灯特写机位。
-  - 口播: sin puntos ciegos.  IP68 y A,  aguanta barro
+  - 口播: sin puntos ciegos. IP68 y A, aguanta barro
 Shot 5:
   - 时长: 7.5sec - 11.0sec
   - 镜头类型: 展示易用性
   - 画面: 回到蓝色皮卡车的车头位置，一只手先徒手扶住LED车灯调整位置，随后操作电动工具拧紧车灯底部的固定螺丝，完成安装后手部轻轻晃动车灯，展示其安装稳固，无松动迹象。特写固定机位聚焦手部与车灯的安装操作细节。
-  - 口播: robusta.  Vibraciones, cero problema.  Iluminación un formas.
+  - 口播: robusta. Vibraciones, cero problema. Iluminación un formas.
 Shot 6:
   - 时长: 11.0sec - 14.5sec
   - 镜头类型: 产品使用场景
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-automotive-530184](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-automotive-530184?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-automotive-530184)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-automotive-530184](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-automotive-530184?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-automotive-530184)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

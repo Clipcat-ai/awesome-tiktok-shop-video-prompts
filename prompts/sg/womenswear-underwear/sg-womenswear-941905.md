@@ -1,6 +1,6 @@
 ---
 id: sg-womenswear-941905
-title: "Straight Leg Pants – Baggy Long Pants — OOTD Showcase (Singapore · Womenswear & Underwear)"
+title: "Straight Leg Pants – Baggy Long… — OOTD Showcase (Singapore · Womenswear & Underwear)"
 market: sg
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7662611895743941905
 creator: "@syaf_na28"
 published: 2026-07-15
 ---
-# Straight Leg Pants – Baggy Long Pants — OOTD Showcase (Singapore · Womenswear & Underwear)
+# Straight Leg Pants – Baggy Long… — OOTD Showcase (Singapore · Womenswear & Underwear)
 **Weekly #1** · 🇸🇬 Singapore · Womenswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7662611895743941905) by [@syaf_na28](https://www.tiktok.com/@syaf_na28). Format: **OOTD Showcase** · 20s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A girl stands on the road, adjusts her sunglasses and looks at the camera to show her full outfit”
+**Opening beat:** “A girl stands on the road, adjusts her sunglasses and looks at the camera to show her full outfit”
 
 **Key visuals:** European Pedestrian Street · Wide Leg Pants · Baseball Cap · Sunglasses · Mini Bag · Asphalt Road · Vintage Street Lamp
 
@@ -47,12 +46,10 @@ Shot 3:
   - Duration: 7.5sec - 13.0sec
   - Scene Type: Outfit matching demonstration
   - Scene: The girl walks to the middle of the zebra crossing, faces away from the camera and takes two steps forward, then slowly turns around to face the camera, places both hands behind her back for a moment, then brings her hands back to the front, looks straight at the camera with a smile. The camera stays steady in place, slightly adjusts the shooting angle following the character's turning movement, fully showing all design details of the back and front of the outfit. The main entrance of a boutique with the sign 'Syafina Shop' is in the background.
-  - Subject: Thank you.
 Shot 4:
   - Duration: 13.0sec - 20.0sec
   - Scene Type: Outfit matching demonstration
   - Scene: The girl continues to walk forward steadily on the zebra crossing with natural, relaxed movements, always keeping a sweet smile. The camera moves forward at a constant speed, gradually narrowing the framing range to focus on the character's overall outfit, dynamically showing the natural state of the full set of clothing while walking. Scattered pedestrians passing by in front of the store window can be seen in the background.
-  - Subject: Okay. you
 [Background Sound]:
 - Relaxed and laid-back Lo-fi Hip Hop background music with a slow tempo, soft drum beats, gentle piano and synthesizer melodies, at a moderately low volume, creating a soothing and relaxing atmosphere that matches the casual trendy vibe of an afternoon streetwear showcase.
 [Transition / Editing]:
@@ -80,12 +77,10 @@ Shot 3:
   - 时长: 7.5sec - 13.0sec
   - 镜头类型: 穿搭搭配示范
   - 画面: 女生走到斑马线中间位置，背对镜头向前走两步，随后缓慢转身面向镜头，双手背到身后停留片刻，接着将手收回放到身前，面带笑意直视镜头，镜头保持原地平稳取景，跟随人物转身动作轻微调整机位角度，完整展示服装背面与正面的全部设计细节，背景是印有“Syafina Shop”招牌的精品店正门。
-  - 口播: Thank you.
 Shot 4:
   - 时长: 13.0sec - 20.0sec
   - 镜头类型: 穿搭搭配示范
   - 画面: 女生在斑马线上继续稳步向前行走，动作自然舒展，始终保持甜美的微笑，镜头匀速向前推进，逐步收窄取景范围，聚焦人物整体穿搭，动态展示整套穿搭行走时的自然状态，背景中可以看到店铺橱窗前路过的零星行人。
-  - 口播: Okay. you
 [Background Sound]:
 - 轻松慵懒的Lo-fi Hip Hop背景音乐，节奏舒缓，带有轻微鼓点和柔和的钢琴与合成器旋律，音量适中偏低，营造出治愈放松的氛围，契合午后街头穿搭展示的休闲潮流调性。
 [Transition / Editing]:
@@ -94,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-womenswear-941905](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-womenswear-941905?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-womenswear-941905)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-womenswear-941905](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-womenswear-941905?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-womenswear-941905)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

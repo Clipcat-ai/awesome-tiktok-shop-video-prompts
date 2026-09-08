@@ -1,6 +1,6 @@
 ---
 id: gb-tools-463382
-title: "Cordless Tyre Inflator Air Compressor — Real Review (United Kingdom · Tools & Hardware)"
+title: "Cordless Tyre Inflator Air… — Real Review (United Kingdom · Tools & Hardware)"
 market: gb
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7614465584268463382
 creator: "@sisuocor"
 published: 2026-03-07
 ---
-# Cordless Tyre Inflator Air Compressor — Real Review (United Kingdom · Tools & Hardware)
+# Cordless Tyre Inflator Air… — Real Review (United Kingdom · Tools & Hardware)
 **Weekly #1** · 🇬🇧 United Kingdom · Tools & Hardware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7614465584268463382) by [@sisuocor](https://www.tiktok.com/@sisuocor). Format: **Real Review** · 15s · hook: **Pain Point** · Hands only · Discount
-**Opening line (from the video):** “Ever thought about how much money you spend on petrol station air”
+**Opening line (quoted from the video):** “Ever thought about how much money you spend on petrol station air”
 
 **Pain point it attacks:** High cost of inflating tires at petrol stations
 
@@ -144,4 +143,4 @@ Shot 9:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-tools-463382](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-tools-463382)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-tools-463382](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-tools-463382)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

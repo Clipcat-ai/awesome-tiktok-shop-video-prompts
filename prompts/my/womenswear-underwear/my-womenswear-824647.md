@@ -1,6 +1,6 @@
 ---
 id: my-womenswear-824647
-title: "MAGIC&WILL Bra Tidak Nampak Rekaan Alamiah Tali Lebar Anti Pel — Talking Head (Malaysia · Womenswear & Underwear)"
+title: "MAGIC&WILL Bra Tidak Nampak Rekaan… — Talking Head (Malaysia · Womenswear & Underwear)"
 market: my
 category: womenswear-underwear
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671309853863824647
 creator: "@hananamani21"
 published: 2026-08-07
 ---
-# MAGIC&WILL Bra Tidak Nampak Rekaan Alamiah Tali Lebar Anti Pel — Talking Head (Malaysia · Womenswear & Underwear)
+# MAGIC&WILL Bra Tidak Nampak Rekaan… — Talking Head (Malaysia · Womenswear & Underwear)
 **Weekly #1** · 🇲🇾 Malaysia · Womenswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671309853863824647) by [@hananamani21](https://www.tiktok.com/@hananamani21). Format: **Talking Head** · 56s · hook: **Result First** · On-camera host · Bundle deal
-**Opening line (from the video):** “Buy two pieces at a more favorable price”
+**Opening line (translated from the video):** “Buy two pieces at a more favorable price”
 
 **Pain point it attacks:** Regular chest binders make chest look big and prominent
 
@@ -51,12 +50,12 @@ Shot 3:
   - Duration: 9.5sec - 15.5sec
   - Scene Type: Product design highlights
   - Scene: The creator picks up two bras again, first puts the wine red bra aside, holds the two shoulder straps of the tan bra with both hands, fully spreads it and lifts it in front of the camera to show the front design details of this bra, then flips the bra over to show the back part of the bra to the camera.
-  - Subject: Kecil sahaja  Korang pakai chest binder  Yang ini yang new upgrade punya version  dia tak sama macam first episode
+  - Subject: Kecil sahaja Korang pakai chest binder Yang ini yang new upgrade punya version dia tak sama macam first episode
 Shot 4:
   - Duration: 15.5sec - 28.5sec
   - Scene Type: Product material display
   - Scene: The creator folds the tan bra and holds it in their hand, gently rubs and pinches the fabric of the bra repeatedly with both hands to show the soft and smooth texture of the fabric, then points their finger at the underbust position of the bra, and places their palm on the position below their abdomen to demonstrate the upgraded non-slip design at the bottom of the bra.
-  - Subject: edition punya, dia upgrade daripada segi kain, kain dia lagi best  lepas tu dekat bahagian bawah dia  dia upgrade ...extragotah.  So, dia bagi...  ...extragotipin dekat sini... kita pakai tu kan nampak masa kita pakai sport bra. Dia lagi
+  - Subject: edition punya, dia upgrade daripada segi kain, kain dia lagi best lepas tu dekat bahagian bawah dia dia upgrade ...extragotah. So, dia bagi... ...extragotipin dekat sini... kita pakai tu kan nampak masa kita pakai sport bra. Dia lagi
 Shot 5:
   - Duration: 28.5sec - 42.5sec
   - Scene Type: Show product popularity
@@ -66,7 +65,7 @@ Shot 6:
   - Duration: 42.5sec - 57.0sec
   - Scene Type: Suitable user groups
   - Scene: The creator puts down the tan bra, picks up the wine red bra again with both hands, adjusts the spreading angle of the bra repeatedly, continuously flips it to show the overall cut, fabric details and front perforated breathable design of this wine red bra, keeps smiling throughout the whole process, and completes the final product demonstration actions with a pleasant expression.
-  - Subject: terbaru dan juga  colour merah.  Untuk Cez binder ni saya sarankan akak-akak beli satu saiz kecil daripada saiz asal. Contoh saya Didi 38, saya pakai saiz M  pakai untuk bersukan  memang selesa tak bergegar, gerik, helok  dan nampak kecil.
+  - Subject: terbaru dan juga colour merah. Untuk Cez binder ni saya sarankan akak-akak beli satu saiz kecil daripada saiz asal. Contoh saya Didi 38, saya pakai saiz M pakai untuk bersukan memang selesa tak bergegar, gerik, helok dan nampak kecil.
 [Background Sound]:
 - No background music, a pure voiceover live selling video with fast pace, high speech speed, enthusiastic mood, suitable for promotion scenarios on social media short video platforms.
 [Transition / Editing]:
@@ -96,12 +95,12 @@ Shot 3:
   - 时长: 9.5sec - 15.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 博主重新拿起两件胸衣，先将酒红色胸衣放到一旁，双手托住棕褐色胸衣的两侧肩带，将其完全展开举到镜头前，展示这件胸衣的正面设计细节，随后将胸衣翻转过来，对着镜头展示胸衣的后背部分。
-  - 口播: Kecil sahaja  Korang pakai chest binder  Yang ini yang new upgrade punya version  dia tak sama macam first episode
+  - 口播: Kecil sahaja Korang pakai chest binder Yang ini yang new upgrade punya version dia tak sama macam first episode
 Shot 4:
   - 时长: 15.5sec - 28.5sec
   - 镜头类型: 产品材质展示
   - 画面: 博主将棕褐色胸衣折叠后拿在手中，用双手反复轻柔揉搓、捏动胸衣的面料，展示面料的柔软顺滑质感，随后手指指向胸衣的下围位置，又将手掌放到自己腹部下方的位置，演示胸衣底部升级的防滑设计。
-  - 口播: edition punya, dia upgrade daripada segi kain, kain dia lagi best  lepas tu dekat bahagian bawah dia  dia upgrade ...extragotah.  So, dia bagi...  ...extragotipin dekat sini... kita pakai tu kan nampak masa kita pakai sport bra. Dia lagi
+  - 口播: edition punya, dia upgrade daripada segi kain, kain dia lagi best lepas tu dekat bahagian bawah dia dia upgrade ...extragotah. So, dia bagi... ...extragotipin dekat sini... kita pakai tu kan nampak masa kita pakai sport bra. Dia lagi
 Shot 5:
   - 时长: 28.5sec - 42.5sec
   - 镜头类型: 展示产品热度
@@ -111,7 +110,7 @@ Shot 6:
   - 时长: 42.5sec - 57.0sec
   - 镜头类型: 适用人群
   - 画面: 博主放下棕褐色胸衣，双手重新拿起酒红色胸衣，反复调整胸衣的展开角度，不断翻转展示这件酒红色胸衣的整体版型、面料细节与正面透气孔设计，全程保持微笑，神情愉悦地完成最后的商品展示动作。
-  - 口播: terbaru dan juga  colour merah.  Untuk Cez binder ni saya sarankan akak-akak beli satu saiz kecil daripada saiz asal. Contoh saya Didi 38, saya pakai saiz M  pakai untuk bersukan  memang selesa tak bergegar, gerik, helok  dan nampak kecil.
+  - 口播: terbaru dan juga colour merah. Untuk Cez binder ni saya sarankan akak-akak beli satu saiz kecil daripada saiz asal. Contoh saya Didi 38, saya pakai saiz M pakai untuk bersukan memang selesa tak bergegar, gerik, helok dan nampak kecil.
 [Background Sound]:
 - 无背景音乐，纯人声口播带货视频，节奏快、语速高、情绪热情，适合社交媒体短视频平台的促销场景。
 [Transition / Editing]:
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-womenswear-824647](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-womenswear-824647?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-womenswear-824647)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-womenswear-824647](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-womenswear-824647?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-womenswear-824647)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

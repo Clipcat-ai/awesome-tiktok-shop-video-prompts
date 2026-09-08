@@ -1,6 +1,6 @@
 ---
 id: my-jewelry-207125
-title: "MYDORA Cincin Classic Pahat Jawa — Handheld Demo (Malaysia · Jewelry Accessories & Derivatives)"
+title: "MYDORA Cincin Classic Pahat Jawa… — Handheld Demo (Malaysia · Jewelry Accessories & Derivatives)"
 market: my
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7632890131984207125
 creator: "@dhiashares"
 published: 2026-04-26
 ---
-# MYDORA Cincin Classic Pahat Jawa — Handheld Demo (Malaysia · Jewelry Accessories & Derivatives)
+# MYDORA Cincin Classic Pahat Jawa… — Handheld Demo (Malaysia · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇲🇾 Malaysia · Jewelry Accessories & Derivatives · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7632890131984207125) by [@dhiashares](https://www.tiktok.com/@dhiashares). Format: **Handheld Demo** · 10s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “POV: you just got engaged...💍🥺”
+**Opening beat:** “POV: you just got engaged...💍🥺”
 
 **Key visuals:** Gold Ring · Carved Pattern · Wooden Decor · Metal Lines · Matte Countertop · Pink Clothing · White Headscarf
 
@@ -45,9 +44,8 @@ Shot 2:
   - Scene: The shot switches to a medium close-up in front of the character. The woman overlaps her hands, gently presenting both hands wearing the same style of carved gold rings to the camera, with her left hand resting on her right hand. She softly adjusts her hand posture to naturally show the perfect fit of the rings on her fingers and the beauty of wearing them in daily life. The character wears pink long-sleeve clothing and a white headscarf, the entire frame looks gentle and soft, and the text at the top of the frame remains displayed.
 Shot 3:
   - Duration: 7.0sec - 10.0sec
-  - Scene Type: Multi-style selection showcase (fashion category)
+  - Scene Type: Multi-style selection showcase
   - Scene: The woman turns both of her palms upward, holding a pile of the same style of carved gold rings in her palms. She slightly spreads her fingers to support the rings, fully presenting the full pile of gleaming gold rings to the camera, clearly showing the abundant number of ring styles and their consistent exquisite carving details. The text at the top of the frame still remains displayed.
-  - Subject: Thank you.
 [Background Sound]:
 - Cheerful TikTok folk-style background music, with accordion as the main melody paired with a light, lively rhythm, at a moderate volume, creating a warm, relaxed, everyday romantic atmosphere that fits the heartwarming promotional scene for wedding gold jewelry.
 [Transition / Editing]:
@@ -73,9 +71,8 @@ Shot 2:
   - 画面: 画面切换到人物身前近景，女性双手交叠，将佩戴着同款雕花黄金戒指的两只手轻柔展示在镜头前，左手放置在右手上，轻轻调整手部姿态，自然地展示戒指佩戴在手指上的贴合效果与日常佩戴的美感，人物身着粉色长袖服饰，搭配白色头巾，整体画面温婉柔和，画面上方的文字保持显示。
 Shot 3:
   - 时长: 7.0sec - 10.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 女性将双手掌心向上摊开，掌心里捧着一堆同款雕花黄金戒指，手指微微舒展托住戒指，将满满一堆金灿灿的戒指完整展示在镜头前，清晰呈现戒指丰富的款式数量与统一的精致雕花细节，画面上方的文字依旧保持显示。
-  - 口播: Thank you.
 [Background Sound]:
 - 欢快的TikTok民谣风格背景音乐，手风琴作为主旋律搭配轻快节奏，音量适中，营造温馨、轻松、生活化的浪漫氛围，适配婚嫁金饰的治愈系推广场景。
 [Transition / Editing]:
@@ -84,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-jewelry-207125](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-jewelry-207125?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-jewelry-207125)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-jewelry-207125](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-jewelry-207125?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-jewelry-207125)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

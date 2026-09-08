@@ -1,6 +1,6 @@
 ---
 id: my-menswear-220180
-title: "（Tik Tok Seluar dalam lelaki yang popular）-HELLO surat peninju — Handheld Demo (Malaysia · Menswear & Underwear)"
+title: "（Tik Tok Seluar dalam lelaki yang… — Handheld Demo (Malaysia · Menswear & Underwear)"
 market: my
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,9 +17,8 @@ source: https://www.tiktok.com/share/video/7643712512164220180
 creator: "@aydabyla"
 published: 2026-05-25
 ---
-# （Tik Tok Seluar dalam lelaki yang popular）-HELLO surat peninju — Handheld Demo (Malaysia · Menswear & Underwear)
+# （Tik Tok Seluar dalam lelaki yang… — Handheld Demo (Malaysia · Menswear & Underwear)
 **Weekly #1** · 🇲🇾 Malaysia · Menswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7643712512164220180) by [@aydabyla](https://www.tiktok.com/@aydabyla). Format: **Handheld Demo** · 7s · hook: **POV Scenario** · Hands only · No promo
 **Key visuals:** Lamb Wool Armchair · Window Lattice Shadow · Men's Underwear · Gold Cuban Link Bracelet · Hemp Woven Floor Mat · Pink and White Sweatshirt
 
@@ -72,4 +71,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-menswear-220180](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-menswear-220180?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-menswear-220180)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-menswear-220180](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-menswear-220180?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-menswear-220180)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

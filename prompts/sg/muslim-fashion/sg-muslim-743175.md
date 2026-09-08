@@ -1,6 +1,6 @@
 ---
 id: sg-muslim-743175
-title: "SALE Puffy 5368 Freesize Aircon Blouse with Button Sleeves Coo — OOTD Showcase (Singapore · Muslim Fashion)"
+title: "SALE Puffy 5368 Freesize Aircon… — OOTD Showcase (Singapore · Muslim Fashion)"
 market: sg
 category: muslim-fashion
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672045160984743175
 creator: "@duocollectionssg"
 published: 2026-08-09
 ---
-# SALE Puffy 5368 Freesize Aircon Blouse with Button Sleeves Coo — OOTD Showcase (Singapore · Muslim Fashion)
+# SALE Puffy 5368 Freesize Aircon… — OOTD Showcase (Singapore · Muslim Fashion)
 **Weekly #1** · 🇸🇬 Singapore · Muslim Fashion · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672045160984743175) by [@duocollectionssg](https://www.tiktok.com/@duocollectionssg). Format: **OOTD Showcase** · 8s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A woman in a commuting suit stands in a home space holding a diamond-patterned bag”
+**Opening beat:** “A woman in a commuting suit stands in a home space holding a diamond-patterned bag”
 
 **Key visuals:** Diamond Bag · Light Wood Floor · Glass Partition · Office Chair · Black Blouse · Wide Leg Pants · Gold Buttons
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-muslim-743175](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-muslim-743175?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-muslim-743175)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-muslim-743175](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-muslim-743175?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-muslim-743175)
-🤖 **Driving an AI agent?** `clipcat prompt search "Muslim Fashion"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Muslim Fashion ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

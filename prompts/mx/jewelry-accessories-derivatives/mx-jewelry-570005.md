@@ -1,6 +1,6 @@
 ---
 id: mx-jewelry-570005
-title: "Women's Stainless Steel Necklace Set — Brand TVC (Mexico · Jewelry Accessories & Derivatives)"
+title: "Women's Stainless Steel Necklace… — Brand TVC (Mexico · Jewelry Accessories & Derivatives)"
 market: mx
 category: jewelry-accessories-derivatives
 video_type: brand-tvc
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670337533850570005
 creator: "@user2732130362492"
 published: 2026-08-05
 ---
-# Women's Stainless Steel Necklace Set — Brand TVC (Mexico · Jewelry Accessories & Derivatives)
+# Women's Stainless Steel Necklace… — Brand TVC (Mexico · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇲🇽 Mexico · Jewelry Accessories & Derivatives · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670337533850570005) by [@user2732130362492](https://www.tiktok.com/@user2732130362492). Format: **Brand TVC** · 10s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “It's not for everyone, only for the daring”
+**Opening line (translated from the video):** “It's not for everyone, only for the daring”
 
 **Key visuals:** Vintage Wooden Dresser · Dark Velvet Jewelry Pillow · Tiger Eye Stone Necklace · Candle · Antique Carved Mirror · Deep Brown Knit Cardigan · Neck
 
@@ -96,4 +95,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-jewelry-570005](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-jewelry-570005?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-jewelry-570005)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-jewelry-570005](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-jewelry-570005?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-jewelry-570005)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives brand tvc"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: sg-household-600917
-title: "15000pa Wireless Handheld Car Home Vacuum Cleaner — Handheld Demo (Singapore · Household Appliances)"
+title: "15000pa Wireless Handheld Car Home… — Handheld Demo (Singapore · Household Appliances)"
 market: sg
 category: household-appliances
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7663763873295600917
 creator: "@bxjp0143p07"
 published: 2026-07-18
 ---
-# 15000pa Wireless Handheld Car Home Vacuum Cleaner — Handheld Demo (Singapore · Household Appliances)
+# 15000pa Wireless Handheld Car Home… — Handheld Demo (Singapore · Household Appliances)
 **Weekly #1** · 🇸🇬 Singapore · Household Appliances · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7663763873295600917) by [@bxjp0143p07](https://www.tiktok.com/@bxjp0143p07). Format: **Handheld Demo** · 15s · hook: **Curiosity Gap** · On-camera host · Discount
-**Opening line (from the video):** “Hey bro, what are you using? Why your car is so clean so fast”
+**Opening line (quoted from the video):** “Hey bro, what are you using? Why your car is so clean so fast”
 
 **Pain point it attacks:** Car gaps are hard to clean, cleaning is slow
 
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-household-600917](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-household-600917?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-household-600917)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-household-600917](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-household-600917?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-household-600917)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

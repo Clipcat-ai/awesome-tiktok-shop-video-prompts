@@ -1,6 +1,6 @@
 ---
 id: es-automotive-669078
-title: "OBD2 Scanner Diagnostic Tool — Real Review (Spain · Automotive & Motorcycle)"
+title: "OBD2 Scanner Diagnostic Tool, Car… — Real Review (Spain · Automotive & Motorcycle)"
 market: es
 category: automotive-motorcycle
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679860715246669078
 creator: "@poutfinds"
 published: 2026-08-30
 ---
-# OBD2 Scanner Diagnostic Tool — Real Review (Spain · Automotive & Motorcycle)
+# OBD2 Scanner Diagnostic Tool, Car… — Real Review (Spain · Automotive & Motorcycle)
 **Weekly #1** · 🇪🇸 Spain · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679860715246669078) by [@poutfinds](https://www.tiktok.com/@poutfinds). Format: **Real Review** · 20s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “The engine malfunction light is on, connect V500 to OBD2 port”
+**Opening line (translated from the video):** “The engine malfunction light is on, connect V500 to OBD2 port”
 
 **Pain point it attacks:** Car engine malfunction light is on, hard to find problem quickly
 
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-automotive-669078](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-automotive-669078?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-automotive-669078)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-automotive-669078](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-automotive-669078?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-automotive-669078)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

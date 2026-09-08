@@ -1,6 +1,6 @@
 ---
 id: vn-furniture-422354
-title: "￼[Bản 4 chân- Mẫu 2026] Giường ngủ văn phòng nâng đầu 6 cấp — Promo Pitch (Vietnam · Furniture)"
+title: "￼[Bản 4 chân- Mẫu 2026] Giường ngủ… — Promo Pitch (Vietnam · Furniture)"
 market: vn
 category: furniture
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674979472453422354
 creator: "@thuydungreview3"
 published: 2026-08-17
 ---
-# ￼[Bản 4 chân- Mẫu 2026] Giường ngủ văn phòng nâng đầu 6 cấp — Promo Pitch (Vietnam · Furniture)
+# ￼[Bản 4 chân- Mẫu 2026] Giường ngủ… — Promo Pitch (Vietnam · Furniture)
 **Weekly #1** · 🇻🇳 Vietnam · Furniture · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674979472453422354) by [@thuydungreview3](https://www.tiktok.com/@thuydungreview3). Format: **Promo Pitch** · 40s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “This is a rare good item, not available every day”
+**Opening line (translated from the video):** “This is a rare good item, not available every day”
 
 **Pain point it attacks:** Office nap beds have poor load-bearing and hard to fold
 
@@ -41,17 +40,15 @@ Shot 1:
   - Duration: 0.0sec - 5.0sec
   - Scene Type: Set usage scenario
   - Scene: In the wide panoramic view of the warehouse, rows of gray folding nap beds are arranged neatly. The female host in a white POLO shirt stands beside the beds, raises her hand to gesture towards the camera to introduce the product, then sits down on the bed surface smoothly, holds the headrest part of the bed to adjust her posture, with an enthusiastic smile on her face.
-  - Subject: Cái này là lâu lâu thì mới có chi ân nha các bác ơi  Chứ không phải là ngày nay
+  - Subject: Cái này là lâu lâu thì mới có chi ân nha các bác ơi Chứ không phải là ngày nay
 Shot 2:
   - Duration: 5.0sec - 7.5sec
   - Scene Type: Product design highlights
   - Scene: The camera cuts to a close-up of the black metal bracket on the side of the folding bed. The female host's hand grips the bracket adjustment handle, gently pulls it to adjust the backrest gear, demonstrating the gear adjustment structure of the bed frame, with the metal screws and zigzag clamping structure clearly visible.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 3:
   - Duration: 7.5sec - 9.5sec
   - Scene Type: Product usage scenario
   - Scene: The female host lies fully flat on the folding bed, her body stretched and relaxed, showing a comfortable and pleased expression, demonstrating the full lying usage state of the product.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - Duration: 9.5sec - 12.0sec
   - Scene Type: Bestseller sales proof
@@ -61,12 +58,11 @@ Shot 5:
   - Duration: 12.0sec - 14.5sec
   - Scene Type: Great value price
   - Scene: The camera gives a close-up of the bed frame details of the folding bed, first showing the metal adjustment bracket on the back, then moving down to show the thickened black metal legs and beam structure at the bottom of the bed, with the solid workmanship of the hardware parts clearly visible.
-  - Subject: Mà bình thường các bác ra ngoài mua cũng phải 800 đến 1 củ  Nhưng hôm nay
+  - Subject: Mà bình thường các bác ra ngoài mua cũng phải 800 đến 1 củ Nhưng hôm nay
 Shot 6:
   - Duration: 14.5sec - 19.5sec
   - Scene Type: Demonstrate ease of use
   - Scene: The female host stands next to the folding bed, gestures with her hands while speaking enthusiastically to introduce the product, then sits down on the bed surface smoothly, presses the bed surface gently with both hands to demonstrate the support of the bed surface, with a confident smile on her face.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 7:
   - Duration: 19.5sec - 24.0sec
   - Scene Type: Sufficient inventory
@@ -76,17 +72,14 @@ Shot 8:
   - Duration: 24.0sec - 29.5sec
   - Scene Type: Product material display
   - Scene: The camera slowly moves forward in an orbiting motion, shooting the overall appearance of the gray folding bed at close range, then gives a close-up of the grid-quilted fabric of the thickened mattress, clearly showing the fine texture and full thickness of the fabric.
-  - Subject: Cảm ơn các bạn đã theo dõi.
 Shot 9:
   - Duration: 29.5sec - 33.5sec
   - Scene Type: Product versatility
   - Scene: A hand gently presses repeatedly on the surface of the thickened mattress, and the mattress rebounds slowly, demonstrating the soft and fluffy texture of the fabric; then the camera moves down to show the non-slip bed feet, finally the camera turns to the side storage pocket on the bed side, a hand puts a mobile phone into the pocket to demonstrate the storage function.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 10:
   - Duration: 33.5sec - 40.0sec
   - Scene Type: Demonstrate ease of use
   - Scene: The female host stands in the middle of the warehouse aisle, holds the fully folded folding bed with both hands. After folding, the product is small and square, with a portable handle and an external pocket, looking like a large suitcase; she easily lifts the folding bed with one hand, frees the other hand to gesture and introduce to the camera, demonstrating the portability of the product after folding, with a kind and natural smile throughout.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
 - No background music, pure human voice live-stream sales video. Only the human voice explains product selling points, price discounts and other promotion-related content throughout the whole process, with no musical elements at all, to maximize the prominence of the spoken content and create a sense of limited-time and limited-quantity promotion urgency.
 [Transition / Editing]:
@@ -106,17 +99,15 @@ Shot 1:
   - 时长: 0.0sec - 5.0sec
   - 镜头类型: 设置使用场景
   - 画面: 开阔的仓库全景画面里，一排排灰色折叠午休床整齐排列，身穿白色POLO衫的女主播站在床侧，抬手向镜头示意介绍，随后顺势坐到床面上，手扶床头枕部调整姿势，脸上带着热情笑容。
-  - 口播: Cái này là lâu lâu thì mới có chi ân nha các bác ơi  Chứ không phải là ngày nay
+  - 口播: Cái này là lâu lâu thì mới có chi ân nha các bác ơi Chứ không phải là ngày nay
 Shot 2:
   - 时长: 5.0sec - 7.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 镜头切到折叠床侧边的黑色金属支架特写，女主播的手握住支架调节把手，轻轻扳动调节背部档位，展示床架的档位调节结构，金属螺丝与锯齿形卡位结构清晰可见。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 3:
   - 时长: 7.5sec - 9.5sec
   - 镜头类型: 产品使用场景
   - 画面: 女主播整个人完全平躺到折叠床上，身体舒展放松，露出惬意舒适的神情，展示产品的完整躺卧使用状态。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - 时长: 9.5sec - 12.0sec
   - 镜头类型: 爆款销量佐证
@@ -126,12 +117,11 @@ Shot 5:
   - 时长: 12.0sec - 14.5sec
   - 镜头类型: 超值价格
   - 画面: 镜头给到折叠床的床架细节特写，先展示背部的金属调节支架，随后下移镜头展示床底加粗的黑色金属腿与横梁结构，五金件的扎实做工清晰可见。
-  - 口播: Mà bình thường các bác ra ngoài mua cũng phải 800 đến 1 củ  Nhưng hôm nay
+  - 口播: Mà bình thường các bác ra ngoài mua cũng phải 800 đến 1 củ Nhưng hôm nay
 Shot 6:
   - 时长: 14.5sec - 19.5sec
   - 镜头类型: 展示易用性
   - 画面: 女主播站在折叠床旁，一边热情开口介绍一边抬手比划动作，随后顺势坐到床面上，双手轻按床面展示床面的支撑性，脸上带着自信笑容。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 7:
   - 时长: 19.5sec - 24.0sec
   - 镜头类型: 库存充足
@@ -141,17 +131,14 @@ Shot 8:
   - 时长: 24.0sec - 29.5sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头缓慢向前环绕移动，近距离拍摄灰色折叠床的整体外观，随后给到加厚床垫的方格绗缝面料特写，清晰展现布艺的细腻纹理与饱满厚度。
-  - 口播: Cảm ơn các bạn đã theo dõi.
 Shot 9:
   - 时长: 29.5sec - 33.5sec
   - 镜头类型: 产品多功能性
   - 画面: 一只手在加厚床垫表面轻轻反复按压，床垫缓慢回弹，展示面料的柔软蓬松质感；随后镜头下移展示防滑床脚，最后镜头转向床侧的侧边储物袋，一只手将手机放入袋中，展示储物功能。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 10:
   - 时长: 33.5sec - 40.0sec
   - 镜头类型: 展示易用性
   - 画面: 女主播站在仓库过道中央，双手托住完全折叠后的折叠床，折叠后体积小巧方正、带有便携提手与外置口袋，像一个大号手提箱；她单手就将折叠床轻松提起，腾出另一只手向镜头比划介绍，展示产品折叠后的便携属性，全程笑容亲切自然。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
 - 无背景音乐，纯人声口播带货视频。全程仅有人声讲解产品卖点、价格优惠等促销相关内容，无任何音乐元素，最大化突出口播信息，营造限时限量的促销紧迫感。
 [Transition / Editing]:
@@ -160,4 +147,4 @@ Shot 10:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-furniture-422354](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-furniture-422354?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-furniture-422354)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-furniture-422354](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-furniture-422354?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-furniture-422354)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

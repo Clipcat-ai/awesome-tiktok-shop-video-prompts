@@ -1,6 +1,6 @@
 ---
 id: my-collectibles-170439
-title: "Nepal flag - 3 sizes imported from Nepal — Handheld Demo (Malaysia · Collectibles)"
+title: "Nepal flag - 3 sizes imported from… — Handheld Demo (Malaysia · Collectibles)"
 market: my
 category: collectibles
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678207391653170439
 creator: "@dipakpandey772"
 published: 2026-08-26
 ---
-# Nepal flag - 3 sizes imported from Nepal — Handheld Demo (Malaysia · Collectibles)
+# Nepal flag - 3 sizes imported from… — Handheld Demo (Malaysia · Collectibles)
 **Weekly #1** · 🇲🇾 Malaysia · Collectibles · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678207391653170439) by [@dipakpandey772](https://www.tiktok.com/@dipakpandey772). Format: **Handheld Demo** · 8s · hook: **POV Scenario** · On-camera host · Discount
-**Opening line (from the video):** “A man waves the Nepali flag under snowy mountains in high altitude”
+**Opening line (translated from the video):** “A man waves the Nepali flag under snowy mountains in high altitude”
 
 **Key visuals:** Nepal Flag · Snowy Mountain · Gravel Path · Blue Sky · Black Hat · Brown Shirt · Black Coat
 
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-collectibles-170439](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-collectibles-170439?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-collectibles-170439)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-collectibles-170439](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-collectibles-170439?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-collectibles-170439)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

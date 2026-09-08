@@ -1,6 +1,6 @@
 ---
 id: fr-computers-548704
-title: "Grabie marqueurs acryliques noir & blanc — Real Review (France · Computers & Office Equipment)"
+title: "Grabie marqueurs acryliques noir &… — Real Review (France · Computers & Office Equipment)"
 market: fr
 category: computers-office-equipment
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674643170239548704
 creator: "@cololive6"
 published: 2026-08-16
 ---
-# Grabie marqueurs acryliques noir & blanc — Real Review (France · Computers & Office Equipment)
+# Grabie marqueurs acryliques noir &… — Real Review (France · Computers & Office Equipment)
 **Weekly #1** · 🇫🇷 France · Computers & Office Equipment · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674643170239548704) by [@cololive6](https://www.tiktok.com/@cololive6). Format: **Real Review** · 34s · hook: **Curiosity Gap** · Hands only · No promo
-**Opening line (from the video):** “Wow, what did you notice just now? Let's do this podcast”
+**Opening line (translated from the video):** “Wow, what did you notice just now? Let's do this podcast”
 
 **Key visuals:** Cartoon Line Drawing · Black Acrylic Marker · White Acrylic Marker · Marker Set Box · Desk · Manicured Hand · Cream Pattern
 
@@ -44,17 +43,12 @@ Shot 2:
   - Duration: 1.0sec - 21.0sec
   - Scene Type: Ease of use demonstration
   - Scene: A hand with delicate manicures holds a black fine-tip acrylic marker, carefully coloring along the white line areas of the cartoon figure's tray, cake outline, and cake edge. The brush strokes are even and smooth, the black pigment spreads fully across the white areas, gradually filling in all the designated black sections.
-  - Subject: de la ciudad de Madrid.
-Gracias.
-La materia
-En plus, se étale bien.  Le noir est opaque.
-Gracias.
+  - Subject: de la ciudad de Madrid. Gracias. La materia En plus, se étale bien. Le noir est opaque. Gracias.
 Shot 3:
   - Duration: 21.0sec - 25.0sec
   - Scene Type: Product effectiveness demonstration
   - Scene: The hand switches the marker to a white fine-tip acrylic marker, applying color evenly to the white cream pattern area on the top layer of the cake. The white pigment smoothly covers the original base color, completely filling the entire cream pattern area.
-  - Subject: y de que era un poco.
-Gracias.
+  - Subject: y de que era un poco. Gracias.
 Shot 4:
   - Duration: 25.0sec - 28.5sec
   - Scene Type: Product effectiveness demonstration
@@ -69,8 +63,7 @@ Shot 6:
   - Duration: 31.5sec - 34.5sec
   - Scene Type: Product close-up shot
   - Scene: The lens moves down to show two separately placed Grabie acrylic markers, one black and one white, with clear brand and product names printed on the pen bodies. Finally the lens slowly stops, and the frame gradually transitions to a pink background.
-  - Subject: Gracias.
-CC por Antarctica Films Argentina
+  - Subject: Gracias. CC por Antarctica Films Argentina
 [Background Sound]:
 - Light, lively pop electronic style background music with a bright tempo of around 120 BPM, featuring soft synthesizer melodies and drum beats, at a moderately high volume. It is a popular TikTok product promotion BGM that creates a relaxed, trendy product recommendation demonstration atmosphere, enhancing viewers' perception of the product's ease of use and application effects.
 [Transition / Editing]:
@@ -95,17 +88,12 @@ Shot 2:
   - 时长: 1.0sec - 21.0sec
   - 镜头类型: 展示易用性
   - 画面: 一只做着精致美甲的手握着黑色细头丙烯马克笔，沿着卡通形象中托盘、蛋糕轮廓、蛋糕边缘的白色线条区域细致涂色，笔触均匀流畅，黑色颜料在白色区域充分铺开，逐步填充完成所有黑色指定区域。
-  - 口播: de la ciudad de Madrid.
-Gracias.
-La materia
-En plus, se étale bien.  Le noir est opaque.
-Gracias.
+  - 口播: de la ciudad de Madrid. Gracias. La materia En plus, se étale bien. Le noir est opaque. Gracias.
 Shot 3:
   - 时长: 21.0sec - 25.0sec
   - 镜头类型: 产品有效性
   - 画面: 手部将马克笔更换为白色细头丙烯马克笔，笔尖对准蛋糕上层的白色奶油图案区域均匀涂抹，白色颜料顺滑覆盖原有底色，完整填充好整个奶油图案区域。
-  - 口播: y de que era un poco.
-Gracias.
+  - 口播: y de que era un poco. Gracias.
 Shot 4:
   - 时长: 25.0sec - 28.5sec
   - 镜头类型: 产品有效性
@@ -120,8 +108,7 @@ Shot 6:
   - 时长: 31.5sec - 34.5sec
   - 镜头类型: 产品镜头特写
   - 画面: 镜头下移展示两支单独摆放的黑色、白色Grabie丙烯马克笔，笔身印有清晰的品牌与产品名称，最后镜头缓缓定格，画面逐渐过渡到粉色背景画面。
-  - 口播: Gracias.
-CC por Antarctica Films Argentina
+  - 口播: Gracias. CC por Antarctica Films Argentina
 [Background Sound]:
 - 轻快活泼的流行电子风格背景音乐，节奏明快约120 BPM，带有轻盈的合成器旋律和鼓点，音量适中偏高，属于TikTok热门带货类BGM，营造轻松时尚的种草演示氛围，提升观众对产品易用性与使用效果的感知。
 [Transition / Editing]:
@@ -130,4 +117,4 @@ CC por Antarctica Films Argentina
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-computers-548704](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-computers-548704?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-computers-548704)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-computers-548704](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-computers-548704?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-computers-548704)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

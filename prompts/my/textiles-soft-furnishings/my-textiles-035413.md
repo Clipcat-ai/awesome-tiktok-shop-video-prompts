@@ -1,6 +1,6 @@
 ---
 id: my-textiles-035413
-title: "DOUBLE C Plain Bedsheet Only — Lifestyle Scene (Malaysia · Textiles & Soft Furnishings)"
+title: "DOUBLE C Plain Bedsheet Only… — Lifestyle Scene (Malaysia · Textiles & Soft Furnishings)"
 market: my
 category: textiles-soft-furnishings
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672671484787035413
 creator: "@syamistudio"
 published: 2026-08-11
 ---
-# DOUBLE C Plain Bedsheet Only — Lifestyle Scene (Malaysia · Textiles & Soft Furnishings)
+# DOUBLE C Plain Bedsheet Only… — Lifestyle Scene (Malaysia · Textiles & Soft Furnishings)
 **Weekly #1** · 🇲🇾 Malaysia · Textiles & Soft Furnishings · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672671484787035413) by [@syamistudio](https://www.tiktok.com/@syamistudio). Format: **Lifestyle Scene** · 8s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Place the navy pillow on the bed and smooth the navy fitted sheet”
+**Opening beat:** “Place the navy pillow on the bed and smooth the navy fitted sheet”
 
 **Key visuals:** Navy Pillow · Navy Fitted Sheet · Bedside Table · Floor Lamp · White Sheer Curtain · Wooden Floor · Abstract Decorative Painting · Mattress
 
@@ -98,4 +97,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-textiles-035413](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-textiles-035413?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-textiles-035413)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-textiles-035413](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-textiles-035413?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-textiles-035413)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

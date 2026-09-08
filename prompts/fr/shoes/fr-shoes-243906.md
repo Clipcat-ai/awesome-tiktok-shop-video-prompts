@@ -1,6 +1,6 @@
 ---
 id: fr-shoes-243906
-title: "Chaussures de sport tricotées pour hommes et femmes — Handheld Demo (France · Shoes)"
+title: "Chaussures de sport tricotées pour… — Handheld Demo (France · Shoes)"
 market: fr
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680473751049243906
 creator: "@arisic_france"
 published: 2026-09-01
 ---
-# Chaussures de sport tricotées pour hommes et femmes — Handheld Demo (France · Shoes)
+# Chaussures de sport tricotées pour… — Handheld Demo (France · Shoes)
 **Weekly #1** · 🇫🇷 France · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680473751049243906) by [@arisic_france](https://www.tiktok.com/@arisic_france). Format: **Handheld Demo** · 22s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “I always thought high-performance running shoes were stuffy and bulky”
+**Opening line (translated from the video):** “I always thought high-performance running shoes were stuffy and bulky”
 
 **Pain point it attacks:** High-performance running shoes are stuffy and bulky
 
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 4.5sec - 9.0sec
   - Scene Type: Creator hands-on experience demonstration
   - Scene: The shot cuts to a full indoor view, where the man stands in the center of the room wearing a tight black athletic t-shirt, with a small lapel microphone clipped to his chest, facing the camera directly. He first points both hands down at his sneakers, then raises his right hand in a thumbs-up gesture, smiling the whole time as he presents and shares, speaking to explain the product.
-  - Subject: était ennuyeuse et encombrante.  Mais celle-ci change considérablement Elles sont incroyablement légères et respirantes.
+  - Subject: était ennuyeuse et encombrante. Mais celle-ci change considérablement Elles sont incroyablement légères et respirantes.
 Shot 3:
   - Duration: 9.0sec - 12.5sec
   - Scene Type: Product performance demonstration
@@ -66,7 +65,7 @@ Shot 6:
   - Duration: 18.5sec - 22.5sec
   - Scene Type: Product versatility demonstration
   - Scene: The shot cuts back to the indoor scene, where the man remains standing in the center of the room, then turns and walks slowly toward the door, gradually disappearing outside the door frame, with the full layout of the home fitness studio completely visible in the background.
-  - Subject: C'est parti.  Crois-moi, tes pieds te remercieront.  Parfaite pour ta prochaine situation. sortie ou juste pour traîner.
+  - Subject: C'est parti. Crois-moi, tes pieds te remercieront. Parfaite pour ta prochaine situation. sortie ou juste pour traîner.
 [Background Sound]:
 - A very upbeat and energetic electronic pop background track, with a brisk tempo of around 120 BPM, bouncy synthesizer melodies and crisp drum beats, at a moderately high volume that creates a sporty and fashionable atmosphere. It follows the style of popular TikTok product promotion BGM, youthful and trend-forward, with an inherent auditory association of light, nimble steps that perfectly matches the selling points of the sneakers in the video.
 [Transition / Editing]:
@@ -91,7 +90,7 @@ Shot 2:
   - 时长: 4.5sec - 9.0sec
   - 镜头类型: 博主亲测体验
   - 画面: 镜头切换到室内全景，男士身着黑色紧身运动T恤站在房间中央，胸口佩戴小型领夹麦克风，身体正对镜头，先双手指向脚下的运动鞋，随后竖起右手大拇指点赞，全程面带微笑进行展示分享，开口讲解内容。
-  - 口播: était ennuyeuse et encombrante.  Mais celle-ci change considérablement Elles sont incroyablement légères et respirantes.
+  - 口播: était ennuyeuse et encombrante. Mais celle-ci change considérablement Elles sont incroyablement légères et respirantes.
 Shot 3:
   - 时长: 9.0sec - 12.5sec
   - 镜头类型: 产品有效性
@@ -111,7 +110,7 @@ Shot 6:
   - 时长: 18.5sec - 22.5sec
   - 镜头类型: 产品多功能性
   - 画面: 镜头切回室内场景，男士依旧站在房间中央，随后转身朝着门口方向缓步走出，逐渐消失在门框外，背景完整展现出室内健身工作室的全部布置。
-  - 口播: C'est parti.  Crois-moi, tes pieds te remercieront.  Parfaite pour ta prochaine situation. sortie ou juste pour traîner.
+  - 口播: C'est parti. Crois-moi, tes pieds te remercieront. Parfaite pour ta prochaine situation. sortie ou juste pour traîner.
 [Background Sound]:
 - 非常轻快活力的电子流行背景音乐，节奏明快约120 BPM，带有跳跃感的合成器旋律和清晰的鼓点，音量适中偏高，营造出运动加时尚的氛围。是TikTok热门带货类BGM风格，年轻化有潮流感，自带脚步轻盈的听觉联想，完美匹配视频中运动鞋的相关卖点。
 [Transition / Editing]:
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-shoes-243906](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-shoes-243906?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-shoes-243906)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-shoes-243906](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-shoes-243906?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-shoes-243906)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

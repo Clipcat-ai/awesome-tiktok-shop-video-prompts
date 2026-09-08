@@ -1,6 +1,6 @@
 ---
 id: mx-luggage-396308
-title: "KREYNA Bolso Cruzado de Mujer Ajustable Grande Impermeable Min — Handheld Demo (Mexico · Luggage & Bags)"
+title: "KREYNA Bolso Cruzado de Mujer… — Handheld Demo (Mexico · Luggage & Bags)"
 market: mx
 category: luggage-bags
 video_type: handheld-demo
@@ -17,9 +17,8 @@ source: https://www.tiktok.com/share/video/7674372231396396308
 creator: "@reynabolsa"
 published: 2026-08-15
 ---
-# KREYNA Bolso Cruzado de Mujer Ajustable Grande Impermeable Min — Handheld Demo (Mexico · Luggage & Bags)
+# KREYNA Bolso Cruzado de Mujer… — Handheld Demo (Mexico · Luggage & Bags)
 **Weekly #1** · 🇲🇽 Mexico · Luggage & Bags · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674372231396396308) by [@reynabolsa](https://www.tiktok.com/@reynabolsa). Format: **Handheld Demo** · 15s · hook: **Result First** · On-camera host · No promo
 **Key visuals:** Purple Crossbody Bag · Metal Zipper · Mobile Phone · Wallet · Lipstick · Perfume Bottle · Earphone Case · Pedestrian Street
 
@@ -45,16 +44,14 @@ Shot 3:
   - Duration: 6.0sec - 9.5sec
   - Scene Type: Show ease of use
   - Scene: Back to the indoor desktop scene, a light beige bag of the same series is visible in the blurred background. A pair of hands puts multiple personal belongings including a mobile phone, a brown wallet, a lipstick, a perfume bottle and an earphone case one by one into the main compartment of the purple bag, clearly demonstrating the ample internal space and multi-compartment design of the bag.
-  - Subject: Thank you.
 Shot 4:
   - Duration: 9.5sec - 12.0sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: Against a pure white clean background, the same style of crossbody bags in different colors including black, pink, off-white, blue, green, brown and red are displayed vertically in order. All bags are neatly arranged with distinct colors, and the camera stays at a fixed eye-level perspective to fully present all styles.
 Shot 5:
   - Duration: 12.0sec - 15.5sec
   - Scene Type: Situational lifestyle showcase
   - Scene: Back at the zebra crossing in the center of the sunny urban pedestrian street, the girl carrying the purple crossbody bag diagonally stops, turns to face the camera and stands still with a naturally relaxed posture. The background is the open urban street view and rows of colorful high-rise buildings, and the camera gradually pulls back to show the full overall wearing effect.
-  - Subject: Thank you.
 [Background Sound]:
 - Upbeat TikTok-style electronic dance background music with a fast tempo of around 120-130 BPM, medium-high volume, strong drum beats and synthesizer melodies, paired with zipper opening and closing sound effects, bubble special effects sounds and light urban walking footsteps. The overall vibe is full of energy, perfectly suited for short video promotions of daily fashion items.
 [Transition / Editing]:
@@ -82,16 +79,14 @@ Shot 3:
   - 时长: 6.0sec - 9.5sec
   - 镜头类型: 展示易用性
   - 画面: 回到室内桌面场景，背景虚化露出一款浅米色的同系列包包，一双手将手机、棕色钱包、口红、香水瓶、耳机盒等多件随身物品逐一放进紫色包包的主隔间内，清晰展示包包内部的充裕空间与多隔层设计。
-  - 口播: Thank you.
 Shot 4:
   - 时长: 9.5sec - 12.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 纯白色的干净背景中，依次竖排展示黑、粉、米白、蓝、绿、棕、红等不同配色的同款式斜挎包，所有包包整齐排列，色彩分明，镜头保持固定平视视角完整呈现所有款式。
 Shot 5:
   - 时长: 12.0sec - 15.5sec
   - 镜头类型: 场景化生活秀
   - 画面: 回到阳光明媚的城市步行街中心斑马线路口，斜挎紫色包包的女生停下脚步，转身面向镜头站定，身体自然舒展，背景是开阔的城市街景与林立的彩色高楼，镜头逐渐拉远展示整体穿搭效果。
-  - 口播: Thank you.
 [Background Sound]:
 - 非常欢快的TikTok电子舞曲风格背景音乐，快节奏约120-130BPM，音量中高，带有强烈鼓点和合成器旋律，搭配拉锁的开合音效、气泡特效音与轻快的都市行走脚步声，整体活力十足，适配日常穿搭好物的短视频推广风格。
 [Transition / Editing]:
@@ -100,4 +95,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-luggage-396308](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-luggage-396308?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-luggage-396308)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-luggage-396308](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-luggage-396308?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-luggage-396308)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

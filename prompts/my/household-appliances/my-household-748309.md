@@ -1,6 +1,6 @@
 ---
 id: my-household-748309
-title: "SIMMO Meat Grinder Food Processor Pengisar Daging 2L Household — Real Review (Malaysia · Household Appliances)"
+title: "SIMMO Meat Grinder Food Processor… — Real Review (Malaysia · Household Appliances)"
 market: my
 category: household-appliances
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668131012936748309
 creator: "@ceritabarang"
 published: 2026-07-30
 ---
-# SIMMO Meat Grinder Food Processor Pengisar Daging 2L Household — Real Review (Malaysia · Household Appliances)
+# SIMMO Meat Grinder Food Processor… — Real Review (Malaysia · Household Appliances)
 **Weekly #1** · 🇲🇾 Malaysia · Household Appliances · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668131012936748309) by [@ceritabarang](https://www.tiktok.com/@ceritabarang). Format: **Real Review** · 10s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Garlic, chili, meat… ready to mince in 8 seconds!”
+**Opening line (translated from the video):** “Garlic, chili, meat… ready to mince in 8 seconds!”
 
 **Pain point it attacks:** Manual mincing meat and veggies is time-consuming
 
@@ -70,7 +69,6 @@ Shot 7:
   - Duration: 8.0sec - 10.0sec
   - Scene Type: Lifestyle scene showcase
   - Scene: The camera pulls back to present the complete meat grinder placed in the center of the kitchen countertop, various fresh ingredients such as lettuce, small tomatoes, cilantro, and seasoning bowls are scattered around the machine, warm-toned light falls on the stainless steel body, the whole frame is full of life-oriented cooking atmosphere, a slow orbiting push-in shot is performed to fully show the complete effect of the product integrated into the real kitchen scene.
-  - Subject: 优优独播剧场——YoYo Television Series Exclusive
 [Background Sound]:
 - Light, playful electronic pop background music with a brisk tempo (around 120 BPM), cartoonish synth tones and bouncy drum beats, a lively and cute melody, paired with skeuomorphic sound effects throughout the operation: the tearing sound when unboxing, the clinking sound of accessories being placed, the soft rustling sound of meat chunks being poured in, the crisp click of the lid latch closing, the low-frequency hum of the motor running to mince meat, and finishing with a soothing prompt sound, creating a relaxed, cheerful and slightly cute home shopping atmosphere.
 [Transition / Editing]:
@@ -119,7 +117,6 @@ Shot 7:
   - 时长: 8.0sec - 10.0sec
   - 镜头类型: 场景化生活秀
   - 画面: 镜头拉远，呈现出摆放在厨房操作台面中央的完整绞肉机，机器四周错落摆放着生菜、小番茄、香菜、调味料碗等各类新鲜食材，暖调灯光洒在不锈钢机身上，整体画面充满生活化的烹饪氛围感，缓慢进行环绕推镜，全景展示产品融入真实厨房场景的完整效果。
-  - 口播: 优优独播剧场——YoYo Television Series Exclusive
 [Background Sound]:
 - 轻快俏皮的电子流行背景音乐，节奏明快（约120 BPM），带有卡通感的合成器音色和跳跃的鼓点，旋律活泼可爱，搭配操作全程的拟物音效：开箱时的撕拉声、配件放置的碰撞声、肉块倒入的细碎声响、机盖卡扣闭合的轻脆声、电机运转搅碎肉类的低频嗡嗡声，最后收尾以一声舒缓的提示音效，营造轻松愉悦、带点萌感的居家购物氛围。
 [Transition / Editing]:
@@ -128,4 +125,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-household-748309](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-household-748309?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-household-748309)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-household-748309](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-household-748309?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-household-748309)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

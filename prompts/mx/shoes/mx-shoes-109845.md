@@ -1,6 +1,6 @@
 ---
 id: mx-shoes-109845
-title: "Zapatos para correr con amortiguación de aire — Handheld Demo (Mexico · Shoes)"
+title: "Zapatos para correr con… — Handheld Demo (Mexico · Shoes)"
 market: mx
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7589994688896109845
 creator: "@deutschegeschenk"
 published: 2026-01-01
 ---
-# Zapatos para correr con amortiguación de aire — Handheld Demo (Mexico · Shoes)
+# Zapatos para correr con… — Handheld Demo (Mexico · Shoes)
 **Weekly #1** · 🇲🇽 Mexico · Shoes · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7589994688896109845) by [@deutschegeschenk](https://www.tiktok.com/@deutschegeschenk). Format: **Handheld Demo** · 11s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “I ordered these orthopedic shoes because I needed something comfortable”
+**Opening line (translated from the video):** “I ordered these orthopedic shoes because I needed something comfortable”
 
 **Pain point it attacks:** Need comfortable shoes
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-shoes-109845](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-shoes-109845?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-shoes-109845)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-shoes-109845](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-shoes-109845?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-shoes-109845)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

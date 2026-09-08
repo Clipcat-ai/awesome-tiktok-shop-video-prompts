@@ -1,6 +1,6 @@
 ---
 id: ph-furniture-133968
-title: "Wardrobe Cabinet Clothes Organizer with Curtain Clothes Storag — Lifestyle Scene (Philippines · Furniture)"
+title: "Wardrobe Cabinet Clothes Organizer… — Lifestyle Scene (Philippines · Furniture)"
 market: ph
 category: furniture
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669749033103133968
 creator: "@royalfur"
 published: 2026-08-03
 ---
-# Wardrobe Cabinet Clothes Organizer with Curtain Clothes Storag — Lifestyle Scene (Philippines · Furniture)
+# Wardrobe Cabinet Clothes Organizer… — Lifestyle Scene (Philippines · Furniture)
 **Weekly #1** · 🇵🇭 Philippines · Furniture · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669749033103133968) by [@royalfur](https://www.tiktok.com/@royalfur). Format: **Lifestyle Scene** · 15s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Look at this from messy to neat in just a few seconds”
+**Opening line (quoted from the video):** “Look at this from messy to neat in just a few seconds”
 
 **Pain point it attacks:** Clothes are messy and hard to organize, home space is untidy
 
@@ -49,7 +48,7 @@ Shot 2:
   - Subject: It has plenty of space for clothes, clothes, clothes, clothes, clothes, clothes, clothes,
 Shot 3:
   - Duration: 5.0sec - 8.0sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The camera slowly pushes forward, sweeping closely across all the compartments inside the wardrobe, clearly showing the packed storage details of neatly folded T-shirts of various colors, jeans, storage baskets, books, small items and more. The white text 'Lots of storage space' floats at the top of the screen, fully highlighting the wardrobe's extra-large storage capacity. The slow forward push shot sweeps through every tier of the wardrobe's storage space in sequence.
   - Subject: pillows, towels, and daily essentials. The design is simple, neat,
 Shot 4:
@@ -65,7 +64,7 @@ Shot 6:
   - Duration: 12.5sec - 15.5sec
   - Scene Type: Showcase applicable user groups
   - Scene: The camera pulls back to show the scene of the wardrobe, fully covered by the curtain, placed next to the indoor staircase. The young woman stands at the side of the wardrobe, smiles and looks at the camera, then raises her right hand to give a thumbs-up gesture to the camera. The white text 'Perfect for homes, condos, and apartments' is clearly displayed at the top of the screen, and the camera pulls back further to expand the field of view, showing the various home space scenarios that the wardrobe is suitable for.
-  - Subject: Perfect for small homes, condos, apartments, or dorm rooms. Thank you.
+  - Subject: Perfect for small homes, condos, apartments, or dorm rooms.
 [Background Sound]:
 - Light, upbeat pop electronic background music with a brisk tempo of around 120BPM, featuring lively drum beats and bright synthesizer melodies, styled similarly to trending TikTok product promotion BGM. The volume is moderately high, it is purely instrumental with no lyrics, creating an atmosphere of 'efficient organization + lifestyle aesthetics'. The rhythm is perfectly synchronized with scene cuts, amplifying the satisfying feeling of 'getting tidy in seconds', and is tailored for home organization short videos.
 [Transition / Editing]:
@@ -93,7 +92,7 @@ Shot 2:
   - 口播: It has plenty of space for clothes, clothes, clothes, clothes, clothes, clothes, clothes,
 Shot 3:
   - 时长: 5.0sec - 8.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头慢慢向前推进，近距离扫过衣柜内部的所有隔层，清晰展示出整齐叠放的各色T恤、牛仔裤、收纳篮、书籍、小物件等满满当当的收纳细节，白色字幕“Lots of storage space”悬浮在画面上方，充分凸显衣柜超大的储物容量，缓慢向前推进的推镜依次扫过衣柜的每一层置物空间。
   - 口播: pillows, towels, and daily essentials. The design is simple, neat,
 Shot 4:
@@ -109,7 +108,7 @@ Shot 6:
   - 时长: 12.5sec - 15.5sec
   - 镜头类型: 适用人群
   - 画面: 镜头拉远展示被窗帘完全遮挡的衣柜被摆放在室内楼梯旁的场景，女生站在衣柜侧面，面带笑容看向镜头，随后抬起右手对着镜头竖起大拇指点赞，画面上方的白色字幕“Perfect for homes, condos, and apartments”清晰呈现，镜头向后拉远拓展视野展示衣柜适配的多样居家空间场景。
-  - 口播: Perfect for small homes, condos, apartments, or dorm rooms. Thank you.
+  - 口播: Perfect for small homes, condos, apartments, or dorm rooms.
 [Background Sound]:
 - 轻快活泼的流行电子背景音乐，节奏明快约120BPM，带有轻快的鼓点和明亮的合成器旋律，风格类似TikTok热门带货BGM，音量适中偏高，为纯音乐无歌词，营造“高效整理+生活美学”的氛围，节奏与画面切换高度同步，强化“几秒变整洁”的爽感，适配家居收纳类短视频。
 [Transition / Editing]:
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-furniture-133968](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-furniture-133968?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-furniture-133968)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-furniture-133968](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-furniture-133968?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-furniture-133968)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

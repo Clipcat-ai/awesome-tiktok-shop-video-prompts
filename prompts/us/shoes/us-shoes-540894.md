@@ -1,6 +1,6 @@
 ---
 id: us-shoes-540894
-title: "Vans Unisex Classic Slip-On Checkerboard Low Top Shoe — Handheld Demo (United States · Shoes)"
+title: "Vans Unisex Classic Slip-On… — Handheld Demo (United States · Shoes)"
 market: us
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676130997481540894
 creator: "@hermomfinds"
 published: 2026-08-20
 ---
-# Vans Unisex Classic Slip-On Checkerboard Low Top Shoe — Handheld Demo (United States · Shoes)
+# Vans Unisex Classic Slip-On… — Handheld Demo (United States · Shoes)
 **Weekly #1** · 🇺🇸 United States · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676130997481540894) by [@hermomfinds](https://www.tiktok.com/@hermomfinds). Format: **Handheld Demo** · 9s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “VANS Pink and Black ARE BACK”
+**Opening line (quoted from the video):** “VANS Pink and Black ARE BACK”
 
 **Key visuals:** Vans Slip-On · Checkerboard Pattern · Pink Knit Sweater · Black Jeans · Dark Gray Carpet · Silver Chain Bag · French Manicure
 
@@ -49,12 +48,10 @@ Shot 3:
   - Duration: 5.0sec - 7.5sec
   - Scene Type: Product design highlights
   - Scene: The hand flips the canvas sneaker horizontally to show its side to the camera, slowly lifting and moving closer to fully display the shoe's thick white rubber sole, the small VANS brand label on the side of the shoe body, and the complete, continuous checkerboard pattern along the side of the upper.
-  - Subject: .
 Shot 4:
   - Duration: 7.5sec - 8.5sec
   - Scene Type: Handheld product showcase
   - Scene: The hand turns the canvas sneaker back to its original front-facing upward angle, the finger still rests gently on the upper, the toes that were curled near the foot naturally stretch out, restoring the relaxed state of casually showcasing a favorite item in daily life.
-  - Subject: .
 Shot 5:
   - Duration: 8.5sec - 10.0sec
   - Scene Type: Product design highlights
@@ -88,12 +85,10 @@ Shot 3:
   - 时长: 5.0sec - 7.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 手部将帆布鞋横向翻转至侧面对准镜头，缓缓抬升拉近，完整展示鞋子的白色橡胶厚底、鞋身侧面的小VANS品牌标，以及鞋面侧边完整连贯的棋盘格图案。
-  - 口播: .
 Shot 4:
   - 时长: 7.5sec - 8.5sec
   - 镜头类型: 手持商品展示
   - 画面: 手部将帆布鞋重新转回正面朝上的初始角度，手指依旧轻轻按压在鞋面上，脚边原本蜷缩的脚趾自然舒展张开，还原日常展示好物时的放松状态。
-  - 口播: .
 Shot 5:
   - 时长: 8.5sec - 10.0sec
   - 镜头类型: 产品设计亮点
@@ -106,4 +101,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-shoes-540894](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-shoes-540894?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-shoes-540894)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-shoes-540894](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-shoes-540894?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-shoes-540894)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

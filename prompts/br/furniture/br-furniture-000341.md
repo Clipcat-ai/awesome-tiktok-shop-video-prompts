@@ -1,6 +1,6 @@
 ---
 id: br-furniture-000341
-title: "KIT COM ATE 12 PEÇAS CABECEIRA  + PLACAS MDF  PARA CAMAS KING — Lifestyle Scene (Brazil · Furniture)"
+title: "KIT COM ATE 12 PEÇAS CABECEIRA… — Lifestyle Scene (Brazil · Furniture)"
 market: br
 category: furniture
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7603003542903000341
 creator: "@yara.rannoov"
 published: 2026-02-04
 ---
-# KIT COM ATE 12 PEÇAS CABECEIRA  + PLACAS MDF  PARA CAMAS KING — Lifestyle Scene (Brazil · Furniture)
+# KIT COM ATE 12 PEÇAS CABECEIRA… — Lifestyle Scene (Brazil · Furniture)
 **Weekly #1** · 🇧🇷 Brazil · Furniture · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7603003542903000341) by [@yara.rannoov](https://www.tiktok.com/@yara.rannoov). Format: **Lifestyle Scene** · 24s · hook: **Result First** · Hands only · Discount
-**Opening line (from the video):** “Everyone thought I changed the bed, but this is just a headboard kit for under 35 reais”
+**Opening line (translated from the video):** “Everyone thought I changed the bed, but this is just a headboard kit for under 35 reais”
 
 **Pain point it attacks:** Want to renovate bedroom without changing bed
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-furniture-000341](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-furniture-000341?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-furniture-000341)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-furniture-000341](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-furniture-000341?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-furniture-000341)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

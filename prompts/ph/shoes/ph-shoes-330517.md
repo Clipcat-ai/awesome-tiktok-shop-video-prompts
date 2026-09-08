@@ -1,6 +1,6 @@
 ---
 id: ph-shoes-330517
-title: "Sole&Stitch Men's Fashion Sandals EVA lightweight comfortable — Real Review (Philippines · Shoes)"
+title: "Sole&Stitch Men's Fashion Sandals… — Real Review (Philippines · Shoes)"
 market: ph
 category: shoes
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7659572205256330517
 creator: "@ronalynnatalgmail.com"
 published: 2026-07-07
 ---
-# Sole&Stitch Men's Fashion Sandals EVA lightweight comfortable — Real Review (Philippines · Shoes)
+# Sole&Stitch Men's Fashion Sandals… — Real Review (Philippines · Shoes)
 **Weekly #1** · 🇵🇭 Philippines · Shoes · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7659572205256330517) by [@ronalynnatalgmail.com](https://www.tiktok.com/@ronalynnatalgmail.com). Format: **Real Review** · 29s · hook: **POV Scenario** · Multiple people · No promo
-**Opening line (from the video):** “A man wears these casual shoes stepping through puddles on a rainy city street”
+**Opening line (translated from the video):** “A man wears these casual shoes stepping through puddles on a rainy city street”
 
 **Key visuals:** Rainy City Street · Puddles · Black Motorcycle · Casual Shoes · Wooden Floor · Cherry Blossom Floral Arrangement · Yellow Shopping Cart Icon
 
@@ -158,4 +157,4 @@ Shot 10:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-shoes-330517](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-shoes-330517?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-shoes-330517)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-shoes-330517](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-shoes-330517?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-shoes-330517)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

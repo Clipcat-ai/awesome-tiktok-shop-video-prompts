@@ -1,6 +1,6 @@
 ---
 id: ph-health-216977
-title: "Simplee Probiotics Capsule Supplements – 500mg — Talking Head (Philippines · Health)"
+title: "Simplee Probiotics Capsule… — Talking Head (Philippines · Health)"
 market: ph
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678613409478216977
 creator: "@quickhealthph01"
 published: 2026-08-27
 ---
-# Simplee Probiotics Capsule Supplements – 500mg — Talking Head (Philippines · Health)
+# Simplee Probiotics Capsule… — Talking Head (Philippines · Health)
 **Weekly #1** · 🇵🇭 Philippines · Health · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678613409478216977) by [@quickhealthph01](https://www.tiktok.com/@quickhealthph01). Format: **Talking Head** · 37s · hook: **Pain Point** · No one on camera · No promo
-**Opening line (from the video):** “You still drink this probiotic drink, thinking it eases bloating, but it's all sugar”
+**Opening line (translated from the video):** “You still drink this probiotic drink, thinking it eases bloating, but it's all sugar”
 
 **Pain point it attacks:** Probiotic drinks are all sugar and can't relieve bloating
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-health-216977](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-health-216977?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-health-216977)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-health-216977](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-health-216977?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-health-216977)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

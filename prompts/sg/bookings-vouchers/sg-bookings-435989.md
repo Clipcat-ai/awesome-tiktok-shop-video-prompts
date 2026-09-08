@@ -1,6 +1,6 @@
 ---
 id: sg-bookings-435989
-title: "Beautox  -  Now  @  $ 280 — Lifestyle Scene (Singapore · Bookings & Vouchers)"
+title: "Beautox - Now @ $ 280 — Lifestyle Scene (Singapore · Bookings & Vouchers)"
 market: sg
 category: bookings-vouchers
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674982851032435989
 creator: "@atoswellness"
 published: 2026-08-17
 ---
-# Beautox  -  Now  @  $ 280 — Lifestyle Scene (Singapore · Bookings & Vouchers)
+# Beautox - Now @ $ 280 — Lifestyle Scene (Singapore · Bookings & Vouchers)
 **Weekly #1** · 🇸🇬 Singapore · Bookings & Vouchers · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674982851032435989) by [@atoswellness](https://www.tiktok.com/@atoswellness). Format: **Lifestyle Scene** · 5s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Still guessing what your skin needs?”
+**Opening beat:** “Still guessing what your skin needs?”
 
 **Pain point it attacks:** Uncertain about what your skin needs
 
@@ -41,7 +40,6 @@ Shot 1:
   - Duration: 0.0sec - 1.0sec
   - Scene Type: Product usage scene
   - Scene: First comic panel scene, in a bright office at 9:30 AM, the girl sits in front of the desk, turning sideways towards a colleague holding a skin detection tablet, her elbow propped on the desktop, her palm supporting her cheek, looking at the tablet screen with curious bright eyes, the words 'Skin Analysis' are clearly displayed on the tablet, the time 9:30 AM is marked next to the frame, the city street view outside the window is visible in the background.
-  - Subject: Thank you.
 Shot 2:
   - Duration: 1.0sec - 2.0sec
   - Scene Type: Demonstration skincare usage scene
@@ -54,7 +52,6 @@ Shot 4:
   - Duration: 3.0sec - 3.8sec
   - Scene Type: Before and after usage comparison
   - Scene: Fourth comic panel scene, a calendar marked with the text '1 WEEK LATER...' hangs on the left side of the frame, the girl opens her sparkling eyes, gently touches her cheek with her finger, showing a surprised and satisfied smile on her face, carefully observing and feeling the impressive improvement of her skin after one week.
-  - Subject: Bye.
 Shot 5:
   - Duration: 3.8sec - 5.0sec
   - Scene Type: Emotional connection
@@ -78,7 +75,6 @@ Shot 1:
   - 时长: 0.0sec - 1.0sec
   - 镜头类型: 产品使用场景
   - 画面: 第一格漫画场景，上午9点30分的明亮办公室内，女生坐在办公桌前，侧身朝向手持肌肤检测平板的同事，手肘撑在桌面上，手掌托着脸颊，眼神带着好奇的光芒注视平板屏幕，平板上清晰显示“Skin Analysis”字样，画面旁标注时间9:30 AM，背景可见窗外的城市街景。
-  - 口播: Thank you.
 Shot 2:
   - 时长: 1.0sec - 2.0sec
   - 镜头类型: 演示护肤使用场景
@@ -91,7 +87,6 @@ Shot 4:
   - 时长: 3.0sec - 3.8sec
   - 镜头类型: 使用前后对比
   - 画面: 第四格漫画场景，画面左侧悬挂着标注“1 WEEK LATER...”的日历牌，女生睁着亮晶晶的眼眸，手指轻轻触碰自己的脸颊，脸上露出惊喜满足的笑容，仔细端详感受肌肤一周后的喜人变化。
-  - 口播: Bye.
 Shot 5:
   - 时长: 3.8sec - 5.0sec
   - 镜头类型: 情感连接
@@ -104,4 +99,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-bookings-435989](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-bookings-435989?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-bookings-435989)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-bookings-435989](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-bookings-435989?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-bookings-435989)
-🤖 **Driving an AI agent?** `clipcat prompt search "Bookings & Vouchers"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Bookings & Vouchers lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

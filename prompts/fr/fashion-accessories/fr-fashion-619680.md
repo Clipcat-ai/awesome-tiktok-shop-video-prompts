@@ -1,6 +1,6 @@
 ---
 id: fr-fashion-619680
-title: "Bucket Hat - Bob 64FD Famous District Original White — OOTD Showcase (France · Fashion Accessories)"
+title: "Bucket Hat - Bob 64FD Famous… — OOTD Showcase (France · Fashion Accessories)"
 market: fr
 category: fashion-accessories
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677204218578619680
 creator: "@famousdistrictfrance"
 published: 2026-08-25
 ---
-# Bucket Hat - Bob 64FD Famous District Original White — OOTD Showcase (France · Fashion Accessories)
+# Bucket Hat - Bob 64FD Famous… — OOTD Showcase (France · Fashion Accessories)
 **Weekly #1** · 🇫🇷 France · Fashion Accessories · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677204218578619680) by [@famousdistrictfrance](https://www.tiktok.com/@famousdistrictfrance). Format: **OOTD Showcase** · 15s · hook: **Curiosity Gap** · Multiple people · No promo
-**Opening line (from the video):** “Flame red lion and ice blue lion face off and roar in deep dark starry sky”
+**Opening beat:** “Flame red lion and ice blue lion face off and roar in deep dark starry sky”
 
 **Key visuals:** Starry Sky · Flame Lion · Ice Lion · Bucket Hat · White Top · Necklace · Pink Glow
 
@@ -90,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-fashion-619680](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-fashion-619680?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-fashion-619680)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-fashion-619680](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-fashion-619680?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-fashion-619680)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

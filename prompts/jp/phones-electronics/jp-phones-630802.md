@@ -1,6 +1,6 @@
 ---
 id: jp-phones-630802
-title: "Monster 5.4 MQT52 Bluetooth5.4 ドビーアトモス Hl-Fl サウンドクオリティ 5000Hz — Handheld Demo (Japan · Phones & Electronics)"
+title: "Monster 5.4 MQT52 Bluetooth5.4… — Handheld Demo (Japan · Phones & Electronics)"
 market: jp
 category: phones-electronics
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675386936340630802
 creator: "@muscleshibata"
 published: 2026-08-18
 ---
-# Monster 5.4 MQT52 Bluetooth5.4 ドビーアトモス Hl-Fl サウンドクオリティ 5000Hz — Handheld Demo (Japan · Phones & Electronics)
+# Monster 5.4 MQT52 Bluetooth5.4… — Handheld Demo (Japan · Phones & Electronics)
 **Weekly #1** · 🇯🇵 Japan · Phones & Electronics · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675386936340630802) by [@muscleshibata](https://www.tiktok.com/@muscleshibata). Format: **Handheld Demo** · 11s · hook: **Curiosity Gap** · On-camera host · Discount
-**Opening line (from the video):** “1099 yen? No way? 24-hour battery life?”
+**Opening line (translated from the video):** “1099 yen? No way? 24-hour battery life?”
 
 **Pain point it attacks:** Expensive headphones have short battery life and low cost-effectiveness
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: Japanese-style product recommendation realistic aesthetic, bright and clean visuals, clear product display details, exaggerated and vivid character emotional expression, full of the sales appeal of Douyin short videos.
+[Style]: Japanese-style product recommendation realistic aesthetic, bright and clean visuals, clear product display details, exaggerated and vivid character emotional expression, full of the sales appeal of TikTok short videos.
 [Environment]: Well-lit Japanese-style home living room, with light-colored walls and wooden furniture. A TV and corridor space are visible in the background. The overall layout is simple and warm, with sufficient and soft light, creating a comfortable home sharing atmosphere.
 [Tone & Pacing]: The overall rhythm is lively and brisk. The character's emotions progress layer by layer from surprise and ecstasy to praise and recommendation. The subsequent product detail display has a slow and gentle pace, clearly presenting the texture details of the earphone charging case. The well-balanced sales rhythm is extremely appealing.
 [Camera]: Adopts a first-person close-up selfie perspective paired with macro product close-up shots. The camera focus is always locked on the character's face and the earphone product on the table. The camera movement is stable and natural, and the focus is clear when switching to the product close-up position in post-production.
@@ -59,7 +58,7 @@ Shot 3:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 日系种草写实风，画面明亮干净，商品展示细节清晰，人物情绪表现力夸张生动，充满抖音短视频的带货感染力。
+[Style]: 日系种草写实风，画面明亮干净，商品展示细节清晰，人物情绪表现力夸张生动，充满TikTok短视频的带货感染力。
 [Environment]: 采光良好的日系居家客厅，浅色墙面搭配木质家具，背景中可以看到电视与走廊空间，整体布置简约温馨，光线充足柔和，营造出舒适的居家分享氛围。
 [Tone & Pacing]: 整体节奏明快活泼，人物情绪从惊讶狂喜到夸赞安利层层递进，后续产品细节展示节奏舒缓，清晰呈现耳机充电仓的质感细节，张弛有度的带货节奏极具感染力。
 [Camera]: 采用第一人称近景自拍视角搭配产品特写微距镜头，镜头聚焦始终锁定人物面部与桌上的耳机产品，运镜平稳自然，后期切换到产品特写机位时聚焦清晰。
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-phones-630802](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-phones-630802?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-phones-630802)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-phones-630802](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-phones-630802?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-phones-630802)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

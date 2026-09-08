@@ -1,6 +1,6 @@
 ---
 id: vn-household-060295
-title: "DKHOUSE Nồi Điện 1.8L Đa Năng — Handheld Demo (Vietnam · Household Appliances)"
+title: "DKHOUSE Nồi Điện 1.8L Đa Năng, Nồi… — Handheld Demo (Vietnam · Household Appliances)"
 market: vn
 category: household-appliances
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673127356374060295
 creator: "@thegioidoxin"
 published: 2026-08-12
 ---
-# DKHOUSE Nồi Điện 1.8L Đa Năng — Handheld Demo (Vietnam · Household Appliances)
+# DKHOUSE Nồi Điện 1.8L Đa Năng, Nồi… — Handheld Demo (Vietnam · Household Appliances)
 **Weekly #1** · 🇻🇳 Vietnam · Household Appliances · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673127356374060295) by [@thegioidoxin](https://www.tiktok.com/@thegioidoxin). Format: **Handheld Demo** · 38s · hook: **Benefit First** · Hands only · Discount
-**Opening line (from the video):** “Today's price is cheaper, hurry to place order”
+**Opening line (translated from the video):** “Today's price is cheaper, hurry to place order”
 
 **Pain point it attacks:** Rice cooker is expensive to buy
 
@@ -41,26 +40,21 @@ Shot 1:
   - Duration: 0.0sec - 10.0sec
   - Scene Type: Handheld product display
   - Scene: A pair of hands steadily carries the transparent portable packaging printed with the 'Dkhouse' logo, inside the packaging is the milky white Bloomcook brand mini electric cooker, the camera slowly orbits the product while moving through the store aisle, sequentially showing the full front view of the product, the promotional labels and brand slogans on the packaging, the wide variety of small household appliances on the shelves on both sides in the background are clearly visible, two shop assistants briefly stop and communicate in the distant aisle, eye-catching Vietnamese promotional subtitles are overlaid at the top of the screen simultaneously
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - Duration: 10.0sec - 20.0sec
   - Scene Type: Handheld product display
   - Scene: The camera maintains the orbiting follow-shot rhythm, orbiting to show the product from the other side, the details of the electric cooker's lid, the body knob and the side handle are clearly presented, the markings including '1 THÁNG' and '1 ĐỔI 1 KHÔNG SỬA CHỮA' on the transparent packaging are fully captured in the frame, the shop assistants in the background continue their normal activities in the distant store, the promotional subtitles at the top of the screen remain displayed
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Người ta chợ giá rất là rẻ luôn Bình thường các bác mua ở ngoài cũng phải từ nơi
+  - Subject: Người ta chợ giá rất là rẻ luôn Bình thường các bác mua ở ngoài cũng phải từ nơi
 Shot 3:
   - Duration: 20.0sec - 30.0sec
   - Scene Type: Handheld product display
   - Scene: The camera keeps moving around the product, showing the transparent texture of the clear packaging and the comforting milky white appearance of the electric cooker from multiple angles, colorful electric cookers in pink, green and other colors on the background shelves pass by in sequence, the figures of the two shop assistants occasionally appear in the far distance of the frame, the picture maintains a bright and clean visual effect, with subtitles always positioned at the top of the screen
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Thậm chí 200 cũng không phải luôn Giá hôm nay còn rẻ hơn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - Subject: Thậm chí 200 cũng không phải luôn Giá hôm nay còn rẻ hơn
 Shot 4:
   - Duration: 30.0sec - 39.0sec
   - Scene Type: Promotional selling point highlight
   - Scene: The camera completes the final full orbiting display, finally stabilizing the product in the center of the frame, the hand supporting the bottom of the packaging gently lifts upward to adjust the product angle, ensuring the audience can clearly see every detail of the product, the store environment in the background remains clear, the product stays the visual focus throughout the whole process
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc ạ.
+  - Subject: Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc ạ.
 [Background Sound]:
 - Very upbeat TikTok background music, fast tempo around 120-140 BPM, electronic pop style, medium-high volume, with drum beats and synthesizer melodies, a viral product-selling BGM with tight rhythm and excited mood, amplifying the sense of urgency and excitement for limited-time flash sales and ultra-low prices, perfectly matching e-commerce promotional sales pitch content
 [Transition / Editing]:
@@ -80,26 +74,21 @@ Shot 1:
   - 时长: 0.0sec - 10.0sec
   - 镜头类型: 手持商品展示
   - 画面: 一双手稳稳提着印有“Dkhouse”标识的透明手提包装，包装内放置着奶白色的Bloomcook品牌迷你电煮锅，镜头缓慢环绕产品在卖场过道中移动，依次展示产品的正面全貌、包装上的促销标签与品牌标语，背景中两侧货架上琳琅满目的小家电清晰可见，两位店员在远处过道中短暂停留交流，画面顶部同步叠加醒目的越南语促销字幕。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - 时长: 10.0sec - 20.0sec
   - 镜头类型: 手持商品展示
   - 画面: 镜头继续保持环绕跟拍的节奏，再次从另一侧环绕展示产品，电煮锅的锅盖细节、机身旋钮与侧面把手清晰呈现，透明包装上的“1 THÁNG”“1 ĐỔI 1 KHÔNG SỬA CHỮA”等标识完整入镜，背景中店员依旧在卖场远处正常活动，画面顶部的促销字幕持续显示。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Người ta chợ giá rất là rẻ luôn Bình thường các bác mua ở ngoài cũng phải từ nơi
+  - 口播: Người ta chợ giá rất là rẻ luôn Bình thường các bác mua ở ngoài cũng phải từ nơi
 Shot 3:
   - 时长: 20.0sec - 30.0sec
   - 镜头类型: 手持商品展示
   - 画面: 镜头持续围绕产品移动，多角度展示透明包装的通透质感与电煮锅奶白的治愈外观，背景货架上的粉色、绿色等彩色电煮锅产品依次掠过，两位店员的身影偶尔出现在镜头远处，画面保持明亮干净的视觉效果，字幕始终位于画面顶部。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Thậm chí 200 cũng không phải luôn Giá hôm nay còn rẻ hơn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - 口播: Thậm chí 200 cũng không phải luôn Giá hôm nay còn rẻ hơn
 Shot 4:
   - 时长: 30.0sec - 39.0sec
   - 镜头类型: 促销卖点强推
   - 画面: 镜头继续完成最后一圈环绕展示，最后将产品稳定在画面中心位置，下方托住包装底部的手轻轻向上托举调整产品角度，确保观众完整看清产品的每一处细节，背景的卖场环境依旧清晰，全程保持产品视觉焦点。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc ạ.
+  - 口播: Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc ạ.
 [Background Sound]:
 - 非常欢快的TikTok背景音乐，快节奏约120-140 BPM，电子流行风格，音量中高，带有鼓点和合成器旋律，属于爆款带货BGM，节奏紧凑情绪亢奋，强化限时抢购、超低价的抢购紧迫感与兴奋感，适配促销喊单类电商带货内容。
 [Transition / Editing]:
@@ -108,4 +97,4 @@ Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc �
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-household-060295](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-household-060295?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-household-060295)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-household-060295](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-household-060295?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-household-060295)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

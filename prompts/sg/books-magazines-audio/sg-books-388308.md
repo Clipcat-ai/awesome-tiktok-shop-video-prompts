@@ -1,6 +1,6 @@
 ---
 id: sg-books-388308
-title: "Al-Quran Per Kata An-Nur With Translation and Transliteration — Product Close-Up (Singapore · Books, Magazines & Audio)"
+title: "Al-Quran Per Kata An-Nur With… — Product Close-Up (Singapore · Books, Magazines & Audio)"
 market: sg
 category: books-magazines-audio
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7609425278137388308
 creator: "@immieazzray"
 published: 2026-02-21
 ---
-# Al-Quran Per Kata An-Nur With Translation and Transliteration — Product Close-Up (Singapore · Books, Magazines & Audio)
+# Al-Quran Per Kata An-Nur With… — Product Close-Up (Singapore · Books, Magazines & Audio)
 **Weekly #1** · 🇸🇬 Singapore · Books, Magazines & Audio · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7609425278137388308) by [@immieazzray](https://www.tiktok.com/@immieazzray). Format: **Product Close-Up** · 30s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “A beautifully bound Quran is held in hands, with text "Faith In Your Hands" popping up”
+**Opening line (translated from the video):** “A beautifully bound Quran is held in hands, with text "Faith In Your Hands" popping up”
 
 **Key visuals:** Greenhouse · Tropical Plants · Quran · Succulent · Wooden Prayer Beads · Arabic Calligraphy · Geometric Pattern
 
@@ -49,23 +48,17 @@ Shot 3:
   - Duration: 7.0sec - 17.0sec
   - Scene Type: Product Material Display
   - Scene: The camera shows various teaching auxiliary inner pages of the book page by page, sequentially presenting the Arabic-Latin transliteration comparison table, Islamic recitation rule teaching page, anatomical diagram of Arabic letter pronunciation positions, recitation symbol rule explanation page, each page is equipped with color-coded annotations and Malay descriptive text, the page decorative patterns are exquisite and unified, the corresponding subtitles 'Translation Arab-Latin', 'Ilmu Tajwid', 'Iarokat', 'Makhraj', 'Simbol & tanda tajwid' appear sequentially at the bottom of the screen. The camera moves at a constant slow speed, sweeping horizontally along the text layout order of the pages, clearly showing the details of each section of teaching content.
-  - Subject: هدأ يا صاحي
-كي تستريح وابطع
-الدعاء الخافي
+  - Subject: هدأ يا صاحي كي تستريح وابطع الدعاء الخافي
 Shot 4:
   - Duration: 17.0sec - 27.0sec
   - Scene Type: Product Versatility
   - Scene: The camera switches to show the main scripture content pages, first presenting the Al-Fatihah chapter, next to each line of Arabic scripture on the page there is a corresponding Roman transliteration annotation and Malay translation, each recitation mark is clearly distinguished with different colors, then the camera pans left to show the opening page of the Al-Baqarah chapter, finally the camera moves forward to focus on showing the full layout details of the 'Ayatul Qursi' scripture, every text annotation is clearly visible, the corresponding chapter name subtitles 'Al-Fatihah', 'Al-Baqarah', 'Ayatul Qursi' appear sequentially at the bottom of the screen. The camera moves slowly and horizontally across the facing pages from a steady close-up perspective, gradually zooming in to focus on the core scripture area, allowing the audience to clearly see the supporting annotations next to the scripture.
-  - Subject: الصريح  يسعى
-كالفضاء الرحيم
-وحسب الفاسيح يحفى بالله
-كأن تستعطي بلق
+  - Subject: الصريح يسعى كالفضاء الرحيم وحسب الفاسيح يحفى بالله كأن تستعطي بلق
 Shot 5:
   - Duration: 27.0sec - 31.0sec
   - Scene Type: Gifting Scenario
   - Scene: The frame switches to a cozy indoor desktop scene, the 'AN-NUR' Quran with a black background and gold foil stamping binding design is placed flat on a simple solid wood small table, next to the book there is a small succulent potted plant on one side, and a string of brown wooden prayer beads scattered on the other side, warm light gently spills from the side, highlighting the exquisite gold foil stamping texture on the cover, the subtitle 'Perfect for Ramadan, study or gifting' pops up at the top of the screen, then the green prompt text 'Click the yellow bag to order now!' appears at the bottom of the screen. The camera is fixed at a medium close-up perspective, keeping the frame stable, fully presenting the overall atmospheric feel of the book cover and the surrounding matching items.
-  - Subject: ويدرع
-ترجمة نانسي قنقر
+  - Subject: ويدرع ترجمة نانسي قنقر
 [Background Sound]:
 - No conventional background music throughout, only pure human vocal recitation of Arabic religious scripture chanting, with a solemn, slow and rhythmic tone, strong religious ritual sense and emotional appeal, clean sound effects with no extra ambient noise interference, matching the overall pious and serene atmosphere.
 [Transition / Editing]:
@@ -95,23 +88,17 @@ Shot 3:
   - 时长: 7.0sec - 17.0sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头逐页展示经书的各类教学辅助内页，依次呈现阿拉伯语-拉丁语转写对照表、伊斯兰诵读规则教学页、阿拉伯字母发音部位解剖示意图、诵读符号规则说明页，每一页都配有彩色分区标注与马来语说明文字，页面装饰纹样精致统一，画面底部同步依次出现对应内容的字幕“Translation Arab-Latin”、“Ilmu Tajwid”、“Iarokat”、“Makhraj”、“Simbol & tanda tajwid”。镜头保持匀速缓慢移动，沿着书页的文字排版顺序横向扫过，清晰展示每一块教学内容的细节。
-  - 口播: هدأ يا صاحي
-كي تستريح وابطع
-الدعاء الخافي
+  - 口播: هدأ يا صاحي كي تستريح وابطع الدعاء الخافي
 Shot 4:
   - 时长: 17.0sec - 27.0sec
   - 镜头类型: 产品多功能性
   - 画面: 镜头切换展示正经文内容页，首先呈现《法谛海》章节，页面中每一句阿拉伯经文旁都搭配了对应的罗马转写标注与马来语释义，每一个诵读标识都用不同颜色清晰区分，随后镜头向左平移，展示《黄牛章》的开篇页面，最后继续推进镜头，聚焦展示“阿雅图尔·库尔西”经文的完整排版细节，每一处文字标注都清晰可辨，画面底部同步依次出现对应章节名称的字幕“Al-Fatihah”、“Al-Baqarah”、“Ayatul Qursi”。镜头以平稳的特写视角在跨页间缓慢横向移动，逐步放大聚焦核心经文区域，让观众清晰看到经文旁的配套标注内容。
-  - 口播: الصريح  يسعى
-كالفضاء الرحيم
-وحسب الفاسيح يحفى بالله
-كأن تستعطي بلق
+  - 口播: الصريح يسعى كالفضاء الرحيم وحسب الفاسيح يحفى بالله كأن تستعطي بلق
 Shot 5:
   - 时长: 27.0sec - 31.0sec
   - 镜头类型: 送礼场景
   - 画面: 画面切换到温馨的室内桌面场景，装帧为黑底烫金设计的《AN-NUR》古兰经平整摆放在质朴的实木小桌上，经书旁一侧放置着一小盆多肉盆栽，另一侧散落摆放着一串棕色木质念珠，暖光从侧方轻柔洒下，凸显出封面精致的烫金纹理，画面顶部弹出字幕“Perfect for Ramadan, study or gifting”，画面底部随后浮现绿色的提示文字“Click the yellow bag to order now!”。镜头固定为中景特写视角，保持画面稳定，完整呈现经书封面与周边搭配物件的整体氛围感。
-  - 口播: ويدرع
-ترجمة نانسي قنقر
+  - 口播: ويدرع ترجمة نانسي قنقر
 [Background Sound]:
 - 全程无常规配乐，仅为纯人声吟诵的阿拉伯语宗教诵经，语调庄重缓慢富有韵律，带有强烈宗教仪式感与情感渲染力，音效干净无多余环境音干扰，契合虔诚宁静的整体氛围。
 [Transition / Editing]:
@@ -120,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-books-388308](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-books-388308?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-books-388308)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-books-388308](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-books-388308?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-books-388308)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

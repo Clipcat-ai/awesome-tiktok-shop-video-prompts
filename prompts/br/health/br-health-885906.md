@@ -1,6 +1,6 @@
 ---
 id: br-health-885906
-title: "Kit 3 Gummy Original Hair One+ Vitamina D + Vinagre de Maçã — Promo Pitch (Brazil · Health)"
+title: "Kit 3 Gummy Original Hair One… — Promo Pitch (Brazil · Health)"
 market: br
 category: health
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670481121938885906
 creator: "@lelehelena98"
 published: 2026-08-05
 ---
-# Kit 3 Gummy Original Hair One+ Vitamina D + Vinagre de Maçã — Promo Pitch (Brazil · Health)
+# Kit 3 Gummy Original Hair One… — Promo Pitch (Brazil · Health)
 **Weekly #1** · 🇧🇷 Brazil · Health · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670481121938885906) by [@lelehelena98](https://www.tiktok.com/@lelehelena98). Format: **Promo Pitch** · 31s · hook: **Skit Conflict** · On-camera host · Discount, Bundle deal
-**Opening line (from the video):** “This one is for you to eat, don't eat like an angry capybara”
+**Opening line (translated from the video):** “This one is for you to eat, don't eat like an angry capybara”
 
 **Pain point it attacks:** Poor diet, bad hair care, weak bones, teeth and immunity
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-health-885906](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-health-885906?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-health-885906)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-health-885906](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-health-885906?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-health-885906)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

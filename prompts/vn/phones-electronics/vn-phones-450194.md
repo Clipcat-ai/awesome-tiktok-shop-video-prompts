@@ -1,6 +1,6 @@
 ---
 id: vn-phones-450194
-title: "Máy chiếu quà tặng sinh nhật trẻ em — Product Close-Up (Vietnam · Phones & Electronics)"
+title: "Máy chiếu quà tặng sinh nhật trẻ… — Product Close-Up (Vietnam · Phones & Electronics)"
 market: vn
 category: phones-electronics
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674493604458450194
 creator: "@m.i.n.h_"
 published: 2026-08-16
 ---
-# Máy chiếu quà tặng sinh nhật trẻ em — Product Close-Up (Vietnam · Phones & Electronics)
+# Máy chiếu quà tặng sinh nhật trẻ… — Product Close-Up (Vietnam · Phones & Electronics)
 **Weekly #1** · 🇻🇳 Vietnam · Phones & Electronics · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674493604458450194) by [@m.i.n.h_](https://www.tiktok.com/@m.i.n.h_). Format: **Product Close-Up** · 5s · hook: **Result First** · No one on camera · No promo
-**Opening line (from the video):** “Colorful cartoon projection patterns cover the bedroom wall”
+**Opening line (quoted from the video):** “Colorful cartoon projection patterns cover the bedroom wall”
 
 **Key visuals:** Bedroom Wall · Cartoon School Bus · Cartoon Car · Colorful Rocket · Star · Traffic Sign · Pillow
 
@@ -78,4 +77,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-phones-450194](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-phones-450194?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-phones-450194)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-phones-450194](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-phones-450194?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-phones-450194)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

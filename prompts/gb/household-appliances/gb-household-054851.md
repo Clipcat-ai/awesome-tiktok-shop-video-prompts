@@ -1,6 +1,6 @@
 ---
 id: gb-household-054851
-title: "VAX SpotWash Home Pet-Design - Portable Spot Cleaner with Spin — Real Review (United Kingdom · Household Appliances)"
+title: "VAX SpotWash Home Pet-Design… — Real Review (United Kingdom · Household Appliances)"
 market: gb
 category: household-appliances
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680141015747054851
 creator: "@naughtybutnice726"
 published: 2026-08-31
 ---
-# VAX SpotWash Home Pet-Design - Portable Spot Cleaner with Spin — Real Review (United Kingdom · Household Appliances)
+# VAX SpotWash Home Pet-Design… — Real Review (United Kingdom · Household Appliances)
 **Weekly #1** · 🇬🇧 United Kingdom · Household Appliances · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680141015747054851) by [@naughtybutnice726](https://www.tiktok.com/@naughtybutnice726). Format: **Real Review** · 11s · hook: **Pain Point** · On-camera host · Free gift
-**Opening line (from the video):** “Dark stains are clearly visible on the carpet”
+**Opening beat:** “Dark stains are clearly visible on the carpet”
 
 **Pain point it attacks:** Stubborn dark stains on carpet are hard to clean
 
@@ -84,4 +83,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-household-054851](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-household-054851?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-household-054851)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-household-054851](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-household-054851?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-household-054851)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: ph-textiles-382484
-title: "Sale Kitchen Curtain for Sink Lababo 100x70cm Kurtina Pang Lab — Promo Pitch (Philippines · Textiles & Soft Furnishings)"
+title: "Sale Kitchen Curtain for Sink… — Promo Pitch (Philippines · Textiles & Soft Furnishings)"
 market: ph
 category: textiles-soft-furnishings
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668433921788382484
 creator: "@gracciee89"
 published: 2026-07-30
 ---
-# Sale Kitchen Curtain for Sink Lababo 100x70cm Kurtina Pang Lab — Promo Pitch (Philippines · Textiles & Soft Furnishings)
+# Sale Kitchen Curtain for Sink… — Promo Pitch (Philippines · Textiles & Soft Furnishings)
 **Weekly #1** · 🇵🇭 Philippines · Textiles & Soft Furnishings · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668433921788382484) by [@gracciee89](https://www.tiktok.com/@gracciee89). Format: **Promo Pitch** · 10s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “Cellar is on sale again, price is down, ladies”
+**Opening line (translated from the video):** “Cellar is on sale again, price is down, ladies”
 
 **Key visuals:** Green Curtain · Maple Leaf Pattern · Fabric Texture · Indoor Plant · Photo Frame · Water Cup
 
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-textiles-382484](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-textiles-382484?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-textiles-382484)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-textiles-382484](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-textiles-382484?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-textiles-382484)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

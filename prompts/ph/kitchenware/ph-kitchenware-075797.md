@@ -1,6 +1,6 @@
 ---
 id: ph-kitchenware-075797
-title: "Umitk- — Lifestyle Scene (Philippines · Kitchenware)"
+title: "Umitk-(BUY3 TAKE 1)Kitchen Storage… — Lifestyle Scene (Philippines · Kitchenware)"
 market: ph
 category: kitchenware
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7664111655156075797
 creator: "@carmencarmz2"
 published: 2026-07-19
 ---
-# Umitk- — Lifestyle Scene (Philippines · Kitchenware)
+# Umitk-(BUY3 TAKE 1)Kitchen Storage… — Lifestyle Scene (Philippines · Kitchenware)
 **Weekly #1** · 🇵🇭 Philippines · Kitchenware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7664111655156075797) by [@carmencarmz2](https://www.tiktok.com/@carmencarmz2). Format: **Lifestyle Scene** · 10s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Three stainless steel lunch boxes are displayed layered in a park with green plants”
+**Opening beat:** “Three stainless steel lunch boxes are displayed layered in a park with green plants”
 
 **Key visuals:** Stainless Steel Lunch Box · Black Lunch Bag · Green Lawn · Small Wild Flowers · Tall Trees · Light-colored Stone Platform · Sealed Lid · Zipper
 
@@ -106,4 +105,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-kitchenware-075797](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-kitchenware-075797?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-kitchenware-075797)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-kitchenware-075797](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-kitchenware-075797?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-kitchenware-075797)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: de-collectibles-555553
-title: "Pokemon Premium Kollektion TCG Sammelkarten  Deutsch OVP — Product Close-Up (Germany · Collectibles)"
+title: "Pokemon Premium Kollektion TCG… — Product Close-Up (Germany · Collectibles)"
 market: de
 category: collectibles
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676079881452555553
 creator: "@cl1pper007"
 published: 2026-08-20
 ---
-# Pokemon Premium Kollektion TCG Sammelkarten  Deutsch OVP — Product Close-Up (Germany · Collectibles)
+# Pokemon Premium Kollektion TCG… — Product Close-Up (Germany · Collectibles)
 **Weekly #1** · 🇩🇪 Germany · Collectibles · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676079881452555553) by [@cl1pper007](https://www.tiktok.com/@cl1pper007). Format: **Product Close-Up** · 14s · hook: **Benefit First** · No one on camera · Discount, Coupon
-**Opening line (from the video):** “Use TikTok coupons to get this Pokemon collection box at a discount”
+**Opening line (translated from the video):** “Use TikTok coupons to get this Pokemon collection box at a discount”
 
 **Pain point it attacks:** High price of Pokemon collection boxes, hard to buy with discounts
 
@@ -106,4 +105,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-collectibles-555553](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-collectibles-555553?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-collectibles-555553)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-collectibles-555553](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-collectibles-555553?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-collectibles-555553)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: us-phones-003230
-title: "[BackToSchool] 4G Solar Powered Digital Security Camera with 4 — Real Review (United States · Phones & Electronics)"
+title: "[BackToSchool] 4G Solar Powered… — Real Review (United States · Phones & Electronics)"
 market: us
 category: phones-electronics
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7665275268466003230
 creator: "@masterofhunting"
 published: 2026-07-22
 ---
-# [BackToSchool] 4G Solar Powered Digital Security Camera with 4 — Real Review (United States · Phones & Electronics)
+# [BackToSchool] 4G Solar Powered… — Real Review (United States · Phones & Electronics)
 **Weekly #1** · 🇺🇸 United States · Phones & Electronics · week of 2026-08-03
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7665275268466003230) by [@masterofhunting](https://www.tiktok.com/@masterofhunting). Format: **Real Review** · 57s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “This camera doesn't need Wi-Fi or Internet”
+**Opening line (translated from the video):** “This camera doesn't need Wi-Fi or Internet”
 
 **Pain point it attacks:** Outdoor security devices need wiring or rely on Wi-Fi
 
@@ -51,7 +50,6 @@ Shot 3:
   - Duration: 6.0sec - 9.5sec
   - Scene Type: Ease of Use Demonstration
   - Scene: The scene switches to an outdoor wooden post setting. First, an electric screwdriver is used to fix the camera's black base to an old textured wooden post, then the Latino man raises his hand to hold the camera device already fitted with a solar panel, adjusting the device's angle and position. The background features an open pasture, barn, and wandering free-range chickens. The shot first gives a close-up of the screwdriver turning the screws, then pulls back to show the full installation operation footage
-  - Subject: ...
 Shot 4:
   - Duration: 9.5sec - 13.5sec
   - Scene Type: Product Usage Scenario
@@ -96,7 +94,6 @@ Shot 3:
   - 时长: 6.0sec - 9.5sec
   - 镜头类型: 展示易用性
   - 画面: 画面切换到室外木柱场景，先使用电动螺丝刀将监控的黑色底座固定在老旧木纹立柱上，随后那位拉丁裔男性抬手扶住已经装好太阳能板的监控设备，调整设备的角度与位置，背景是开阔的牧场、谷仓和四处走动的走地鸡，先给螺丝刀拧螺丝的特写，随后拉远镜头展示完整的安装操作画面。
-  - 口播: ...
 Shot 4:
   - 时长: 9.5sec - 13.5sec
   - 镜头类型: 产品使用场景
@@ -160,4 +157,4 @@ Shot 14:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-phones-003230](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-phones-003230?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-phones-003230)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-phones-003230](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-phones-003230?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-phones-003230)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

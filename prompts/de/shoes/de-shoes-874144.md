@@ -1,6 +1,6 @@
 ---
 id: de-shoes-874144
-title: "Stahlkappenschuhe für Herren — Handheld Demo (Germany · Shoes)"
+title: "Stahlkappenschuhe für Herren… — Handheld Demo (Germany · Shoes)"
 market: de
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670059142282874144
 creator: "@8k.live.wallpaper13"
 published: 2026-08-04
 ---
-# Stahlkappenschuhe für Herren — Handheld Demo (Germany · Shoes)
+# Stahlkappenschuhe für Herren… — Handheld Demo (Germany · Shoes)
 **Weekly #1** · 🇩🇪 Germany · Shoes · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670059142282874144) by [@8k.live.wallpaper13](https://www.tiktok.com/@8k.live.wallpaper13). Format: **Handheld Demo** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Look at this! Wow, these shoes are amazing”
+**Opening line (translated from the video):** “Look at this! Wow, these shoes are amazing”
 
 **Key visuals:** Khaki Shoe Box · Gray Sneakers · Wooden Shoe Rack · Transparent Air-cushion Sole · Knob Buckle · Light-colored Matte Floor · Dark Display Table
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 ```text
 [Style]: Trendy e-commerce realistic style, with bright and clean visuals, soft natural highlights, focusing on emphasizing the three-dimensional texture of the shoes and their on-foot effect, combining the immediate impact of a sales-focused short video with fine, detailed quality.
 [Environment]: Inside a bright, modern brand shoe store, the walls are lined with layered wooden shoe racks that neatly display various casual sports shoes, paired with embedded warm spotlights. The floor is made of smooth, polished light-colored matte tiles, making the entire space bright and open, highlighting the fashionable atmosphere of a professional footwear retail store.
-[Tone & Pacing]: Vibrant style of Douyin product recommendations, with a fast, crisp overall rhythm. The segments from unboxing, detail display to on-foot fitting connect smoothly and naturally, using dynamic, engaging shots to continuously hold the audience's attention. The rhythm is well-balanced, with the core advantages of the shoe model prominently featured.
+[Tone & Pacing]: Vibrant style of TikTok product recommendations, with a fast, crisp overall rhythm. The segments from unboxing, detail display to on-foot fitting connect smoothly and naturally, using dynamic, engaging shots to continuously hold the audience's attention. The rhythm is well-balanced, with the core advantages of the shoe model prominently featured.
 [Camera]: Uses an eye-level panoramic unboxing perspective plus low-angle macro close-up shots of the product, paired with orbiting panning shots to fully show the shoe's silhouette. It then switches to a low-angle follow shot focused on the feet to present the dynamic performance of the shoes while walking. The camera movement is smooth and fluid, with extremely strong visual guidance.
 [Lighting]: Professional global soft lighting inside the shoe store, combined with targeted spotlight lighting in the product display area, clearly outlines the lines and textures of the shoe upper and the translucent texture of the outsole. The light and shadow have distinct layers with no unnecessary shadows, restoring the true color and material details of the shoe model to the greatest extent.
 [Character]: A 20-25 year old white male with distinct, relaxed facial contours, a healthy tanned complexion, tight and delicate skin with no obvious blemishes, thick defined eyebrows, a straight high nose bridge, and a sharp jawline. He has neat light brown short hair, no deliberate makeup, a tall and well-proportioned build with smooth limb lines, and wears a pure white casual sports outfit. He is sunny, energetic, friendly and natural, with a surprised and happy smile throughout, and his movements are open and natural, full of appeal.
@@ -73,7 +72,7 @@ Shot 6:
 ```text
 [Style]: 潮流电商写实风，画面通透干净，高光柔和自然，着重突出鞋子的立体质感与上脚效果，兼具带货短视频的直观冲击力与细腻质感。
 [Environment]: 明亮现代的品牌鞋店内，店内墙面布满分层式木质鞋架，鞋架上整齐陈列着各类休闲运动鞋，搭配内嵌式暖光射灯，地面是平整光洁的浅色哑光地砖，整体空间通透明亮，凸显出专业鞋品零售门店的时尚氛围感。
-[Tone & Pacing]: 抖音好物推荐的活力风格，整体节奏明快利落，从开箱、细节展示到上脚试穿的环节衔接流畅自然，用富有感染力的动态镜头持续抓住观众注意力，节奏松紧有度，重点突出鞋款核心优势。
+[Tone & Pacing]: TikTok好物推荐的活力风格，整体节奏明快利落，从开箱、细节展示到上脚试穿的环节衔接流畅自然，用富有感染力的动态镜头持续抓住观众注意力，节奏松紧有度，重点突出鞋款核心优势。
 [Camera]: 采用平视全景开箱视角+低角度产品特写微距镜头，搭配环绕式移镜完整展示鞋身轮廓，后续切换至上脚下的低角度跟拍镜头，呈现行走状态下鞋子的动态表现力，镜头运动顺滑流畅，视觉引导性极强。
 [Lighting]: 鞋店内专业的全局柔光照明，结合产品展示区的定向聚光打光，清晰勾勒出鞋身的线条纹理与鞋底的通透质感，光影层次分明，没有多余阴影，最大程度还原鞋款真实的色彩与材质细节。
 [Character]: 20-25岁的白人男性，面部轮廓立体舒展，健康的小麦色皮肤，肤质紧致细腻，无明显瑕疵，立体浓眉，高挺鼻梁，线条利落的下颌线，留清爽的浅棕短发，无刻意妆容，身形挺拔匀称，四肢线条流畅，身着纯白运动休闲套装，阳光活力亲切自然，全程带着惊喜愉悦的笑容，动作舒展大方，感染力十足。
@@ -121,4 +120,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-shoes-874144](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-shoes-874144?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-shoes-874144)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-shoes-874144](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-shoes-874144?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-shoes-874144)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

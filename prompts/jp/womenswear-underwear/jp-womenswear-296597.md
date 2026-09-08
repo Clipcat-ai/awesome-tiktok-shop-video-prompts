@@ -1,6 +1,6 @@
 ---
 id: jp-womenswear-296597
-title: "ユーモア和文メッセージ風バックプリント半袖Tシャツ ユニセックス 綿100% オーバーサイズ クルーネック モノトーン 韓国 — Product Close-Up (Japan · Womenswear & Underwear)"
+title: "ユーモア和文メッセージ風バックプリ… — Product Close-Up (Japan · Womenswear & Underwear)"
 market: jp
 category: womenswear-underwear
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671145364170296597
 creator: "@salenavi"
 published: 2026-08-07
 ---
-# ユーモア和文メッセージ風バックプリント半袖Tシャツ ユニセックス 綿100% オーバーサイズ クルーネック モノトーン 韓国 — Product Close-Up (Japan · Womenswear & Underwear)
+# ユーモア和文メッセージ風バックプリ… — Product Close-Up (Japan · Womenswear & Underwear)
 **Weekly #1** · 🇯🇵 Japan · Womenswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671145364170296597) by [@salenavi](https://www.tiktok.com/@salenavi). Format: **Product Close-Up** · 8s · hook: **Urgency** · No one on camera · Discount
-**Opening line (from the video):** “Limited time discount”
+**Opening beat:** “Limited time discount”
 
 **Key visuals:** Woven Mat · Short-sleeve T-shirt · Printed Text · Promotional Sign · Light Wood Floor · Natural Light · Home Interior
 
@@ -39,22 +38,18 @@ Shot 1:
   - Duration: 0.0sec - 2.0sec
   - Scene Type: Limited-time offer
   - Scene: A white short-sleeved T-shirt printed with multiple lines of black, white and red contrasting color text and Chinese character patterns, laid flat on a light khaki round woven mat. The initial frame has blurry red and yellow dynamic light and shadow effects that fade away, then the picture becomes clear, a Japanese-style promotional sign with radial yellow lines pops up directly above the T-shirt, clearly marked with limited-time discount information, the camera maintains a steady overhead state, slowly focusing on the print pattern on the back of the T-shirt.
-  - Subject: Oh
 Shot 2:
   - Duration: 2.0sec - 5.5sec
-  - Scene Type: Display of multiple style options (fashion category)
+  - Scene Type: Display of multiple style options
   - Scene: The camera perspective slowly pulls back, fully revealing two identical-print T-shirts, one black and one white, placed side by side on the mat. The text and patterns on the black T-shirt use white and red color matching, while the text and patterns on the white T-shirt use black and red color matching. The two T-shirts are neatly spread out, fully demonstrating the reference for the wearing effect of different colorways, the promotional sign at the top remains fixed at the top of the frame for continuous display.
-  - Subject: Music
 Shot 3:
   - Duration: 5.5sec - 8.5sec
   - Scene Type: Product material display
   - Scene: The camera pushes forward and focuses on the back print of the black T-shirt, zooming in to clearly show the full details of every line of text and Chinese character pattern on the T-shirt, then the camera slowly pulls back again, gradually revealing the full silhouette of the black T-shirt, the home space elements in the background are also slowly exposed, keeping the top promotional sign visible at all times.
-  - Subject: Music
 Shot 4:
   - Duration: 8.5sec - 8.7sec
   - Scene Type: Product material display
   - Scene: The camera stays in the pulled-back state that shows the full silhouette of the black T-shirt, with the home space elements in the background fully revealed.
-  - Subject: you
 [Background Sound]:
 - Light and healing Lo-fi piano tune: soft piano melody, slow rhythm, with subtle drum beats and ambient white noise, the overall atmosphere is warm and relaxing, suitable for the daily life display scene of Japanese-style trendy T-shirts, instrumental music with no obvious lyrics, moderate volume that does not steal focus, enhancing the immersive feeling of relaxed product recommendation.
 [Transition / Editing]:
@@ -74,22 +69,18 @@ Shot 1:
   - 时长: 0.0sec - 2.0sec
   - 镜头类型: 限时优惠
   - 画面: 一件印有多行黑白红撞色文字与汉字图案的白色短袖T恤，平整铺放在浅卡其色的圆形编织地垫上。初始画面带有模糊的红黄动态光影特效过渡消散，随后画面恢复清晰，T恤正上方弹出一块带有放射状黄色线条的日系促销标识牌，清晰标注着限时折扣信息，镜头保持平稳俯视状态，缓慢聚焦在T恤后背的印花图案上。
-  - 口播: Oh
 Shot 2:
   - 时长: 2.0sec - 5.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头视角缓缓拉远，地垫上完整呈现出并排摆放的黑色与白色两款同款印花T恤，黑T恤的文字图案为白红配色，白T恤的文字图案为黑红配色，两款T恤整齐铺展，完整展示出不同配色的上身效果参考，顶部的促销标识牌始终固定在画面上方保持展示。
-  - 口播: Music
 Shot 3:
   - 时长: 5.5sec - 8.5sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头向前推近并聚焦在黑色T恤的后背印花上，放大清晰展示T恤每一行文字与汉字图案的完整细节，随后镜头再次缓慢拉远，逐步呈现出黑色T恤的完整版型，背景里的家居空间元素也随之缓缓露出，始终保持顶部促销标识牌的可见状态。
-  - 口播: Music
 Shot 4:
   - 时长: 8.5sec - 8.7sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头处于拉远后呈现黑色T恤完整版型的状态，背景家居空间元素完整露出。
-  - 口播: you
 [Background Sound]:
 - 轻松治愈的Lo-fi钢琴小调：柔和的钢琴旋律，节奏舒缓，带有轻微的鼓点和环境白噪音，整体氛围温暖、放松，适配日系潮流T恤的生活化展示场景，纯音乐无明显歌词，音量适中不抢镜，强化轻松种草的情绪代入感。
 [Transition / Editing]:
@@ -98,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-womenswear-296597](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-womenswear-296597?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-womenswear-296597)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-womenswear-296597](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-womenswear-296597?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-womenswear-296597)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

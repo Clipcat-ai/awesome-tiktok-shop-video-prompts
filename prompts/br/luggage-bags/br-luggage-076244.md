@@ -1,6 +1,6 @@
 ---
 id: br-luggage-076244
-title: "Kit 7 Pecas Bolsa Organizadoras Para Mala Roupas Bagagem Viage — Lifestyle Scene (Brazil · Luggage & Bags)"
+title: "Kit 7 Pecas Bolsa Organizadoras… — Lifestyle Scene (Brazil · Luggage & Bags)"
 market: br
 category: luggage-bags
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7663061149797076244
 creator: "@user615554108246"
 published: 2026-07-16
 ---
-# Kit 7 Pecas Bolsa Organizadoras Para Mala Roupas Bagagem Viage — Lifestyle Scene (Brazil · Luggage & Bags)
+# Kit 7 Pecas Bolsa Organizadoras… — Lifestyle Scene (Brazil · Luggage & Bags)
 **Weekly #1** · 🇧🇷 Brazil · Luggage & Bags · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7663061149797076244) by [@user615554108246](https://www.tiktok.com/@user615554108246). Format: **Lifestyle Scene** · 15s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “Guys, I don't know who set this price, but it's ridiculously good value”
+**Opening line (translated from the video):** “Guys, I don't know who set this price, but it's ridiculously good value”
 
 **Pain point it attacks:** Travel luggage is always messy
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-luggage-076244](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-luggage-076244?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-luggage-076244)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-luggage-076244](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-luggage-076244?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-luggage-076244)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: ph-health-211089
-title: "Simplee Chanca Piedra Capsule Supplements – FDA Approved — Talking Head (Philippines · Health)"
+title: "Simplee Chanca Piedra Capsule… — Talking Head (Philippines · Health)"
 market: ph
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7660823323458211089
 creator: "@quickhealthph01"
 published: 2026-07-10
 ---
-# Simplee Chanca Piedra Capsule Supplements – FDA Approved — Talking Head (Philippines · Health)
+# Simplee Chanca Piedra Capsule… — Talking Head (Philippines · Health)
 **Weekly #1** · 🇵🇭 Philippines · Health · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7660823323458211089) by [@quickhealthph01](https://www.tiktok.com/@quickhealthph01). Format: **Talking Head** · 45s · hook: **Pain Point** · No one on camera · No promo
-**Opening line (from the video):** “You have trouble urinating at night, especially when your urine is foamy and smelly”
+**Opening line (translated from the video):** “You have trouble urinating at night, especially when your urine is foamy and smelly”
 
 **Pain point it attacks:** Foamy smelly urine, kidney pain, itchy skin
 
@@ -66,7 +65,7 @@ Shot 6:
   - Duration: 35.5sec - 45.5sec
   - Scene Type: Product usage scenario
   - Scene: On a fresh forest meadow dappled with sunlight filtering through tree leaves, a kidney anatomical model is placed in the background. The green anthropomorphic capsule character wears a broad happy smile, one hand holding a herbal health supplement bottle printed with the product name, while the other hand makes various enthusiastic demonstration gestures. Finally, it takes out a small yellow basket and points to a shopping icon to complete the recommendation promotion, with corresponding product promotional subtitles displayed synchronously at the bottom.
-  - Subject: It supports Kidney Health by helping prevent and break down kidney stones and it's... also promotes healthy urinary tract function. At para mas convenient Nasa capsule na to at makukuha mo ito sa yellow basket. Thank you.
+  - Subject: It supports Kidney Health by helping prevent and break down kidney stones and it's... also promotes healthy urinary tract function. At para mas convenient Nasa capsule na to at makukuha mo ito sa yellow basket.
 [Background Sound]:
 - No background music. The entire runtime features a purely human voiceover in a 'boss' tone with intense emotion and a strong sense of urgency, drawing the audience's attention through the narrator's tone, intonation, and the dramatic tension of the content. The pace is tight, the speaking speed is fast, and the mood is highly charged.
 [Transition / Editing]:
@@ -111,7 +110,7 @@ Shot 6:
   - 时长: 35.5sec - 45.5sec
   - 镜头类型: 产品使用场景
   - 画面: 阳光透过树叶光斑点点的清新森林草地，背景摆放着肾脏解剖模型。绿色胶囊拟人角色笑容满面，一只手抱着印有产品名的草药保健品瓶子，另一只手热情地做出各类展示动作，最后掏出一个黄色小篮子，指向购物图标完成种草宣传，底部同步搭配产品宣传字幕。
-  - 口播: It supports Kidney Health by helping prevent and break down kidney stones and it's... also promotes healthy urinary tract function. At para mas convenient Nasa capsule na to at makukuha mo ito sa yellow basket. Thank you.
+  - 口播: It supports Kidney Health by helping prevent and break down kidney stones and it's... also promotes healthy urinary tract function. At para mas convenient Nasa capsule na to at makukuha mo ito sa yellow basket.
 [Background Sound]:
 - 无背景音乐，全程为带有强烈情绪和紧迫感的“老板”口吻纯人声旁白，依靠旁白的语气、语调和内容张力吸引观众注意力，节奏紧凑、语速较快、情绪激动。
 [Transition / Editing]:
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-health-211089](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-health-211089?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-health-211089)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-health-211089](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-health-211089?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-health-211089)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

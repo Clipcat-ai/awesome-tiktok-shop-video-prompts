@@ -1,6 +1,6 @@
 ---
 id: ph-fashion-684552
-title: "【CA】Women's  Stud Earrings Round Birthstone Hypoallergenic Uni — Product Close-Up (Philippines · Fashion Accessories)"
+title: "【CA】Women's Stud Earrings Round… — Product Close-Up (Philippines · Fashion Accessories)"
 market: ph
 category: fashion-accessories
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7653101513484684552
 creator: "@jessanieshop"
 published: 2026-06-19
 ---
-# 【CA】Women's  Stud Earrings Round Birthstone Hypoallergenic Uni — Product Close-Up (Philippines · Fashion Accessories)
+# 【CA】Women's Stud Earrings Round… — Product Close-Up (Philippines · Fashion Accessories)
 **Weekly #1** · 🇵🇭 Philippines · Fashion Accessories · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7653101513484684552) by [@jessanieshop](https://www.tiktok.com/@jessanieshop). Format: **Product Close-Up** · 17s · hook: **Result First** · No one on camera · Bundle deal
-**Opening line (from the video):** “Buy 1 take 1, hypoallergenic birthstone earrings”
+**Opening line (quoted from the video):** “Buy 1 take 1, hypoallergenic birthstone earrings”
 
 **Key visuals:** Pink Leather · Silk Satin · Pink Cherry Blossom Petals · Gold Stud Earrings · Pink Birthstone · Water Droplets · Studio Light
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-fashion-684552](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-fashion-684552?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-fashion-684552)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-fashion-684552](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-fashion-684552?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-fashion-684552)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

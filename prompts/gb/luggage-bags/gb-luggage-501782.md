@@ -1,6 +1,6 @@
 ---
 id: gb-luggage-501782
-title: "Men's Slim RFID Blocking Rfid Theft Proof Aluminum Wallet — Talking Head (United Kingdom · Luggage & Bags)"
+title: "Men's Slim RFID Blocking Rfid… — Talking Head (United Kingdom · Luggage & Bags)"
 market: gb
 category: luggage-bags
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7611906383092501782
 creator: "@thebrandowner"
 published: 2026-02-28
 ---
-# Men's Slim RFID Blocking Rfid Theft Proof Aluminum Wallet — Talking Head (United Kingdom · Luggage & Bags)
+# Men's Slim RFID Blocking Rfid… — Talking Head (United Kingdom · Luggage & Bags)
 **Weekly #1** · 🇬🇧 United Kingdom · Luggage & Bags · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7611906383092501782) by [@thebrandowner](https://www.tiktok.com/@thebrandowner). Format: **Talking Head** · 36s · hook: **Pain Point** · On-camera host · Discount
-**Opening line (from the video):** “Watch how she takes £50 out of his wallet without him even noticing”
+**Opening line (quoted from the video):** “Watch how she takes £50 out of his wallet without him even noticing”
 
 **Pain point it attacks:** Wallets without RFID blocking are vulnerable to theft
 
@@ -41,31 +40,22 @@ Shot 1:
   - Duration: 0.0sec - 12.5sec
   - Scene Type: Highlight the pain point problem
   - Scene: Inside the Irish pub in black-and-white surveillance footage, a male guest in a coat stands in front of the bar with his back to the camera, a phone placed in his back pocket. Many guests are sitting around drinking and chatting. A woman in a long black coat walks towards the bar from the left side of the frame. She first tentatively reaches her hand close to the man's pocket, briefly steps back to adjust her state after noticing the surrounding movement, then walks to the man's side again, lowers her head to hold the scanning device in her hand close to the man's back pocket for several seconds, then immediately turns around and walks quickly out of the frame after completing the operation.
-  - Subject: Watch how she takes £50 out of his wallet without him even
-So she gets spooked, thinks she's been seen but she's been
-She's not done, she knows the wallet's an easy target, so using the content
-She brings the card reader down, holds it near the wallet for her
+  - Subject: Watch how she takes £50 out of his wallet without him even So she gets spooked, thinks she's been seen but she's been She's not done, she knows the wallet's an easy target, so using the content She brings the card reader down, holds it near the wallet for her
 Shot 2:
   - Duration: 12.5sec - 17.5sec
   - Scene Type: Set up the problem
   - Scene: The frame cuts from the black-and-white surveillance footage to a colorful first-person perspective. The blogger's hand is holding a black wallet, standing on the floor paved with retro patterned tiles. The hand gently rotates the wallet to show the overall appearance of the wallet from different angles, with neatly arranged wooden dining chairs visible in the background.
-  - Subject: a few seconds, letting the transaction complete and she's done.
-Cybercrime is on the rise because most wallets don't have RFID blocks.
+  - Subject: a few seconds, letting the transaction complete and she's done. Cybercrime is on the rise because most wallets don't have RFID blocks.
 Shot 3:
   - Duration: 17.5sec - 22.0sec
   - Scene Type: Showcase product materials
   - Scene: The blogger places the wallet on a brownish-yellow wooden tabletop, slowly opens the wallet's flap, and displays the card slot structure inside the wallet one by one. The small denomination British pound banknotes placed inside are clearly visible, and the finger gently taps the transparent card slot part to show the internal space layout.
-  - Subject: blocking technology.  And the easy solution for this is by keeping your car
-in the wallet that can't be scanned by criminals. So I've got one like this that blocks
+  - Subject: blocking technology. And the easy solution for this is by keeping your car in the wallet that can't be scanned by criminals. So I've got one like this that blocks
 Shot 4:
   - Duration: 22.0sec - 36.0sec
   - Scene Type: Demonstrate core functions
   - Scene: The blogger closes the wallet and stands up, showing the wallet while walking: first, he pushes the slider on the side of the wallet, multiple cards pop out neatly from the side of the wallet, then he rotates the wallet to show the zipper compartment on the back. The camera follows the hand movement to sweep across the surrounding wooden floor, patterned tiles and wine display cabinet, fully showing all the detailed designs of the wallet.
-  - Subject: RFID signal. But it's also got this switch on the side that's sliding
-your cars in and out, making it easy to access them. And I like how it's
-well made, it's neat and compact and I think I only paid about £12 for it.
-So if I can find it again for that half price, I'll try and link it in the bottom of the video.
-Thank you.
+  - Subject: RFID signal. But it's also got this switch on the side that's sliding your cars in and out, making it easy to access them. And I like how it's well made, it's neat and compact and I think I only paid about £12 for it. So if I can find it again for that half price, I'll try and link it in the bottom of the video.
 [Background Sound]:
 - No background music, only a calm background human voice narration paired with subtle ambient noise. The overall atmosphere is serious with a science popularization warning tone, ensuring viewers focus on receiving information about the anti-theft wallet.
 [Transition / Editing]:
@@ -85,31 +75,22 @@ Shot 1:
   - 时长: 0.0sec - 12.5sec
   - 镜头类型: 点明痛点问题
   - 画面: 黑白监控画面的爱尔兰酒吧内，吧台前站着一位背对镜头、身着外套的男性客人，他的后裤袋里放着手机，周围围坐着不少喝酒聊天的客人。穿黑色长款外套的女性从画面左侧走向吧台，先试探性地伸手靠近男性的裤袋位置，察觉周围动静后短暂后退调整状态，随后再次走到男性身侧，低头将手中的扫码设备贴近男性的后裤袋位置停留数秒，完成操作后立刻转身快步离开画面。
-  - 口播: Watch how she takes £50 out of his wallet without him even
-So she gets spooked, thinks she's been seen but she's been
-She's not done, she knows the wallet's an easy target, so using the content
-She brings the card reader down, holds it near the wallet for her
+  - 口播: Watch how she takes £50 out of his wallet without him even So she gets spooked, thinks she's been seen but she's been She's not done, she knows the wallet's an easy target, so using the content She brings the card reader down, holds it near the wallet for her
 Shot 2:
   - 时长: 12.5sec - 17.5sec
   - 镜头类型: 设置问题
   - 画面: 画面从黑白监控画面切为彩色第一人称视角，博主的手握着一款黑色钱包，站在铺有复古花纹瓷砖的地面上，手部轻轻转动钱包，从不同角度展示钱包的整体外观造型，背景可以看到摆放整齐的木质餐椅。
-  - 口播: a few seconds, letting the transaction complete and she's done.
-Cybercrime is on the rise because most wallets don't have RFID blocks.
+  - 口播: a few seconds, letting the transaction complete and she's done. Cybercrime is on the rise because most wallets don't have RFID blocks.
 Shot 3:
   - 时长: 17.5sec - 22.0sec
   - 镜头类型: 产品材质展示
   - 画面: 博主将钱包放在棕黄色的木质桌面上，缓缓打开钱包的翻盖，逐一展示钱包内部的卡位结构，里面放置的小额英镑纸币清晰可见，手指轻轻点过透明卡位部分，展示内部空间布局。
-  - 口播: blocking technology.  And the easy solution for this is by keeping your car
-in the wallet that can't be scanned by criminals. So I've got one like this that blocks
+  - 口播: blocking technology. And the easy solution for this is by keeping your car in the wallet that can't be scanned by criminals. So I've got one like this that blocks
 Shot 4:
   - 时长: 22.0sec - 36.0sec
   - 镜头类型: 展示核心功能
   - 画面: 博主合上钱包站起身，一边走动一边展示钱包：先是推动钱包侧面的滑钮，多张卡片从钱包侧边整齐弹出，随后转动钱包展示背面的拉链隔层，镜头跟随手部移动扫过周边的木质地板、花纹瓷砖与红酒陈列柜，完整展示钱包的所有细节设计。
-  - 口播: RFID signal. But it's also got this switch on the side that's sliding
-your cars in and out, making it easy to access them. And I like how it's
-well made, it's neat and compact and I think I only paid about £12 for it.
-So if I can find it again for that half price, I'll try and link it in the bottom of the video.
-Thank you.
+  - 口播: RFID signal. But it's also got this switch on the side that's sliding your cars in and out, making it easy to access them. And I like how it's well made, it's neat and compact and I think I only paid about £12 for it. So if I can find it again for that half price, I'll try and link it in the bottom of the video.
 [Background Sound]:
 - 无背景音乐，仅保留舒缓的背景人声解说搭配轻微环境底噪，整体氛围严肃带有科普警示意味，确保观众专注接收防盗钱包的相关信息。
 [Transition / Editing]:
@@ -118,4 +99,4 @@ Thank you.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-luggage-501782](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-luggage-501782?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-luggage-501782)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-luggage-501782](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-luggage-501782?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-luggage-501782)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

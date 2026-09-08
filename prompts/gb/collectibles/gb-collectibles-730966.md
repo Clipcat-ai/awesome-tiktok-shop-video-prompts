@@ -1,6 +1,6 @@
 ---
 id: gb-collectibles-730966
-title: "200PCS or 25PCS Trading Card Protector Set — Product Close-Up (United Kingdom · Collectibles)"
+title: "200PCS or 25PCS Trading Card… — Product Close-Up (United Kingdom · Collectibles)"
 market: gb
 category: collectibles
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679678574751730966
 creator: "@funmaxgam"
 published: 2026-08-30
 ---
-# 200PCS or 25PCS Trading Card Protector Set — Product Close-Up (United Kingdom · Collectibles)
+# 200PCS or 25PCS Trading Card… — Product Close-Up (United Kingdom · Collectibles)
 **Weekly #1** · 🇬🇧 United Kingdom · Collectibles · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679678574751730966) by [@funmaxgam](https://www.tiktok.com/@funmaxgam). Format: **Product Close-Up** · 15s · hook: **Pain Point** · Hands only · Bundle deal
-**Opening line (from the video):** “Are you still leaving your best cards unprotected”
+**Opening line (quoted from the video):** “Are you still leaving your best cards unprotected”
 
 **Pain point it attacks:** Trading cards left unprotected get damaged easily
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-collectibles-730966](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-collectibles-730966?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-collectibles-730966)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-collectibles-730966](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-collectibles-730966?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-collectibles-730966)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

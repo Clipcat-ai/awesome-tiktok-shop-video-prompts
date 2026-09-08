@@ -1,6 +1,6 @@
 ---
 id: gb-sports-912662
-title: "Outsunny 41L Festival Trolley on Wheels — Real Review (United Kingdom · Sports & Outdoor)"
+title: "Outsunny 41L Festival Trolley on… — Real Review (United Kingdom · Sports & Outdoor)"
 market: gb
 category: sports-outdoor
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670482638464912662
 creator: "@liyauktoys"
 published: 2026-08-05
 ---
-# Outsunny 41L Festival Trolley on Wheels — Real Review (United Kingdom · Sports & Outdoor)
+# Outsunny 41L Festival Trolley on… — Real Review (United Kingdom · Sports & Outdoor)
 **Weekly #1** · 🇬🇧 United Kingdom · Sports & Outdoor · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670482638464912662) by [@liyauktoys](https://www.tiktok.com/@liyauktoys). Format: **Real Review** · 13s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Honestly, this folding wagon is one of the best buys I've made”
+**Opening line (quoted from the video):** “Honestly, this folding wagon is one of the best buys I've made”
 
 **Pain point it attacks:** Tired of making multiple trips carrying stuff
 
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-sports-912662](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-sports-912662?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-sports-912662)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-sports-912662](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-sports-912662?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-sports-912662)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

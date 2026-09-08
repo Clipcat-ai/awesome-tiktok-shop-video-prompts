@@ -1,6 +1,6 @@
 ---
 id: jp-kitchenware-604757
-title: "オイルスプレー 250ml 霧吹き 耐熱 ミスト噴射 カロリーカット 油漏れ防止設計 広口 高性能フィルター 丸洗いOK 料 — Promo Pitch (Japan · Kitchenware)"
+title: "オイルスプレー 250ml 霧吹き 耐熱… — Promo Pitch (Japan · Kitchenware)"
 market: jp
 category: kitchenware
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675253265587604757
 creator: "@kana_style"
 published: 2026-08-18
 ---
-# オイルスプレー 250ml 霧吹き 耐熱 ミスト噴射 カロリーカット 油漏れ防止設計 広口 高性能フィルター 丸洗いOK 料 — Promo Pitch (Japan · Kitchenware)
+# オイルスプレー 250ml 霧吹き 耐熱… — Promo Pitch (Japan · Kitchenware)
 **Weekly #1** · 🇯🇵 Japan · Kitchenware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675253265587604757) by [@kana_style](https://www.tiktok.com/@kana_style). Format: **Promo Pitch** · 16s · hook: **Benefit First** · Hands only · Discount, Coupon
-**Opening line (from the video):** “This oil spray is half price, it's really a godsend for cooking”
+**Opening line (translated from the video):** “This oil spray is half price, it's really a godsend for cooking”
 
 **Pain point it attacks:** Hard to control oil amount, easy to overuse, high cooking calories
 
@@ -65,7 +64,7 @@ Shot 5:
 [Background Sound]:
 - Upbeat TikTok-style background music with a fast tempo, strong drum beats, and relatively high volume, featuring electronic synthesizers and light vocal samples. Perfect for fast-paced product promotion videos, it creates a sense of urgency and excitement of 'limited-time flash sale + surprise discount', with a style similar to a 'promotion carnival anthem'. The track may be named 'Flash Sale Bounce' or 'Limited Time Deal Anthem', tailored for viral promotion of kitchen supplies and daily household goods.
 [Transition / Editing]:
-- Smooth fast jump cut editing that switches scenes naturally following the real logic of users' daily cooking scenarios. The overall rhythm is bright and compact, matching the popular editing style of Douyin short videos, with no awkward or abrupt transition effects throughout.
+- Smooth fast jump cut editing that switches scenes naturally following the real logic of users' daily cooking scenarios. The overall rhythm is bright and compact, matching the popular editing style of TikTok short videos, with no awkward or abrupt transition effects throughout.
 ```
 ## 提示词（中文）
 ```text
@@ -105,9 +104,9 @@ Shot 5:
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏明快、鼓点强烈、音量偏高，带有电子合成器和轻快人声采样，适合快节奏带货视频，营造“限时抢购+惊喜优惠”的紧迫感与兴奋氛围，歌曲风格类似“促销狂欢曲”，名字可能是“Flash Sale Bounce”或“Limited Time Deal Anthem”，适配厨房用品生活好物类爆款推广。
 [Transition / Editing]:
-- 采用流畅的场景快速跳转剪辑（Jump cuts），顺应用户日常烹饪的真实使用场景逻辑自然切换画面，整体节奏明快紧凑，符合抖音短视频的热门剪辑风格，全程无生硬突兀的转场效果。
+- 采用流畅的场景快速跳转剪辑（Jump cuts），顺应用户日常烹饪的真实使用场景逻辑自然切换画面，整体节奏明快紧凑，符合TikTok短视频的热门剪辑风格，全程无生硬突兀的转场效果。
 ```
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-kitchenware-604757](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-kitchenware-604757?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-kitchenware-604757)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-kitchenware-604757](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-kitchenware-604757?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-kitchenware-604757)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

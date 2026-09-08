@@ -1,6 +1,6 @@
 ---
 id: br-textiles-225352
-title: "Mantas de Sofá Luxo de todas as medidas King Gigante 240x180/2 — Handheld Demo (Brazil · Textiles & Soft Furnishings)"
+title: "Mantas de Sofá Luxo de todas as… — Handheld Demo (Brazil · Textiles & Soft Furnishings)"
 market: br
 category: textiles-soft-furnishings
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676222221467225352
 creator: "@lunabshopp"
 published: 2026-08-20
 ---
-# Mantas de Sofá Luxo de todas as medidas King Gigante 240x180/2 — Handheld Demo (Brazil · Textiles & Soft Furnishings)
+# Mantas de Sofá Luxo de todas as… — Handheld Demo (Brazil · Textiles & Soft Furnishings)
 **Weekly #1** · 🇧🇷 Brazil · Textiles & Soft Furnishings · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676222221467225352) by [@lunabshopp](https://www.tiktok.com/@lunabshopp). Format: **Handheld Demo** · 24s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “You can transform the whole living room... Just throw this big blanket on the sofa”
+**Opening line (translated from the video):** “You can transform the whole living room... Just throw this big blanket on the sofa”
 
 **Pain point it attacks:** Sofa gets dirty easily, living room decor is dull
 
@@ -39,7 +38,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 9.5sec
-  - Scene Type: Display multiple style options (fashion category)
+  - Scene Type: Display multiple style options
   - Scene: The Latina woman stands next to a light-colored sofa, holds the two corners of a large throw blanket with an off-white base, meander and zigzag patterns and tasseled edges, fully unfolds the blanket, and carefully drapes it over the sofa surface. She then bends down to smooth the blanket flat with both hands, showing the generous size of the blanket that fully covers the entire king-size sofa. Finally, she stands up straight, spreads her hands to gesture the full coverage area of the blanket, with a confident smile on her face.
   - Subject: você consegue transformar a sala inteira... Só jogando essa manta no sofá. Ela é gigante. 3 metros e cobre o sofá King de ponta a ponta.
 Shot 2:
@@ -79,7 +78,7 @@ Shot 5:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 9.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 拉丁裔女性站在浅色沙发旁，双手握住米白色底配回纹、锯齿纹样且边缘带流苏的大尺寸盖毯的两角，将盖毯完全展开，仔细铺盖在沙发表面，随后弯腰用双手将盖毯抚平放平整，展示出盖毯完全覆盖整张king尺寸沙发的宽大效果，最后站直身体摊开双手比划展示盖毯的完整覆盖范围，脸上带着自信的笑容。
   - 口播: você consegue transformar a sala inteira... Só jogando essa manta no sofá. Ela é gigante. 3 metros e cobre o sofá King de ponta a ponta.
 Shot 2:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-textiles-225352](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-textiles-225352?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-textiles-225352)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-textiles-225352](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-textiles-225352?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-textiles-225352)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

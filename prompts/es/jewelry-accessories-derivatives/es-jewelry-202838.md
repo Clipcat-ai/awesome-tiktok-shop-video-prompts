@@ -1,6 +1,6 @@
 ---
 id: es-jewelry-202838
-title: "Pulsera de Cobre Artesanal Ajustable – 4 Diseños Únicos para E — Handheld Demo (Spain · Jewelry Accessories & Derivatives)"
+title: "Pulsera de Cobre Artesanal… — Handheld Demo (Spain · Jewelry Accessories & Derivatives)"
 market: es
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676419755003202838
 creator: "@bharat.artesania"
 published: 2026-08-21
 ---
-# Pulsera de Cobre Artesanal Ajustable – 4 Diseños Únicos para E — Handheld Demo (Spain · Jewelry Accessories & Derivatives)
+# Pulsera de Cobre Artesanal… — Handheld Demo (Spain · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇪🇸 Spain · Jewelry Accessories & Derivatives · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676419755003202838) by [@bharat.artesania](https://www.tiktok.com/@bharat.artesania). Format: **Handheld Demo** · 18s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Elevate your style with energy and elegance. These bracelets...”
+**Opening line (translated from the video):** “Elevate your style with energy and elegance. These bracelets...”
 
 **Key visuals:** Copper Bracelet · White Linen Cloth · Hand · Metal Pattern · Magnetic Buckle · Wrist
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-jewelry-202838](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-jewelry-202838?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-jewelry-202838)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-jewelry-202838](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-jewelry-202838?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-jewelry-202838)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

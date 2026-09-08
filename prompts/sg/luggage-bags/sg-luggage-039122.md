@@ -1,6 +1,6 @@
 ---
 id: sg-luggage-039122
-title: "Trolley Fresh Retractable Folding Grocery Shopping Cart with D — Handheld Demo (Singapore · Luggage & Bags)"
+title: "Trolley Fresh Retractable Folding… — Handheld Demo (Singapore · Luggage & Bags)"
 market: sg
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671373462665039122
 creator: "@glowuphubz"
 published: 2026-08-07
 ---
-# Trolley Fresh Retractable Folding Grocery Shopping Cart with D — Handheld Demo (Singapore · Luggage & Bags)
+# Trolley Fresh Retractable Folding… — Handheld Demo (Singapore · Luggage & Bags)
 **Weekly #1** · 🇸🇬 Singapore · Luggage & Bags · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671373462665039122) by [@glowuphubz](https://www.tiktok.com/@glowuphubz). Format: **Handheld Demo** · 14s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Have you received your GST money? If yes, buy this trolley”
+**Opening line (translated from the video):** “Have you received your GST money? If yes, buy this trolley”
 
 **Pain point it attacks:** Carrying heavy groceries at wet market is inconvenient
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-luggage-039122](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-luggage-039122?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-luggage-039122)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-luggage-039122](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-luggage-039122?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-luggage-039122)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

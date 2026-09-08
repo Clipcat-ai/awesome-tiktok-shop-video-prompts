@@ -1,6 +1,6 @@
 ---
 id: jp-womenswear-816583
-title: "シアートップス 長袖 透け感 夏 涼しい UV シアー カットソー トップス レディース ラウンドネック 選べるタイプ 重ね — Talking Head (Japan · Womenswear & Underwear)"
+title: "シアートップス 長袖 透け感 夏… — Talking Head (Japan · Womenswear & Underwear)"
 market: jp
 category: womenswear-underwear
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675234037685816583
 creator: "@mamalife_jp"
 published: 2026-08-18
 ---
-# シアートップス 長袖 透け感 夏 涼しい UV シアー カットソー トップス レディース ラウンドネック 選べるタイプ 重ね — Talking Head (Japan · Womenswear & Underwear)
+# シアートップス 長袖 透け感 夏… — Talking Head (Japan · Womenswear & Underwear)
 **Weekly #1** · 🇯🇵 Japan · Womenswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675234037685816583) by [@mamalife_jp](https://www.tiktok.com/@mamalife_jp). Format: **Talking Head** · 37s · hook: **Curiosity Gap** · On-camera host · Discount, Coupon
-**Opening line (from the video):** “Does this have a sheer effect? This sheer top can be worn, if you wear a camisole inside”
+**Opening line (translated from the video):** “Does this have a sheer effect? This sheer top can be worn, if you wear a camisole inside”
 
 **Pain point it attacks:** Sheer tops are see-through, improper matching affects appearance
 
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-womenswear-816583](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-womenswear-816583?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-womenswear-816583)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-womenswear-816583](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-womenswear-816583?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-womenswear-816583)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

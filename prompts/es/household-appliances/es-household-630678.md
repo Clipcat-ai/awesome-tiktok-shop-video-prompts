@@ -1,6 +1,6 @@
 ---
 id: es-household-630678
-title: "Plancha de vapor vertical — Real Review (Spain · Household Appliances)"
+title: "Plancha de vapor vertical, plancha… — Real Review (Spain · Household Appliances)"
 market: es
 category: household-appliances
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671054954630630678
 creator: "@trukito.shop"
 published: 2026-08-06
 ---
-# Plancha de vapor vertical — Real Review (Spain · Household Appliances)
+# Plancha de vapor vertical, plancha… — Real Review (Spain · Household Appliances)
 **Weekly #1** · 🇪🇸 Spain · Household Appliances · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671054954630630678) by [@trukito.shop](https://www.tiktok.com/@trukito.shop). Format: **Real Review** · 15s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “This shirt needs a quick fix”
+**Opening line (translated from the video):** “This shirt needs a quick fix”
 
 **Pain point it attacks:** Shirt has wrinkles needing quick fixing
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-household-630678](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-household-630678?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-household-630678)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-household-630678](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-household-630678?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-household-630678)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

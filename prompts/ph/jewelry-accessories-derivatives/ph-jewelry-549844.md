@@ -1,6 +1,6 @@
 ---
 id: ph-jewelry-549844
-title: "Elegant Chinese Green Jade Bead Bracelet for Women's Accessori — Product Close-Up (Philippines · Jewelry Accessories & Derivatives)"
+title: "Elegant Chinese Green Jade Bead… — Product Close-Up (Philippines · Jewelry Accessories & Derivatives)"
 market: ph
 category: jewelry-accessories-derivatives
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7666253779133549844
 creator: "@nang_del"
 published: 2026-07-25
 ---
-# Elegant Chinese Green Jade Bead Bracelet for Women's Accessori — Product Close-Up (Philippines · Jewelry Accessories & Derivatives)
+# Elegant Chinese Green Jade Bead… — Product Close-Up (Philippines · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇵🇭 Philippines · Jewelry Accessories & Derivatives · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7666253779133549844) by [@nang_del](https://www.tiktok.com/@nang_del). Format: **Product Close-Up** · 15s · hook: **Result First** · No one on camera · No promo
-**Opening line (from the video):** “Lucky charm, sissies love to order”
+**Opening beat:** “Lucky charm, sissies love to order”
 
 **Key visuals:** Green Jade Bracelet · Light Beige Stone Countertop · Green Leaves · Gold Pendant · White Text · Black Background
 
@@ -90,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-jewelry-549844](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-jewelry-549844?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-jewelry-549844)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-jewelry-549844](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-jewelry-549844?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-jewelry-549844)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

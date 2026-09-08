@@ -1,6 +1,6 @@
 ---
 id: sg-fashion-822096
-title: "New hijab cap for women made from silk cotton; can be worn as — Lifestyle Scene (Singapore · Fashion Accessories)"
+title: "New hijab cap for women made from… — Lifestyle Scene (Singapore · Fashion Accessories)"
 market: sg
 category: fashion-accessories
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7654803517839822096
 creator: "@mini.adorn.sg"
 published: 2026-06-24
 ---
-# New hijab cap for women made from silk cotton; can be worn as — Lifestyle Scene (Singapore · Fashion Accessories)
+# New hijab cap for women made from… — Lifestyle Scene (Singapore · Fashion Accessories)
 **Weekly #1** · 🇸🇬 Singapore · Fashion Accessories · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7654803517839822096) by [@mini.adorn.sg](https://www.tiktok.com/@mini.adorn.sg). Format: **Lifestyle Scene** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “One cap for your whole day”
+**Opening line (quoted from the video):** “One cap for your whole day”
 
 **Pain point it attacks:** Headscarf shifts easily, fabric is uncomfortable
 
@@ -39,7 +38,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 1.5sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: On a display stand against a pure white background, eight stretch headwrap caps in different colors are neatly arranged in two rows, ordered from black, white, dark gray, light gray, to brown, light brown, caramel, and nude beige. Corresponding text subtitles appear at the top of the frame to clearly display the full product collection.
   - Subject: One cap for your whole day.
 Shot 2:
@@ -89,7 +88,7 @@ Shot 7:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 1.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 纯白背景的展示台上，八顶不同颜色的弹力头巾帽整齐分两排摆放，从黑色、白色、深灰、浅灰，到棕褐、浅棕、焦糖色、裸米色依次排列，画面上方浮现对应文字字幕，清晰展示全套产品。
   - 口播: One cap for your whole day.
 Shot 2:
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-fashion-822096](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-fashion-822096?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-fashion-822096)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-fashion-822096](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-fashion-822096?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-fashion-822096)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

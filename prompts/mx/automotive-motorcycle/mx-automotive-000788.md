@@ -1,6 +1,6 @@
 ---
 id: mx-automotive-000788
-title: "All Cars Magic Pen - Set de rotuladores para reparar arañazos — Real Review (Mexico · Automotive & Motorcycle)"
+title: "All Cars Magic Pen - Set de… — Real Review (Mexico · Automotive & Motorcycle)"
 market: mx
 category: automotive-motorcycle
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669618382056000788
 creator: "@mauescalona1"
 published: 2026-08-03
 ---
-# All Cars Magic Pen - Set de rotuladores para reparar arañazos — Real Review (Mexico · Automotive & Motorcycle)
+# All Cars Magic Pen - Set de… — Real Review (Mexico · Automotive & Motorcycle)
 **Weekly #1** · 🇲🇽 Mexico · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669618382056000788) by [@mauescalona1](https://www.tiktok.com/@mauescalona1). Format: **Real Review** · 73s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Did your car get scratched? We bought this magic pen to fix paint scratches”
+**Opening line (translated from the video):** “Did your car get scratched? We bought this magic pen to fix paint scratches”
 
 **Pain point it attacks:** Car paint has scratches and dents
 
@@ -41,7 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 9.5sec
   - Scene Type: Unboxing
   - Scene: On a home table over wood-grain flooring, the first-person camera faces a white courier packaging bag, as the person uses their fingers to pull open the bag and take out a gradient purple product box printed with the product name, flipping the box to show text information from different angles, then opening the box to remove the pen-shaped product inside, with steady, fluid hand movements throughout.
-  - Subject: ¿Te rayaron tu carro?  Nos pedimos esta plumita mágica para quitar los rayones de la piel. el campo. En Tukon
+  - Subject: ¿Te rayaron tu carro? Nos pedimos esta plumita mágica para quitar los rayones de la piel. el campo. En Tukon
 Shot 2:
   - Duration: 9.5sec - 14.0sec
   - Scene Type: Product Design Highlights
@@ -66,12 +65,12 @@ Shot 6:
   - Duration: 54.0sec - 62.0sec
   - Scene Type: Product Usage Scenario
   - Scene: The camera focuses on the painted surface after the application, as the man runs his finger repeatedly over the former scratch location to show that the scratch has disappeared completely, then gives a thumbs-up to the camera to express high recognition of the repair result.
-  - Subject: Y listo, completamente en retorno. para algo. muy recomendable  y si  puede
+  - Subject: Y listo, completamente en retorno. para algo. muy recomendable y si puede
 Shot 7:
   - Duration: 62.0sec - 73.5sec
   - Scene Type: Product Versatility
   - Scene: The frame cuts to the woman's manicured hand appearing on screen, holding the repair pen to continue applying and repairing another remaining long scratch on the red car body. The figure of the person is clearly reflected on the car paint surface, fully demonstrating that the product can perform batch repair on multiple scratches.
-  - Subject: Puedes aplicarlo en todas las rayaduras y... los pequeños años que tiene  tu auto. CC por Antarctica Films Argentina
+  - Subject: Puedes aplicarlo en todas las rayaduras y... los pequeños años que tiene tu auto. CC por Antarctica Films Argentina
 [Background Sound]:
 - Upbeat TikTok-style background music with a brisk tempo, distinct drum beats, and electronic synthesizer tones, at a moderately high volume, in a style that blends Pop-Punk and Commercial Jingle, creating a relaxed, practical, cost-effective shopping atmosphere tailored for car care product sales videos, helping to quickly demonstrate product effects and spark the audience's desire to purchase.
 [Transition / Editing]:
@@ -91,7 +90,7 @@ Shot 1:
   - 时长: 0.0sec - 9.5sec
   - 镜头类型: 开箱
   - 画面: 室内木纹地板的居家桌面上，镜头第一视角对准白色快递包装袋，人物用手指拨开包装袋，从中取出印有产品名称的渐变紫色包装盒，将包装盒翻转展示不同角度的文字信息，随后将盒子拆开取出内部的笔状产品，全程手部动作平稳流畅。
-  - 口播: ¿Te rayaron tu carro?  Nos pedimos esta plumita mágica para quitar los rayones de la piel. el campo. En Tukon
+  - 口播: ¿Te rayaron tu carro? Nos pedimos esta plumita mágica para quitar los rayones de la piel. el campo. En Tukon
 Shot 2:
   - 时长: 9.5sec - 14.0sec
   - 镜头类型: 产品设计亮点
@@ -116,12 +115,12 @@ Shot 6:
   - 时长: 54.0sec - 62.0sec
   - 镜头类型: 产品使用场景
   - 画面: 镜头对准涂抹完成后的车漆表面，男性伸出手指在原先划痕的位置反复划过，展示划痕已经完全消失不见，随后对着镜头竖起大拇指，表达对修复效果的高度认可。
-  - 口播: Y listo, completamente en retorno. para algo. muy recomendable  y si  puede
+  - 口播: Y listo, completamente en retorno. para algo. muy recomendable y si puede
 Shot 7:
   - 时长: 62.0sec - 73.5sec
   - 镜头类型: 产品多功能性
   - 画面: 画面切换为女性的手出镜，她的手部做了精致美甲，手持修复笔，继续对红色车身上剩余的另一处长划痕进行涂抹修复，车漆表面清晰倒映出人物的身影，完整演示产品可以对多处划痕进行批量修复。
-  - 口播: Puedes aplicarlo en todas las rayaduras y... los pequeños años que tiene  tu auto. CC por Antarctica Films Argentina
+  - 口播: Puedes aplicarlo en todas las rayaduras y... los pequeños años que tiene tu auto. CC por Antarctica Films Argentina
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快、鼓点鲜明、带有电子合成器音色，音量适中偏高，风格类似Pop-Punk meets Commercial Jingle，营造轻松、实用、高性价比的购物氛围，适配汽车护理类带货视频，助力快速展示产品效果激发观众购买欲。
 [Transition / Editing]:
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-automotive-000788](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-automotive-000788?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-automotive-000788)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-automotive-000788](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-automotive-000788?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-automotive-000788)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

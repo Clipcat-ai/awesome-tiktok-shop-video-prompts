@@ -1,6 +1,6 @@
 ---
 id: ph-luggage-582535
-title: "STAY YOUNG #S216 Fashion Men's Retro Casual Multi-compartment — Handheld Demo (Philippines · Luggage & Bags)"
+title: "STAY YOUNG #S216 Fashion Men's… — Handheld Demo (Philippines · Luggage & Bags)"
 market: ph
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7663454244598582535
 creator: "@jimfinds.art"
 published: 2026-07-17
 ---
-# STAY YOUNG #S216 Fashion Men's Retro Casual Multi-compartment — Handheld Demo (Philippines · Luggage & Bags)
+# STAY YOUNG #S216 Fashion Men's… — Handheld Demo (Philippines · Luggage & Bags)
 **Weekly #1** · 🇵🇭 Philippines · Luggage & Bags · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7663454244598582535) by [@jimfinds.art](https://www.tiktok.com/@jimfinds.art). Format: **Handheld Demo** · 30s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “For those looking for affordable, durable, waterproof, multi-compartment bags, I recommend this one”
+**Opening line (translated from the video):** “For those looking for affordable, durable, waterproof, multi-compartment bags, I recommend this one”
 
 **Pain point it attacks:** Can't find affordable bags that are durable, waterproof and multi-compartment
 
@@ -61,7 +60,7 @@ Shot 5:
   - Duration: 24.5sec - 30.0sec
   - Scene Type: Checkout process guidance
   - Scene: The camera cuts back to a full front shot of the girl. She holds the bag up to the camera with both hands again, points toward the lower area of the screen, and makes guiding gestures to prompt viewers to place an order, keeping a sweet smile the whole time as she delivers the final product recommendation. Shot from a fixed full-camera position, with the frame consistently focused on the character and the bag.
-  - Subject: Nakabagsak presyo na rin ito ngayon, kaya kung kung bet mo din, mag-checkout ka na. Nasa baba lang ang link neto. Thank you.
+  - Subject: Nakabagsak presyo na rin ito ngayon, kaya kung kung bet mo din, mag-checkout ka na. Nasa baba lang ang link neto.
 [Background Sound]:
 - Upbeat TikTok-style background music with a bright, lively rhythm, moderately high volume, and electronic pop elements. It is tailored for product promotion videos targeting young consumers, with a highly rhythmic, memorable melody that effectively boosts the video's dynamism and purchase intent. The track style is similar to 'viral TikTok dance pop', ideal for showcasing product appearance, functional highlights, and usage scene transitions, enhancing the immersive synchronicity of visuals and audio.
 [Transition / Editing]:
@@ -101,7 +100,7 @@ Shot 5:
   - 时长: 24.5sec - 30.0sec
   - 镜头类型: 下单流程指引
   - 画面: 镜头切回女生的正面全景，女生再次双手托举包包展示在镜头前，伸出手指指向屏幕下方区域，对着镜头做出引导下单的分享动作，全程保持甜美的笑容，完成最后的种草推荐。固定机位全景拍摄，画面始终聚焦在人物与包包上。
-  - 口播: Nakabagsak presyo na rin ito ngayon, kaya kung kung bet mo din, mag-checkout ka na. Nasa baba lang ang link neto. Thank you.
+  - 口播: Nakabagsak presyo na rin ito ngayon, kaya kung kung bet mo din, mag-checkout ka na. Nasa baba lang ang link neto.
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子流行元素，适合年轻消费群体的带货视频，旋律具有强烈节奏感和记忆点，能有效提升视频动感与购买欲，歌曲风格类似“viral TikTok dance pop”，适合用于展示产品外观、功能亮点与使用场景切换，增强视觉与听觉同步的沉浸感。
 [Transition / Editing]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-luggage-582535](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-luggage-582535?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-luggage-582535)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-luggage-582535](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-luggage-582535?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-luggage-582535)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

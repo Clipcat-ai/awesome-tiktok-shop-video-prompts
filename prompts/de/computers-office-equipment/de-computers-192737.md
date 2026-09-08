@@ -1,6 +1,6 @@
 ---
 id: de-computers-192737
-title: "JADENS Thermo Etikettendrucker — Real Review (Germany · Computers & Office Equipment)"
+title: "JADENS Thermo Etikettendrucker… — Real Review (Germany · Computers & Office Equipment)"
 market: de
 category: computers-office-equipment
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677285922601192737
 creator: "@byfedosch"
 published: 2026-08-23
 ---
-# JADENS Thermo Etikettendrucker — Real Review (Germany · Computers & Office Equipment)
+# JADENS Thermo Etikettendrucker… — Real Review (Germany · Computers & Office Equipment)
 **Weekly #1** · 🇩🇪 Germany · Computers & Office Equipment · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677285922601192737) by [@byfedosch](https://www.tiktok.com/@byfedosch). Format: **Real Review** · 22s · hook: **Benefit First** · Hands only · No promo
-**Opening line (from the video):** “This JADENS thermal label printer is wireless, fast and precise”
+**Opening line (translated from the video):** “This JADENS thermal label printer is wireless, fast and precise”
 
 **Key visuals:** JADENS Thermal Printer · Smartphone · Label Paper · Data Cable · Wooden Desk · Power Button · Printed Label
 
@@ -96,4 +95,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-computers-192737](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-computers-192737?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-computers-192737)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-computers-192737](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-computers-192737?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-computers-192737)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

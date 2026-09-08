@@ -1,6 +1,6 @@
 ---
 id: es-computers-241057
-title: "Impresora multifunción portátil Mini PM290C de 2 pulgadas — Handheld Demo (Spain · Computers & Office Equipment)"
+title: "Impresora multifunción portátil… — Handheld Demo (Spain · Computers & Office Equipment)"
 market: es
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669710881550241057
 creator: "@kabox.shop"
 published: 2026-08-03
 ---
-# Impresora multifunción portátil Mini PM290C de 2 pulgadas — Handheld Demo (Spain · Computers & Office Equipment)
+# Impresora multifunción portátil… — Handheld Demo (Spain · Computers & Office Equipment)
 **Weekly #1** · 🇪🇸 Spain · Computers & Office Equipment · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669710881550241057) by [@kabox.shop](https://www.tiktok.com/@kabox.shop). Format: **Handheld Demo** · 29s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “I didn't think such a small printer would be so useful”
+**Opening line (translated from the video):** “I didn't think such a small printer would be so useful”
 
 **Pain point it attacks:** Inconvenient when needing to print without a portable printer
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-computers-241057](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-computers-241057?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-computers-241057)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-computers-241057](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-computers-241057?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-computers-241057)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

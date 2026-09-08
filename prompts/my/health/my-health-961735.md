@@ -1,6 +1,6 @@
 ---
 id: my-health-961735
-title: "Pentavite UPGRADED Multivitamin Wanita — Story Skit (Malaysia · Health)"
+title: "Pentavite UPGRADED Multivitamin… — Story Skit (Malaysia · Health)"
 market: my
 category: health
 video_type: story-skit
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675828282041961735
 creator: "@fieyy30"
 published: 2026-08-19
 ---
-# Pentavite UPGRADED Multivitamin Wanita — Story Skit (Malaysia · Health)
+# Pentavite UPGRADED Multivitamin… — Story Skit (Malaysia · Health)
 **Weekly #1** · 🇲🇾 Malaysia · Health · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675828282041961735) by [@fieyy30](https://www.tiktok.com/@fieyy30). Format: **Story Skit** · 190s · hook: **Skit Conflict** · Multiple people · No promo
-**Opening line (from the video):** “Farah, the kids haven't bathed since dawn, the whole room smells sour and fermented”
+**Opening line (translated from the video):** “Farah, the kids haven't bathed since dawn, the whole room smells sour and fermented”
 
 **Pain point it attacks:** Working people have tough family life, family neglect, and exhaustion
 
@@ -154,7 +153,7 @@ Shot 15:
   - 口播: Terima kasih kerana menonton! Pisang sungguh hari-hari macam ni. Nasib baik lalu FYP tadi pasal pentad....ada 23 nutrien lengkap. Buang toksin malas, letih... hormon meroyan bini. Malam ni aku suap, tengok esok jadi apa.
 Shot 16:
   - 时长: 156.5sec - 164.5sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 干净通透的现代化实验室里，戴蓝色无菌手套的实验人员手持移液管在培养皿上操作，随后画面切换为3D动画特效，展示白色药片周围漂浮着彩色营养粒子缓缓包裹药片，最后Pentavite复合维生素的产品瓶身放置在粉色背景的展台上，四周环绕着新鲜的蔬菜水果。镜头先给到移液管操作的微距特写，随后跟随彩色粒子的运动轨迹完成动态展示，最后定格在产品瓶身的完整全景画面。
   - 口播: melalui proses ujian kualiti makmal yang amat ketat dan standard antarabangkapan. memadatkan 23 nutrien serta multivitamin penting ke dalam satu tablet kunyah yang lazat.
 Shot 17:
@@ -170,4 +169,4 @@ Shot 17:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-health-961735](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-health-961735?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-health-961735)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-health-961735](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-health-961735?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-health-961735)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health story skit"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

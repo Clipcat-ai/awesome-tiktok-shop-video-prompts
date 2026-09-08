@@ -1,6 +1,6 @@
 ---
 id: gb-beauty-772640
-title: "Sanex Menopause & Perimenopause Ultimate 3-Piece Routine Kit - — Promo Pitch (United Kingdom · Beauty & Personal Care)"
+title: "Sanex Menopause & Perimenopause… — Promo Pitch (United Kingdom · Beauty & Personal Care)"
 market: gb
 category: beauty-personal-care
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673720062636772640
 creator: "@casualhomefindz"
 published: 2026-08-14
 ---
-# Sanex Menopause & Perimenopause Ultimate 3-Piece Routine Kit - — Promo Pitch (United Kingdom · Beauty & Personal Care)
+# Sanex Menopause & Perimenopause… — Promo Pitch (United Kingdom · Beauty & Personal Care)
 **Weekly #1** · 🇬🇧 United Kingdom · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673720062636772640) by [@casualhomefindz](https://www.tiktok.com/@casualhomefindz). Format: **Promo Pitch** · 15s · hook: **Contrarian** · On-camera host · Discount, Free gift
-**Opening line (from the video):** “My apologies to anyone who bought this Sanex Menopause 3P piece routine kit earlier”
+**Opening line (quoted from the video):** “My apologies to anyone who bought this Sanex Menopause 3P piece routine kit earlier”
 
 **Pain point it attacks:** Unmet body care needs related to menopause
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: Realistic supermarket sales style, combining the authentic UGC feel native to Douyin with polished product presentation, bright and vivid image colors, and prominent product visuals.
+[Style]: Realistic supermarket sales style, combining the authentic UGC feel native to TikTok with polished product presentation, bright and vivid image colors, and prominent product visuals.
 [Environment]: Spacious, bright large warehouse-style supermarket shelf area for personal care products. Multiple layers of metal shelves are neatly stacked with a large number of identical Sanex care sets. Red and yellow promotional signs are hung staggered between shelf gaps. The supermarket's signature orange load-bearing beams and metal pillars are visible on the side, the space is clean and open, with a strong promotional atmosphere.
 [Tone & Pacing]: Energetic and enthusiastic in-store sales guide style, friendly and straightforward tone, well-balanced pacing. Camera movement follows the sales guide's demonstration actions naturally, smooth and unhurried, accurately focusing on the product itself.
 [Camera]: Starts with a fixed camera position, then pushes in following the demonstration action to capture a close-up of the product, then gradually pulls the camera back, finally stopping at a full shot of the person and the complete shelf. The entire camera movement is steady and smooth.
@@ -59,7 +58,7 @@ Shot 3:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 写实商超带货风，兼具抖音原生UGC真实感与产品展示的精致感，画面色彩鲜亮饱满，商品视觉突出。
+[Style]: 写实商超带货风，兼具TikTok原生UGC真实感与产品展示的精致感，画面色彩鲜亮饱满，商品视觉突出。
 [Environment]: 宽敞明亮的大型仓储式商超洗护用品货架区，多层金属货架上整齐码放大量同款Sanex洗护套装，货架间隙错落悬挂红、黄色促销标识牌，侧方露出商超标志性橙色承重梁与金属立柱，空间整洁开阔，促销氛围浓厚。
 [Tone & Pacing]: 热情活力的线下导购风格，语气亲切直白，节奏张弛有度，运镜跟随导购展示动作自然推进，流畅不拖沓，精准聚焦在产品本体上。
 [Camera]: 以固定机位为起始，随后跟随展示动作向前推进镜头完成产品特写拍摄，之后逐步向后拉远镜头，最终定格在人物与完整货架的全景画面，全程运镜平稳顺滑。
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-beauty-772640](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-beauty-772640?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-beauty-772640)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-beauty-772640](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-beauty-772640?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-beauty-772640)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: gb-textiles-950560
-title: "Mattress Topper Cloud-Like Comfort Box Stitched & Pressure Rel — Product Comparison (United Kingdom · Textiles & Soft Furnishings)"
+title: "Mattress Topper Cloud-Like Comfort… — Product Comparison (United Kingdom · Textiles & Soft Furnishings)"
 market: gb
 category: textiles-soft-furnishings
 video_type: product-compare
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675712721584950560
 creator: "@regularjoey0"
 published: 2026-08-19
 ---
-# Mattress Topper Cloud-Like Comfort Box Stitched & Pressure Rel — Product Comparison (United Kingdom · Textiles & Soft Furnishings)
+# Mattress Topper Cloud-Like Comfort… — Product Comparison (United Kingdom · Textiles & Soft Furnishings)
 **Weekly #1** · 🇬🇧 United Kingdom · Textiles & Soft Furnishings · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675712721584950560) by [@regularjoey0](https://www.tiktok.com/@regularjoey0). Format: **Product Comparison** · 59s · hook: **Before & After** · On-camera host · Discount
-**Opening line (from the video):** “British mattress topper VS Japanese mattress topper”
+**Opening line (quoted from the video):** “British mattress topper VS Japanese mattress topper”
 
 **Pain point it attacks:** Old mattress toppers get hot and sag, harming waist
 
@@ -135,4 +134,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-textiles-950560](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-textiles-950560?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-textiles-950560)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-textiles-950560](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-textiles-950560?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-textiles-950560)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings product comparison"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

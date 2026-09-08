@@ -1,6 +1,6 @@
 ---
 id: it-health-696096
-title: "Caramelle Gommose Creatina 4 — Talking Head (Italy · Health)"
+title: "Caramelle Gommose Creatina 4,5g… — Talking Head (Italy · Health)"
 market: it
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677146648056696096
 creator: "@davidecentoducati"
 published: 2026-08-23
 ---
-# Caramelle Gommose Creatina 4 — Talking Head (Italy · Health)
+# Caramelle Gommose Creatina 4,5g… — Talking Head (Italy · Health)
 **Weekly #1** · 🇮🇹 Italy · Health · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677146648056696096) by [@davidecentoducati](https://www.tiktok.com/@davidecentoducati). Format: **Talking Head** · 49s · hook: **Before & After** · On-camera host · Discount
-**Opening line (from the video):** “These are your small muscles when creatine is low, these are your big muscles when creatine is high”
+**Opening line (translated from the video):** “These are your small muscles when creatine is low, these are your big muscles when creatine is high”
 
 **Pain point it attacks:** Low creatine leads to poor muscle strength and mental state
 
@@ -114,7 +113,7 @@ Shot 6:
   - 口播: Grazie. in maniera perfetta e contengono solamente 15 calorie.
 Shot 7:
   - 时长: 39.0sec - 49.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 博主伸手依次拿起台面上的三罐不同外观的肌酸软糖产品，翻转罐身朝向镜头展示罐身印刷的文字与图案，逐一介绍不同产品信息，最后博主抬手指向画面下方的位置，面带笑意看向镜头收尾分享。镜头跟着博主拿起产品的动作轻微前移，近距离清晰展示每款产品的外观细节，最后回到博主中景画面完成收尾。
   - 口播: sono un prezzo di lancio costano poco più di 20 euro ci sono un sacco di gusti differenti abbiamo mango e frutto della passione abbiamo l'aranza abbiamo quella alla fragola insomma se le volete provare ve le lascio qui sotto ottene il carellino arancione.
 [Background Sound]:
@@ -125,4 +124,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-health-696096](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-health-696096?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-health-696096)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-health-696096](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-health-696096?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-health-696096)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: us-health-501983
-title: "Magnesium Complex 1000mg Made with 7 Elemental Magnesium 90 Ca — Talking Head (United States · Health)"
+title: "Magnesium Complex 1000mg Made with… — Talking Head (United States · Health)"
 market: us
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7641399204937501983
 creator: "@zenmar98"
 published: 2026-05-19
 ---
-# Magnesium Complex 1000mg Made with 7 Elemental Magnesium 90 Ca — Talking Head (United States · Health)
+# Magnesium Complex 1000mg Made with… — Talking Head (United States · Health)
 **Weekly #1** · 🇺🇸 United States · Health · week of 2026-08-10
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7641399204937501983) by [@zenmar98](https://www.tiktok.com/@zenmar98). Format: **Talking Head** · 54s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Stressed? Tired? Can't sleep? Look at this”
+**Opening line (translated from the video):** “Stressed? Tired? Can't sleep? Look at this”
 
 **Pain point it attacks:** Stressed, tired and hard to fall asleep
 
@@ -130,4 +129,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-health-501983](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-health-501983?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-health-501983)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-health-501983](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-health-501983?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-health-501983)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

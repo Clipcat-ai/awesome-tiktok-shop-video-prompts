@@ -1,6 +1,6 @@
 ---
 id: id-luggage-749397
-title: "Tas selempang wanita terbaru tahun 2024 / tas selempang kasual — Handheld Demo (Indonesia · Luggage & Bags)"
+title: "Tas selempang wanita terbaru tahun… — Handheld Demo (Indonesia · Luggage & Bags)"
 market: id
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673316766591749397
 creator: "@tasslempangwanita0"
 published: 2026-08-13
 ---
-# Tas selempang wanita terbaru tahun 2024 / tas selempang kasual — Handheld Demo (Indonesia · Luggage & Bags)
+# Tas selempang wanita terbaru tahun… — Handheld Demo (Indonesia · Luggage & Bags)
 **Weekly #1** · 🇮🇩 Indonesia · Luggage & Bags · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673316766591749397) by [@tasslempangwanita0](https://www.tiktok.com/@tasslempangwanita0). Format: **Handheld Demo** · 24s · hook: **Result First** · On-camera host · Discount, Free gift
-**Opening line (from the video):** “This crossbody bag is super popular right now”
+**Opening line (translated from the video):** “This crossbody bag is super popular right now”
 
 **Pain point it attacks:** Small bags can't hold many daily items
 
@@ -49,9 +48,9 @@ Shot 2:
   - Subject: Modelnya simple, pilihan warnanya cantik-cantik, dan punya banyak kantor.
 Shot 3:
   - Duration: 5.5sec - 8.0sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: Inside the store, three women each hold a different colored crossbody bag from the same collection, displaying the purple, blue and burgundy styles respectively; the camera gives a close-up of the adjustable metal buckle detail on the bag's shoulder strap. Several women stand in a row, showing the crossbody bags of different color schemes one after another; the camera focuses on the shoulder strap adjustment buckle, clearly demonstrating the freely adjustable shoulder strap design.
-  - Subject: Apalagi harganya lagi diskon lho bun.  Lihat nih bun.
+  - Subject: Apalagi harganya lagi diskon lho bun. Lihat nih bun.
 Shot 4:
   - Duration: 8.0sec - 12.5sec
   - Scene Type: Show ease of use
@@ -99,9 +98,9 @@ Shot 2:
   - 口播: Modelnya simple, pilihan warnanya cantik-cantik, dan punya banyak kantor.
 Shot 3:
   - 时长: 5.5sec - 8.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 门店内三名女性各自手持不同颜色的同系列斜挎包，分别展示紫色、蓝色、酒红色款式，镜头特写包包的可调节金属扣肩带细节。几位女性站成一排，依次展示不同配色的斜挎包，镜头给到肩带调节扣的特写，清晰展示肩带可自由调节的设计。
-  - 口播: Apalagi harganya lagi diskon lho bun.  Lihat nih bun.
+  - 口播: Apalagi harganya lagi diskon lho bun. Lihat nih bun.
 Shot 4:
   - 时长: 8.0sec - 12.5sec
   - 镜头类型: 展示易用性
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-luggage-749397](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-luggage-749397?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-luggage-749397)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-luggage-749397](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-luggage-749397?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-luggage-749397)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

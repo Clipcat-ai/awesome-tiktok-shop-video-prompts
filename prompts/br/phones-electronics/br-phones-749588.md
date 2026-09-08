@@ -1,6 +1,6 @@
 ---
 id: br-phones-749588
-title: "Capinha capa de Com nome personalizado Salmos bíblicos Tema re — Handheld Demo (Brazil · Phones & Electronics)"
+title: "Capinha capa de Com nome… — Handheld Demo (Brazil · Phones & Electronics)"
 market: br
 category: phones-electronics
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7644573636564749588
 creator: "@eclin20"
 published: 2026-05-27
 ---
-# Capinha capa de Com nome personalizado Salmos bíblicos Tema re — Handheld Demo (Brazil · Phones & Electronics)
+# Capinha capa de Com nome… — Handheld Demo (Brazil · Phones & Electronics)
 **Weekly #1** · 🇧🇷 Brazil · Phones & Electronics · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7644573636564749588) by [@eclin20](https://www.tiktok.com/@eclin20). Format: **Handheld Demo** · 15s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Everyone is asking where I bought this phone case”
+**Opening line (translated from the video):** “Everyone is asking where I bought this phone case”
 
 **Key visuals:** Pink Phone Case · Bible Verses · Handwritten Name · Cross Pattern · Floral Lines · Pink Box · Wooden Stand · Phone Accessory Shelf
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-phones-749588](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-phones-749588?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-phones-749588)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-phones-749588](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-phones-749588?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-phones-749588)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

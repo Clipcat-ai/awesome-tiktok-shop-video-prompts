@@ -1,6 +1,6 @@
 ---
 id: my-health-342930
-title: "Pentavite UPGRADED Multivitamin Lelaki Buah & Sayuran — Story Skit (Malaysia · Health)"
+title: "Pentavite UPGRADED Multivitamin… — Story Skit (Malaysia · Health)"
 market: my
 category: health
 video_type: story-skit
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677609787030342930
 creator: "@ziziercool92"
 published: 2026-08-24
 ---
-# Pentavite UPGRADED Multivitamin Lelaki Buah & Sayuran — Story Skit (Malaysia · Health)
+# Pentavite UPGRADED Multivitamin… — Story Skit (Malaysia · Health)
 **Weekly #1** · 🇲🇾 Malaysia · Health · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677609787030342930) by [@ziziercool92](https://www.tiktok.com/@ziziercool92). Format: **Story Skit** · 68s · hook: **Pain Point** · Multiple people · No promo
-**Opening line (from the video):** “You're so thin like you haven't eaten for ages, not fit to be a soldier, better watch parking”
+**Opening line (translated from the video):** “You're so thin like you haven't eaten for ages, not fit to be a soldier, better watch parking”
 
 **Pain point it attacks:** Too thin to be qualified as a soldier
 
@@ -51,7 +50,7 @@ Shot 3:
   - Duration: 19.5sec - 29.0sec
   - Scene Type: Emotional connection
   - Scene: Inside the bright scientific research laboratory, the commander puts his arm around the thin new recruit and speaks to the elderly professor standing by the lab table. On the table are vitamin bottles printed with brand logos, an experiment record board, and glass lab equipment. Later, both of them look at the new recruit beside them and show approving expressions.
-  - Subject: ...tapi jiwa dia besar. Profesor, cuba... Tuhan. macam ni, kerja cuci tandas bolehlah. Baik. Kita cuba dulu Yang penting usaha
+  - Subject: tapi jiwa dia besar. Profesor, cuba... Tuhan. macam ni, kerja cuci tandas bolehlah. Baik. Kita cuba dulu Yang penting usaha
 Shot 4:
   - Duration: 29.0sec - 49.5sec
   - Scene Type: Product effectiveness demonstration
@@ -96,7 +95,7 @@ Shot 3:
   - 时长: 19.5sec - 29.0sec
   - 镜头类型: 情感连接
   - 画面: 明亮的科研实验室内，指挥官伸手将瘦弱新兵搂到身侧，向身旁站在实验桌旁的老教授开口沟通，桌上摆放着印着品牌标识的维生素瓶、实验记录板与玻璃仪器，两人后续同时看向身旁的新兵，露出认可的神情。
-  - 口播: ...tapi jiwa dia besar. Profesor, cuba... Tuhan. macam ni, kerja cuci tandas bolehlah. Baik. Kita cuba dulu Yang penting usaha
+  - 口播: tapi jiwa dia besar. Profesor, cuba... Tuhan. macam ni, kerja cuci tandas bolehlah. Baik. Kita cuba dulu Yang penting usaha
 Shot 4:
   - 时长: 29.0sec - 49.5sec
   - 镜头类型: 产品有效性
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-health-342930](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-health-342930?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-health-342930)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-health-342930](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-health-342930?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-health-342930)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health story skit"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

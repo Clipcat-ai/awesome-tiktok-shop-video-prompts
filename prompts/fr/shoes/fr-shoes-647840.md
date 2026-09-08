@@ -1,6 +1,6 @@
 ---
 id: fr-shoes-647840
-title: "Women's Fashionable Solid Color Hollow Out Design Mary Jane Sh — OOTD Showcase (France · Shoes)"
+title: "Women's Fashionable Solid Color… — OOTD Showcase (France · Shoes)"
 market: fr
 category: shoes
 video_type: ootd
@@ -17,9 +17,8 @@ source: https://www.tiktok.com/share/video/7675389221338647840
 creator: "@dr.lobaina.alrhia"
 published: 2026-08-18
 ---
-# Women's Fashionable Solid Color Hollow Out Design Mary Jane Sh — OOTD Showcase (France · Shoes)
+# Women's Fashionable Solid Color… — OOTD Showcase (France · Shoes)
 **Weekly #1** · 🇫🇷 France · Shoes · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675389221338647840) by [@dr.lobaina.alrhia](https://www.tiktok.com/@dr.lobaina.alrhia). Format: **OOTD Showcase** · 14s · hook: **POV Scenario** · On-camera host · No promo
 **Key visuals:** White Mary Jane Shoes · Denim Skirt · Pink Floral Skirt · Yellow Long Skirt · White T-shirt · Blue Jeans · City Sidewalk · Lawn
 
@@ -61,7 +60,6 @@ Shot 7:
   - Duration: 12.5sec - 14.5sec
   - Scene Type: Outfit styling demonstration
   - Scene: French old town pedestrian street scene. The woman wears a simple white T-shirt and blue straight-leg jeans, standing naturally on the cobblestone pavement in white mesh Mary Jane shoes. The background features street-side buildings with mint green shutters and potted plants on the window sills, and wrought iron outdoor tables and chairs placed in the bakery's street-facing area, creating a laid-back, casual atmosphere.
-  - Subject: E aí
 [Background Sound]:
 - Very upbeat Middle Eastern/Arabic style background music, with a lively rhythm, dense drum beats, heavy use of traditional ethnic instruments including the oud and daf drum, moderately high volume, and a highly dynamic, rhythmic melody
 [Transition / Editing]:
@@ -105,7 +103,6 @@ Shot 7:
   - 时长: 12.5sec - 14.5sec
   - 镜头类型: 穿搭搭配示范
   - 画面: 法式老城步行街场景，女性上身着简约白色T恤，下身穿蓝色直筒牛仔裤，自然站立在鹅卵石铺装路面上，脚穿白色网面玛丽珍鞋，背景是带有薄荷绿百叶窗与窗台盆栽的临街建筑，面包店临街区域摆放着铁艺户外桌椅，氛围慵懒随性。
-  - 口播: E aí
 [Background Sound]:
 - 非常欢快的中东/阿拉伯风格背景音乐，节奏明快、鼓点密集，带有浓厚的民族乐器如乌德琴、达夫鼓演奏，音量适中偏高，旋律富有律动感
 [Transition / Editing]:
@@ -114,4 +111,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-shoes-647840](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-shoes-647840?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-shoes-647840)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-shoes-647840](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-shoes-647840?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-shoes-647840)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: id-household-299669
-title: "GM Bear Kompor Listrik Mini 1573 - Electric Stove Portable — Promo Pitch (Indonesia · Household Appliances)"
+title: "GM Bear Kompor Listrik Mini 1573… — Promo Pitch (Indonesia · Household Appliances)"
 market: id
 category: household-appliances
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676712100890299669
 creator: "@promonyabunda"
 published: 2026-08-22
 ---
-# GM Bear Kompor Listrik Mini 1573 - Electric Stove Portable — Promo Pitch (Indonesia · Household Appliances)
+# GM Bear Kompor Listrik Mini 1573… — Promo Pitch (Indonesia · Household Appliances)
 **Weekly #1** · 🇮🇩 Indonesia · Household Appliances · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676712100890299669) by [@promonyabunda](https://www.tiktok.com/@promonyabunda). Format: **Promo Pitch** · 24s · hook: **POV Scenario** · On-camera host · Discount
-**Opening line (from the video):** “This electric stove is what many people are looking for lately”
+**Opening line (translated from the video):** “This electric stove is what many people are looking for lately”
 
 **Pain point it attacks:** Traditional stoves using gas are inconvenient to use
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-household-299669](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-household-299669?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-household-299669)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-household-299669](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-household-299669?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-household-299669)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

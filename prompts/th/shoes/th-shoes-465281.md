@@ -1,6 +1,6 @@
 ---
 id: th-shoes-465281
-title: "รองเท้าแตะผู้ชาย กันลื่น เรียบง่าย สวมใส่สะดวก วัสดุยาง ใส่สบา — Promo Pitch (Thailand · Shoes)"
+title: "รองเท้าแตะผู้ชาย กันลื่น เรียบง่าย… — Promo Pitch (Thailand · Shoes)"
 market: th
 category: shoes
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7654954004958465281
 creator: "@pacharaphon_praewa"
 published: 2026-06-24
 ---
-# รองเท้าแตะผู้ชาย กันลื่น เรียบง่าย สวมใส่สะดวก วัสดุยาง ใส่สบา — Promo Pitch (Thailand · Shoes)
+# รองเท้าแตะผู้ชาย กันลื่น เรียบง่าย… — Promo Pitch (Thailand · Shoes)
 **Weekly #1** · 🇹🇭 Thailand · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7654954004958465281) by [@pacharaphon_praewa](https://www.tiktok.com/@pacharaphon_praewa). Format: **Promo Pitch** · 10s · hook: **Benefit First** · Hands only · Discount
-**Opening line (from the video):** “Clearance non-slip soft slippers only 9 baht, the best deal in the world”
+**Opening line (translated from the video):** “Clearance non-slip soft slippers only 9 baht, the best deal in the world”
 
 **Pain point it attacks:** Ordinary slippers are non-slip and not soft
 
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-shoes-465281](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-shoes-465281?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-shoes-465281)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-shoes-465281](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-shoes-465281?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-shoes-465281)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

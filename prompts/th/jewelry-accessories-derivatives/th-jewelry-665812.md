@@ -1,6 +1,6 @@
 ---
 id: th-jewelry-665812
-title: "AURORA Official Store [ทอง] แหวนทองคำแท้96.5 คละลาย น้ำหนัก คร — Promo Pitch (Thailand · Jewelry Accessories & Derivatives)"
+title: "AURORA Official Store [ทอง… — Promo Pitch (Thailand · Jewelry Accessories & Derivatives)"
 market: th
 category: jewelry-accessories-derivatives
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678977263177665812
 creator: "@mumying1688"
 published: 2026-08-28
 ---
-# AURORA Official Store [ทอง] แหวนทองคำแท้96.5 คละลาย น้ำหนัก คร — Promo Pitch (Thailand · Jewelry Accessories & Derivatives)
+# AURORA Official Store [ทอง… — Promo Pitch (Thailand · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇹🇭 Thailand · Jewelry Accessories & Derivatives · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678977263177665812) by [@mumying1688](https://www.tiktok.com/@mumying1688). Format: **Promo Pitch** · 35s · hook: **Benefit First** · Hands only · No promo
-**Opening line (from the video):** “No credit check, no job check, you can use and pay later on TikTok”
+**Opening line (translated from the video):** “No credit check, no job check, you can use and pay later on TikTok”
 
 **Key visuals:** Gold Ring · Ring Display Box · TikTok Interface · Red Nail Polish · Table Cloth · Red Circle Marker
 
@@ -113,4 +112,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-jewelry-665812](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-jewelry-665812?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-jewelry-665812)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-jewelry-665812](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-jewelry-665812?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-jewelry-665812)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

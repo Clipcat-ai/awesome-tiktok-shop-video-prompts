@@ -1,6 +1,6 @@
 ---
 id: mx-phones-776085
-title: "Cámara de salpicadero con triple cámara — Promo Pitch (Mexico · Phones & Electronics)"
+title: "Cámara de salpicadero con triple… — Promo Pitch (Mexico · Phones & Electronics)"
 market: mx
 category: phones-electronics
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667157145254776085
 creator: "@baby_camila03"
 published: 2026-07-27
 ---
-# Cámara de salpicadero con triple cámara — Promo Pitch (Mexico · Phones & Electronics)
+# Cámara de salpicadero con triple… — Promo Pitch (Mexico · Phones & Electronics)
 **Weekly #1** · 🇲🇽 Mexico · Phones & Electronics · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667157145254776085) by [@baby_camila03](https://www.tiktok.com/@baby_camila03). Format: **Promo Pitch** · 15s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “The best part is it has three cameras, one front, one back, and one...”
+**Opening line (translated from the video):** “The best part is it has three cameras, one front, one back, and one...”
 
 **Pain point it attacks:** Single dashcam can't cover front, back and inside car views
 
@@ -51,17 +50,17 @@ Shot 3:
   - Duration: 5.5sec - 7.5sec
   - Scene Type: Product usage scenario
   - Scene: The scene switches to the interior of a moving car, the dash cam is fixed on the front windshield via a suction cup mount, the host's finger gently taps the device screen, which simultaneously displays the real-time road condition view ahead of the vehicle, outside the car are the highway and greenery under clear sunny weather, the vehicle is driving forward normally. The camera slowly pulls back from a close-up, showing the installation state of the device inside the car and the real-time recording effect.
-  - Subject: ...las 24 horas...  ...y lo me conecta por Wi-Fi a tu celular...
+  - Subject: las 24 horas... ...y lo me conecta por Wi-Fi a tu celular...
 Shot 4:
   - Duration: 7.5sec - 10.5sec
   - Scene Type: Product multi-functionality
   - Scene: The frame adopts a split-screen comparison format, the left side of the screen shows a hand holding a smartphone, the phone screen displays the multi-channel driving video list transmitted synchronously from the dash cam, the finger swipes on the screen to select a video; the right side of the screen keeps the perspective of the dash cam fixed on the car's front windshield, the vehicle keeps driving on the highway. Then the split screen merges, the phone screen clearly shows the interface indicating that the video download is complete. The whole process maintains a stable fixed perspective without large camera shakes.
-  - Subject: y puedes descargar los videos  directo a tu galería. Y lo  mejor de todo, el
+  - Subject: y puedes descargar los videos directo a tu galería. Y lo mejor de todo, el
 Shot 5:
   - Duration: 10.5sec - 15.5sec
   - Scene Type: Promotional selling point emphasis
   - Scene: The scene returns to the digital store, the host holds the product box of the dash cam with both hands, the box is printed with a real photo of the product, the host looks at the camera with a smile, raises his right hand and points down towards the lower part of the frame, an orange shopping cart icon pops up in the frame and overlays on the product box, guiding the audience to place an order. A fixed medium shot position is used, the camera steadily captures the host's sales actions and the full view of the product box.
-  - Subject: precio está increíble. Pídelo en el carito aquí abajo  antes de que se haguen. Gracias.
+  - Subject: precio está increíble. Pídelo en el carito aquí abajo antes de que se haguen. Gracias.
 [Background Sound]:
 - No background music. This short video is a pure voiceover live sales content with a fast speaking pace, enthusiastic tone, and obvious promotional guiding nature, relying entirely on the host's vocal rhythm and intonation to grab the audience's attention, creating a sense of urgency and a promotional atmosphere.
 [Transition / Editing]:
@@ -91,17 +90,17 @@ Shot 3:
   - 时长: 5.5sec - 7.5sec
   - 镜头类型: 产品使用场景
   - 画面: 场景切换到行驶的汽车内部，行车记录仪通过吸盘支架固定在前挡风玻璃上，主播的手指轻轻点了一下设备屏幕，屏幕上同步显示车辆前方的实时路况画面，车外是晴朗天气下的公路与绿植，车辆正常向前行驶。镜头从近景慢慢拉远，展示设备在车内的安装状态与实时录制效果。
-  - 口播: ...las 24 horas...  ...y lo me conecta por Wi-Fi a tu celular...
+  - 口播: las 24 horas... ...y lo me conecta por Wi-Fi a tu celular...
 Shot 4:
   - 时长: 7.5sec - 10.5sec
   - 镜头类型: 产品多功能性
   - 画面: 画面采用分屏对比形式，左侧画面是一只手拿着智能手机，手机屏幕上显示出行车记录仪同步传输过来的多路行车视频列表，手指在屏幕上滑动操作选择视频；右侧画面保持行车记录仪固定在车内前挡风玻璃的视角，车辆在公路上持续行驶。随后分屏合并，手机屏幕清晰展示视频下载完成的界面。全程保持稳定固定视角，无大幅度镜头晃动。
-  - 口播: y puedes descargar los videos  directo a tu galería. Y lo  mejor de todo, el
+  - 口播: y puedes descargar los videos directo a tu galería. Y lo mejor de todo, el
 Shot 5:
   - 时长: 10.5sec - 15.5sec
   - 镜头类型: 促销卖点强推
   - 画面: 场景回到数码店内，主播双手捧着行车记录仪的产品包装盒，盒子上印有产品实拍图，主播面带笑容看向镜头，抬起右手向下指向画面下方，画面中弹出橙色的购物车图标叠加在包装盒上，引导观众下单。固定中景机位，镜头稳稳收录主播的带货动作与产品包装盒全貌。
-  - 口播: precio está increíble. Pídelo en el carito aquí abajo  antes de que se haguen. Gracias.
+  - 口播: precio está increíble. Pídelo en el carito aquí abajo antes de que se haguen. Gracias.
 [Background Sound]:
 - 无背景音乐。该短视频为纯人声口播内容，语速较快、语气热情、带有明显的促销引导性质，完全依靠主播的语音节奏和语调来吸引观众注意力，营造紧迫感和促销氛围。
 [Transition / Editing]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-phones-776085](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-phones-776085?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-phones-776085)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-phones-776085](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-phones-776085?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-phones-776085)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

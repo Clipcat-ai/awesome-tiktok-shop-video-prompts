@@ -1,6 +1,6 @@
 ---
 id: th-beauty-860434
-title: "Hana Femme ครีมกำจัดขนใช้ได้ทั่วร่างกาย ปาดเดียวขนหลุด ผิวเนีย — Talking Head (Thailand · Beauty & Personal Care)"
+title: "Hana Femme ครีมกำจัดขนใช้ได้ทั่วร่า… — Talking Head (Thailand · Beauty & Personal Care)"
 market: th
 category: beauty-personal-care
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677896559152860434
 creator: "@sudaporn4289"
 published: 2026-08-25
 ---
-# Hana Femme ครีมกำจัดขนใช้ได้ทั่วร่างกาย ปาดเดียวขนหลุด ผิวเนีย — Talking Head (Thailand · Beauty & Personal Care)
+# Hana Femme ครีมกำจัดขนใช้ได้ทั่วร่า… — Talking Head (Thailand · Beauty & Personal Care)
 **Weekly #1** · 🇹🇭 Thailand · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677896559152860434) by [@sudaporn4289](https://www.tiktok.com/@sudaporn4289). Format: **Talking Head** · 40s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Leg hair grows fast, and it becomes thicker after shaving”
+**Opening line (translated from the video):** “Leg hair grows fast, and it becomes thicker after shaving”
 
 **Pain point it attacks:** Leg hair grows fast and becomes thicker after shaving
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-beauty-860434](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-beauty-860434?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-beauty-860434)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-beauty-860434](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-beauty-860434?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-beauty-860434)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

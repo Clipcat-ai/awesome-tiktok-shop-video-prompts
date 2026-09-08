@@ -1,6 +1,6 @@
 ---
 id: fr-tools-474272
-title: "VEVOR Treuil à Câble Électrique 600 kg Palan Électrique avec T — Real Review (France · Tools & Hardware)"
+title: "VEVOR Treuil à Câble Électrique… — Real Review (France · Tools & Hardware)"
 market: fr
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677169940658474272
 creator: "@mmeraptorx"
 published: 2026-08-24
 ---
-# VEVOR Treuil à Câble Électrique 600 kg Palan Électrique avec T — Real Review (France · Tools & Hardware)
+# VEVOR Treuil à Câble Électrique… — Real Review (France · Tools & Hardware)
 **Weekly #1** · 🇫🇷 France · Tools & Hardware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677169940658474272) by [@mmeraptorx](https://www.tiktok.com/@mmeraptorx). Format: **Real Review** · 38s · hook: **Result First** · Hands only · Discount
-**Opening line (from the video):** “This small electric winch, look at this, it's totally amazing”
+**Opening line (translated from the video):** “This small electric winch, look at this, it's totally amazing”
 
 **Pain point it attacks:** Heavy objects are hard to lift
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: Realistic, no-nonsense Douyin e-commerce product review aesthetic, with visuals that closely resemble real industrial scene footage, carrying an approachable, down-to-earth sharing vibe
+[Style]: Realistic, no-nonsense TikTok e-commerce product review aesthetic, with visuals that closely resemble real industrial scene footage, carrying an approachable, down-to-earth sharing vibe
 [Environment]: Rustic industrial-style indoor space, with a ceiling constructed from dark brown solid wood beams and corrugated metal color steel tiles, walls finished with rough cement mortar base, overall spacious and rugged, recreating the authentic atmosphere of a real workshop or warehouse space
 [Tone & Pacing]: Enthusiastic product sharing tone, with a brisk pace that stays fully focused on product demonstrations throughout, every operation demo paired with clear corresponding function explanations, delivering a smooth, unhurried viewing experience
 [Camera]: Entirely shot handheld with a mobile phone, filming the electric winch from multiple surrounding angles, occasionally pulling back to show the full installed view of the whole unit, occasionally moving in close to capture details to display markings and remote control functions, the lens moves slightly along with hand gestures to preserve the authentic casual filming texture
@@ -69,7 +68,7 @@ Shot 5:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 抖音电商硬核好物测评写实风格，画面质感贴近实拍工业场景，自带接地气的分享氛围
+[Style]: TikTok电商硬核好物测评写实风格，画面质感贴近实拍工业场景，自带接地气的分享氛围
 [Environment]: 质朴的工业风室内空间，顶面由深褐色实木横梁与波纹金属彩钢瓦搭建，墙面是粗糙水泥砂浆基底，整体粗犷开阔，还原真实车间或仓储用房环境
 [Tone & Pacing]: 热情洋溢的好物分享语气，节奏轻快且全程聚焦产品演示，每一处操作演示都对应清晰的功能说明，观看过程顺畅无拖沓
 [Camera]: 全程手持手机实拍，以不同角度围绕电动绞车拍摄，时而拉远展示整机安装全貌，时而凑近对准细节展示标识与遥控器功能，镜头随手势动作轻微移动，保留真实随拍质感
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-tools-474272](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-tools-474272?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-tools-474272)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-tools-474272](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-tools-474272?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-tools-474272)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

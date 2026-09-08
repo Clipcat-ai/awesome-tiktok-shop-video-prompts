@@ -1,6 +1,6 @@
 ---
 id: sg-tools-141896
-title: "SG READY STOCK Wall Hole Repair Sealant Sealing Glue Household — Real Review (Singapore · Tools & Hardware)"
+title: "SG READY STOCK Wall Hole Repair… — Real Review (Singapore · Tools & Hardware)"
 market: sg
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670483175667141896
 creator: "@tianzhen16"
 published: 2026-08-05
 ---
-# SG READY STOCK Wall Hole Repair Sealant Sealing Glue Household — Real Review (Singapore · Tools & Hardware)
+# SG READY STOCK Wall Hole Repair… — Real Review (Singapore · Tools & Hardware)
 **Weekly #1** · 🇸🇬 Singapore · Tools & Hardware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670483175667141896) by [@tianzhen16](https://www.tiktok.com/@tianzhen16). Format: **Real Review** · 15s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Press sealant into wall hole and scrape off excess”
+**Opening line (quoted from the video):** “Press sealant into wall hole and scrape off excess”
 
 **Pain point it attacks:** Small holes in walls and pipes need repairing
 
@@ -56,7 +55,7 @@ Shot 4:
   - Duration: 7.5sec - 11.0sec
   - Scene Type: Demonstrate the product's versatility
   - Scene: The shot switches to the gray drain pipe area under a bathroom sink. The gloved hands knead the white sealant putty into a long strip, then wrap it around the gap where the pipe meets the countertop. Both hands work together to press the sealant putty firmly against the gap, finally using a scraper to trim the surface to make it smooth and even, fully covering the opening at the bottom of the pipe. The camera is fixed on the operation area under the sink, clearly showing the hands' shaping and gap-filling process.
-  - Subject: matching paint. You can also mold it around a clean, dry pipe opening. Thank you.
+  - Subject: matching paint. You can also mold it around a clean, dry pipe opening.
 Shot 5:
   - Duration: 11.0sec - 13.5sec
   - Scene Type: Set up the usage scenario
@@ -101,7 +100,7 @@ Shot 4:
   - 时长: 7.5sec - 11.0sec
   - 镜头类型: 产品多功能性
   - 画面: 画面切换到洗手台下方的灰色排水管道区域，戴着手套的双手将白色密封泥揉捏成长条状，随后环绕在管道与台面接触的缝隙处，双手配合将密封泥紧紧按压贴合缝隙，最后用刮刀修整表面使其平整顺滑，完全包裹住管道底部的开口，镜头固定在洗手台下方的操作区域，清晰展示双手的塑形与填缝过程。
-  - 口播: matching paint. You can also mold it around a clean, dry pipe opening. Thank you.
+  - 口播: matching paint. You can also mold it around a clean, dry pipe opening.
 Shot 5:
   - 时长: 11.0sec - 13.5sec
   - 镜头类型: 设置使用场景
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-tools-141896](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-tools-141896?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-tools-141896)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-tools-141896](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-tools-141896?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-tools-141896)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

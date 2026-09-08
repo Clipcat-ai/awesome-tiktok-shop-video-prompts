@@ -1,6 +1,6 @@
 ---
 id: mx-household-685832
-title: "Hervidor Eléctrico de Vidrio Resistente de 2 Litros con Luz LE — Handheld Demo (Mexico · Household Appliances)"
+title: "Hervidor Eléctrico de Vidrio… — Handheld Demo (Mexico · Household Appliances)"
 market: mx
 category: household-appliances
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669292084888685832
 creator: "@wsohejjxj6"
 published: 2026-08-05
 ---
-# Hervidor Eléctrico de Vidrio Resistente de 2 Litros con Luz LE — Handheld Demo (Mexico · Household Appliances)
+# Hervidor Eléctrico de Vidrio… — Handheld Demo (Mexico · Household Appliances)
 **Weekly #1** · 🇲🇽 Mexico · Household Appliances · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669292084888685832) by [@wsohejjxj6](https://www.tiktok.com/@wsohejjxj6). Format: **Handheld Demo** · 10s · hook: **Benefit First** · On-camera host · No promo
-**Opening line (from the video):** “I suspect TikTok got the price wrong, go check the cart now”
+**Opening line (translated from the video):** “I suspect TikTok got the price wrong, go check the cart now”
 
 **Key visuals:** Small Appliance Store · Glass Electric Kettle · Stainless Steel Base · Blue Ambient Light · Water · Heating Base · Brand Shelves · Black Baseball Cap
 
@@ -106,4 +105,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-household-685832](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-household-685832?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-household-685832)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-household-685832](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-household-685832?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-household-685832)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

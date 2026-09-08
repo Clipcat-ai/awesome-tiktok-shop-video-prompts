@@ -1,6 +1,6 @@
 ---
 id: br-womenswear-520338
-title: "KIT Calcinha Calçola Cintura Alta Lisa Redutora Luxo Lateral L — Handheld Demo (Brazil · Womenswear & Underwear)"
+title: "KIT Calcinha Calçola Cintura Alta… — Handheld Demo (Brazil · Womenswear & Underwear)"
 market: br
 category: womenswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7665826183778520338
 creator: "@queciaa"
 published: 2026-07-23
 ---
-# KIT Calcinha Calçola Cintura Alta Lisa Redutora Luxo Lateral L — Handheld Demo (Brazil · Womenswear & Underwear)
+# KIT Calcinha Calçola Cintura Alta… — Handheld Demo (Brazil · Womenswear & Underwear)
 **Weekly #1** · 🇧🇷 Brazil · Womenswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7665826183778520338) by [@queciaa](https://www.tiktok.com/@queciaa). Format: **Handheld Demo** · 27s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Look at how many beautiful colors come in this kit. I can't believe I spent so little on this kit”
+**Opening line (translated from the video):** “Look at how many beautiful colors come in this kit. I can't believe I spent so little on this kit”
 
 **Pain point it attacks:** Can't find multi-color high-waisted comfortable underwear at good price
 
@@ -39,9 +38,9 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 9.5sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: Against the bright home bedroom background, a pair of hands steadily holds a transparent sealed packaging bag, inside which multiple high-waisted underwear pieces in assorted colors are neatly arranged. Each pair of underwear has a brand tag printed with 'Conforto' on its waistband. The hands slowly rotate the packaging bag to show its full appearance, then extend the index finger to gently tap the position corresponding to each pair of underwear one by one, and finally hold the bottom of the bag steadily to display the full product set. The camera stays still at first, then slowly pushes in with the slight movement of the hands, and finally the frame focuses on the area of the colorful underwear inside the bag. The fingernails are painted with bright vivid red nail polish in a neat, delicate manicure, and all movements are soft and unhurried.
-  - Subject: Gente, olha a quantidade de cores lindas que vem nesse kit.  Eu não acredito Acredito ainda que gastei quase nada nesse kit.
+  - Subject: Gente, olha a quantidade de cores lindas que vem nesse kit. Eu não acredito Acredito ainda que gastei quase nada nesse kit.
 Shot 2:
   - Duration: 9.5sec - 16.0sec
   - Scene Type: Product material demonstration
@@ -74,9 +73,9 @@ Shot 4:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 9.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 明亮的居家卧室背景下，一双手稳稳举着透明密封包装袋，袋内整齐排列着多色高腰内裤，每一条内裤腰头都带有印着“Conforto”的品牌标签；双手缓慢转动包装袋展示全貌，随后伸出食指依次轻点每一个内裤对应的位置，最后稳稳托住包装袋展示整套产品。镜头初始保持静止，随后随双手轻微移动缓慢推进，最终画面聚焦于包装袋上的彩色内裤区域。手部指甲涂抹亮眼的正红色指甲油，美甲整洁精致，动作轻柔舒缓。
-  - 口播: Gente, olha a quantidade de cores lindas que vem nesse kit.  Eu não acredito Acredito ainda que gastei quase nada nesse kit.
+  - 口播: Gente, olha a quantidade de cores lindas que vem nesse kit. Eu não acredito Acredito ainda que gastei quase nada nesse kit.
 Shot 2:
   - 时长: 9.5sec - 16.0sec
   - 镜头类型: 产品材质展示
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-womenswear-520338](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-womenswear-520338?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-womenswear-520338)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-womenswear-520338](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-womenswear-520338?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-womenswear-520338)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

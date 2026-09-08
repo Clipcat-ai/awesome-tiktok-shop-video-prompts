@@ -1,6 +1,6 @@
 ---
 id: us-automotive-279822
-title: "Premium Car Seat Covers 2PCS  Front Seats Waterproof PU Leathe — Real Review (United States · Automotive & Motorcycle)"
+title: "Premium Car Seat Covers 2PCS Front… — Real Review (United States · Automotive & Motorcycle)"
 market: us
 category: automotive-motorcycle
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673879223840279822
 creator: "@luisaatips"
 published: 2026-08-14
 ---
-# Premium Car Seat Covers 2PCS  Front Seats Waterproof PU Leathe — Real Review (United States · Automotive & Motorcycle)
+# Premium Car Seat Covers 2PCS Front… — Real Review (United States · Automotive & Motorcycle)
 **Weekly #1** · 🇺🇸 United States · Automotive & Motorcycle · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673879223840279822) by [@luisaatips](https://www.tiktok.com/@luisaatips). Format: **Real Review** · 15s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Do you want to protect your seats with style? Look at these leather covers”
+**Opening line (translated from the video):** “Do you want to protect your seats with style? Look at these leather covers”
 
 **Pain point it attacks:** Car seats are easy to wear and hard to protect
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: Realistic e-commerce short video style for automotive products, with clear and clean image quality, product details displayed clearly and naturally, focusing on immersive product recommendation in real scenarios, adapted to the vertical viewing habits of Douyin.
+[Style]: Realistic e-commerce short video style for automotive products, with clear and clean image quality, product details displayed clearly and naturally, focusing on immersive product recommendation in real scenarios, adapted to the vertical viewing habits of TikTok.
 [Environment]: Professional car display space with a pure white background, even lighting with no extra shadows. All details inside the displayed car are fully visible, the car is equipped with a panoramic sunroof, and complete vehicle configurations including a Volkswagen brand center console, floating large screen, and automatic transmission gear lever. The entire space is tidy, bright and free of clutter.
 [Tone & Pacing]: Enthusiastic product recommendation style, with a tight and smooth pace. The display duration for each product selling point is properly controlled, shot transitions are crisp, and the whole video maintains the lively feel of product sharing with no dragging or redundant segments.
 [Camera]: Starts with a vertical close-up portrait shot, then switches sequentially to product close-up shots, detail macro shots, and a full panoramic shot of the car interior. The camera movement is stable and smooth with no unnecessary shaking, accurately targeting every core selling point of the product.
@@ -41,7 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 2.0sec
   - Scene Type: Handheld product display
   - Scene: The Latina woman stands next to the car with the door open, holding the folded brown and black color-blocked leather seat cover with both hands. The surface of the seat cover is printed with the white text 'ORIGINAT' and a metallic brand logo. She looks at the camera with a bright smile, slightly adjusts the display angle of the seat cover in her hands, and fully presents the overall appearance of the product to the camera.
-  - Subject: ¿Quieres proteger tus asientos con estilo?  Mira estas fundas de piel.
+  - Subject: ¿Quieres proteger tus asientos con estilo? Mira estas fundas de piel.
 Shot 2:
   - Duration: 2.0sec - 3.5sec
   - Scene Type: Product material display
@@ -84,7 +83,7 @@ Shot 8:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 汽车用品写实风电商短视频，画面质感通透干净，产品细节展示清晰自然，主打真实场景沉浸式种草，适配抖音竖屏观看习惯。
+[Style]: 汽车用品写实风电商短视频，画面质感通透干净，产品细节展示清晰自然，主打真实场景沉浸式种草，适配TikTok竖屏观看习惯。
 [Environment]: 纯白色背景的专业汽车展示空间，光线均匀无多余阴影，展车内细节完整可见，车顶配备全景天窗，搭载大众品牌中控台、悬浮大屏、自动挡换挡杆等完整车机配置，整体空间整洁明亮无杂物。
 [Tone & Pacing]: 热情满满的好物分享风格，节奏紧凑流畅，每个产品卖点展示时长把控得当，镜头切换利落，全程保持种草分享的鲜活感，没有拖沓冗余的片段。
 [Camera]: 以竖屏近景人像镜头开场，依次切换产品特写镜头、细节微距镜头、车内空间全景镜头，运镜平稳顺滑，全程无多余晃动，精准对准产品的每一处核心展示卖点。
@@ -96,7 +95,7 @@ Shot 1:
   - 时长: 0.0sec - 2.0sec
   - 镜头类型: 手持商品展示
   - 画面: 拉美裔女性站在打开车门的汽车旁，双手托着折叠好的棕黑拼色皮革座套，座套表面印有白色“ORIGINAT”字样和金属质感品牌标识，她面带灿烂笑容看向镜头，微微调整手中座套的展示角度，向镜头完整呈现产品整体外观。
-  - 口播: ¿Quieres proteger tus asientos con estilo?  Mira estas fundas de piel.
+  - 口播: ¿Quieres proteger tus asientos con estilo? Mira estas fundas de piel.
 Shot 2:
   - 时长: 2.0sec - 3.5sec
   - 镜头类型: 产品材质展示
@@ -140,4 +139,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-automotive-279822](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-automotive-279822?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-automotive-279822)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-automotive-279822](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-automotive-279822?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-automotive-279822)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

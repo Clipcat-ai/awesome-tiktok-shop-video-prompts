@@ -1,6 +1,6 @@
 ---
 id: es-fashion-086102
-title: "Fashion Classic Double Pendant Jesus Cross + Virgin Guadalupe — Handheld Demo (Spain · Fashion Accessories)"
+title: "Fashion Classic Double Pendant… — Handheld Demo (Spain · Fashion Accessories)"
 market: es
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680109281819086102
 creator: "@gzqles"
 published: 2026-08-31
 ---
-# Fashion Classic Double Pendant Jesus Cross + Virgin Guadalupe — Handheld Demo (Spain · Fashion Accessories)
+# Fashion Classic Double Pendant… — Handheld Demo (Spain · Fashion Accessories)
 **Weekly #1** · 🇪🇸 Spain · Fashion Accessories · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680109281819086102) by [@gzqles](https://www.tiktok.com/@gzqles). Format: **Handheld Demo** · 14s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “I wear this double pendant every day and it still travels well”
+**Opening line (translated from the video):** “I wear this double pendant every day and it still travels well”
 
 **Key visuals:** Double Gold Necklace · White Sheer Curtain · City Skyline · Iced Coffee Cup · White V-Neck T-Shirt · Sunset Natural Light · Necklace Pendant
 
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-fashion-086102](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-fashion-086102?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-fashion-086102)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-fashion-086102](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-fashion-086102?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-fashion-086102)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

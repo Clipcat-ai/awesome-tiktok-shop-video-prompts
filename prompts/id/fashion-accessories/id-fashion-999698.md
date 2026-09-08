@@ -1,6 +1,6 @@
 ---
 id: id-fashion-999698
-title: "Kacamata Hitam Anti UV Pria & Wanita untuk Mengemudi & Memanci — Handheld Demo (Indonesia · Fashion Accessories)"
+title: "Kacamata Hitam Anti UV Pria &… — Handheld Demo (Indonesia · Fashion Accessories)"
 market: id
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668231670192999698
 creator: "@dayliaccesorize"
 published: 2026-07-30
 ---
-# Kacamata Hitam Anti UV Pria & Wanita untuk Mengemudi & Memanci — Handheld Demo (Indonesia · Fashion Accessories)
+# Kacamata Hitam Anti UV Pria &… — Handheld Demo (Indonesia · Fashion Accessories)
 **Weekly #1** · 🇮🇩 Indonesia · Fashion Accessories · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668231670192999698) by [@dayliaccesorize](https://www.tiktok.com/@dayliaccesorize). Format: **Handheld Demo** · 10s · hook: **Benefit First** · On-camera host · No promo
-**Opening line (from the video):** “Cool sunglasses don't have to be expensive, just over ten thousand”
+**Opening beat:** “Cool sunglasses don't have to be expensive, just over ten thousand”
 
 **Pain point it attacks:** Afraid of high price when buying nice sunglasses
 
@@ -92,4 +91,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-fashion-999698](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-fashion-999698?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-fashion-999698)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-fashion-999698](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-fashion-999698?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-fashion-999698)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

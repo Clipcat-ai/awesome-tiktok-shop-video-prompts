@@ -1,6 +1,6 @@
 ---
 id: de-furniture-727841
-title: "Vanity Desk with Mirror and Lights — Lifestyle Scene (Germany · Furniture)"
+title: "Vanity Desk with Mirror and… — Lifestyle Scene (Germany · Furniture)"
 market: de
 category: furniture
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7666537852808727841
 creator: "@ddkku69"
 published: 2026-07-25
 ---
-# Vanity Desk with Mirror and Lights — Lifestyle Scene (Germany · Furniture)
+# Vanity Desk with Mirror and… — Lifestyle Scene (Germany · Furniture)
 **Weekly #1** · 🇩🇪 Germany · Furniture · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7666537852808727841) by [@ddkku69](https://www.tiktok.com/@ddkku69). Format: **Lifestyle Scene** · 15s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Everyone look! My new dresser has arrived”
+**Opening line (translated from the video):** “Everyone look! My new dresser has arrived”
 
 **Key visuals:** White Dresser · Soft Cushioned Stool · Ring Light Mirror · Hair Dryer Holder · Transparent Storage Box · Makeup Products · Green Halter Dress · Dynamic Shopping Cart
 
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-furniture-727841](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-furniture-727841?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-furniture-727841)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-furniture-727841](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-furniture-727841?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-furniture-727841)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

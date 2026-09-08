@@ -1,6 +1,6 @@
 ---
 id: fr-fashion-759382
-title: "24 Inch Long Layered Cut Wigs for Women — Handheld Demo (France · Fashion Accessories)"
+title: "24 Inch Long Layered Cut Wigs for… — Handheld Demo (France · Fashion Accessories)"
 market: fr
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674897464515759382
 creator: "@topshewig16"
 published: 2026-08-17
 ---
-# 24 Inch Long Layered Cut Wigs for Women — Handheld Demo (France · Fashion Accessories)
+# 24 Inch Long Layered Cut Wigs for… — Handheld Demo (France · Fashion Accessories)
 **Weekly #1** · 🇫🇷 France · Fashion Accessories · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674897464515759382) by [@topshewig16](https://www.tiktok.com/@topshewig16). Format: **Handheld Demo** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Look at this volume!”
+**Opening line (translated from the video):** “Look at this volume!”
 
 **Pain point it attacks:** Wigs have little volume and are not fluffy enough
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-fashion-759382](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-fashion-759382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-fashion-759382)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-fashion-759382](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-fashion-759382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-fashion-759382)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

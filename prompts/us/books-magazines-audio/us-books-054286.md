@@ -1,6 +1,6 @@
 ---
 id: us-books-054286
-title: "40-Day Transformation Combo: Emotional Intelligence Guide + Su — Story Skit (United States · Books, Magazines & Audio)"
+title: "40-Day Transformation Combo… — Story Skit (United States · Books, Magazines & Audio)"
 market: us
 category: books-magazines-audio
 video_type: story-skit
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677551577284054286
 creator: "@piensaylee"
 published: 2026-08-24
 ---
-# 40-Day Transformation Combo: Emotional Intelligence Guide + Su — Story Skit (United States · Books, Magazines & Audio)
+# 40-Day Transformation Combo… — Story Skit (United States · Books, Magazines & Audio)
 **Weekly #1** · 🇺🇸 United States · Books, Magazines & Audio · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677551577284054286) by [@piensaylee](https://www.tiktok.com/@piensaylee). Format: **Story Skit** · 303s · hook: **Skit Conflict** · Multiple people · No promo
-**Opening line (from the video):** “Honey, I'm going to the gym, I'll be back later”
+**Opening line (translated from the video):** “Honey, I'm going to the gym, I'll be back later”
 
 **Pain point it attacks:** Being rejected by partner for figure, emotional betrayal
 
@@ -61,12 +60,12 @@ Shot 5:
   - Duration: 11.0sec - 14.0sec
   - Scene Type: Interactive drama performance
   - Scene: The frame cuts back to a close-up of the female lead, the smile on her face fades completely, and she shows an undisguised disgusted expression. Fixed camera close-up, capturing the change in the female lead's expression. The on-screen character is the female lead.
-  - Subject: a mis amigos.  Pero yo también quiero bajar de pesa
+  - Subject: a mis amigos. Pero yo también quiero bajar de pesa
 Shot 6:
   - Duration: 15.6sec - 18.6sec
   - Scene Type: Interactive drama performance
   - Scene: The male lead slowly stands up from the dining chair, stands still, faces the female lead standing at the door not far away, with his arms hanging naturally by his sides. Medium shot that fully presents the male lead's full-body standing movement, the frame includes both the male lead and the female lead in the distance. The on-screen characters are the male lead and the female lead.
-  - Subject: Por favor, llévame contigo.  Si de verdad quieres cambiar, empiezo.
+  - Subject: Por favor, llévame contigo. Si de verdad quieres cambiar, empiezo.
 Shot 7:
   - Duration: 18.6sec - 21.6sec
   - Scene Type: Interactive drama performance
@@ -131,12 +130,12 @@ Shot 5:
   - 时长: 11.0sec - 14.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 画面切回女主的近景，她脸上的笑意完全褪去，神情露出毫不掩饰的嫌弃神态。固定机位特写，捕捉女主神情的转变。出镜人物为女主。
-  - 口播: a mis amigos.  Pero yo también quiero bajar de pesa
+  - 口播: a mis amigos. Pero yo también quiero bajar de pesa
 Shot 6:
   - 时长: 15.6sec - 18.6sec
   - 镜头类型: 互动剧情演绎
   - 画面: 男主从餐椅上缓缓站起身，身形站定，面向站在不远处门口位置的女主，手臂自然垂在身侧。中景镜头完整呈现男主起身站立的全身动作，画面同时容纳男主与远处的女主。出镜人物为男主、女主。
-  - 口播: Por favor, llévame contigo.  Si de verdad quieres cambiar, empiezo.
+  - 口播: Por favor, llévame contigo. Si de verdad quieres cambiar, empiezo.
 Shot 7:
   - 时长: 18.6sec - 21.6sec
   - 镜头类型: 互动剧情演绎
@@ -171,12 +170,12 @@ Shot 13:
   - 时长: 51.0sec - 63.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 场景切换到采光柔和的心理咨询办公室内，身着墨绿色衬衫的男主正和对面穿酒红色衬衫的咨询师面对面坐着，咨询师抬手将一张两人旅游的亲密合照推到男主面前。男主缓缓伸出手拿起照片，指尖微微颤抖。从双人中景切换至手部拿取照片的特写。出镜人物为男主、咨询师。
-  - 口播: Diego, tu esposa no viació con unas amigas ¿Qué dices Roberto?  No inventes cosas la vi con el entrenador del gimnasio en Cancún Gracias.
+  - 口播: Diego, tu esposa no viació con unas amigas ¿Qué dices Roberto? No inventes cosas la vi con el entrenador del gimnasio en Cancún Gracias.
 Shot 14:
   - 时长: 63.0sec - 78.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 男主拿着照片眼眶泛红，满脸悲痛地看向面前的咨询师，咨询师神情沉稳地和他交流，随后抬手把一本名为《40天沉默之旅》的红色书籍递到男主面前。固定近景镜头，完整呈现两人互动的全过程。出镜人物为男主、咨询师。
-  - 口播: Le di todo porque me hizo esto. cuanto más le das, más segura está de que no te atreves a perder. Entonces nada de lo que hice tuvo sentido lee esto  cuando estés tranquilo y tranquilo, toma una decisión.
+  - 口播: Le di todo porque me hizo esto. cuanto más le das, más segura está de que no te atreves a perder. Entonces nada de lo que hice tuvo sentido lee esto cuando estés tranquilo y tranquilo, toma una decisión.
 Shot 15:
   - 时长: 78.0sec - 83.0sec
   - 镜头类型: 互动剧情演绎
@@ -186,17 +185,17 @@ Shot 16:
   - 时长: 83.0sec - 92.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 女主背着运动包从玄关走进屋内，径直走到料理台旁，神情带着不耐烦的嫌弃感，自顾自地卸下肩上的背包。跟拍女主从门口走到料理台边的动线。出镜人物为女主、男主。
-  - 口播: ¿Por qué sigues despierto otra vez buscando mi amor? ¿Estás necesitando comida?  Te estaba esperando. Estoy cansada, no tengo tiempo para tus quejas.
+  - 口播: ¿Por qué sigues despierto otra vez buscando mi amor? ¿Estás necesitando comida? Te estaba esperando. Estoy cansada, no tengo tiempo para tus quejas.
 Shot 17:
   - 时长: 92.0sec - 104.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 男主抬手将几张信用卡推到料理台桌面上，随后把手机也放到台面上，手机屏幕亮着显示卡片已锁定的界面。女主看到这一幕，脸上露出难以置信的错愕神情，身子下意识绷紧。镜头在桌面物品和女主面部神情之间来回切换特写。出镜人物为男主、女主。
-  - 口播: a quejarme. las tarjetas ya están bloqueadas ¿Quieres controlarme con el dinero?  No Solo dejé de gastar para retenerte.
+  - 口播: a quejarme. las tarjetas ya están bloqueadas ¿Quieres controlarme con el dinero? No Solo dejé de gastar para retenerte.
 Shot 18:
   - 时长: 104.0sec - 126.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 男主从台边拿起几张消费账单甩在台面上，账单上清晰显示着大额的消费明细，女主交叉着手臂，满脸轻蔑地冲男主叫嚣。男主眼眶泛红强忍着泪水，神情从委屈逐渐变得坚定。中景镜头完整呈现两人对峙互动的画面。出镜人物为男主、女主。
-  - 口播: ¿Qué estás intentando hacer? sé que usaste mi amor ¿Y qué? Tú pagabas porque querías tenerme a tu lado. nunca me amaste, ¿verdad?  ¿de verdad creíste? que una mujer como yo se casasó con Tago por amor? Un hombre como tú terminará solo para siempre. siempre
+  - 口播: ¿Qué estás intentando hacer? sé que usaste mi amor ¿Y qué? Tú pagabas porque querías tenerme a tu lado. nunca me amaste, ¿verdad? ¿de verdad creíste? que una mujer como yo se casasó con Tago por amor? Un hombre como tú terminará solo para siempre. siempre
 Shot 19:
   - 时长: 126.0sec - 137.0sec
   - 镜头类型: 互动剧情演绎
@@ -206,17 +205,17 @@ Shot 20:
   - 时长: 137.0sec - 152.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 场景切换回明亮的健身房，男主穿着深蓝色运动T恤，手里攥着毛巾站在器械区门口，神情满是局促不安。之前的健身教练走过来，拍了拍他的肩膀，递给他一瓶矿泉水，耐心地和他交流着什么。镜头跟随两人的互动移动，从男主的面部特写切换到教练递水的动作画面。出镜人物为男主、健身教练。
-  - 口播: Gracias. Todos van a mirarme  Tal vez miren un segundo y luego seguirán entrenando.  ¿Y si no logro mantenerme? Entonces vuelves mañana No tienes que convertirte en otro hombre en un día.
+  - 口播: Gracias. Todos van a mirarme Tal vez miren un segundo y luego seguirán entrenando. ¿Y si no logro mantenerme? Entonces vuelves mañana No tienes que convertirte en otro hombre en un día.
 Shot 21:
   - 时长: 152.0sec - 167.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 健身房的休息用餐区，男主和出轨的教练面对面坐在餐桌旁，教练的餐盘里是寡淡的冷沙拉，男主举着自己装好的健康餐盒向对方展示，餐盒里装着调味恰到好处的拉丁风味健身餐，食材丰富搭配均衡。镜头对准餐盒特写，展示餐食的丰富细节。出镜人物为男主、健身教练。
-  - 口播: Amén. de entrenar todos comen esto cerca sólo venden en Ensalada y pollo frío. Cuesta 18 dólares. Y si fuera como este, menos aceite, buena proteína y la leche. y todavía con sabor latino  si sabe como huele Lo pediría cada semana.
+  - 口播: Amén. de entrenar todos comen esto cerca sólo venden en Ensalada y pollo frío. Cuesta 18 dólares. Y si fuera como este, menos aceite, buena proteína y la leche. y todavía con sabor latino si sabe como huele Lo pediría cada semana.
 Shot 22:
   - 时长: 167.0sec - 180.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 居家厨房场景，男主穿着绿色衬衫搭配米色围裙，正在料理台边封装一盒盒做好的健康餐。站在一旁的咨询师伸手递来一本商业相关的书籍，拍了拍男主的后背给予鼓励，男主抬眼看向咨询师，眼神里满是笃定的光亮。中景镜头完整记录男主封装餐食与两人交流鼓励的全过程。出镜人物为男主、咨询师。
-  - 口播: ¿Preparas comida saludable todos los días? ¿Por qué no haces algunas porciones más?  Sé cocinar. pero no soy un hombre de negocios.  Un negocio no es... empieza con un local, empieza resolviendo un problema por que alguien pagaría. Lee esto y luego de
+  - 口播: ¿Preparas comida saludable todos los días? ¿Por qué no haces algunas porciones más? Sé cocinar. pero no soy un hombre de negocios. Un negocio no es... empieza con un local, empieza resolviendo un problema por que alguien pagaría. Lee esto y luego de
 [Background Sound]:
 - 无背景音乐，全程仅保留人物西班牙语对白的清晰原声，无额外配乐或环境音效。
 [Transition / Editing]:
@@ -225,4 +224,4 @@ Shot 22:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-books-054286](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-books-054286?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-books-054286)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-books-054286](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-books-054286?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-books-054286)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio story skit"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: de-computers-241696
-title: "SUNLU-PLA Regenbogenfilament für 3D-Drucker — Handheld Demo (Germany · Computers & Office Equipment)"
+title: "SUNLU-PLA Regenbogenfilament für… — Handheld Demo (Germany · Computers & Office Equipment)"
 market: de
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675015604436241696
 creator: "@wassimmakes3d"
 published: 2026-08-17
 ---
-# SUNLU-PLA Regenbogenfilament für 3D-Drucker — Handheld Demo (Germany · Computers & Office Equipment)
+# SUNLU-PLA Regenbogenfilament für… — Handheld Demo (Germany · Computers & Office Equipment)
 **Weekly #1** · 🇩🇪 Germany · Computers & Office Equipment · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675015604436241696) by [@wassimmakes3d](https://www.tiktok.com/@wassimmakes3d). Format: **Handheld Demo** · 12s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “My daughter wanted a fan, I quickly printed it with SUNLU rainbow 3D filament”
+**Opening beat:** “My daughter wanted a fan, I quickly printed it with SUNLU rainbow 3D filament”
 
 **Key visuals:** Folding Fan · Hollow Pattern · Outdoor Courtyard · Sunlight · White Wristwatch · Starlight Effect · Green Trees · Wooden Cabin
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-computers-241696](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-computers-241696?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-computers-241696)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-computers-241696](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-computers-241696?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-computers-241696)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

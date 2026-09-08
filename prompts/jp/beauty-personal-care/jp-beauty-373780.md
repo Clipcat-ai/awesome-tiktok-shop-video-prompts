@@ -1,6 +1,6 @@
 ---
 id: jp-beauty-373780
-title: "【#10秒リップタトゥー】 シルバーヴェール ティッシュオフリップタトゥー 6種 — Handheld Demo (Japan · Beauty & Personal Care)"
+title: "【#10秒リップタトゥー… — Handheld Demo (Japan · Beauty & Personal Care)"
 market: jp
 category: beauty-personal-care
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673838041156373780
 creator: "@hana.diet40kg"
 published: 2026-08-14
 ---
-# 【#10秒リップタトゥー】 シルバーヴェール ティッシュオフリップタトゥー 6種 — Handheld Demo (Japan · Beauty & Personal Care)
+# 【#10秒リップタトゥー… — Handheld Demo (Japan · Beauty & Personal Care)
 **Weekly #1** · 🇯🇵 Japan · Beauty & Personal Care · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673838041156373780) by [@hana.diet40kg](https://www.tiktok.com/@hana.diet40kg). Format: **Handheld Demo** · 23s · hook: **Curiosity Gap** · Hands only · Discount, Coupon
-**Opening line (from the video):** “Where is the discount code? Huh? Where is this new lip product?”
+**Opening line (translated from the video):** “Where is the discount code? Huh? Where is this new lip product?”
 
 **Pain point it attacks:** Forgot to mention the discount code
 
@@ -59,7 +58,7 @@ Shot 4:
   - Subject: 最初はギランギランやけど10秒待って透き取るだろ 毛感発色で自然に色づいたようなシーン
 Shot 5:
   - Duration: 15.5sec - 18.5sec
-  - Scene Type: Multi-Style Selection Showcase (Fashion Category)
+  - Scene Type: Multi-Style Selection Showcase
   - Scene: A pair of hands holds the packaging boxes of the full set of six lip glosses, arranging them in a horizontal line in front of the camera for display. Then the hands pick up two more lip glosses with gradient bottles, and a card showing the lip color effect diagrams of all six shades pops up at the top of the frame. After that, the neat arrangement of the full set of six packaging boxes is shown again. The camera maintains a steady medium close-up, fully capturing the entire arrangement display of all products.
   - Subject: めっちゃかわいい! カラバリは6色!
 Shot 6:
@@ -104,7 +103,7 @@ Shot 4:
   - 口播: 最初はギランギランやけど10秒待って透き取るだろ 毛感発色で自然に色づいたようなシーン
 Shot 5:
   - 时长: 15.5sec - 18.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 一双手捧着全套六支唇釉的包装盒在镜头前横向一字排开展示，随后双手又拿起两支渐变瓶身的唇釉，画面上方弹出全部六色的唇色效果示意图卡片，接着再次展示全套六支包装盒的整齐排列效果。镜头保持稳定近景，完整收纳所有产品的排列展示画面。
   - 口播: めっちゃかわいい! カラバリは6色!
 Shot 6:
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-beauty-373780](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-beauty-373780?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-beauty-373780)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-beauty-373780](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-beauty-373780?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-beauty-373780)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

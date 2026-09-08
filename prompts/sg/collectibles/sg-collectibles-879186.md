@@ -1,6 +1,6 @@
 ---
 id: sg-collectibles-879186
-title: "Natural Agarwood — Handheld Demo (Singapore · Collectibles)"
+title: "Natural Agarwood, Sandalwood &… — Handheld Demo (Singapore · Collectibles)"
 market: sg
 category: collectibles
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679627987955879186
 creator: "@ongwanleng"
 published: 2026-08-30
 ---
-# Natural Agarwood — Handheld Demo (Singapore · Collectibles)
+# Natural Agarwood, Sandalwood &… — Handheld Demo (Singapore · Collectibles)
 **Weekly #1** · 🇸🇬 Singapore · Collectibles · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679627987955879186) by [@ongwanleng](https://www.tiktok.com/@ongwanleng). Format: **Handheld Demo** · 45s · hook: **Benefit First** · On-camera host · Bundle deal, Free gift
-**Opening line (from the video):** “This Chen Tan Ai coil incense is 400 grams per box”
+**Opening line (translated from the video):** “This Chen Tan Ai coil incense is 400 grams per box”
 
 **Pain point it attacks:** No clear pain point
 
@@ -46,45 +45,36 @@ Shot 2:
   - Duration: 5.0sec - 12.0sec
   - Scene Type: Product versatility demonstration
   - Scene: The female host holds the open sandalwood jar, turns sideways and gestures towards the multiple neatly arranged incense jars on the table, then holds the incense jar with both hands at the center of her body. The camera pushes forward to clearly show the details of the neatly coiled light brown incense inside the jar.
-  - Subject: 大约48盘一盘可以燃热
-请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
-淡淡香气的朋友可以看看这个
+  - Subject: 大约48盘一盘可以燃热 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目 淡淡香气的朋友可以看看这个
 Shot 3:
   - Duration: 12.0sec - 17.0sec
   - Scene Type: Ease of use demonstration
   - Scene: The scene switches to the quaint traditional Chinese tea room. The female host sits in front of the tea table, gently picks up a coiled incense from a stack of coiled incenses on a wooden tray, lifts it up in the air to show its complete spiral shape. Then the scene switches back to the living room by the window, and the female host holds the coiled incense in front of the camera.
-  - Subject: 优优独播剧场——YoYo Television Series Exclusive
-优优独播剧场——YoYo Television Series Exclusive
 Shot 4:
   - Duration: 17.0sec - 21.5sec
   - Scene Type: Ease of use demonstration
   - Scene: Wispy light smoke rises from the top of the coiled incense in the female host's hand. She smiles slightly and steadily places the lit coiled incense into the three-legged incense burner beside her. Then the camera cuts to a close-up of the inside of the incense burner, where the center of the coiled incense glows reddish, and curling smoke rises slowly.
-  - Subject: 用来的点燃盘香再放进香炉里面
-就可以了很简单
+  - Subject: 用来的点燃盘香再放进香炉里面 就可以了很简单
 Shot 5:
   - Duration: 21.5sec - 28.0sec
   - Scene Type: Product usage scene display
   - Scene: The camera slowly pulls back from the close-up of the incense burner, revealing the tabletop with multiple incense jars including aloeswood and sandalwood jars. The female host sits calmly on the cotton-linen sofa in the living room, with a small side table stacked with books in front of her. She reaches out to pick up the grayish-blue teacup on the table, gracefully lowers her head and takes a sip of hot tea, looking relaxed and content.
-  - Subject: 淡淡的香气,放在家里感觉很舒服
-平时休息、喝茶或者整理
+  - Subject: 淡淡的香气,放在家里感觉很舒服 平时休息、喝茶或者整理
 Shot 6:
   - Duration: 28.0sec - 34.0sec
   - Scene Type: Emotional connection presentation
   - Scene: The female host sits sideways on the sofa, holding the milky white sandalwood jar with both hands, lowering her head to look intently at the calligraphy patterns on the jar body. Then she turns to face the camera, holds the incense jar to her side to show the full appearance of the jar, with a warm recommending smile on her face.
-  - Subject: 都可以用喜欢这种
-这种盘香的朋友可以试试看
+  - Subject: 都可以用喜欢这种 这种盘香的朋友可以试试看
 Shot 7:
   - Duration: 34.0sec - 38.0sec
-  - Scene Type: Multiple style options display (fashion category)
+  - Scene Type: Multiple style options display
   - Scene: The female host arranges three different incense jars in a horizontal row on the wooden table one by one: dark brown, light green and beige. The camera slowly pans from left to right across each incense jar, clearly showing the different exterior color schemes and the calligraphy logo details on each jar body.
-  - Subject: 中色一盒绿色一盒
-黄色一盒,free送一个香燃酥
+  - Subject: 中色一盒绿色一盒 黄色一盒,free送一个香燃酥
 Shot 8:
   - Duration: 38.0sec - 45.5sec
   - Scene Type: Order placement process guidance
   - Scene: The female host reaches out and steadily places the blue-glazed incense burner with a vintage copper art hollowed-out top cover next to the three incense jars on the table. The camera focuses on a close-up of the burner's exquisite exterior, then slowly pans upward. The female host, with a gentle smile, reaches out and lightly points at the complete product set on the table.
-  - Subject: 也就是香炉喜欢的朋友
-去我的小黄车看看哦
+  - Subject: 也就是香炉喜欢的朋友 去我的小黄车看看哦
 [Background Sound]:
 - No background music at all. Only the host's voice explaining product information is heard throughout the entire video, with no additional soundtracks or sound effects to avoid interfering with the voice content.
 [Transition / Editing]:
@@ -109,45 +99,36 @@ Shot 2:
   - 时长: 5.0sec - 12.0sec
   - 镜头类型: 产品多功能性
   - 画面: 女主手捧着开盖的檀香罐，侧身伸手示意桌面上整齐排列的多款香罐，之后双手将香罐举到身前居中位置，镜头向前推近，清晰展示罐内整齐盘绕的浅棕色盘香细节。
-  - 口播: 大约48盘一盘可以燃热
-请不吝点赞 订阅 转发 打赏支持明镜与点点栏目
-淡淡香气的朋友可以看看这个
+  - 口播: 大约48盘一盘可以燃热 请不吝点赞 订阅 转发 打赏支持明镜与点点栏目 淡淡香气的朋友可以看看这个
 Shot 3:
   - 时长: 12.0sec - 17.0sec
   - 镜头类型: 展示易用性
   - 画面: 场景切换至古色古香的中式茶室，女主坐在茶桌前，从木托盘里的一摞盘香中轻轻拿起一盘盘香，将其拎起悬空展示完整的螺旋造型，随后切换场景回到客厅窗边，女主对着镜头将盘香举在身前。
-  - 口播: 优优独播剧场——YoYo Television Series Exclusive
-优优独播剧场——YoYo Television Series Exclusive
 Shot 4:
   - 时长: 17.0sec - 21.5sec
   - 镜头类型: 展示易用性
   - 画面: 女主手中的盘香顶端冒出缕缕轻烟，她面带浅笑将点燃的盘香平稳放入身旁的三足香炉内，随后镜头切换为香炉内部的特写，盘香中心点着泛红，袅袅烟气缓缓升起。
-  - 口播: 用来的点燃盘香再放进香炉里面
-就可以了很简单
+  - 口播: 用来的点燃盘香再放进香炉里面 就可以了很简单
 Shot 5:
   - 时长: 21.5sec - 28.0sec
   - 镜头类型: 产品使用场景
   - 画面: 镜头从香炉特写徐徐向后拉开，展示摆着沉香、檀香等多款香罐的桌面，女主安坐在客厅的棉麻沙发上，身前摆着堆叠书籍的小边几，她伸手拿起桌上的灰青色茶杯，优雅低头轻抿一口热茶，神态松弛惬意。
-  - 口播: 淡淡的香气,放在家里感觉很舒服
-平时休息、喝茶或者整理
+  - 口播: 淡淡的香气,放在家里感觉很舒服 平时休息、喝茶或者整理
 Shot 6:
   - 时长: 28.0sec - 34.0sec
   - 镜头类型: 情感连接
   - 画面: 女主侧身坐在沙发上，双手捧着米白色的檀香罐，低头专注端详罐身的书法纹样，随后转头面向镜头，将香罐举到身侧位置展示罐身全貌，脸上带着温和的推荐笑意。
-  - 口播: 都可以用喜欢这种
-这种盘香的朋友可以试试看
+  - 口播: 都可以用喜欢这种 这种盘香的朋友可以试试看
 Shot 7:
   - 时长: 34.0sec - 38.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 女主将深棕、浅绿、米黄三款不同的香罐依次在木桌上横向排开，镜头缓缓从左向右移动扫过每一款香罐，清晰展示三款香罐不同的外观配色与罐身书法标识细节。
-  - 口播: 中色一盒绿色一盒
-黄色一盒,free送一个香燃酥
+  - 口播: 中色一盒绿色一盒 黄色一盒,free送一个香燃酥
 Shot 8:
   - 时长: 38.0sec - 45.5sec
   - 镜头类型: 下单流程指引
   - 画面: 女主伸手将带有复古铜艺镂空顶盖的蓝釉香炉平稳摆到桌面上三款香罐的旁边，镜头给到香炉精致外观的特写，随后镜头徐徐上移，女主面带温和笑意伸出手轻指桌面的整套产品组合。
-  - 口播: 也就是香炉喜欢的朋友
-去我的小黄车看看哦
+  - 口播: 也就是香炉喜欢的朋友 去我的小黄车看看哦
 [Background Sound]:
 - 没有背景音乐，全程仅以主播人声讲解产品信息，无任何额外配乐或音效，避免语音信息被干扰。
 [Transition / Editing]:
@@ -156,4 +137,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-collectibles-879186](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-collectibles-879186?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-collectibles-879186)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-collectibles-879186](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-collectibles-879186?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-collectibles-879186)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

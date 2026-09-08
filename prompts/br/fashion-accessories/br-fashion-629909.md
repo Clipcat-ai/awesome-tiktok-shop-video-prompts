@@ -1,6 +1,6 @@
 ---
 id: br-fashion-629909
-title: "Kit 10/20/50/100 Presilhas de Cabelo Estrela Coloridas Cores S — Handheld Demo (Brazil · Fashion Accessories)"
+title: "Kit 10/20/50/100 Presilhas de… — Handheld Demo (Brazil · Fashion Accessories)"
 market: br
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677691792690629909
 creator: "@egzod.shop"
 published: 2026-08-24
 ---
-# Kit 10/20/50/100 Presilhas de Cabelo Estrela Coloridas Cores S — Handheld Demo (Brazil · Fashion Accessories)
+# Kit 10/20/50/100 Presilhas de… — Handheld Demo (Brazil · Fashion Accessories)
 **Weekly #1** · 🇧🇷 Brazil · Fashion Accessories · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677691792690629909) by [@egzod.shop](https://www.tiktok.com/@egzod.shop). Format: **Handheld Demo** · 10s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Guys, look at these mini clips, they are super star-shaped”
+**Opening line (translated from the video):** “Guys, look at these mini clips, they are super star-shaped”
 
 **Pain point it attacks:** Want to add color to hairstyle but can't find suitable mini hair clips
 
@@ -49,7 +48,7 @@ Shot 2:
   - Subject: super coloridas e são 100 unidades.
 Shot 3:
   - Duration: 4.5sec - 6.0sec
-  - Scene Type: Display multiple style options (fashion category)
+  - Scene Type: Display multiple style options
   - Scene: The camera cuts back to a medium shot of the girl facing forward. She holds a transparent plastic bag filled with star hair clips in each hand, and winks playfully at the camera. The bold white text '100 UNIDADES' and '2 x 50' pops up on screen to clearly show the packaging specifications and total quantity of the hair clips. A fixed medium shot keeps the frame stable, focused on the girl's upper body and the hair clip bags in her hands.
   - Subject: Dá pra criar vários penteados.
 Shot 4:
@@ -93,7 +92,7 @@ Shot 2:
   - 口播: super coloridas e são 100 unidades.
 Shot 3:
   - 时长: 4.5sec - 6.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头切回少女正面中景，她双手各举一袋装满星星发夹的透明包装袋，对着镜头俏皮眨动单眼wink，画面同步弹出“100 UNIDADES”“2 x 50”的白色醒目文字，清晰展示发夹的包装规格与总数量。固定中景机位，画面稳定聚焦少女上半身与手中的发夹包装袋。
   - 口播: Dá pra criar vários penteados.
 Shot 4:
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-fashion-629909](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-fashion-629909?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-fashion-629909)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-fashion-629909](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-fashion-629909?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-fashion-629909)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

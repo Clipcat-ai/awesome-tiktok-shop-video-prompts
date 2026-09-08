@@ -1,6 +1,6 @@
 ---
 id: de-health-524576
-title: "WindBoss Cortisol-Inositol — Talking Head (Germany · Health)"
+title: "WindBoss Cortisol-Inositol, 2… — Talking Head (Germany · Health)"
 market: de
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671231355824524576
 creator: "@cortisolbalance1"
 published: 2026-08-07
 ---
-# WindBoss Cortisol-Inositol — Talking Head (Germany · Health)
+# WindBoss Cortisol-Inositol, 2… — Talking Head (Germany · Health)
 **Weekly #1** · 🇩🇪 Germany · Health · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671231355824524576) by [@cortisolbalance1](https://www.tiktok.com/@cortisolbalance1). Format: **Talking Head** · 68s · hook: **Pain Point** · On-camera host · Discount, Bundle deal
-**Opening line (from the video):** “If your underwear looks like this, your belly looks like this, your face looks like this, listen up”
+**Opening line (translated from the video):** “If your underwear looks like this, your belly looks like this, your face looks like this, listen up”
 
 **Pain point it attacks:** Cortisol rise causes changes in body appearance and condition
 
@@ -54,7 +53,7 @@ Shot 3:
   - Subject: Deshalb habe ich begonnen, mehr auf meinen Cortisol-Spiegel zu gehen.
 Shot 4:
   - Duration: 28.0sec - 47.0sec
-  - Scene Type: Show core ingredients (health category)
+  - Scene Type: Show core ingredients
   - Scene: The camera cuts to the exquisite product display stand, with a blue wall background decorated with artificial red berries, green pine branches and raffia. A hand with pink manicured nails picks up the blue cortisol supplement bottle and the pink inositol supplement bottle one after another, flipping them sequentially to show the product name on the front of the bottle and the ingredient nutrition label on the side. Then she unscrews the cap and pours out pale beige capsules to show to the camera, finally picks up the combined packaging box of the two supplements and shows it to the camera. The hand movements are gentle and meticulous, accurately displaying the text on the bottles, ingredient details and capsule appearance of the two supplements. The product details in the frame are clear and complete, fully highlighting the appearance and ingredient information of the health supplements.
   - Subject: Ich empfehle diese Kombination aus Kontrollen und Inositol-Nahrungsergänzungsmittel. Jede Kapsel enthält eine wissenschaftlich abgestellte bestimmte Mischung hochwertiger Inhaltsstoffe darunter. Ashwagandha und Magnesium. Sie können Deinen Körper dabei unterstützen, besser mit dem täglichen
 [Background Sound]:
@@ -89,7 +88,7 @@ Shot 3:
   - 口播: Deshalb habe ich begonnen, mehr auf meinen Cortisol-Spiegel zu gehen.
 Shot 4:
   - 时长: 28.0sec - 47.0sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 镜头切换到精致的产品展示台，背景是蓝色墙面上点缀着仿真红色浆果、绿色松枝与拉菲草装饰，一只涂有粉色美甲的手先后拿起蓝色皮质醇保健品瓶、粉色肌醇保健品瓶，依次翻转展示瓶身正面的产品名称、侧面的成分营养表，随后旋开瓶盖倒出浅米色的胶囊展示给镜头，最后将两瓶保健品的组合包装盒拿起对着镜头展示。手部动作轻柔细致，精准展示两瓶保健品的瓶身文字、配料细节与胶囊外观，画面里的产品细节清晰完整，充分突出保健品的外观与成分信息。
   - 口播: Ich empfehle diese Kombination aus Kontrollen und Inositol-Nahrungsergänzungsmittel. Jede Kapsel enthält eine wissenschaftlich abgestellte bestimmte Mischung hochwertiger Inhaltsstoffe darunter. Ashwagandha und Magnesium. Sie können Deinen Körper dabei unterstützen, besser mit dem täglichen
 Shot 5:
@@ -110,4 +109,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-health-524576](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-health-524576?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-health-524576)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-health-524576](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-health-524576?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-health-524576)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

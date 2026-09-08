@@ -1,6 +1,6 @@
 ---
 id: fr-beauty-261152
-title: "DRDENT Bandes blanchissantes pour les dents violettes – 7/21 a — Handheld Demo (France · Beauty & Personal Care)"
+title: "DRDENT Bandes blanchissantes pour… — Handheld Demo (France · Beauty & Personal Care)"
 market: fr
 category: beauty-personal-care
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7681423524644261152
 creator: "@lilyshop750"
 published: 2026-09-04
 ---
-# DRDENT Bandes blanchissantes pour les dents violettes – 7/21 a — Handheld Demo (France · Beauty & Personal Care)
+# DRDENT Bandes blanchissantes pour… — Handheld Demo (France · Beauty & Personal Care)
 **Weekly #1** · 🇫🇷 France · Beauty & Personal Care · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7681423524644261152) by [@lilyshop750](https://www.tiktok.com/@lilyshop750). Format: **Handheld Demo** · 33s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “A whiter smile in a week! Try DR.DENT purple whitening strips”
+**Opening line (translated from the video):** “A whiter smile in a week! Try DR.DENT purple whitening strips”
 
 **Pain point it attacks:** Teeth have yellowish stains
 
@@ -118,4 +117,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-beauty-261152](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-beauty-261152?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-beauty-261152)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-beauty-261152](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-beauty-261152?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-beauty-261152)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

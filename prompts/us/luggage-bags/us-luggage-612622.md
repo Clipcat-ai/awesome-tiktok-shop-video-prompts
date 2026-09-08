@@ -1,6 +1,6 @@
 ---
 id: us-luggage-612622
-title: "Clear Football Shaped Crossbody Bag Transparent PVC Stadium Ap — Handheld Demo (United States · Luggage & Bags)"
+title: "Clear Football Shaped Crossbody… — Handheld Demo (United States · Luggage & Bags)"
 market: us
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670965627984612622
 creator: "@miranda_2566"
 published: 2026-08-06
 ---
-# Clear Football Shaped Crossbody Bag Transparent PVC Stadium Ap — Handheld Demo (United States · Luggage & Bags)
+# Clear Football Shaped Crossbody… — Handheld Demo (United States · Luggage & Bags)
 **Weekly #1** · 🇺🇸 United States · Luggage & Bags · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670965627984612622) by [@miranda_2566](https://www.tiktok.com/@miranda_2566). Format: **Handheld Demo** · 12s · hook: **ASMR Sensory** · Hands only · No promo
-**Opening line (from the video):** “No voiceover, only a hand with light pink nail polish touching the bag details”
+**Opening line (quoted from the video):** “No voiceover, only a hand with light pink nail polish touching the bag details”
 
 **Key visuals:** Clear Football Shaped Bag · Brown Leather Strap · White Webbing · Gold Grommet · Mobile Phone · Card Holder · Lipstick · Picnic Table
 
@@ -39,7 +38,6 @@ Shot 1:
   - Duration: 0.0sec - 4.0sec
   - Scene Type: Product material demonstration
   - Scene: Inside a bright brand apparel store, multiple rugby-shaped transparent crossbody bags are neatly arranged on a brown wooden counter. A slender woman's right hand with pale pink manicured nails enters the frame from the bottom right, gently brushing over the brown leather strap of the frontmost bag, then tapping one by one on the white webbing and brass eyelets on the front of the bag to carefully showcase the bag's stitching craftsmanship and hardware details. The camera slowly pushes in from the full wide shot of the display stand, gradually focusing on the frontmost bag before finally stopping on the white webbing detail. Only the woman's right hand with pale pink manicured nails appears in the frame.
-  - Subject: Thank you.
 Shot 2:
   - Duration: 4.0sec - 8.0sec
   - Scene Type: Usage scenario setup
@@ -69,7 +67,6 @@ Shot 1:
   - 时长: 0.0sec - 4.0sec
   - 镜头类型: 产品材质展示
   - 画面: 明亮的品牌服饰店内，多张橄榄球造型透明挎包整齐陈列在棕色木质台面上，一只修剪着淡粉色美甲的纤细右手从画面右下角伸入，轻轻抚过画面最前方包袋的棕色皮革带，随后指尖逐一轻点包身正面的白色织带与金色气眼，细致展示包身的缝线工艺与五金细节。镜头从陈列台全景缓慢向前推近，逐步聚焦至最前方的包袋，最终定格在包身的白色织带细节处。画面仅展示带有淡粉色美甲的女性右手。
-  - 口播: Thank you.
 Shot 2:
   - 时长: 4.0sec - 8.0sec
   - 镜头类型: 设置使用场景
@@ -88,4 +85,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-luggage-612622](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-luggage-612622?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-luggage-612622)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-luggage-612622](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-luggage-612622?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-luggage-612622)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

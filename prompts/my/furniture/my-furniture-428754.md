@@ -1,6 +1,6 @@
 ---
 id: my-furniture-428754
-title: "R2-Kids Study Table & Chair Set Adjustable Height — Talking Head (Malaysia · Furniture)"
+title: "R2-Kids Study Table & Chair Set… — Talking Head (Malaysia · Furniture)"
 market: my
 category: furniture
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672337251841428754
 creator: "@msh.share"
 published: 2026-08-10
 ---
-# R2-Kids Study Table & Chair Set Adjustable Height — Talking Head (Malaysia · Furniture)
+# R2-Kids Study Table & Chair Set… — Talking Head (Malaysia · Furniture)
 **Weekly #1** · 🇲🇾 Malaysia · Furniture · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672337251841428754) by [@msh.share](https://www.tiktok.com/@msh.share). Format: **Talking Head** · 16s · hook: **Identity** · On-camera host · Discount
-**Opening line (from the video):** “Moms looking for a study table for kids, look at this”
+**Opening line (translated from the video):** “Moms looking for a study table for kids, look at this”
 
 **Pain point it attacks:** Trouble choosing suitable kids study table
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-furniture-428754](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-furniture-428754?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-furniture-428754)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-furniture-428754](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-furniture-428754?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-furniture-428754)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

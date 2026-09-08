@@ -1,6 +1,6 @@
 ---
 id: us-sports-954574
-title: "DGAPHRO Black Toilet Paper Holder with Shelf — Handheld Demo (United States · Sports & Outdoor)"
+title: "DGAPHRO Black Toilet Paper Holder… — Handheld Demo (United States · Sports & Outdoor)"
 market: us
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673903932585954574
 creator: "@jo3yz"
 published: 2026-08-14
 ---
-# DGAPHRO Black Toilet Paper Holder with Shelf — Handheld Demo (United States · Sports & Outdoor)
+# DGAPHRO Black Toilet Paper Holder… — Handheld Demo (United States · Sports & Outdoor)
 **Weekly #1** · 🇺🇸 United States · Sports & Outdoor · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673903932585954574) by [@jo3yz](https://www.tiktok.com/@jo3yz). Format: **Handheld Demo** · 11s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “All you have to do is stick it to the side of your vanity”
+**Opening line (quoted from the video):** “All you have to do is stick it to the side of your vanity”
 
 **Key visuals:** Black Toilet Paper Holder · Stainless Steel · White Ceramic Toilet · Dark Brown Bathroom Vanity · White Quartz Countertop · White Vase · Light Brown Wood Floor
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-sports-954574](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-sports-954574?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-sports-954574)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-sports-954574](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-sports-954574?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-sports-954574)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

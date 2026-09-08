@@ -1,6 +1,6 @@
 ---
 id: de-automotive-529889
-title: "Technaxx Elektronische Mini-Parkscheibe TX-353 — Handheld Demo (Germany · Automotive & Motorcycle)"
+title: "Technaxx Elektronische… — Handheld Demo (Germany · Automotive & Motorcycle)"
 market: de
 category: automotive-motorcycle
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679130899765529889
 creator: "@trucker.66"
 published: 2026-08-29
 ---
-# Technaxx Elektronische Mini-Parkscheibe TX-353 — Handheld Demo (Germany · Automotive & Motorcycle)
+# Technaxx Elektronische… — Handheld Demo (Germany · Automotive & Motorcycle)
 **Weekly #1** · 🇩🇪 Germany · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679130899765529889) by [@trucker.66](https://www.tiktok.com/@trucker.66). Format: **Handheld Demo** · 31s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “This small thing has saved me money”
+**Opening line (translated from the video):** “This small thing has saved me money”
 
 **Pain point it attacks:** Forgot parking disc and got fined
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-automotive-529889](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-automotive-529889?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-automotive-529889)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-automotive-529889](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-automotive-529889?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-automotive-529889)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

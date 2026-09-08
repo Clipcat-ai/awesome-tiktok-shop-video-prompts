@@ -1,6 +1,6 @@
 ---
 id: it-womenswear-923233
-title: "【Lady First】Blazer & Completo Tailleur Elegance - Made in Ital — OOTD Showcase (Italy · Womenswear & Underwear)"
+title: "【Lady First】Blazer & Completo… — OOTD Showcase (Italy · Womenswear & Underwear)"
 market: it
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678115616707923233
 creator: "@sunamis.jorge"
 published: 2026-08-25
 ---
-# 【Lady First】Blazer & Completo Tailleur Elegance - Made in Ital — OOTD Showcase (Italy · Womenswear & Underwear)
+# 【Lady First】Blazer & Completo… — OOTD Showcase (Italy · Womenswear & Underwear)
 **Weekly #1** · 🇮🇹 Italy · Womenswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678115616707923233) by [@sunamis.jorge](https://www.tiktok.com/@sunamis.jorge). Format: **OOTD Showcase** · 15s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Hi, look at this olive suit, fancy cut, perfect for work”
+**Opening line (translated from the video):** “Hi, look at this olive suit, fancy cut, perfect for work”
 
 **Key visuals:** Old Town Street · Brick Pavement · Coffee Shop · White Woman · Olive Blazer · Handbag · Gold Necklace
 
@@ -39,7 +38,7 @@ Shot 1:
   - Duration: 0.0sec - 9.5sec
   - Scene Type: OOTD outfit showcase
   - Scene: On the retro old town pedestrian street, the Caucasian woman wearing the olive green commuter suit set walks calmly forward along the stone-paved street. She holds a dark brown leather handbag in her right hand, swings her left hand naturally, and occasionally raises her left hand to make gestures introducing the outfit. In the background, a few resting patrons can be seen sitting at the outdoor café seats, while pedestrians and vehicles slowly pass by behind her. She wears a bright, friendly smile, her mouth moves naturally as she shares her experience of this outfit with the camera, appearing confident and at ease. The camera maintains a steady follow-shot pace, moving synchronously as she walks to fully capture the full-body outfit details and the background street atmosphere, demonstrating the drape of the olive green commuter suit set, the fabric texture, and presenting the natural look of the outfit in a daily walking scenario.
-  - Subject: Ciao, guarda questo completo. È un tagliar fancy verde. Perfetto per il lavoro  La giacca è su misura e i pantaloni sono compi Grazie.
+  - Subject: Ciao, guarda questo completo. È un tagliar fancy verde. Perfetto per il lavoro La giacca è su misura e i pantaloni sono compi Grazie.
 Shot 2:
   - Duration: 9.5sec - 16.0sec
   - Scene Type: OOTD outfit showcase
@@ -64,7 +63,7 @@ Shot 1:
   - 时长: 0.0sec - 9.5sec
   - 镜头类型: OOTD穿搭展示
   - 画面: 复古老城步行街上，身着橄榄绿通勤西装套装的白人女性正沿着石砖街道从容向前行走，她右手提着深棕色皮质手提包，左手自然摆动，时不时抬起左手做出介绍穿搭的手势。背景里能看到街边咖啡座零星坐着休憩的路人，还有行人和车辆从身后缓缓经过。她脸上带着灿烂亲和的笑容，嘴巴自然开合，正在对着镜头分享这套穿搭的体验，整个人的状态自信又舒展，镜头保持稳定跟拍节奏，随着人物前行同步移动，完整捕捉人物全身穿搭细节与背景街景氛围，展示橄榄绿通勤西装套装的版型垂感、面料质感，呈现穿搭在日常步行场景中的自然效果。
-  - 口播: Ciao, guarda questo completo. È un tagliar fancy verde. Perfetto per il lavoro  La giacca è su misura e i pantaloni sono compi Grazie.
+  - 口播: Ciao, guarda questo completo. È un tagliar fancy verde. Perfetto per il lavoro La giacca è su misura e i pantaloni sono compi Grazie.
 Shot 2:
   - 时长: 9.5sec - 16.0sec
   - 镜头类型: OOTD穿搭展示
@@ -78,4 +77,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-womenswear-923233](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-womenswear-923233?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-womenswear-923233)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-womenswear-923233](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-womenswear-923233?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-womenswear-923233)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

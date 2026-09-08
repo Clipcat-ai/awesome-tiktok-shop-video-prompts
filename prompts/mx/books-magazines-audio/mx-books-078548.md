@@ -1,6 +1,6 @@
 ---
 id: mx-books-078548
-title: "【TIKBOOKS】La ley de Murphy en cómics: Psicología imprescindibl — Brand TVC (Mexico · Books, Magazines & Audio)"
+title: "【TIKBOOKS】La ley de Murphy en… — Brand TVC (Mexico · Books, Magazines & Audio)"
 market: mx
 category: books-magazines-audio
 video_type: brand-tvc
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7625969870689078548
 creator: "@noomdassdes"
 published: 2026-04-07
 ---
-# 【TIKBOOKS】La ley de Murphy en cómics: Psicología imprescindibl — Brand TVC (Mexico · Books, Magazines & Audio)
+# 【TIKBOOKS】La ley de Murphy en… — Brand TVC (Mexico · Books, Magazines & Audio)
 **Weekly #1** · 🇲🇽 Mexico · Books, Magazines & Audio · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7625969870689078548) by [@noomdassdes](https://www.tiktok.com/@noomdassdes). Format: **Brand TVC** · 250s · hook: **Pain Point** · Multiple people · No promo
-**Opening line (from the video):** “A young girl has no money to pay the restaurant bill and looks embarrassed”
+**Opening line (translated from the video):** “A young girl has no money to pay the restaurant bill and looks embarrassed”
 
 **Pain point it attacks:** No money to pay restaurant bill and feel embarrassed
 
@@ -120,4 +119,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-books-078548](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-books-078548?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-books-078548)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-books-078548](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-books-078548?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-books-078548)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio brand tvc"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

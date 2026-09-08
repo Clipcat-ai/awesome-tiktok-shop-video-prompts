@@ -1,6 +1,6 @@
 ---
 id: id-computers-511175
-title: "Lanyard Custom Nama Tali Gantungan Nametag 1 — Handheld Demo (Indonesia · Computers & Office Equipment)"
+title: "Lanyard Custom Nama Tali Gantungan… — Handheld Demo (Indonesia · Computers & Office Equipment)"
 market: id
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7658327757113511175
 creator: "@dscollectionn"
 published: 2026-07-06
 ---
-# Lanyard Custom Nama Tali Gantungan Nametag 1 — Handheld Demo (Indonesia · Computers & Office Equipment)
+# Lanyard Custom Nama Tali Gantungan… — Handheld Demo (Indonesia · Computers & Office Equipment)
 **Weekly #1** · 🇮🇩 Indonesia · Computers & Office Equipment · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7658327757113511175) by [@dscollectionn](https://www.tiktok.com/@dscollectionn). Format: **Handheld Demo** · 12s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “My phone used to stick to my hand, now I use this lanyard to be free”
+**Opening line (translated from the video):** “My phone used to stick to my hand, now I use this lanyard to be free”
 
 **Pain point it attacks:** Phone always sticks to hand, inconvenient to use
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-computers-511175](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-computers-511175?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-computers-511175)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-computers-511175](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-computers-511175?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-computers-511175)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

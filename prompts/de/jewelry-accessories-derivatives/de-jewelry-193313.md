@@ -19,9 +19,8 @@ published: 2026-09-03
 ---
 # Quiet Protection - Layered Halskette — Product Close-Up (Germany · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇩🇪 Germany · Jewelry Accessories & Derivatives · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7681003424808193313) by [@nemomatheo.accessoires](https://www.tiktok.com/@nemomatheo.accessoires). Format: **Product Close-Up** · 8s · hook: **Result First** · No one on camera · No promo
-**Opening line (from the video):** “This handmade necklace is the small detail that makes the whole look special”
+**Opening beat:** “This handmade necklace is the small detail that makes the whole look special”
 
 **Key visuals:** Wooden Branch · Gold Necklace · Freshwater Pearl · Malachite Bead · Metal Pendant · Beige Background
 
@@ -66,4 +65,4 @@ Shot 1:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-jewelry-193313](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-jewelry-193313?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-jewelry-193313)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-jewelry-193313](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-jewelry-193313?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-jewelry-193313)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

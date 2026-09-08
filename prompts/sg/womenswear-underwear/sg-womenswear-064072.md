@@ -1,6 +1,6 @@
 ---
 id: sg-womenswear-064072
-title: "Shapewear bra with back support and push up effect – anti slip — Handheld Demo (Singapore · Womenswear & Underwear)"
+title: "Shapewear bra with back support… — Handheld Demo (Singapore · Womenswear & Underwear)"
 market: sg
 category: womenswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674275993779064072
 creator: "@blurbooling"
 published: 2026-08-15
 ---
-# Shapewear bra with back support and push up effect – anti slip — Handheld Demo (Singapore · Womenswear & Underwear)
+# Shapewear bra with back support… — Handheld Demo (Singapore · Womenswear & Underwear)
 **Weekly #1** · 🇸🇬 Singapore · Womenswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674275993779064072) by [@blurbooling](https://www.tiktok.com/@blurbooling). Format: **Handheld Demo** · 20s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “9.9 Super Lobang Deals, up to 50% off daily essentials with lowest prices”
+**Opening line (quoted from the video):** “9.9 Super Lobang Deals, up to 50% off daily essentials with lowest prices”
 
 **Key visuals:** Dressing Mirror · Oversize White Shirt · Shapewear Bra · Bed · Curtain · Green Plant · Knitted Top · Sling Dress
 
@@ -68,7 +67,6 @@ Shot 7:
   - Duration: 10.0sec - 13.0sec
   - Scene Type: Establish the usage scenario
   - Scene: The frame returns to the scene of the woman standing in front of the full-length mirror, echoing the opening action, she once again gently adjusts the placket of her white shirt facing the mirror surface, tweaks the position of the shirt collar, with a sweet smile on her face, looking relaxed and natural.
-  - Subject: Thank you.
 Shot 8:
   - Duration: 13.0sec - 16.0sec
   - Scene Type: Outfit matching demonstration
@@ -131,7 +129,6 @@ Shot 7:
   - 时长: 10.0sec - 13.0sec
   - 镜头类型: 设置使用场景
   - 画面: 画面回到女生站在穿衣镜前的场景，和开篇动作呼应，她再次对着镜面轻轻整理白衬衫的门襟，调整衬衫领口的位置，脸上带着清甜的微笑，状态放松自然。
-  - 口播: Thank you.
 Shot 8:
   - 时长: 13.0sec - 16.0sec
   - 镜头类型: 穿搭搭配示范
@@ -154,4 +151,4 @@ Shot 10:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-womenswear-064072](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-womenswear-064072?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-womenswear-064072)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-womenswear-064072](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-womenswear-064072?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-womenswear-064072)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

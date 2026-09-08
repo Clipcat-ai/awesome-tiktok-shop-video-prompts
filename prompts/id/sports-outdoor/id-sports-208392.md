@@ -1,6 +1,6 @@
 ---
 id: id-sports-208392
-title: "GOKOTTA Lompat Tali Alat Olahraga / Skipping Portable Active P — Real Review (Indonesia · Sports & Outdoor)"
+title: "GOKOTTA Lompat Tali Alat Olahraga… — Real Review (Indonesia · Sports & Outdoor)"
 market: id
 category: sports-outdoor
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7646742451868208392
 creator: "@babangjek_"
 published: 2026-06-02
 ---
-# GOKOTTA Lompat Tali Alat Olahraga / Skipping Portable Active P — Real Review (Indonesia · Sports & Outdoor)
+# GOKOTTA Lompat Tali Alat Olahraga… — Real Review (Indonesia · Sports & Outdoor)
 **Weekly #1** · 🇮🇩 Indonesia · Sports & Outdoor · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7646742451868208392) by [@babangjek_](https://www.tiktok.com/@babangjek_). Format: **Real Review** · 55s · hook: **Pain Point** · No one on camera · No promo
-**Opening line (from the video):** “How long does it take you to jump rope from a beginner to a pro?”
+**Opening line (translated from the video):** “How long does it take you to jump rope from a beginner to a pro?”
 
 **Pain point it attacks:** Beginner jumpers often trip over rope and lack stamina
 
@@ -135,4 +134,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-sports-208392](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-sports-208392?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-sports-208392)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-sports-208392](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-sports-208392?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-sports-208392)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

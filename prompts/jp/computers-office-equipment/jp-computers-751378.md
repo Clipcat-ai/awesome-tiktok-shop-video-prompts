@@ -1,6 +1,6 @@
 ---
 id: jp-computers-751378
-title: "6 Counts Marker Pens Set with Unique Curve Shapes — Handheld Demo (Japan · Computers & Office Equipment)"
+title: "6 Counts Marker Pens Set with… — Handheld Demo (Japan · Computers & Office Equipment)"
 market: jp
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674539770776751378
 creator: "@kingspenjp"
 published: 2026-08-16
 ---
-# 6 Counts Marker Pens Set with Unique Curve Shapes — Handheld Demo (Japan · Computers & Office Equipment)
+# 6 Counts Marker Pens Set with… — Handheld Demo (Japan · Computers & Office Equipment)
 **Weekly #1** · 🇯🇵 Japan · Computers & Office Equipment · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674539770776751378) by [@kingspenjp](https://www.tiktok.com/@kingspenjp). Format: **Handheld Demo** · 15s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Make your notes cute and decorative”
+**Opening line (translated from the video):** “Make your notes cute and decorative”
 
 **Key visuals:** Grid Notebook · Highlighter Pen · White Coffee Cup · Keyboard · Bookshelf · Potted Plant · Soft Board
 
@@ -116,4 +115,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-computers-751378](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-computers-751378?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-computers-751378)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-computers-751378](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-computers-751378?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-computers-751378)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

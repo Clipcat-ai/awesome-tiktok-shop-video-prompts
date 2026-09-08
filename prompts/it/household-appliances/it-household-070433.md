@@ -1,6 +1,6 @@
 ---
 id: it-household-070433
-title: "SPZTJK Mixer Smoothie Maker — Handheld Demo (Italy · Household Appliances)"
+title: "SPZTJK Mixer Smoothie Maker, mixer… — Handheld Demo (Italy · Household Appliances)"
 market: it
 category: household-appliances
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677235072424070433
 creator: "@tiktokshopby.m.t786"
 published: 2026-08-23
 ---
-# SPZTJK Mixer Smoothie Maker — Handheld Demo (Italy · Household Appliances)
+# SPZTJK Mixer Smoothie Maker, mixer… — Handheld Demo (Italy · Household Appliances)
 **Weekly #1** · 🇮🇹 Italy · Household Appliances · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677235072424070433) by [@tiktokshopby.m.t786](https://www.tiktok.com/@tiktokshopby.m.t786). Format: **Handheld Demo** · 18s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Do you also waste time preparing breakfast every morning?”
+**Opening line (translated from the video):** “Do you also waste time preparing breakfast every morning?”
 
 **Pain point it attacks:** Wasting time preparing breakfast every morning
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-household-070433](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-household-070433?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-household-070433)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-household-070433](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-household-070433?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-household-070433)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

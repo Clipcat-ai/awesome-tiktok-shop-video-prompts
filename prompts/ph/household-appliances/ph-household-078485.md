@@ -1,6 +1,6 @@
 ---
 id: ph-household-078485
-title: "Electric Kettle Heater — Handheld Demo (Philippines · Household Appliances)"
+title: "Electric Kettle Heater, Stainless… — Handheld Demo (Philippines · Household Appliances)"
 market: ph
 category: household-appliances
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7665865678234078485
 creator: "@rizenwander"
 published: 2026-07-23
 ---
-# Electric Kettle Heater — Handheld Demo (Philippines · Household Appliances)
+# Electric Kettle Heater, Stainless… — Handheld Demo (Philippines · Household Appliances)
 **Weekly #1** · 🇵🇭 Philippines · Household Appliances · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7665865678234078485) by [@rizenwander](https://www.tiktok.com/@rizenwander). Format: **Handheld Demo** · 10s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Boils fast, durable and easy to use”
+**Opening line (translated from the video):** “Boils fast, durable and easy to use”
 
 **Key visuals:** Modern Kitchen · White Countertop · Black Electric Kettle · Metal Faucet · Wooden Cutting Board · Water Tap · Rotating Display Stand
 
@@ -54,7 +53,7 @@ Shot 4:
   - Duration: 7.0sec - 10.0sec
   - Scene Type: Product usage scenario
   - Scene: The camera switches to another kitchen countertop. A hand grips the electric kettle's handle to lift the kettle body, then steadily places it back on the base, and a finger gently presses the switch on the kettle body to complete the operation, demonstrating the kettle's convenient pick-and-place design. Using a close-up fixed camera position, the shot focuses entirely on the interactive movements between the hand and the kettle.
-  - Subject: Perfect para sa araw-araw mong pangangailangan sa kusina. Thank you.
+  - Subject: Perfect para sa araw-araw mong pangangailangan sa kusina.
 [Background Sound]:
 - No background music, the video features only a voiceover introducing the product, with a steady speaking pace and clear tone, focused on highlighting product features, suitable for static display of kitchenware or e-commerce product detail page voiceover scenarios.
 [Transition / Editing]:
@@ -89,7 +88,7 @@ Shot 4:
   - 时长: 7.0sec - 10.0sec
   - 镜头类型: 产品使用场景
   - 画面: 镜头切换到另一处厨房台面，一只手握住电热水壶的把手将壶身抬起，随后平稳放回底座，手指轻按壶身的开关完成操作，展示水壶便捷的取放设计，采用近景固定机位，全程聚焦手部与壶身的互动动作。
-  - 口播: Perfect para sa araw-araw mong pangangailangan sa kusina. Thank you.
+  - 口播: Perfect para sa araw-araw mong pangangailangan sa kusina.
 [Background Sound]:
 - 没有背景音乐，视频内容为纯产品介绍旁白，语速平稳、语气清晰，专注于突出产品特性，适合厨房用品的静态展示或电商详情页旁白场景。
 [Transition / Editing]:
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-household-078485](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-household-078485?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-household-078485)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-household-078485](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-household-078485?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-household-078485)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

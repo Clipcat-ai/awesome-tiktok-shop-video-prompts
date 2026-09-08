@@ -1,6 +1,6 @@
 ---
 id: us-books-444622
-title: "40-Day Transformation Combo: Emotional Intelligence Guide + Su — Brand TVC (United States · Books, Magazines & Audio)"
+title: "40-Day Transformation Combo… — Brand TVC (United States · Books, Magazines & Audio)"
 market: us
 category: books-magazines-audio
 video_type: brand-tvc
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671233802697444622
 creator: "@bh050720kpv"
 published: 2026-08-07
 ---
-# 40-Day Transformation Combo: Emotional Intelligence Guide + Su — Brand TVC (United States · Books, Magazines & Audio)
+# 40-Day Transformation Combo… — Brand TVC (United States · Books, Magazines & Audio)
 **Weekly #1** · 🇺🇸 United States · Books, Magazines & Audio · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671233802697444622) by [@bh050720kpv](https://www.tiktok.com/@bh050720kpv). Format: **Brand TVC** · 251s · hook: **Pain Point** · Multiple people · No promo
-**Opening line (from the video):** “I have no cash and my phone is dead”
+**Opening line (translated from the video):** “I have no cash and my phone is dead”
 
 **Pain point it attacks:** Traveler has no cash, dead phone and lacks water in desert
 
@@ -61,27 +60,27 @@ Shot 5:
   - Duration: 13.0sec - 19.0sec
   - Scene Type: Emotional connection
   - Scene: The traveler sits at the wooden table under the shade canopy, eating the burrito in his hand while talking to the young shop owner standing opposite him. The shelves behind him are neatly stocked with all kinds of canned drinks and snacks, and the empty desert landscape stretches out in the far background.
-  - Subject: ¿Y cómo te pago?  Hoy no me paga nada. Gracias.
+  - Subject: ¿Y cómo te pago? Hoy no me paga nada. Gracias.
 Shot 6:
   - Duration: 19.0sec - 28.0sec
   - Scene Type: Brand reference
   - Scene: The young shop owner leans against the counter recounting the past. The camera cuts to a faded old photo hanging on the wall, which shows the shop owner's grandfather standing in front of this very kiosk when he was young, then cuts back to a close-up of the shop owner's face, his eyes full of deep appreciation for his family's legacy.
-  - Subject: Siempre ayudas así a descontrolarte. Cuando lo necesitan, sí.  ¿Por qué? qué? Mi abuelo decía, aquí y nadie se va con sed.
+  - Subject: Siempre ayudas así a descontrolarte. Cuando lo necesitan, sí. ¿Por qué? qué? Mi abuelo decía, aquí y nadie se va con sed.
 Shot 7:
   - Duration: 28.0sec - 37.0sec
   - Scene Type: Emotional connection
   - Scene: The young shop owner holds an old, thick book with a heavily worn cover, and gently places the book on the counter, with two faded old photos set beside it. The camera then switches to an outside view of the shade canopy, where the traveler stands by the roadside looking toward the young shop owner, with the empty, cracked desert highway stretching out in the distance and a few vehicles passing by.
-  - Subject: Mi abuelo abrió esto. ¿Y ahora tú? sí  pero cada año pasa
+  - Subject: Mi abuelo abrió esto. ¿Y ahora tú? sí pero cada año pasa
 Shot 8:
   - Duration: 37.0sec - 43.0sec
   - Scene Type: Highlight the core dilemma
   - Scene: The camera shows a close-up of the young shop owner's face, his eyes holding a hint of confused sadness. Then the two of them walk out together from the kiosk entrance, standing side by side under the shade canopy and looking out at the vast, empty desert highway in the distance.
-  - Subject: menos gente  a veces creo que seré el último ¡Gracias!
+  - Subject: menos gente a veces creo que seré el último ¡Gracias!
 Shot 9:
   - Duration: 43.0sec - 55.0sec
   - Scene Type: Set up the problem
   - Scene: The traveler leads the shop owner to an old road sign by the roadside, whose text is blurry and almost completely covered by desert shrubs. He raises his hand, points at the sign, and turns to speak patiently to the young shop owner, who looks completely enlightened after listening.
-  - Subject: tu problema no es la comida. ¿Entonces qué? nadie sabe que existes.  ¿Así de simple? Un buen negocio también muere si nadie lo ve.
+  - Subject: tu problema no es la comida. ¿Entonces qué? nadie sabe que existes. ¿Así de simple? Un buen negocio también muere si nadie lo ve.
 [Background Sound]:
 - No background music, dominated by natural dialogue and authentic ambient sounds. The overall atmosphere is quiet, realistic, and full of everyday life. Ambient sound effects such as footsteps, the soft clink of water cups, passing vehicles, and kitchen operation sounds are interspersed throughout the dialogue, highlighting the emotional tension of the characters' exchanges and the story's turning points, drawing the audience fully into the plot and the relationship between the characters.
 [Transition / Editing]:
@@ -121,42 +120,42 @@ Shot 5:
   - 时长: 13.0sec - 19.0sec
   - 镜头类型: 情感连接
   - 画面: 旅行者坐在棚下的木质桌前，手里拿着卷饼边吃边和站在对面的年轻店主交谈，身后的货架上整齐摆满各类罐装饮料与零食，空旷的荒漠背景在远处铺展开来。
-  - 口播: ¿Y cómo te pago?  Hoy no me paga nada. Gracias.
+  - 口播: ¿Y cómo te pago? Hoy no me paga nada. Gracias.
 Shot 6:
   - 时长: 19.0sec - 28.0sec
   - 镜头类型: 品牌提及
   - 画面: 年轻店主靠在柜台边讲述过往，镜头切换到墙上挂着的泛黄老照片，照片里是店主的祖父年轻时站在这家小卖铺前的模样，随后切回店主的面部特写，他眼神里满是对家族传承的珍视。
-  - 口播: Siempre ayudas así a descontrolarte. Cuando lo necesitan, sí.  ¿Por qué? qué? Mi abuelo decía, aquí y nadie se va con sed.
+  - 口播: Siempre ayudas así a descontrolarte. Cuando lo necesitan, sí. ¿Por qué? qué? Mi abuelo decía, aquí y nadie se va con sed.
 Shot 7:
   - 时长: 28.0sec - 37.0sec
   - 镜头类型: 情感连接
   - 画面: 年轻店主捧着一本封面磨损严重的老旧厚书，轻轻把书放到柜台上，书旁边摆着两张泛旧的老照片，镜头随即切换到棚外视角，旅行者站在路边望向年轻店主，远处是空旷开裂的荒漠公路，车辆零星驶过。
-  - 口播: Mi abuelo abrió esto. ¿Y ahora tú? sí  pero cada año pasa
+  - 口播: Mi abuelo abrió esto. ¿Y ahora tú? sí pero cada año pasa
 Shot 8:
   - 时长: 37.0sec - 43.0sec
   - 镜头类型: 点明痛点问题
   - 画面: 镜头给到年轻店主的面部特写，他眼神里带着一丝迷茫的伤感，随后两人一同从小卖铺门口走出，并肩站在遮阳棚下望向远处空旷的荒漠公路。
-  - 口播: menos gente  a veces creo que seré el último ¡Gracias!
+  - 口播: menos gente a veces creo que seré el último ¡Gracias!
 Shot 9:
   - 时长: 43.0sec - 55.0sec
   - 镜头类型: 设置问题
   - 画面: 旅行者带着店主走到路边一块字迹模糊、完全被灌木丛遮挡住的旧路牌旁，抬起手伸出手指指向路牌，转头对着年轻店主耐心讲述，店主听完后满脸恍然大悟的神情。
-  - 口播: tu problema no es la comida. ¿Entonces qué? nadie sabe que existes.  ¿Así de simple? Un buen negocio también muere si nadie lo ve.
+  - 口播: tu problema no es la comida. ¿Entonces qué? nadie sabe que existes. ¿Así de simple? Un buen negocio también muere si nadie lo ve.
 Shot 10:
   - 时长: 55.0sec - 68.0sec
   - 镜头类型: 产品有效性
   - 画面: 两人一同坐到桌前，旅行者握着铅笔在铺开的公路地图上圈出标记点，随后用铅笔依次指向桌面上摆放的冰水、冰袋、零食包装，逐一讲解经营思路，年轻店主听得全神贯注，身体微微前倾。
-  - 口播: no anuncian los Anuncia lo que vendes. Anuncia lo que resuelves. ¿Cómo?  Agua fría, sombra descanso, comida rápida, eso busca a alguien en esta carretera.
+  - 口播: no anuncian los Anuncia lo que vendes. Anuncia lo que resuelves. ¿Cómo? Agua fría, sombra descanso, comida rápida, eso busca a alguien en esta carretera.
 Shot 11:
   - 时长: 68.0sec - 82.0sec
   - 镜头类型: 设置使用场景
   - 画面: 年轻店主按照思路在桌面上依次摆放好瓶装水、热咖啡纸杯、卷饼与一袋冰块，旅行者站在对面指着物品逐一讲解，年轻店主从一开始的疑惑，慢慢露出豁然开朗的明朗笑容。
-  - 口播: ¿Tú ves agua? café, hielo y burritos.  «¿Sí?» yo veo una parada completa. Nunca lo pensé así.  Ahí empieza el negocio.
+  - 口播: ¿Tú ves agua? café, hielo y burritos. «¿Sí?» yo veo una parada completa. Nunca lo pensé así. Ahí empieza el negocio.
 Shot 12:
   - 时长: 82.0sec - 97.0sec
   - 镜头类型: 制造悬念
   - 画面: 一辆豪华黑色SUV在荒漠路边缓缓停下，身着正装的男士下车快步走到旅行者身边，弯腰做出迎接的姿态，年轻店主坐在桌前捧着纸杯满脸震惊，随后旅行者站起身，背上登山包准备转身离开。
-  - 口播: Música señor Mendoza Ya lo están esperando.  Gracias por la comida. Diego ¿Señor Mendoza? ¿Quién es usted? Hoy solo fui un hombre con sed.
+  - 口播: Música señor Mendoza Ya lo están esperando. Gracias por la comida. Diego ¿Señor Mendoza? ¿Quién es usted? Hoy solo fui un hombre con sed.
 Shot 13:
   - 时长: 97.0sec - 111.0sec
   - 镜头类型: 展示易用性
@@ -176,17 +175,17 @@ Shot 16:
   - 时长: 142.0sec - 154.0sec
   - 镜头类型: 产品多功能性
   - 画面: 店内穿着围裙的女性工作人员正把卷饼用锡纸仔细卷好打包，年轻店主拿着订单小票转身和她交谈，随后画面切到一位背着登山包的徒步旅人走到立式饮水机前询问，店主笑着给出回应。
-  - 口播: también mañana  Diego Ya casi no quedan burritos  Prepara otra tanda El agua potente para rellenar, sigue gratis. Eso nunca
+  - 口播: también mañana Diego Ya casi no quedan burritos Prepara otra tanda El agua potente para rellenar, sigue gratis. Eso nunca
 Shot 17:
   - 时长: 154.0sec - 170.0sec
   - 镜头类型: 情感连接
   - 画面: 落日暖金色的柔光铺满整片荒漠，旅行者背着登山包从远处缓缓走来，站在高坡上望向已经人来人往的热闹小店，年轻店主看见他后立刻笑着迎上前，两人站在荒漠落日里开心交谈。
-  - 口播: nunca va a cambiar. Gracias. Don Alejandro ¡Alejandro!  Ya no está tan solo este desierto  Hice lo que me dijo No, Diego. Yo te di unas ideas.
+  - 口播: nunca va a cambiar. Gracias. Don Alejandro ¡Alejandro! Ya no está tan solo este desierto Hice lo que me dijo No, Diego. Yo te di unas ideas.
 Shot 18:
   - 时长: 170.0sec - 180.5sec
   - 镜头类型: 情感连接
   - 画面: 两人一同坐到户外的木质桌前，年轻店主手里捧着热咖啡杯，满脸好奇地对着旅行者提出问题，眼神里满是求知的恳切，背景是落日渲染成橘红色的连绵荒漠山岩。
-  - 口播: Tú hiciste el trabajo. Hay algo que no entiendo.  ¿Qué cosa? Usted estuvo aquí una hora y vio lo que nosotros queríamos. ¿Cómo se aprendió? aprende a pensar así.
+  - 口播: Tú hiciste el trabajo. Hay algo que no entiendo. ¿Qué cosa? Usted estuvo aquí una hora y vio lo que nosotros queríamos. ¿Cómo se aprendió? aprende a pensar así.
 [Background Sound]:
 - 无背景音乐，以自然对话和真实环境音为主，整体氛围安静真实富有生活感。对话中穿插脚步声、水杯轻碰声、车辆驶过声、厨房操作声等环境音效，突出人物对话的情感张力和故事转折，让观众沉浸于剧情和角色关系中。
 [Transition / Editing]:
@@ -195,4 +194,4 @@ Shot 18:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-books-444622](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-books-444622?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-books-444622)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-books-444622](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-books-444622?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-books-444622)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio brand tvc"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

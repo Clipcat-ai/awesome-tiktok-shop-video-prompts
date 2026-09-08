@@ -1,6 +1,6 @@
 ---
 id: br-luggage-519624
-title: "Nova mochila de lazer de moda e tendência ao ar livre com gran — Handheld Demo (Brazil · Luggage & Bags)"
+title: "Nova mochila de lazer de moda e… — Handheld Demo (Brazil · Luggage & Bags)"
 market: br
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675127122645519624
 creator: "@dudashopttk"
 published: 2026-08-17
 ---
-# Nova mochila de lazer de moda e tendência ao ar livre com gran — Handheld Demo (Brazil · Luggage & Bags)
+# Nova mochila de lazer de moda e… — Handheld Demo (Brazil · Luggage & Bags)
 **Weekly #1** · 🇧🇷 Brazil · Luggage & Bags · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675127122645519624) by [@dudashopttk](https://www.tiktok.com/@dudashopttk). Format: **Handheld Demo** · 21s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “The seller went crazy and put such a beautiful backpack”
+**Opening line (translated from the video):** “The seller went crazy and put such a beautiful backpack”
 
 **Key visuals:** Blue Backpack · Transparent Plastic Bag · Marble Countertop · Black Top · Stainless Steel Cup · Oxford Fabric · Green Potted Plant · White Cabinet
 
@@ -116,4 +115,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-luggage-519624](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-luggage-519624?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-luggage-519624)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-luggage-519624](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-luggage-519624?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-luggage-519624)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

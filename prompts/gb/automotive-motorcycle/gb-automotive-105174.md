@@ -1,6 +1,6 @@
 ---
 id: gb-automotive-105174
-title: "2-Piece Car Seat Back Hooks with Cup Holder — Handheld Demo (United Kingdom · Automotive & Motorcycle)"
+title: "2-Piece Car Seat Back Hooks with… — Handheld Demo (United Kingdom · Automotive & Motorcycle)"
 market: gb
 category: automotive-motorcycle
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7658105689537105174
 creator: "@longxiang7635"
 published: 2026-07-03
 ---
-# 2-Piece Car Seat Back Hooks with Cup Holder — Handheld Demo (United Kingdom · Automotive & Motorcycle)
+# 2-Piece Car Seat Back Hooks with… — Handheld Demo (United Kingdom · Automotive & Motorcycle)
 **Weekly #1** · 🇬🇧 United Kingdom · Automotive & Motorcycle · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7658105689537105174) by [@longxiang7635](https://www.tiktok.com/@longxiang7635). Format: **Handheld Demo** · 15s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Whoever engineered this car organizer is a genius”
+**Opening line (quoted from the video):** “Whoever engineered this car organizer is a genius”
 
 **Pain point it attacks:** Car interior is messy with no space for items
 
@@ -56,7 +55,7 @@ Shot 4:
   - Duration: 7.5sec - 9.5sec
   - Scene Type: Product multi-functionality
   - Scene: The camera pulls back to show the complete rear-seat perspective, the hand hangs the handle of a black plastic bag on one of the hooks under the storage rack, then hangs a black women's handbag with gold chain decoration on the adjacent other hook, both hanging items stay stable without shaking or slipping off. The camera pulls back from a medium shot of the storage rack to a full wide shot of the rear row, showing all items that have been placed and hung up.
-  - Subject: Stand.  Maximize your
+  - Subject: Stand. Maximize your
 Shot 5:
   - Duration: 9.5sec - 13.0sec
   - Scene Type: Product multi-functionality
@@ -101,7 +100,7 @@ Shot 4:
   - 时长: 7.5sec - 9.5sec
   - 镜头类型: 产品多功能性
   - 画面: 镜头拉远，展示完整的后排视角，手将黑色塑料袋的提手挂在收纳架下方的其中一个挂钩上，接着又把带有金色链条装饰的黑色女士手提包挂在相邻的另一个挂钩上，两款悬挂物品均保持平稳没有晃动滑落。镜头从收纳架中景拉至后排全景，展示所有已放置、悬挂好的物品。
-  - 口播: Stand.  Maximize your
+  - 口播: Stand. Maximize your
 Shot 5:
   - 时长: 9.5sec - 13.0sec
   - 镜头类型: 产品多功能性
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-automotive-105174](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-automotive-105174?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-automotive-105174)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-automotive-105174](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-automotive-105174?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-automotive-105174)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

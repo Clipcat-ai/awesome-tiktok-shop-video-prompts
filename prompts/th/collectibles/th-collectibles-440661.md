@@ -1,6 +1,6 @@
 ---
 id: th-collectibles-440661
-title: "MINISO Star Wars ฟิกเกอร์กล่องสุ่ม Keycap Series - ซีรีส์คีย์แ — Product Close-Up (Thailand · Collectibles)"
+title: "MINISO Star Wars ฟิกเกอร์กล่องสุ่ม… — Product Close-Up (Thailand · Collectibles)"
 market: th
 category: collectibles
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679805554327440661
 creator: "@bubblecard"
 published: 2026-08-30
 ---
-# MINISO Star Wars ฟิกเกอร์กล่องสุ่ม Keycap Series - ซีรีส์คีย์แ — Product Close-Up (Thailand · Collectibles)
+# MINISO Star Wars ฟิกเกอร์กล่องสุ่ม… — Product Close-Up (Thailand · Collectibles)
 **Weekly #1** · 🇹🇭 Thailand · Collectibles · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679805554327440661) by [@bubblecard](https://www.tiktok.com/@bubblecard). Format: **Product Close-Up** · 10s · hook: **Curiosity Gap** · No one on camera · No promo
-**Opening line (from the video):** “Star Wars fans look here, blind box keycaps”
+**Opening line (translated from the video):** “Star Wars fans look here, blind box keycaps”
 
 **Key visuals:** Outer Space · Star Wars Keycaps · MINISO Logo · Red Neon Light · Black Base · Mechanical Keyboard · Starry Sky
 
@@ -37,7 +36,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 2.5sec
-  - Scene Type: Display multiple style options (fashion category)
+  - Scene Type: Display multiple style options
   - Scene: In the vast outer space scene, multiple colorful mechanical keyboard keycaps float in from a distance, eventually arranging neatly into a full array of figurine keycaps featuring Star Wars characters including Darth Vader, Stormtrooper, Boba Fett and more. Fine stardust drifts slowly in the background, a red star in the upper left corner emits a bright beam of light, and the white collaboration logo 'MINISO × STAR WARS' appears at the top of the frame.
   - Subject: แฟน Star Wars ดูนี่ คียแคปกล่องตุ่ม
 Shot 2:
@@ -67,7 +66,7 @@ Shot 3:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 2.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 浩瀚外太空场景中，多个彩色机械键盘键帽从远处漂浮飞来，最终整齐拼成包含达斯·维达、暴风兵、波巴·费特等星战角色的全套手办键帽阵列，背景中细小星尘缓缓漂浮，左上角红色恒星散发出亮眼光束，画面上方同步显示“MINISO × STAR WARS”白色联名标识。
   - 口播: แฟน Star Wars ดูนี่ คียแคปกล่องตุ่ม
 Shot 2:
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-collectibles-440661](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-collectibles-440661?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-collectibles-440661)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-collectibles-440661](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-collectibles-440661?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-collectibles-440661)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

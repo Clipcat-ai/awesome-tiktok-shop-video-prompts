@@ -1,6 +1,6 @@
 ---
 id: my-shoes-987092
-title: "READY STOCK EVA Sandal Women Flat Wedge Sandals Kasut Perempua — Handheld Demo (Malaysia · Shoes)"
+title: "READY STOCK EVA Sandal Women Flat… — Handheld Demo (Malaysia · Shoes)"
 market: my
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667180322445987092
 creator: "@wanieedania"
 published: 2026-07-27
 ---
-# READY STOCK EVA Sandal Women Flat Wedge Sandals Kasut Perempua — Handheld Demo (Malaysia · Shoes)
+# READY STOCK EVA Sandal Women Flat… — Handheld Demo (Malaysia · Shoes)
 **Weekly #1** · 🇲🇾 Malaysia · Shoes · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667180322445987092) by [@wanieedania](https://www.tiktok.com/@wanieedania). Format: **Handheld Demo** · 10s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Show the upper texture, rhinestone buckle and thick sole of the beige hollow wedge sandal”
+**Opening beat:** “Show the upper texture, rhinestone buckle and thick sole of the beige hollow wedge sandal”
 
 **Key visuals:** Car Interior · Beige Wedge Sandal · Lace Texture · Rhinestone Buckle · Gold Bracelet · Indonesian Subtitle · Star Decoration · Love Decoration
 
@@ -39,17 +38,14 @@ Shot 1:
   - Duration: 0.0sec - 3.5sec
   - Scene Type: Handheld product display
   - Scene: Against the background of the car interior, the person's hand holds an off-white hollow platform slide sandal, slowly rotating the sandal to show the lace hollow texture on the upper, the rhinestone-decorated buckle, and the overall shape of the thick platform sole from the outer side to the camera. Another matching slide sandal of the same style lies flat on the person's leg for paired display. Yellow-bordered Indonesian subtitles and small star decorative patterns pop up on the screen in sequence.
-  - Subject: Oh
 Shot 2:
   - Duration: 3.5sec - 7.5sec
   - Scene Type: Handheld product display
   - Scene: The hand continues to rotate the slide sandal, sequentially showing the front toe, the inner heel, and the hollow details of the upper, allowing the camera to clearly capture the delicate embroidery patterns on the upper and the shine of the rhinestones on the buckle. The Indonesian text 'ada 3 pilihan warna' pops up at the top of the screen, paired with small heart and star decorative patterns.
-  - Subject: Oh
 Shot 3:
   - Duration: 7.5sec - 10.0sec
   - Scene Type: Handheld product display
   - Scene: The hand rotates the slide sandal back to the initial outer side display angle, fully presenting the overall design of the sandal. The Indonesian text 'Grab di beg kuning' pops up on the screen, paired with cute small decorative patterns, and the footage finally freezes on a full close-up shot of the sandal.
-  - Subject: The
 [Background Sound]:
 - Very upbeat TikTok background music with a fast tempo, strong drum beats, and full volume, featuring a distinct pop dance style. The melody is catchy and highly repetitive, ideal for creating a lively, energetic, and sales-focused atmosphere for short videos. Its style resembles Southeast Asian or Mandarin pop dance music, perfectly suited for promotional, product showcase, and fast-paced product marketing videos.
 [Transition / Editing]:
@@ -69,17 +65,14 @@ Shot 1:
   - 时长: 0.0sec - 3.5sec
   - 镜头类型: 手持商品展示
   - 画面: 车内空间背景下，人物的手握着一只米白色镂空厚底凉拖，缓慢转动凉鞋，从外侧面向镜头展示鞋面的蕾丝镂空纹理、带水钻装饰的搭扣以及厚底鞋底的整体造型，人物腿上平放着另一只同款凉拖作为搭配展示，画面先后弹出黄边印尼语字幕和星星小装饰图案。
-  - 口播: Oh
 Shot 2:
   - 时长: 3.5sec - 7.5sec
   - 镜头类型: 手持商品展示
   - 画面: 手部继续转动手中的凉拖，依次展示凉鞋的鞋头正面、后跟内侧以及鞋面的镂空细节，让镜头清晰捕捉到鞋面上精致的刺绣花纹与搭扣处水钻的光泽，画面上方弹出印尼语文字“ada 3 pilihan warna”，搭配爱心、星星小装饰图案。
-  - 口播: Oh
 Shot 3:
   - 时长: 7.5sec - 10.0sec
   - 镜头类型: 手持商品展示
   - 画面: 手部将凉拖转回初始的外侧展示角度，完整呈现凉鞋的整体设计，画面上弹出印尼语文字“Grab di beg kuning”，搭配可爱的小装饰图案，最终定格在凉鞋的完整特写画面。
-  - 口播: The
 [Background Sound]:
 - 非常欢快的TikTok背景音乐，节奏明快、鼓点强烈、音量饱满，带有浓厚的流行舞曲风格，旋律抓耳、重复性强，适合营造热闹、活力、带货氛围的短视频，风格类似东南亚或华语流行舞曲，适配促销、产品展示、快节奏带货类视频。
 [Transition / Editing]:
@@ -88,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-shoes-987092](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-shoes-987092?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-shoes-987092)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-shoes-987092](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-shoes-987092?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-shoes-987092)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

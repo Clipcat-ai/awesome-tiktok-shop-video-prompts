@@ -1,6 +1,6 @@
 ---
 id: us-fashion-106382
-title: "Women's Oversized Square High Quality Sunglasses - Unisex Fit — Handheld Demo (United States · Fashion Accessories)"
+title: "Women's Oversized Square High… — Handheld Demo (United States · Fashion Accessories)"
 market: us
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673939682694106382
 creator: "@skokowski.offerma"
 published: 2026-08-14
 ---
-# Women's Oversized Square High Quality Sunglasses - Unisex Fit — Handheld Demo (United States · Fashion Accessories)
+# Women's Oversized Square High… — Handheld Demo (United States · Fashion Accessories)
 **Weekly #1** · 🇺🇸 United States · Fashion Accessories · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673939682694106382) by [@skokowski.offerma](https://www.tiktok.com/@skokowski.offerma). Format: **Handheld Demo** · 12s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “I really didn't think I'd love these this much”
+**Opening line (quoted from the video):** “I really didn't think I'd love these this much”
 
 **Key visuals:** Luxury Car Interior · Square Sunglasses · Leopard Print · Gold Metal Frame · Warm Golden Sunlight · Wavy Hair · Diamond Bracelet · Black Leather Seat
 
@@ -106,4 +105,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-fashion-106382](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-fashion-106382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-fashion-106382)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-fashion-106382](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-fashion-106382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-fashion-106382)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

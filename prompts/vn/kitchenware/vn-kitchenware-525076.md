@@ -1,6 +1,6 @@
 ---
 id: vn-kitchenware-525076
-title: "Dao Gọt Vỏ Đa Năng Nhà Bếp 3 Trong 1 Thép Không Gỉ — Handheld Demo (Vietnam · Kitchenware)"
+title: "Dao Gọt Vỏ Đa Năng Nhà Bếp 3 Trong… — Handheld Demo (Vietnam · Kitchenware)"
 market: vn
 category: kitchenware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677765394408525076
 creator: "@fashion83868888"
 published: 2026-08-25
 ---
-# Dao Gọt Vỏ Đa Năng Nhà Bếp 3 Trong 1 Thép Không Gỉ — Handheld Demo (Vietnam · Kitchenware)
+# Dao Gọt Vỏ Đa Năng Nhà Bếp 3 Trong… — Handheld Demo (Vietnam · Kitchenware)
 **Weekly #1** · 🇻🇳 Vietnam · Kitchenware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677765394408525076) by [@fashion83868888](https://www.tiktok.com/@fashion83868888). Format: **Handheld Demo** · 9s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “A hand holds a slicer to shred cucumber, with shreds falling orderly”
+**Opening beat:** “A hand holds a slicer to shred cucumber, with shreds falling orderly”
 
 **Key visuals:** Wooden Cutting Board · Green Cucumber · Shredding Knife · Light Green Cabbage · Red Bell Pepper · Dark Gray Marble Countertop · White Window Frame
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-kitchenware-525076](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-kitchenware-525076?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-kitchenware-525076)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-kitchenware-525076](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-kitchenware-525076?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-kitchenware-525076)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

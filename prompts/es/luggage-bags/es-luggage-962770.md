@@ -1,6 +1,6 @@
 ---
 id: es-luggage-962770
-title: "2026 New Viral Korean Style Bee Print Handbag for Women — Lifestyle Scene (Spain · Luggage & Bags)"
+title: "2026 New Viral Korean Style Bee… — Lifestyle Scene (Spain · Luggage & Bags)"
 market: es
 category: luggage-bags
 video_type: lifestyle-scene
@@ -17,9 +17,8 @@ source: https://www.tiktok.com/share/video/7678600675369962770
 creator: "@lhl.bag.shop"
 published: 2026-08-27
 ---
-# 2026 New Viral Korean Style Bee Print Handbag for Women — Lifestyle Scene (Spain · Luggage & Bags)
+# 2026 New Viral Korean Style Bee… — Lifestyle Scene (Spain · Luggage & Bags)
 **Weekly #1** · 🇪🇸 Spain · Luggage & Bags · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678600675369962770) by [@lhl.bag.shop](https://www.tiktok.com/@lhl.bag.shop). Format: **Lifestyle Scene** · 10s · hook: **Result First** · On-camera host · No promo
 **Key visuals:** Dark Green Handbag · Bee Metal Decoration · White Table · Window · Beige Knit Cardigan · Metal Buckle · Curtain
 
@@ -45,7 +44,6 @@ Shot 3:
   - Duration: 5.5sec - 7.5sec
   - Scene Type: Product material showcase
   - Scene: The camera switches to a macro close-up perspective, focusing at close range on the bee metal decoration on the front of the handbag, the camera moves slightly to clearly show the rhinestone inlay details on the bee shape, the delicate luster of the polished metal, and the fine stitching texture of the heart-shaped diamond embroidery below.
-  - Subject: Thank you.
 Shot 4:
   - Duration: 7.5sec - 8.5sec
   - Scene Type: Product design highlight showcase
@@ -81,7 +79,6 @@ Shot 3:
   - 时长: 5.5sec - 7.5sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头切换为微距特写视角，近距离聚焦女包正面的蜜蜂金属装饰，画面随着镜头轻微移动，清晰展现出蜜蜂造型上镶嵌的仿钻细节、金属抛光的细腻光泽，以及下方爱心菱格刺绣的精致走线质感。
-  - 口播: Thank you.
 Shot 4:
   - 时长: 7.5sec - 8.5sec
   - 镜头类型: 产品设计亮点
@@ -98,4 +95,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-luggage-962770](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-luggage-962770?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-luggage-962770)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-luggage-962770](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-luggage-962770?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-luggage-962770)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

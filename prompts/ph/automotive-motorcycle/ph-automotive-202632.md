@@ -1,6 +1,6 @@
 ---
 id: ph-automotive-202632
-title: "Thickened Motorcycle Cover Waterproof Motor Cover All Season U — Real Review (Philippines · Automotive & Motorcycle)"
+title: "Thickened Motorcycle Cover… — Real Review (Philippines · Automotive & Motorcycle)"
 market: ph
 category: automotive-motorcycle
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673439128486202632
 creator: "@nana666shop"
 published: 2026-08-13
 ---
-# Thickened Motorcycle Cover Waterproof Motor Cover All Season U — Real Review (Philippines · Automotive & Motorcycle)
+# Thickened Motorcycle Cover… — Real Review (Philippines · Automotive & Motorcycle)
 **Weekly #1** · 🇵🇭 Philippines · Automotive & Motorcycle · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673439128486202632) by [@nana666shop](https://www.tiktok.com/@nana666shop). Format: **Real Review** · 13s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Pull the folded cover from the storage bag and unfold it to show its large size”
+**Opening beat:** “Pull the folded cover from the storage bag and unfold it to show its large size”
 
 **Pain point it attacks:** Motorcycles need protection from weather
 
@@ -92,4 +91,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-automotive-202632](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-automotive-202632?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-automotive-202632)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-automotive-202632](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-automotive-202632?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-automotive-202632)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: it-phones-141344
-title: "Orologio intelligente multifunzione per uomo / donna — Handheld Demo (Italy · Phones & Electronics)"
+title: "Orologio intelligente… — Handheld Demo (Italy · Phones & Electronics)"
 market: it
 category: phones-electronics
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679842166260141344
 creator: "@pqpenfb"
 published: 2026-08-30
 ---
-# Orologio intelligente multifunzione per uomo / donna — Handheld Demo (Italy · Phones & Electronics)
+# Orologio intelligente… — Handheld Demo (Italy · Phones & Electronics)
 **Weekly #1** · 🇮🇹 Italy · Phones & Electronics · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679842166260141344) by [@pqpenfb](https://www.tiktok.com/@pqpenfb). Format: **Handheld Demo** · 15s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Excuse me, but are you still spending an arm and a leg on a smartphone?”
+**Opening line (translated from the video):** “Excuse me, but are you still spending an arm and a leg on a smartphone?”
 
 **Pain point it attacks:** Smartphones are very expensive
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-phones-141344](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-phones-141344?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-phones-141344)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-phones-141344](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-phones-141344?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-phones-141344)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

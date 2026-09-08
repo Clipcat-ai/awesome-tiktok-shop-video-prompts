@@ -1,6 +1,6 @@
 ---
 id: my-computers-901127
-title: "TBF Hiasan Payung — Handheld Demo (Malaysia · Computers & Office Equipment)"
+title: "TBF Hiasan Payung, Cekak & Topi… — Handheld Demo (Malaysia · Computers & Office Equipment)"
 market: my
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670103769492901127
 creator: "@misskryh"
 published: 2026-08-04
 ---
-# TBF Hiasan Payung — Handheld Demo (Malaysia · Computers & Office Equipment)
+# TBF Hiasan Payung, Cekak & Topi… — Handheld Demo (Malaysia · Computers & Office Equipment)
 **Weekly #1** · 🇲🇾 Malaysia · Computers & Office Equipment · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670103769492901127) by [@misskryh](https://www.tiktok.com/@misskryh). Format: **Handheld Demo** · 11s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Hands hold a carton full of National Day decorations, items slide to the opening”
+**Opening beat:** “Hands hold a carton full of National Day decorations, items slide to the opening”
 
 **Key visuals:** Large Carton · Oil Paper Umbrella · National Day Stickers · Tulip Vase · Mushroom Lamp · Keychain
 
@@ -74,4 +73,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-computers-901127](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-computers-901127?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-computers-901127)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-computers-901127](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-computers-901127?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-computers-901127)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

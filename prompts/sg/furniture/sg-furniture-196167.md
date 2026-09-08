@@ -1,6 +1,6 @@
 ---
 id: sg-furniture-196167
-title: "Recliner Chair Living Room Recliner Bedroom Recliner Folding C — Lifestyle Scene (Singapore · Furniture)"
+title: "Recliner Chair Living Room… — Lifestyle Scene (Singapore · Furniture)"
 market: sg
 category: furniture
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669729836323196167
 creator: "@tianzhen16"
 published: 2026-08-03
 ---
-# Recliner Chair Living Room Recliner Bedroom Recliner Folding C — Lifestyle Scene (Singapore · Furniture)
+# Recliner Chair Living Room… — Lifestyle Scene (Singapore · Furniture)
 **Weekly #1** · 🇸🇬 Singapore · Furniture · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669729836323196167) by [@tianzhen16](https://www.tiktok.com/@tianzhen16). Format: **Lifestyle Scene** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “This recliner opens up in just a few seconds”
+**Opening line (quoted from the video):** “This recliner opens up in just a few seconds”
 
 **Pain point it attacks:** Folding recliner is hard and time-consuming to unfold
 
@@ -46,7 +45,6 @@ Shot 2:
   - Duration: 3.0sec - 4.5sec
   - Scene Type: Set up the usage scene
   - Scene: The character holds both sides of the backrest of the fully unfolded lounge chair, steadily carries the lounge chair to the open space in front of the full-length floor-to-ceiling window, adjusts its position and gently sets the lounge chair down. The lounge chair faces the wide city view outside the window, and the green plants next to it enhance the cozy atmosphere. The camera follows the character's movement with a slight pan, maintaining a full shot perspective throughout to present the carrying process. The on-screen character is the gentle home woman wearing a light mint green T-shirt.
-  - Subject: Thank you.
 Shot 3:
   - Duration: 4.5sec - 6.5sec
   - Scene Type: Set up the usage scene
@@ -96,7 +94,6 @@ Shot 2:
   - 时长: 3.0sec - 4.5sec
   - 镜头类型: 设置使用场景
   - 画面: 人物双手扶着完全展开的躺椅靠背两侧，将躺椅平稳搬运至全景落地窗边的空地上，调整位置后轻轻放下躺椅，躺椅正对着窗外开阔的城市景观，旁边的绿植烘托出舒适氛围，镜头跟随人物移动进行轻微平移，始终保持全景视角呈现搬运过程，出镜人物是身着浅薄荷绿T恤的温婉居家女性。
-  - 口播: Thank you.
 Shot 3:
   - 时长: 4.5sec - 6.5sec
   - 镜头类型: 设置使用场景
@@ -135,4 +132,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-furniture-196167](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-furniture-196167?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-furniture-196167)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-furniture-196167](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-furniture-196167?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-furniture-196167)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

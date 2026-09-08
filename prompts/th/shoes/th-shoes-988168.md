@@ -1,6 +1,6 @@
 ---
 id: th-shoes-988168
-title: "BEDDA MONKEY   รองเท้าแตะชายหาดผู้หญิง ดีไซน์เรียบง่าย พื้นรอง — Promo Pitch (Thailand · Shoes)"
+title: "BEDDA MONKEY รองเท้าแตะชายหาดผู้หญิ… — Promo Pitch (Thailand · Shoes)"
 market: th
 category: shoes
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671309257156988168
 creator: "@sunkaiaraikordai"
 published: 2026-08-07
 ---
-# BEDDA MONKEY   รองเท้าแตะชายหาดผู้หญิง ดีไซน์เรียบง่าย พื้นรอง — Promo Pitch (Thailand · Shoes)
+# BEDDA MONKEY รองเท้าแตะชายหาดผู้หญิ… — Promo Pitch (Thailand · Shoes)
 **Weekly #1** · 🇹🇭 Thailand · Shoes · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671309257156988168) by [@sunkaiaraikordai](https://www.tiktok.com/@sunkaiaraikordai). Format: **Promo Pitch** · 14s · hook: **Urgency** · On-camera host · Discount
-**Opening line (from the video):** “Final clearance, original price 100”
+**Opening line (translated from the video):** “Final clearance, original price 100”
 
 **Pain point it attacks:** Want to buy cheap and comfortable clogs
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-shoes-988168](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-shoes-988168?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-shoes-988168)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-shoes-988168](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-shoes-988168?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-shoes-988168)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

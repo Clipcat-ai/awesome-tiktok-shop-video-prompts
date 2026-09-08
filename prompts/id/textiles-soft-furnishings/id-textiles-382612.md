@@ -1,6 +1,6 @@
 ---
 id: id-textiles-382612
-title: "SPREI AESTHETIC SIZE 120 — Lifestyle Scene (Indonesia · Textiles & Soft Furnishings)"
+title: "SPREI AESTHETIC SIZE 120, 160, 180… — Lifestyle Scene (Indonesia · Textiles & Soft Furnishings)"
 market: id
 category: textiles-soft-furnishings
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7604509861002382612
 creator: "@goedangsprei"
 published: 2026-02-08
 ---
-# SPREI AESTHETIC SIZE 120 — Lifestyle Scene (Indonesia · Textiles & Soft Furnishings)
+# SPREI AESTHETIC SIZE 120, 160, 180… — Lifestyle Scene (Indonesia · Textiles & Soft Furnishings)
 **Weekly #1** · 🇮🇩 Indonesia · Textiles & Soft Furnishings · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7604509861002382612) by [@goedangsprei](https://www.tiktok.com/@goedangsprei). Format: **Lifestyle Scene** · 23s · hook: **Benefit First** · No one on camera · No promo
-**Opening line (from the video):** “This bed set is so pretty, stock is very limited, hurry to checkout”
+**Opening line (translated from the video):** “This bed set is so pretty, stock is very limited, hurry to checkout”
 
 **Key visuals:** Bed · Bedspread · Pillow · Aromatherapy · Floral Arrangement · Wooden Bed Frame · Wall Decor
 
@@ -44,20 +43,17 @@ Shot 2:
   - Duration: 5.5sec - 11.5sec
   - Scene Type: Product material display
   - Scene: The camera cuts to the head of the bed area, slowly pushing in toward the laid-flat square pillow and cylindrical pillow, focusing on the pink bow print details on the pillowcase, clearly showing the three-dimensional outline of the throw pillows and the fabric texture.
-  - Subject: Amén
-Apagí hadakam
+  - Subject: Amén Apagí hadakam
 Shot 3:
   - Duration: 11.5sec - 15.0sec
   - Scene Type: Lifestyle scene showcase
   - Scene: After a short full white highlight overexposure transition, the image reappears from a different angle of the bed. At this point, a small square throw pillow printed with the store's brand logo is newly added on the bed surface, and the camera fully shows the complete warm arrangement of the bedding paired with florals and the aromatherapy tray.
-  - Subject: Disinica
-Amén
+  - Subject: Disinica Amén
 Shot 4:
   - Duration: 15.0sec - 19.0sec
   - Scene Type: Close-up product shot
   - Scene: The camera switches to a pure detail close-up of the bedding fabric, showing the scattered pink bow print patterns on the black base up close, clearly presenting the line edges of the prints and the smooth texture of the fabric.
-  - Subject: Bien
-¡Suscríbete al canal!
+  - Subject: Bien ¡Suscríbete al canal!
 Shot 5:
   - Duration: 19.0sec - 23.5sec
   - Scene Type: Lifestyle scene showcase
@@ -87,20 +83,17 @@ Shot 2:
   - 时长: 5.5sec - 11.5sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头切换到床头区域，缓慢向平放的方形枕与圆柱枕推近，聚焦展示枕套上的粉色蝴蝶结印花细节，清晰呈现抱枕的立体轮廓与面料质感。
-  - 口播: Amén
-Apagí hadakam
+  - 口播: Amén Apagí hadakam
 Shot 3:
   - 时长: 11.5sec - 15.0sec
   - 镜头类型: 场景化生活秀
   - 画面: 画面经过短暂的全白高光过曝转场，重新呈现床的另一侧视角，此时床面上新增一个印有店铺品牌标识的方形小抱枕，镜头完整展示床品搭配花艺、香薰托盘的温馨布置全貌。
-  - 口播: Disinica
-Amén
+  - 口播: Disinica Amén
 Shot 4:
   - 时长: 15.0sec - 19.0sec
   - 镜头类型: 产品镜头特写
   - 画面: 镜头切换为床品面料的纯细节特写，近距离展示黑色基底上错落分布的粉色蝴蝶结印花图案，清晰呈现印花的线条边缘与面料的平整质感。
-  - 口播: Bien
-¡Suscríbete al canal!
+  - 口播: Bien ¡Suscríbete al canal!
 Shot 5:
   - 时长: 19.0sec - 23.5sec
   - 镜头类型: 场景化生活秀
@@ -114,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-textiles-382612](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-textiles-382612?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-textiles-382612)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-textiles-382612](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-textiles-382612?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-textiles-382612)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

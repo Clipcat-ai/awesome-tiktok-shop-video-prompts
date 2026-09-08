@@ -1,6 +1,6 @@
 ---
 id: vn-textiles-492820
-title: "Thảm lau chân nhà tắm — Story Skit (Vietnam · Textiles & Soft Furnishings)"
+title: "Thảm lau chân nhà tắm, thảm chùi… — Story Skit (Vietnam · Textiles & Soft Furnishings)"
 market: vn
 category: textiles-soft-furnishings
 video_type: story-skit
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7636435208480492820
 creator: "@dieuthuvi26"
 published: 2026-05-05
 ---
-# Thảm lau chân nhà tắm — Story Skit (Vietnam · Textiles & Soft Furnishings)
+# Thảm lau chân nhà tắm, thảm chùi… — Story Skit (Vietnam · Textiles & Soft Furnishings)
 **Weekly #1** · 🇻🇳 Vietnam · Textiles & Soft Furnishings · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7636435208480492820) by [@dieuthuvi26](https://www.tiktok.com/@dieuthuvi26). Format: **Story Skit** · 18s · hook: **Skit Conflict** · Multiple people · No promo
-**Opening line (from the video):** “Why do you always use old clothes as a foot mat? Why not buy a proper one?”
+**Opening line (translated from the video):** “Why do you always use old clothes as a foot mat? Why not buy a proper one?”
 
 **Pain point it attacks:** Using old clothes as foot mats is unhygienic and impractical
 
@@ -56,24 +55,20 @@ Shot 4:
   - Duration: 9.0sec - 11.5sec
   - Scene Type: Unboxing
   - Scene: The hands lay the Lotso-shaped floor mat flat on the light wood floor, gently press the surface of the mat with both hands, adjust the position to make the mat fully adhere to the ground, showing the complete cute cartoon shape of the floor mat.
-  - Subject: Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn
 Shot 5:
   - Duration: 11.5sec - 14.5sec
   - Scene Type: Product material display
   - Scene: The camera focuses on the edge stitching details of the floor mat, then slowly pans across the plush surface of the mat, clearly showing the fine fabric texture and neat edge-wrapping craftsmanship of the floor mat.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 6:
   - Duration: 14.5sec - 17.0sec
   - Scene Type: Situational lifestyle showcase
   - Scene: On the wood floor by the glass door of the room, two identical Lotso floor mats are placed neatly, the cute shape of the mats appears bright and vivid in natural light.
-  - Subject: Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn
 Shot 7:
   - Duration: 17.0sec - 19.0sec
   - Scene Type: Usage scenario setup
   - Scene: A pair of pink fluffy slippers is casually placed on one of the floor mats, a booklet with a light beige cover is placed next to it, further demonstrating the suitable scenarios of the floor mat as a home decorative piece.
-  - Subject: Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
-- Extremely upbeat TikTok-style background music, with a brisk, lively rhythm, moderately high volume, electronic drum beats and playful synthesizer melodies. It is a viral internet meme BGM type, suitable for lifestyle product promotion short videos with playful rants and recommendation vibes, creating a relaxed, funny atmosphere that gently urges viewers to place orders, matching the characteristics of hit e-commerce BGM on Douyin and Kuaishou.
+- Extremely upbeat TikTok-style background music, with a brisk, lively rhythm, moderately high volume, electronic drum beats and playful synthesizer melodies. It is a viral internet meme BGM type, suitable for lifestyle product promotion short videos with playful rants and recommendation vibes, creating a relaxed, funny atmosphere that gently urges viewers to place orders, matching the characteristics of hit e-commerce BGM on TikTok and Kuaishou.
 [Transition / Editing]:
 - The opening bedroom scene transitions naturally to the unboxing footage using a blur transition effect. The subsequent product display segment uses continuous motion editing, all footage maintains a unified soft warm tone, keeping the visual style consistent throughout.
 ```
@@ -106,28 +101,24 @@ Shot 4:
   - 时长: 9.0sec - 11.5sec
   - 镜头类型: 开箱
   - 画面: 双手将草莓熊造型的地垫平铺在浅木色地板上，双手轻轻按压地垫表面，调整位置让地垫完全贴合地面，展示地垫完整的可爱卡通造型。
-  - 口播: Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn
 Shot 5:
   - 时长: 11.5sec - 14.5sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头给到地垫边缘的锁边细节，随后缓慢平移扫过地垫的绒面材质，清晰展示地垫细腻的面料肌理与工整的包边工艺。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 6:
   - 时长: 14.5sec - 17.0sec
   - 镜头类型: 场景化生活秀
   - 画面: 房间的玻璃门边的木地板上，整整齐齐摆放着两块一模一样的草莓熊地垫，地垫的可爱造型在自然光下色彩鲜亮饱满。
-  - 口播: Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn
 Shot 7:
   - 时长: 17.0sec - 19.0sec
   - 镜头类型: 设置使用场景
   - 画面: 一双粉色毛绒拖鞋随意摆放在其中一块地垫上，旁边还放置了一本浅米色封面的册子，进一步展示地垫作为家居装饰摆件的适配场景。
-  - 口播: Hãy subscribe cho kênh La La School Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
-- 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子鼓点和俏皮合成器旋律，属于网络热梗BGM类型，适配生活化带吐槽与种草性质的带货短视频，营造轻松搞笑又带点催促下单的氛围，契合抖音快手爆款带货BGM特征。
+- 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子鼓点和俏皮合成器旋律，属于网络热梗BGM类型，适配生活化带吐槽与种草性质的带货短视频，营造轻松搞笑又带点催促下单的氛围，契合TikTok快手爆款带货BGM特征。
 [Transition / Editing]:
 - 开篇卧室场景通过模糊转场效果自然跳转到开箱画面，后续产品展示环节采用连贯的动势剪辑，所有画面色调统一为暖柔质感，全程保持视觉风格协调。
 ```
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-textiles-492820](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-textiles-492820?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-textiles-492820)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-textiles-492820](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-textiles-492820?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-textiles-492820)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings story skit"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

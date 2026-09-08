@@ -1,6 +1,6 @@
 ---
 id: br-tools-792917
-title: "Kit 30 Haste De Solda Baixa Temperatura Solda Cobre — Handheld Demo (Brazil · Tools & Hardware)"
+title: "Kit 30 Haste De Solda Baixa… — Handheld Demo (Brazil · Tools & Hardware)"
 market: br
 category: tools-hardware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669706466839792917
 creator: "@user615554108246"
 published: 2026-08-03
 ---
-# Kit 30 Haste De Solda Baixa Temperatura Solda Cobre — Handheld Demo (Brazil · Tools & Hardware)
+# Kit 30 Haste De Solda Baixa… — Handheld Demo (Brazil · Tools & Hardware)
 **Weekly #1** · 🇧🇷 Brazil · Tools & Hardware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669706466839792917) by [@user615554108246](https://www.tiktok.com/@user615554108246). Format: **Handheld Demo** · 14s · hook: **Urgency** · On-camera host · Discount
-**Opening line (from the video):** “Wow, who released this promotion, it's basically free”
+**Opening line (translated from the video):** “Wow, who released this promotion, it's basically free”
 
 **Pain point it attacks:** Broken metal parts are hard to repair with common tools
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-tools-792917](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-tools-792917?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-tools-792917)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-tools-792917](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-tools-792917?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-tools-792917)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

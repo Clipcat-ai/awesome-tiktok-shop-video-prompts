@@ -1,6 +1,6 @@
 ---
 id: th-sports-488212
-title: "เสื้อกล้ามผู้ชาย_เทรนด์แฟชั่นสำหรับผู้ชายกีฬาและออกกำลังกายเสื — Handheld Demo (Thailand · Sports & Outdoor)"
+title: "เสื้อกล้ามผู้ชาย_เทรนด์แฟชั่นสำหรับ… — Handheld Demo (Thailand · Sports & Outdoor)"
 market: th
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670046067752488212
 creator: "@w.sportpremium"
 published: 2026-08-04
 ---
-# เสื้อกล้ามผู้ชาย_เทรนด์แฟชั่นสำหรับผู้ชายกีฬาและออกกำลังกายเสื — Handheld Demo (Thailand · Sports & Outdoor)
+# เสื้อกล้ามผู้ชาย_เทรนด์แฟชั่นสำหรับ… — Handheld Demo (Thailand · Sports & Outdoor)
 **Weekly #1** · 🇹🇭 Thailand · Sports & Outdoor · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670046067752488212) by [@w.sportpremium](https://www.tiktok.com/@w.sportpremium). Format: **Handheld Demo** · 15s · hook: **Result First** · Hands only · Discount
-**Opening line (from the video):** “White vest, soft fabric, comfortable to wear”
+**Opening line (translated from the video):** “White vest, soft fabric, comfortable to wear”
 
 **Key visuals:** Supermarket Clothing Section · White Vest · Hand · Packaged Clothes · Price Tag · Ceiling Light Strip
 
@@ -104,4 +103,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-sports-488212](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-sports-488212?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-sports-488212)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-sports-488212](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-sports-488212?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-sports-488212)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

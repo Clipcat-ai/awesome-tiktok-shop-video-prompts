@@ -1,6 +1,6 @@
 ---
 id: de-tools-054816
-title: "Fanttik F2 Master Mini kabelloses Polier- und Gravierwerkzeugs — Real Review (Germany · Tools & Hardware)"
+title: "Fanttik F2 Master Mini kabelloses… — Real Review (Germany · Tools & Hardware)"
 market: de
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677156742140054816
 creator: "@dneronelove"
 published: 2026-08-23
 ---
-# Fanttik F2 Master Mini kabelloses Polier- und Gravierwerkzeugs — Real Review (Germany · Tools & Hardware)
+# Fanttik F2 Master Mini kabelloses… — Real Review (Germany · Tools & Hardware)
 **Weekly #1** · 🇩🇪 Germany · Tools & Hardware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677156742140054816) by [@dneronelove](https://www.tiktok.com/@dneronelove). Format: **Real Review** · 10s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Fresh from the printer, this dragon figurine isn't finished yet”
+**Opening line (translated from the video):** “Fresh from the printer, this dragon figurine isn't finished yet”
 
 **Pain point it attacks:** 3D printed figurines have tiny support residues needing fine trimming
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-tools-054816](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-tools-054816?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-tools-054816)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-tools-054816](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-tools-054816?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-tools-054816)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

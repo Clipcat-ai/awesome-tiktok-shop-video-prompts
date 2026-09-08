@@ -1,6 +1,6 @@
 ---
 id: id-tools-460373
-title: "bor mini buat poles  12V DC 18000 RPM Mini Drill Electric Engr — Real Review (Indonesia · Tools & Hardware)"
+title: "bor mini buat poles 12V DC 18000… — Real Review (Indonesia · Tools & Hardware)"
 market: id
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671163513091460373
 creator: "@fahmiabenk.88"
 published: 2026-08-07
 ---
-# bor mini buat poles  12V DC 18000 RPM Mini Drill Electric Engr — Real Review (Indonesia · Tools & Hardware)
+# bor mini buat poles 12V DC 18000… — Real Review (Indonesia · Tools & Hardware)
 **Weekly #1** · 🇮🇩 Indonesia · Tools & Hardware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671163513091460373) by [@fahmiabenk.88](https://www.tiktok.com/@fahmiabenk.88). Format: **Real Review** · 36s · hook: **Pain Point** · On-camera host · Discount
-**Opening line (from the video):** “Still relying on manual sanding and carving”
+**Opening line (translated from the video):** “Still relying on manual sanding and carving”
 
 **Pain point it attacks:** Manual sanding and carving is inefficient
 
@@ -80,7 +79,7 @@ Shot 9:
   - Duration: 19.5sec - 23.5sec
   - Scene Type: Product design highlights showcase
   - Scene: The frame shows two electric grinders of different color schemes: one hand holds the mini electric grinder with a black body, using the circular saw blade to precisely cut a thin wood sheet, then the camera moves to the full body of the black electric grinder to display its ergonomic, smooth grip shape, as the hand naturally holds the body to intuitively demonstrate comfortable grip. The camera slowly pans up from the operation close-up, finally focusing on the overall appearance of the body.
-  - Subject: ...plus adapternya. Pegangannya enak...
+  - Subject: plus adapternya. Pegangannya enak...
 [Background Sound]:
 - Upbeat, energetic TikTok-style background music with a brisk, rising rhythm, moderately high volume, electronic drum beats and playful synthesizer melodies, perfectly suited for tool, DIY, and home renovation product sales videos, creating an atmosphere of 'high efficiency, effortless work, and amazing useful finds', matching the popular BGM style of TikTok trending tool haul and DIY life hack content.
 [Transition / Editing]:
@@ -139,25 +138,22 @@ Shot 9:
   - 时长: 19.5sec - 23.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 画面展示两款不同配色的电磨：一只手握着黑色机身的迷你电磨，用圆形锯片精细切割薄木片，随后镜头对准黑色电磨的整机机身，展示符合人体工学的流畅握持造型，手部自然握住机身，直观体现握持的舒适感，镜头从作业特写缓缓上移，最终聚焦机身整体外观。
-  - 口播: ...plus adapternya. Pegangannya enak...
+  - 口播: plus adapternya. Pegangannya enak...
 Shot 10:
   - 时长: 23.5sec - 26.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 特写展示充电操作画面，一只手拿着USB充电线，对准绿色迷你电磨底部的充电接口平稳插入，随后画面切换到使用绿色电磨在木块表面雕刻精细花纹的作业场景，弹出黄白配色醒目印尼语文字，提示产品配备完整配件与充电器，近距离固定特写，动作衔接流畅自然。
-  - 口播: Tidak bikin tangan cepat capek.  Dan simple,
+  - 口播: Tidak bikin tangan cepat capek. Dan simple,
 Shot 11:
   - 时长: 26.0sec - 30.0sec
   - 镜头类型: 促销卖点强推
   - 画面: 工坊中景画面，男性站在带有黄色购物篮的手推车旁，手里举着绿色迷你电磨对着镜头持续讲解，画面上方弹出印尼语配送相关字幕与对应卡通图标，清晰展示产品的物流服务优势，固定中景镜头稳定呈现人物与画面文字信息。
-  - 口播: Bisa COD
-dan siap dikirim dalam 24 jam.
+  - 口播: Bisa COD dan siap dikirim dalam 24 jam.
 Shot 12:
   - 时长: 30.0sec - 36.5sec
   - 镜头类型: 限时优惠
   - 画面: 男性保持站立姿势，将电磨换手到左手握持，右手伸出食指反复向下指向画面下方，随后右手握拳做出强调动作，画面左下角弹出动态的黄色箭头图标指向下方位置，全程面带笑容对着镜头完成最后的号召引导，固定中景镜头焦点始终锁定人物上半身动作。
-  - 口播: Jangan tunggu kehabisan. Buruan, klik ranjang kuning sekarang juga.
-sebelum harganya naik
-Terima kasih.
+  - 口播: Jangan tunggu kehabisan. Buruan, klik ranjang kuning sekarang juga. sebelum harganya naik Terima kasih.
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快上扬、音量适中偏高、带有电子鼓点和俏皮合成器旋律，适合工具类/手工DIY/家居改造类带货视频，营造“高效省力、惊喜好物”的氛围，风格类似TikTok热门的tool haul、DIY life hack类流行BGM。
 [Transition / Editing]:
@@ -166,4 +162,4 @@ Terima kasih.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-tools-460373](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-tools-460373?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-tools-460373)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-tools-460373](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-tools-460373?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-tools-460373)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

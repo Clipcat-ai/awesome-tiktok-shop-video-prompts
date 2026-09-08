@@ -1,6 +1,6 @@
 ---
 id: id-luggage-875349
-title: "Tas selempang wanita terbaru tahun 2024 / tas selempang kasual — Promo Pitch (Indonesia · Luggage & Bags)"
+title: "Tas selempang wanita terbaru tahun… — Promo Pitch (Indonesia · Luggage & Bags)"
 market: id
 category: luggage-bags
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675648278351875349
 creator: "@wido.widia"
 published: 2026-08-19
 ---
-# Tas selempang wanita terbaru tahun 2024 / tas selempang kasual — Promo Pitch (Indonesia · Luggage & Bags)
+# Tas selempang wanita terbaru tahun… — Promo Pitch (Indonesia · Luggage & Bags)
 **Weekly #1** · 🇮🇩 Indonesia · Luggage & Bags · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675648278351875349) by [@wido.widia](https://www.tiktok.com/@wido.widia). Format: **Promo Pitch** · 13s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “This sling bag's promo price is so crazy”
+**Opening line (translated from the video):** “This sling bag's promo price is so crazy”
 
 **Pain point it attacks:** Daily commute bags have small capacity and high price
 
@@ -39,7 +38,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 3.0sec
-  - Scene Type: Display of multiple style options (fashion category)
+  - Scene Type: Display of multiple style options
   - Scene: The person stands behind the white display counter, gently holding the straps of multiple bags of the same style in different colors with both hands, slightly moving each bag in turn to show the full appearance of the five bags in dark green, pink, red, black and purple
   - Subject: Promo TikTok makin gila tas lempang sebagus ini...
 Shot 2:
@@ -74,7 +73,7 @@ Shot 4:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 3.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 人物站在白色展示台后方，双手分别轻扶多只不同颜色的同款式包包的肩带，依次轻微挪动展示包身，完整呈现墨绿色、粉色、红色、黑色、紫色五款包包的外观全貌。
   - 口播: Promo TikTok makin gila tas lempang sebagus ini...
 Shot 2:
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-luggage-875349](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-luggage-875349?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-luggage-875349)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-luggage-875349](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-luggage-875349?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-luggage-875349)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

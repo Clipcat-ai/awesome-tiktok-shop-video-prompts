@@ -1,6 +1,6 @@
 ---
 id: th-fashion-072136
-title: "เข็มขัดไนลอนทธวิธีสำหรับผู้ชาย หัวเข็มขัดปลดเร็ว ปรับได้ เหมาะ — Handheld Demo (Thailand · Fashion Accessories)"
+title: "เข็มขัดไนลอนทธวิธีสำหรับผู้ชาย… — Handheld Demo (Thailand · Fashion Accessories)"
 market: th
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7657780242597072136
 creator: "@093gool"
 published: 2026-07-02
 ---
-# เข็มขัดไนลอนทธวิธีสำหรับผู้ชาย หัวเข็มขัดปลดเร็ว ปรับได้ เหมาะ — Handheld Demo (Thailand · Fashion Accessories)
+# เข็มขัดไนลอนทธวิธีสำหรับผู้ชาย… — Handheld Demo (Thailand · Fashion Accessories)
 **Weekly #1** · 🇹🇭 Thailand · Fashion Accessories · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7657780242597072136) by [@093gool](https://www.tiktok.com/@093gool). Format: **Handheld Demo** · 6s · hook: **Result First** · Hands only · Discount
-**Opening line (from the video):** “This price belt is nylon, in stock in warehouse”
+**Opening line (translated from the video):** “This price belt is nylon, in stock in warehouse”
 
 **Pain point it attacks:** Ordinary belts break easily and are expensive
 
@@ -80,4 +79,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-fashion-072136](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-fashion-072136?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-fashion-072136)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-fashion-072136](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-fashion-072136?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-fashion-072136)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: my-furniture-745991
-title: "Metal Bed Frame Katil Queen/King Bed White Katil Besi Heavy Du — Lifestyle Scene (Malaysia · Furniture)"
+title: "Metal Bed Frame Katil Queen/King… — Lifestyle Scene (Malaysia · Furniture)"
 market: my
 category: furniture
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7649537452620745991
 creator: "@hafifazalaikha"
 published: 2026-06-09
 ---
-# Metal Bed Frame Katil Queen/King Bed White Katil Besi Heavy Du — Lifestyle Scene (Malaysia · Furniture)
+# Metal Bed Frame Katil Queen/King… — Lifestyle Scene (Malaysia · Furniture)
 **Weekly #1** · 🇲🇾 Malaysia · Furniture · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7649537452620745991) by [@hafifazalaikha](https://www.tiktok.com/@hafifazalaikha). Format: **Lifestyle Scene** · 19s · hook: **POV Scenario** · Multiple people · No promo
-**Opening line (from the video):** “Your cozy rest corner”
+**Opening line (translated from the video):** “Your cozy rest corner”
 
 **Key visuals:** Iron Bed Frame · Bedside Table · Wardrobe · Pillows · Marble Floor · Teenagers · Plaid Bedding
 
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-furniture-745991](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-furniture-745991?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-furniture-745991)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-furniture-745991](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-furniture-745991?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-furniture-745991)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: my-kitchenware-340744
-title: "Real Review — Kitchenware (Malaysia)"
+title: "(2pcs)Modern Minimalist Style Half… — Real Review (Malaysia · Kitchenware)"
 market: my
 category: kitchenware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676073180456340744
 creator: "@rutinrumah"
 published: 2026-08-20
 ---
-# Real Review — Kitchenware (Malaysia)
+# (2pcs)Modern Minimalist Style Half… — Real Review (Malaysia · Kitchenware)
 **Weekly #1** · 🇲🇾 Malaysia · Kitchenware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676073180456340744) by [@rutinrumah](https://www.tiktok.com/@rutinrumah). Format: **Real Review** · 24s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “No wonder the shop can prepare so many plates of rice quickly”
+**Opening line (translated from the video):** “No wonder the shop can prepare so many plates of rice quickly”
 
 **Pain point it attacks:** Rice balls not neat and low efficient when preparing large quantities
 
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 4.0sec - 7.5sec
   - Scene Type: Demonstration of ease of use
   - Scene: The camera moves in close toward the steaming extra-large stainless steel rice bucket. A hand grips the handle of the yellow rice paddle, fully submerging the paddle body into the plump, fluffy white rice, easily scooping up a full, precisely portioned scoop of rice. The rice in the scoop piles high without spilling at all, and steam continuously rises from the surface of the bucket, clearly showing the freshness and heat of the rice. The camera quickly pushes in from the full view of the work counter to a close-up of the rice bucket and rice paddle, focusing on the rice inside the scoop. A hand in a work uniform holding the yellow rice paddle completes the scooping action.
-  - Subject: Sekali cedok  Terus dapat satu portion macam ni  Terbalik
+  - Subject: Sekali cedok Terus dapat satu portion macam ni Terbalik
 Shot 3:
   - Duration: 7.5sec - 11.0sec
   - Scene Type: Product effectiveness demonstration
@@ -56,12 +55,12 @@ Shot 4:
   - Duration: 11.0sec - 15.5sec
   - Scene Type: Product versatility demonstration
   - Scene: The camera first quickly pans over the fluffy white rice filled in a separate household electric rice cooker, then cuts back to the metal work counter, showing a full panoramic view of a row of plates that are all fully served with uniformly shaped rice, paired with roasted chicken, cucumber slices, and dipping sauce beside them. All dishes are arranged neatly for a clean, refreshing visual effect. The shot transitions quickly between the rice cooker and the work counter, then pans horizontally across all the plates along the counter. Back in the distant background, back kitchen staff are busy serving rice at the large rice bucket with rice paddles.
-  - Subject: Kalau kena hidang banyak pinggan memang jauh  lebih senang  dan cepat  potion pun
+  - Subject: Kalau kena hidang banyak pinggan memang jauh lebih senang dan cepat potion pun
 Shot 5:
   - Duration: 15.5sec - 19.5sec
   - Scene Type: Showcase product popularity and practicality
   - Scene: The camera pulls back to show the entire extra-long meal preparation counter, with dozens of plates arranged neatly in a straight line. All rice balls are evenly sized and uniformly shaped, and the plates are paired with different meat dishes, vegetable side dishes, and sauces. In the background, masked staff are busy serving rice onto other plates with the rice paddle, and diners waiting outside the window lean in to look toward the preparation area. The entire frame is filled with a lively, orderly street food atmosphere. The shot gradually pulls back from a close-up of a section of plates to a full panoramic view of the work counter. A male staff member wearing a black face mask stands next to the large rice bucket, operating the rice paddle with both hands to serve rice, while several diners waiting for their meals stand outside the window in the background.
-  - Subject: nampak lebih sekata  terus hidangan nampak kemas
+  - Subject: nampak lebih sekata terus hidangan nampak kemas
 [Background Sound]:
 - No background music at all. The video relies entirely on dialect-style voiceover narration, paired with ambient sounds from the operation process (such as the click of pressing the rice paddle, the sound of flipping the rice paddle, the puff of rice being served, the brisk clink of tableware on tabletops in a street food shop, the faint hiss of rising rice steam, and the soft chatter of working staff) to build rhythm. The overall auditory experience is authentic and life-oriented, leaning towards a practical instructional demonstration style.
 [Transition / Editing]:
@@ -86,7 +85,7 @@ Shot 2:
   - 时长: 4.0sec - 7.5sec
   - 镜头类型: 展示易用性
   - 画面: 镜头近距离推向冒着热气的超大不锈钢饭桶，一只手握着黄色饭勺的勺柄，将勺身完全埋进饱满蓬松的白米饭里，轻松舀起满满一勺分量精准的米饭，勺内的米饭堆得高高却丝毫不会洒落，桶面蒸汽不断向上飘散，清晰展示出米饭的新鲜与热度，镜头从操作台全景快速推近到饭桶与饭勺的特写，对焦在勺中的米饭上。一只穿着工作服的手握住黄色饭勺完成舀饭动作。
-  - 口播: Sekali cedok  Terus dapat satu portion macam ni  Terbalik
+  - 口播: Sekali cedok Terus dapat satu portion macam ni Terbalik
 Shot 3:
   - 时长: 7.5sec - 11.0sec
   - 镜头类型: 产品有效性
@@ -96,12 +95,12 @@ Shot 4:
   - 时长: 11.0sec - 15.5sec
   - 镜头类型: 产品多功能性
   - 画面: 镜头先快速扫过另一台家用电饭锅内盛满的蓬松白米饭，随即切回金属操作台面，全景展示一排已经全部盛好、形状统一的米饭餐盘，餐盘旁搭配着烧鸡、黄瓜片与蘸料，所有菜品摆得整整齐齐，视觉观感干净清爽，在电饭煲和操作台之间快速转场，随后镜头沿操作台横向扫过所有餐盘。背景远处的后厨工作人员正拿着饭勺在大饭桶边盛饭忙碌。
-  - 口播: Kalau kena hidang banyak pinggan memang jauh  lebih senang  dan cepat  potion pun
+  - 口播: Kalau kena hidang banyak pinggan memang jauh lebih senang dan cepat potion pun
 Shot 5:
   - 时长: 15.5sec - 19.5sec
   - 镜头类型: 展示产品热度
   - 画面: 镜头拉远展示整个超长备餐操作台，数十个餐盘整齐排列成一条直线，所有米饭饭团大小均匀、造型统一，餐盘搭配不同的肉类、蔬菜配菜与酱料，背景中戴口罩的工作人员正忙着用饭勺给其他餐盘盛饭，窗口外等候的食客正探头看向备餐区，整个画面充满热闹有序的市井美食氛围，从局部餐盘特写逐渐拉远成操作台全景。戴黑色口罩的男工作人员站在大饭桶旁，双手操作饭勺盛饭，背景窗口外站着几位等候取餐的食客。
-  - 口播: nampak lebih sekata  terus hidangan nampak kemas
+  - 口播: nampak lebih sekata terus hidangan nampak kemas
 Shot 6:
   - 时长: 19.5sec - 25.0sec
   - 镜头类型: 产品设计亮点
@@ -115,4 +114,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-kitchenware-340744](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-kitchenware-340744?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-kitchenware-340744)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-kitchenware-340744](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-kitchenware-340744?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-kitchenware-340744)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

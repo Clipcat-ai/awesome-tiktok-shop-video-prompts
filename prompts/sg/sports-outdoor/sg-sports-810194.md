@@ -1,6 +1,6 @@
 ---
 id: sg-sports-810194
-title: "HFA Unisex Straight Cut Utility Cargo Pants — Handheld Demo (Singapore · Sports & Outdoor)"
+title: "HFA Unisex Straight Cut Utility… — Handheld Demo (Singapore · Sports & Outdoor)"
 market: sg
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7615531439353810194
 creator: "@michaels_mall"
 published: 2026-03-10
 ---
-# HFA Unisex Straight Cut Utility Cargo Pants — Handheld Demo (Singapore · Sports & Outdoor)
+# HFA Unisex Straight Cut Utility… — Handheld Demo (Singapore · Sports & Outdoor)
 **Weekly #1** · 🇸🇬 Singapore · Sports & Outdoor · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7615531439353810194) by [@michaels_mall](https://www.tiktok.com/@michaels_mall). Format: **Handheld Demo** · 12s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “See these cargo pants? So cool right?”
+**Opening line (quoted from the video):** “See these cargo pants? So cool right?”
 
 **Key visuals:** Coastal Viewing Platform · Sands Building · Blue Sky · Palm Leaves · Square Floor Tiles · Short-sleeve T-shirt · Cargo Pants · Work Shoes
 
@@ -52,9 +51,9 @@ Shot 3:
   - Subject: local brand.
 Shot 4:
   - Duration: 10.0sec - 12.5sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The creator slowly squats down on the platform ground, looks down at the shoes by his feet, raises both hands to grasp the shoelaces and performs the action of tying his shoes, then looks up at the camera to continue sharing, with the sunny coastal urban landscape still in the background. The camera switches to a low-angle close-up, focusing on the creator's squatting motion and the matching details of the cargo pants' tapered cuffs and shoes, showing the creator's full lower body and part of his upper body.
-  - Subject: Also got few colors  You want which one?
+  - Subject: Also got few colors You want which one?
 [Background Sound]:
 - Upbeat TikTok-style background music with a brisk, lively rhythm, moderately high volume, electronic drum beats and playful synthesizer melodies, perfect for youthful, trend-focused product promotion short videos. The track style is similar to dedicated BGM for 'trendy street style' or 'Gen Z outfit recommendations', effectively boosting viewers' visual interest and purchase impulse for products such as Cargo Pants.
 [Transition / Editing]:
@@ -87,9 +86,9 @@ Shot 3:
   - 口播: local brand.
 Shot 4:
   - 时长: 10.0sec - 12.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 博主在平台地面上缓缓蹲下身子，低头看向自己脚边的鞋子，双手抬起握住鞋子的鞋带做出系鞋带的动作，过程中抬头看向镜头继续分享，背景依旧是晴朗的滨海都市景观。镜头切换为低角度近景，聚焦在博主的蹲姿动作与工装裤束脚、鞋子的搭配细节上，画面呈现博主全身下半身及上半身部分区域。
-  - 口播: Also got few colors  You want which one?
+  - 口播: Also got few colors You want which one?
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子鼓点和俏皮合成器旋律，适合年轻化、潮流感强的带货短视频，歌曲风格类似“潮流街头风”或“Z世代穿搭推荐”专用BGM，能有效提升观众对商品（如Cargo Pants）的视觉兴趣与购买冲动。
 [Transition / Editing]:
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-sports-810194](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-sports-810194?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-sports-810194)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-sports-810194](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-sports-810194?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-sports-810194)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

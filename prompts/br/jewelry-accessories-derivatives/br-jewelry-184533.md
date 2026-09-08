@@ -1,6 +1,6 @@
 ---
 id: br-jewelry-184533
-title: "Kit Relógio Feminino Saint Germain Dourado com Colar e Brincos — Handheld Demo (Brazil · Jewelry Accessories & Derivatives)"
+title: "Kit Relógio Feminino Saint Germain… — Handheld Demo (Brazil · Jewelry Accessories & Derivatives)"
 market: br
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675392081577184533
 creator: "@biazinha.martineli"
 published: 2026-08-18
 ---
-# Kit Relógio Feminino Saint Germain Dourado com Colar e Brincos — Handheld Demo (Brazil · Jewelry Accessories & Derivatives)
+# Kit Relógio Feminino Saint Germain… — Handheld Demo (Brazil · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇧🇷 Brazil · Jewelry Accessories & Derivatives · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675392081577184533) by [@biazinha.martineli](https://www.tiktok.com/@biazinha.martineli). Format: **Handheld Demo** · 8s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “you found the perfect gift”
+**Opening beat:** “you found the perfect gift”
 
 **Key visuals:** Dressing Table · Jewelry Box · Gold Watch · Zircon Necklace · Zircon Earrings · Sunset Lamp · Vintage Mirror
 
@@ -39,17 +38,14 @@ Shot 1:
   - Duration: 0.0sec - 1.5sec
   - Scene Type: Gift giving scenario
   - Scene: The frame presents the complete cozy vanity scene. A left hand with French white gradient manicure holds the left edge of a black jewelry gift box on its own. Inside the gift box, a golden steel band watch, a zircon-encrusted necklace and earring set are clearly displayed. The sunset orange-pink halo in the background and the beauty ornaments on the tabletop are fully captured in the frame. Portuguese subtitles 'pov: você achou o presente perfeito 😍' are overlaid at the top of the frame.
-  - Subject: .
 Shot 2:
   - Duration: 1.5sec - 4.0sec
   - Scene Type: Product design highlights
   - Scene: A right hand with the same delicate manicure slowly reaches in from the right side of the frame, gently holds the right edge of the jewelry gift box. Both hands steadily hold the gift box together, slowly move the gift box horizontally closer towards the camera, the camera then focuses on the main body of the gift box, and the tabletop background is gradually blurred.
-  - Subject: Thank you.
 Shot 3:
   - Duration: 4.0sec - 8.0sec
   - Scene Type: Product material display
   - Scene: The camera is fully focused on the golden watch inside the gift box, showing the delicate texture of the watch's golden band and the fine markers on the white dial at close range. The metal surface refracts soft highlights under the warm light. The necklace and earrings inside the gift box remain in the frame as decorative elements on the right side, and the subtitles at the top of the frame are fully displayed all the time.
-  - Subject: Bye.
 [Background Sound]:
 - Soft and gentle Lo-fi Hip Hop background music, with a subtle drum beat at 80-90 BPM, warm piano melody, mellow bass line, paired with faint white noise or rain sound ambiance. The overall volume is moderately low, creating a relaxed, healing and pleasant atmosphere for sharing premium nice items.
 [Transition / Editing]:
@@ -69,17 +65,14 @@ Shot 1:
   - 时长: 0.0sec - 1.5sec
   - 镜头类型: 送礼场景
   - 画面: 画面呈现完整的梳妆台温馨场景，一只涂有法式白渐变美甲的左手独自托住黑色首饰礼盒的左侧边缘，礼盒内清晰展示金色钢带腕表、镶嵌锆石的项链与耳钉套装，背景的落日橙粉光晕与桌面美妆摆件完整入镜，画面上方叠加葡萄牙语字幕“pov: você achou o presente perfeito 😍”。
-  - 口播: .
 Shot 2:
   - 时长: 1.5sec - 4.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 涂有同款精致美甲的右手从画面右侧缓缓伸入，轻轻托住首饰礼盒的右侧边缘，双手共同平稳握持礼盒，将礼盒向镜头方向缓慢平移靠近，镜头随之聚焦礼盒主体，桌面背景逐渐被虚化。
-  - 口播: Thank you.
 Shot 3:
   - 时长: 4.0sec - 8.0sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头完全聚焦于礼盒内的金色腕表，近距离展示腕表细腻的金色表带纹理、白色表盘上的精致刻度，金属表面在暖光下折射出柔和的高光，礼盒内的项链与耳钉作为画面右侧的点缀元素保留入镜，画面上方的字幕始终完整显示。
-  - 口播: Bye.
 [Background Sound]:
 - 轻柔舒缓的Lo-fi Hip Hop背景音乐，带有80-90 BPM的轻微鼓点节奏、温暖的钢琴旋律、柔和的贝斯线条，搭配轻微的白噪音或雨声氛围，整体音量适中偏低，营造放松治愈的精致好物分享愉悦氛围。
 [Transition / Editing]:
@@ -88,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-jewelry-184533](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-jewelry-184533?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-jewelry-184533)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-jewelry-184533](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-jewelry-184533?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-jewelry-184533)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

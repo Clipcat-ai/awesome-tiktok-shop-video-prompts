@@ -1,6 +1,6 @@
 ---
 id: th-muslim-468743
-title: "ชุดเดรชผู้หญิงสวยเรียบหรูรุ่นโบว์ซ้อนV2/38 — OOTD Showcase (Thailand · Muslim Fashion)"
+title: "ชุดเดรชผู้หญิงสวยเรียบหรูรุ่นโบว์ซ้… — OOTD Showcase (Thailand · Muslim Fashion)"
 market: th
 category: muslim-fashion
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667770330584468743
 creator: "@nita.s60"
 published: 2026-07-29
 ---
-# ชุดเดรชผู้หญิงสวยเรียบหรูรุ่นโบว์ซ้อนV2/38 — OOTD Showcase (Thailand · Muslim Fashion)
+# ชุดเดรชผู้หญิงสวยเรียบหรูรุ่นโบว์ซ้… — OOTD Showcase (Thailand · Muslim Fashion)
 **Weekly #1** · 🇹🇭 Thailand · Muslim Fashion · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667770330584468743) by [@nita.s60](https://www.tiktok.com/@nita.s60). Format: **OOTD Showcase** · 20s · hook: **Identity** · On-camera host · No promo
-**Opening line (from the video):** “Hello everyone, today I'm here to review a dress”
+**Opening line (translated from the video):** “Hello everyone, today I'm here to review a dress”
 
 **Pain point it attacks:** Plus-size women struggle to buy well-fitting Muslim clothing
 
@@ -140,4 +139,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-muslim-468743](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-muslim-468743?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-muslim-468743)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-muslim-468743](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-muslim-468743?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-muslim-468743)
-🤖 **Driving an AI agent?** `clipcat prompt search "Muslim Fashion"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Muslim Fashion ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

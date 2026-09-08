@@ -1,6 +1,6 @@
 ---
 id: ph-womenswear-218645
-title: "COD 12PCS 12-Piece Japanese-Style Simple Solid-Color Girls' Pu — Handheld Demo (Philippines · Womenswear & Underwear)"
+title: "COD 12PCS 12-Piece Japanese-Style… — Handheld Demo (Philippines · Womenswear & Underwear)"
 market: ph
 category: womenswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668316860412218645
 creator: "@sweetellena"
 published: 2026-07-30
 ---
-# COD 12PCS 12-Piece Japanese-Style Simple Solid-Color Girls' Pu — Handheld Demo (Philippines · Womenswear & Underwear)
+# COD 12PCS 12-Piece Japanese-Style… — Handheld Demo (Philippines · Womenswear & Underwear)
 **Weekly #1** · 🇵🇭 Philippines · Womenswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668316860412218645) by [@sweetellena](https://www.tiktok.com/@sweetellena). Format: **Handheld Demo** · 16s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “12 pcs Breathable Underwear”
+**Opening line (quoted from the video):** “12 pcs Breathable Underwear”
 
 **Key visuals:** Woven Mat · Underwear · White Curtain · Vase · Book · Wall Painting · Hand
 
@@ -49,19 +48,17 @@ Shot 3:
   - Duration: 3.5sec - 5.5sec
   - Scene Type: Product material showcase
   - Scene: The camera pulls back to return to a medium shot. Both hands lift the two side edges of the green pair of underwear and gently shake it back and forth, using the natural draping movement to intuitively demonstrate that the underwear fabric is soft, lightweight and wrinkle-resistant. The other three pairs of underwear on the floor mat are clearly visible in the background. The camera moves steadily backward, naturally transitioning from the fabric close-up back to a full medium shot of the product. The hands and forearms in the creamy yellow sweater are visible.
-  - Subject: See y'all.  She's Jimmy Handsome Man, Jin Young, Juicyon.
+  - Subject: See y'all. She's Jimmy Handsome Man, Jin Young, Juicyon.
 Shot 4:
   - Duration: 5.5sec - 7.5sec
   - Scene Type: Product design highlight
   - Scene: The camera switches to a close-up of the waistband. A finger gently pinches the wide waistband of the green pair of underwear, clearly presenting the black 'VETO' brand logo printed on the front of the waistband to the camera, and the fine stitching details of the waistband are also shown at the same time. The camera maintains fixed focus, steadily framing the waistband logo area to ensure the text details are clearly visible. Only one finger with bow nail art is visible.
-  - Subject: Give me Eleganza, Mark Juicy, y'all.  Give me happy birthday.
+  - Subject: Give me Eleganza, Mark Juicy, y'all. Give me happy birthday.
 Shot 5:
   - Duration: 7.5sec - 16.0sec
   - Scene Type: Usability demonstration
   - Scene: The camera pulls back to the initial full shot position. Both hands re-hold the left and right waistbands of the green pair of underwear, first fully present the entire front of the underwear towards the camera, then slowly pull the underwear evenly outwards on both sides, demonstrating the loose and highly elastic properties of the underwear from multiple angles in front of the camera throughout the process. The home decor and the other three pairs of underwear in the background always appear as subtle accents in the frame. The camera stays steady and fixed, clearly recording the entire process of the underwear being stretched following the hand movements with no unnecessary shaking. The hands and forearms in the creamy yellow sweater are visible.
-  - Subject: See ya.
-I'm juicy, y'all.  He's giving me lovely crazy boy, but I'm juicy.
-I'm taking my time
+  - Subject: See ya. I'm juicy, y'all. He's giving me lovely crazy boy, but I'm juicy. I'm taking my time
 [Background Sound]:
 - Upbeat TikTok background music in K-pop hip-hop style, fast tempo, loud volume, with strong beats and vocal samples. Names such as 'JUICE', 'Jungkook', 'Jackson' appear repeatedly in the music, creating a strong idol fan support and fan-oriented atmosphere.
 [Transition / Editing]:
@@ -91,19 +88,17 @@ Shot 3:
   - 时长: 3.5sec - 5.5sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头向后拉远回到中景画面，双手拎起绿色内裤的两侧边缘，轻轻来回晃动内裤，利用自然的垂坠晃动效果，直观展现出内裤面料柔软轻盈、不易起皱的特性，地垫上其余三条内裤作为背景清晰可见。镜头平稳向后拉移，从面料特写自然过渡回完整的产品中景画面。露出穿着奶黄色毛衣的双手与小臂部分。
-  - 口播: See y'all.  She's Jimmy Handsome Man, Jin Young, Juicyon.
+  - 口播: See y'all. She's Jimmy Handsome Man, Jin Young, Juicyon.
 Shot 4:
   - 时长: 5.5sec - 7.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 镜头切换到腰头的近景特写，手指轻轻捏住绿色内裤的宽边腰头处，将印在腰头正面的黑色“VETO”品牌logo清晰地对准镜头展示，腰头的细密车缝线细节也一同呈现出来。镜头保持固定对焦，稳稳定格在腰头logo区域，确保文字细节清晰可见。仅露出带有蝴蝶结美甲的一根手指。
-  - 口播: Give me Eleganza, Mark Juicy, y'all.  Give me happy birthday.
+  - 口播: Give me Eleganza, Mark Juicy, y'all. Give me happy birthday.
 Shot 5:
   - 时长: 7.5sec - 16.0sec
   - 镜头类型: 展示易用性
   - 画面: 镜头拉回到初始的全景机位，双手重新捏住绿色内裤的左右腰头，先将内裤整体正面朝向镜头完整展示，随后双手缓缓向两侧均匀用力拉扯内裤，全程在镜头前多角度展示内裤宽松且富有弹性的特性，背景中的居家布置与其余三条内裤始终作为点缀呈现在画面中。镜头始终保持固定平稳状态，跟随双手的动作清晰记录内裤被拉扯舒展的全过程，没有多余的晃动。露出穿着奶黄色毛衣的双手与小臂部分。
-  - 口播: See ya.
-I'm juicy, y'all.  He's giving me lovely crazy boy, but I'm juicy.
-I'm taking my time
+  - 口播: See ya. I'm juicy, y'all. He's giving me lovely crazy boy, but I'm juicy. I'm taking my time
 [Background Sound]:
 - 非常欢快的TikTok背景音乐，韩流嘻哈风格、快节奏、音量高亢、带有强烈节拍和人声采样，音乐中反复出现“JUICE”“Jungkook”“Jackson”等名字，具有强烈偶像应援和粉丝向氛围。
 [Transition / Editing]:
@@ -112,4 +107,4 @@ I'm taking my time
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-womenswear-218645](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-womenswear-218645?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-womenswear-218645)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-womenswear-218645](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-womenswear-218645?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-womenswear-218645)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

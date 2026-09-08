@@ -1,6 +1,6 @@
 ---
 id: th-health-912853
-title: "[สูตรมิกซ์พลัสเพิ่มสารสกัด ] Foundercolly Ping Ping C Blinks M — Story Skit (Thailand · Health)"
+title: "[สูตรมิกซ์พลัสเพิ่มสารสกัด… — Story Skit (Thailand · Health)"
 market: th
 category: health
 video_type: story-skit
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7605979381973912853
 creator: "@tangkwasirikan"
 published: 2026-02-12
 ---
-# [สูตรมิกซ์พลัสเพิ่มสารสกัด ] Foundercolly Ping Ping C Blinks M — Story Skit (Thailand · Health)
+# [สูตรมิกซ์พลัสเพิ่มสารสกัด… — Story Skit (Thailand · Health)
 **Weekly #1** · 🇹🇭 Thailand · Health · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7605979381973912853) by [@tangkwasirikan](https://www.tiktok.com/@tangkwasirikan). Format: **Story Skit** · 33s · hook: **Pain Point** · No one on camera · No promo
-**Opening line (from the video):** “You get sun every day, don't apply sunscreen or skincare, how won't your skin be damaged”
+**Opening line (translated from the video):** “You get sun every day, don't apply sunscreen or skincare, how won't your skin be damaged”
 
 **Pain point it attacks:** Skin gets damaged from sun due to no sunscreen or skincare
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: Whimsical anthropomorphic 3D animation style, with rich, saturated colors on screen, exaggerated and dynamic character designs, built-in immersive cartoon narrative atmosphere, and full of the dramatic effect of viral short videos on Douyin.
+[Style]: Whimsical anthropomorphic 3D animation style, with rich, saturated colors on screen, exaggerated and dynamic character designs, built-in immersive cartoon narrative atmosphere, and full of the dramatic effect of viral short videos on TikTok.
 [Environment]: The opening scene is a delicate makeup vanity bathed in soft afternoon light, with various makeup items and a round makeup mirror placed on it; then the scene switches to a sun-scorched windowsill, with a blazing beach and glaring sun outside the window; next, the camera moves inside a microscopic community of human skin cells; finally, the scene settles in a sweltering desert with burning flames, and a giant fiery red sun hanging in the background.
 [Tone & Pacing]: The entire video uses an exaggerated, passionate ranting tone, with the character's emotions escalating step by step from complaining to an outburst of anger. The editing rhythm is fast and crisp, every scene transition perfectly aligns with the emotional beats of the voiceover, and the overall atmosphere is full of dramatic tension.
 [Camera]: A fixed front eye-level perspective is used throughout the video, accurately capturing the details of the anthropomorphic character's facial expressions and body movements. The frame always stays focused on the main character, ensuring a clear and distinct visual center, which fits the immersive viewing experience of vertical-screen short videos.
@@ -69,7 +68,7 @@ Shot 5:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 搞怪拟人3D动画风格，画面色彩浓烈饱满，角色造型夸张富有张力，自带沉浸式卡通叙事氛围感，充满抖音爆款短视频的戏剧效果。
+[Style]: 搞怪拟人3D动画风格，画面色彩浓烈饱满，角色造型夸张富有张力，自带沉浸式卡通叙事氛围感，充满TikTok爆款短视频的戏剧效果。
 [Environment]: 开篇场景为午后柔光洒满的精致美妆梳妆台，摆放各式彩妆单品与圆形化妆镜；随后切换至暴晒的窗台边，窗外是灼热海滩与刺眼烈日；接着进入微观人体肌肤细胞群落内部；最终落脚到燃烧烈焰的燥热沙漠，背景悬挂巨型火红太阳。
 [Tone & Pacing]: 全程采用夸张热血的吐槽语气，角色情绪层层递进从抱怨到愤怒爆发，镜头剪辑节奏明快利落，每个场景转场都精准踩中配音的情绪节点，整体氛围充满戏剧张力。
 [Camera]: 全程采用固定机位正面平视视角，精准捕捉拟人角色的表情与肢体动作细节，镜头画面始终聚焦主体角色，保证视觉重心清晰明确，符合短视频竖屏观看的沉浸式体验。
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-health-912853](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-health-912853?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-health-912853)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-health-912853](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-health-912853?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-health-912853)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health story skit"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

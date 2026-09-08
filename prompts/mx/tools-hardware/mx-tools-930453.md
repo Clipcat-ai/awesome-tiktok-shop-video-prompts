@@ -1,6 +1,6 @@
 ---
 id: mx-tools-930453
-title: "[JARETA]Pegamento Impermeable Transparente — Real Review (Mexico · Tools & Hardware)"
+title: "[JARETA]Pegamento Impermeable… — Real Review (Mexico · Tools & Hardware)"
 market: mx
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667883530394930453
 creator: "@valentinary01"
 published: 2026-07-29
 ---
-# [JARETA]Pegamento Impermeable Transparente — Real Review (Mexico · Tools & Hardware)
+# [JARETA]Pegamento Impermeable… — Real Review (Mexico · Tools & Hardware)
 **Weekly #1** · 🇲🇽 Mexico · Tools & Hardware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667883530394930453) by [@valentinary01](https://www.tiktok.com/@valentinary01). Format: **Real Review** · 25s · hook: **Result First** · Multiple people · Discount
-**Opening line (from the video):** “This is not glue, it's waterproof adhesive, I swear...”
+**Opening line (translated from the video):** “This is not glue, it's waterproof adhesive, I swear...”
 
 **Pain point it attacks:** Building cracks leak water and are hard to repair
 
@@ -96,8 +95,7 @@ Shot 5:
   - 时长: 14.0sec - 18.5sec
   - 镜头类型: 产品材质展示
   - 画面: 红瓦屋顶下方的混凝土排水沟区域，一只手拿着透明桶装的高粘度防水材料，将其直接倾倒在排水沟的裂缝处，透明的粘稠材料顺着裂缝自然流淌填充缝隙，随即一只手握着小型抹子将材料在裂缝表面均匀刮平。画面切换展示完全固化后的透明防水层，平整地覆盖住整条裂缝，镜头中出现醒目的红色箭头指向该防水区域。采用微距特写镜头，近距离捕捉透明材料倾倒时拉丝的粘稠质感与覆盖裂缝的细节过程。出镜人物为操作防水材料倾倒与刮平的施工人员。
-  - 口播: ...resistente al calor y a los impactos. Créeme, no debería...
-No te decepcionará. No sé quién puso el precio, pero es muy interesante.
+  - 口播: resistente al calor y a los impactos. Créeme, no debería... No te decepcionará. No sé quién puso el precio, pero es muy interesante.
 Shot 6:
   - 时长: 18.5sec - 23.0sec
   - 镜头类型: 超值价格
@@ -107,8 +105,7 @@ Shot 7:
   - 时长: 23.0sec - 25.5sec
   - 镜头类型: 限时优惠
   - 画面: 开阔的大型工业厂房内部，一位身着荧光黄色反光背心的施工人员，手持长柄水刮将地面的防水材料均匀推开，覆盖住水泥地面的宽幅裂缝，随后他手持高压水枪对准已经施工完成的地面防水层持续喷射水流，地面上的水流无法渗透进基层，全部在防水层表面自由流动，画面角落的红色箭头指向被完全覆盖的裂缝位置。镜头采用全景平拍视角，展示工业厂房超大空间内的大面积地面防水作业场景。出镜人物为工业厂房内作业的反光背心施工人员。
-  - 口播: Voy a revisar mi carrito ahora mismo porque se agotó.
-y no lo repondrán.
+  - 口播: Voy a revisar mi carrito ahora mismo porque se agotó. y no lo repondrán.
 [Background Sound]:
 - 无背景音乐，仅全程伴随清晰有力的西班牙语产品介绍人声，整体氛围热情饱满，充满安利种草的感染力。
 [Transition / Editing]:
@@ -117,4 +114,4 @@ y no lo repondrán.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-tools-930453](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-tools-930453?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-tools-930453)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-tools-930453](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-tools-930453?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-tools-930453)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

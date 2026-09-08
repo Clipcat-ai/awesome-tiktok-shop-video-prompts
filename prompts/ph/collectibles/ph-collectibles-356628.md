@@ -1,6 +1,6 @@
 ---
 id: ph-collectibles-356628
-title: "Personalized Photocards - Customizable Durable Premium Photo P — Handheld Demo (Philippines · Collectibles)"
+title: "Personalized Photocards… — Handheld Demo (Philippines · Collectibles)"
 market: ph
 category: collectibles
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7646807776240356628
 creator: "@paglaom.prints"
 published: 2026-06-02
 ---
-# Personalized Photocards - Customizable Durable Premium Photo P — Handheld Demo (Philippines · Collectibles)
+# Personalized Photocards… — Handheld Demo (Philippines · Collectibles)
 **Weekly #1** · 🇵🇭 Philippines · Collectibles · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7646807776240356628) by [@paglaom.prints](https://www.tiktok.com/@paglaom.prints). Format: **Handheld Demo** · 8s · hook: **Benefit First** · On-camera host · No promo
-**Opening line (from the video):** “Customized photo cards, vibrant colors, sharp details, premium finishes”
+**Opening line (translated from the video):** “Customized photo cards, vibrant colors, sharp details, premium finishes”
 
 **Key visuals:** White Table · Custom Photocards · White Display Stand · Green Plant · Square Glasses · Sleeveless White Top · Floral Bottoms
 
@@ -96,4 +95,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-collectibles-356628](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-collectibles-356628?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-collectibles-356628)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-collectibles-356628](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-collectibles-356628?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-collectibles-356628)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

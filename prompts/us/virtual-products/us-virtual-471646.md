@@ -1,6 +1,6 @@
 ---
 id: us-virtual-471646
-title: "Roblox eGift Card + Free Virtual Item — Story Skit (United States · Virtual Products)"
+title: "Roblox eGift Card + Free Virtual… — Story Skit (United States · Virtual Products)"
 market: us
 category: virtual-products
 video_type: story-skit
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676203649747471646
 creator: "@reiki.with.ashley"
 published: 2026-08-20
 ---
-# Roblox eGift Card + Free Virtual Item — Story Skit (United States · Virtual Products)
+# Roblox eGift Card + Free Virtual… — Story Skit (United States · Virtual Products)
 **Weekly #1** · 🇺🇸 United States · Virtual Products · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676203649747471646) by [@reiki.with.ashley](https://www.tiktok.com/@reiki.with.ashley). Format: **Story Skit** · 12s · hook: **Skit Conflict** · On-camera host · No promo
-**Opening line (from the video):** “Mom, Mom, can I have more virtual currency?”
+**Opening line (quoted from the video):** “Mom, Mom, can I have more virtual currency?”
 
 **Pain point it attacks:** Kids keep asking for game virtual currency, parents are annoyed
 
@@ -66,7 +65,6 @@ Shot 6:
   - Duration: 12.0sec - 13.0sec
   - Scene Type: Interactive plot performance
   - Scene: The child's previously confused expression softens into a happy look, and she speaks toward the camera to express her gratitude.
-  - Subject: Thank you.
 [Background Sound]:
 - Light, humorous TikTok-style background music with a snappy tempo, moderate volume, playful electronic drum beats and comedic sound effects. It falls under the comedy advertisement BGM category, amplifying the funny conflict between the child acting spoiled and the parent being helpless. It fits family comedy + e-commerce marketing short videos and enhances the audience's sense of immersion.
 [Transition / Editing]:
@@ -111,7 +109,6 @@ Shot 6:
   - 时长: 12.0sec - 13.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 孩子原本疑惑的表情舒缓开来，露出开心的神态，冲着镜头方向开口表达谢意。
-  - 口播: Thank you.
 [Background Sound]:
 - 轻快幽默的TikTok风格背景音乐，节奏明快、音量适中、带有俏皮的电子鼓点和滑稽音效，属于喜剧广告BGM类型，能强化孩子撒娇、家长无奈的搞笑冲突感，适配家庭搞笑+电商带货类短视频，增强观众代入感。
 [Transition / Editing]:
@@ -120,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-virtual-471646](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-virtual-471646?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-virtual-471646)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-virtual-471646](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-virtual-471646?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-virtual-471646)
-🤖 **Driving an AI agent?** `clipcat prompt search "Virtual Products"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Virtual Products story skit"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

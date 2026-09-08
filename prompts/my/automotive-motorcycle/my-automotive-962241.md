@@ -1,6 +1,6 @@
 ---
 id: my-automotive-962241
-title: "2 keping pelekat Syahadah 3D warna emas premium — Product Close-Up (Malaysia · Automotive & Motorcycle)"
+title: "2 keping pelekat Syahadah 3D warna… — Product Close-Up (Malaysia · Automotive & Motorcycle)"
 market: my
 category: automotive-motorcycle
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7662987177457962241
 creator: "@bunk_zen"
 published: 2026-07-16
 ---
-# 2 keping pelekat Syahadah 3D warna emas premium — Product Close-Up (Malaysia · Automotive & Motorcycle)
+# 2 keping pelekat Syahadah 3D warna… — Product Close-Up (Malaysia · Automotive & Motorcycle)
 **Weekly #1** · 🇲🇾 Malaysia · Automotive & Motorcycle · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7662987177457962241) by [@bunk_zen](https://www.tiktok.com/@bunk_zen). Format: **Product Close-Up** · 20s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Show the delicate patterns and Arabic calligraphy relief details of the golden metal sticker”
+**Opening beat:** “Show the delicate patterns and Arabic calligraphy relief details of the golden metal sticker”
 
 **Key visuals:** Yellow Yamaha Motorcycle · Golden Metal Sticker · Black Nitrile Glove · Arabic Calligraphy · Relief Pattern · Natural Daylight
 
@@ -90,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-automotive-962241](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-automotive-962241?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-automotive-962241)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-automotive-962241](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-automotive-962241?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-automotive-962241)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

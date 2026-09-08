@@ -1,6 +1,6 @@
 ---
 id: my-tools-416596
-title: "[Penampalan Dinding] [ReadyStock] Wall Mending Ointment Mendin — Real Review (Malaysia · Tools & Hardware)"
+title: "[Penampalan Dinding] [ReadyStock… — Real Review (Malaysia · Tools & Hardware)"
 market: my
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7634117111119416596
 creator: "@cleaning7788"
 published: 2026-04-29
 ---
-# [Penampalan Dinding] [ReadyStock] Wall Mending Ointment Mendin — Real Review (Malaysia · Tools & Hardware)
+# [Penampalan Dinding] [ReadyStock… — Real Review (Malaysia · Tools & Hardware)
 **Weekly #1** · 🇲🇾 Malaysia · Tools & Hardware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7634117111119416596) by [@cleaning7788](https://www.tiktok.com/@cleaning7788). Format: **Real Review** · 16s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Want to cover holes in the wall without calling a handyman”
+**Opening line (translated from the video):** “Want to cover holes in the wall without calling a handyman”
 
 **Pain point it attacks:** Wall has holes, cracks, peeling and other damages
 
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 3.5sec - 6.5sec
   - Scene Type: Show ease of use
   - Scene: The camera cuts to another white wall with a thin long vertical crack, the wall texture is clearly visible. A hand holds the wall repair paste, squeezes the white paste fully along the crack to fill it completely, then uses a small putty knife to repeatedly scrape and smooth the paste surface. The originally prominent crack is fully concealed, and the wall returns to a flat state. Corresponding demonstration-related text is kept on the frame, with orange subtitles popping up synchronously at the bottom of the screen.
-  - Subject: ...sejak semula pun. Aku guna benda ni je. Cik sapu...
+  - Subject: sejak semula pun. Aku guna benda ni je. Cik sapu...
 Shot 3:
   - Duration: 6.5sec - 9.5sec
   - Scene Type: Show ease of use
@@ -86,7 +85,7 @@ Shot 2:
   - 时长: 3.5sec - 6.5sec
   - 镜头类型: 展示易用性
   - 画面: 镜头切换到另一处带有细长纵向裂缝的白色墙面，墙面纹理清晰可见。一只手握着墙面修补膏，将白色膏体沿着裂缝完全挤入填满，随后用小铲刀将膏体表面反复刮压抹平，原本显眼的裂缝被彻底遮盖，墙面恢复平整。画面保留对应演示相关文字，底部同步弹出橙色字幕。
-  - 口播: ...sejak semula pun. Aku guna benda ni je. Cik sapu...
+  - 口播: sejak semula pun. Aku guna benda ni je. Cik sapu...
 Shot 3:
   - 时长: 6.5sec - 9.5sec
   - 镜头类型: 展示易用性
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-tools-416596](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-tools-416596?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-tools-416596)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-tools-416596](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-tools-416596?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-tools-416596)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

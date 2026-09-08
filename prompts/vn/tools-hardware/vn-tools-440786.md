@@ -1,6 +1,6 @@
 ---
 id: vn-tools-440786
-title: "Máy đo Huyết Áp và Nhịp Tim tại nhà có giọng nói tiếng Việt - — Promo Pitch (Vietnam · Tools & Hardware)"
+title: "Máy đo Huyết Áp và Nhịp Tim tại… — Promo Pitch (Vietnam · Tools & Hardware)"
 market: vn
 category: tools-hardware
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672584762405440786
 creator: "@quynhcontrai1603"
 published: 2026-08-11
 ---
-# Máy đo Huyết Áp và Nhịp Tim tại nhà có giọng nói tiếng Việt - — Promo Pitch (Vietnam · Tools & Hardware)
+# Máy đo Huyết Áp và Nhịp Tim tại… — Promo Pitch (Vietnam · Tools & Hardware)
 **Weekly #1** · 🇻🇳 Vietnam · Tools & Hardware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672584762405440786) by [@quynhcontrai1603](https://www.tiktok.com/@quynhcontrai1603). Format: **Promo Pitch** · 30s · hook: **Urgency** · On-camera host · Discount
-**Opening line (from the video):** “Each account can only grab once, today is the last chance”
+**Opening line (translated from the video):** “Each account can only grab once, today is the last chance”
 
 **Pain point it attacks:** Home blood pressure monitors are complex to use or overpriced
 
@@ -51,17 +50,16 @@ Shot 3:
   - Duration: 6.5sec - 10.0sec
   - Scene Type: Product design highlights
   - Scene: The shot cuts back to the bright workshop, the man holds the blood pressure monitor main unit in one hand and the gray arm cuff in the other, lifting both items up in front of the camera to clearly show the blood pressure value display interface on the monitor's screen. The background still features storage racks stacked with semi-finished products and busy workers. The fixed camera switches from a medium shot to a close-up, gradually zooming in to magnify the details of the monitor's screen display.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - Duration: 10.0sec - 20.0sec
   - Scene Type: Key promotional selling point push
   - Scene: After a brief black screen transition, the shot returns to the workshop. The man walks slowly sideways along the workbench lined with blood pressure monitors, holding the monitor up to the camera with both hands, pointing at its function buttons from time to time to clearly introduce the product's appearance and functional details to the audience. The background scene of workers operating on the assembly line remains visible throughout. The camera tracks the man's walking movement, keeping the product centered in the frame at all times.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Mà cũng không đến 300 đâu nha Mỗi một tài khoản các bác sẽ nhìn thấy Một mức giá khác nhau nhé Cho nên các bác bấm ngay vào giỏ hàng bên góc trái video giúp em sớm
+  - Subject: Mà cũng không đến 300 đâu nha Mỗi một tài khoản các bác sẽ nhìn thấy Một mức giá khác nhau nhé Cho nên các bác bấm ngay vào giỏ hàng bên góc trái video giúp em sớm
 Shot 5:
   - Duration: 20.0sec - 30.0sec
   - Scene Type: Limited-time offer
   - Scene: After another brief black screen transition, the man stops and stands still in front of the workbench, holding the blood pressure monitor up close to the camera with both hands to showcase the screen display content, side function buttons, and the brand logo on the device body at close range. The workshop working scene in the background gradually blurs as the camera pushes in, drawing all visual focus entirely to the product itself. The camera slowly moves forward to form an extreme close-up of the product, magnifying every detail of the electronic blood pressure monitor.
-  - Subject: Nếu thấy giá chưa tới 300 thì săn liền, săn lẻ giúp em Dịp chấp nhoáng chỉ có trong hôm nay thôi Hết là về giá gốc đó ạ Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Chào mừng quý vị đến với bộ phim Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - Subject: Nếu thấy giá chưa tới 300 thì săn liền, săn lẻ giúp em Dịp chấp nhoáng chỉ có trong hôm nay thôi Hết là về giá gốc đó ạ Chào mừng quý vị đến với bộ phim
 [Background Sound]:
 - No background music, only a fast-paced, enthusiastic live sales voiceover throughout the entire runtime, carrying strong promotional urgency, accompanied by faint ambient background noise from the workshop
 [Transition / Editing]:
@@ -91,17 +89,16 @@ Shot 3:
   - 时长: 6.5sec - 10.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 画面切回明亮的车间内，男子双手分别握持血压计主机与灰色臂带，将两件产品同时举到镜头前方，清晰展示血压计屏幕上的血压数值显示界面，背景仍是摆满半成品的置物架与忙碌的工人，固定机位中景转特写，镜头逐步拉近放大血压计的屏幕显示细节。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - 时长: 10.0sec - 20.0sec
   - 镜头类型: 促销卖点强推
   - 画面: 画面短暂黑屏过渡后切回车间，男子一边缓步侧身沿摆满血压计的工作台移动，一边双手举着血压计面向镜头展示，手指不时指向血压计的功能按键，向镜头观众清晰介绍产品外观与功能细节，背景流水线的工人作业场景全程可见，镜头随男子的行走动作同步跟拍，始终保持产品位于画面视觉中心。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Mà cũng không đến 300 đâu nha Mỗi một tài khoản các bác sẽ nhìn thấy Một mức giá khác nhau nhé Cho nên các bác bấm ngay vào giỏ hàng bên góc trái video giúp em sớm
+  - 口播: Mà cũng không đến 300 đâu nha Mỗi một tài khoản các bác sẽ nhìn thấy Một mức giá khác nhau nhé Cho nên các bác bấm ngay vào giỏ hàng bên góc trái video giúp em sớm
 Shot 5:
   - 时长: 20.0sec - 30.0sec
   - 镜头类型: 限时优惠
   - 画面: 画面再次短暂黑屏过渡后，男子停下脚步站定在工作台前，双手共同托举着血压计将其凑近镜头，近距离展示血压计的屏幕显示内容、侧边功能按键与机身品牌标识，背景中的车间作业场景随镜头拉近逐步虚化，视觉焦点完全集中在产品本体上，镜头缓慢向前推近，形成产品大特写画面，放大呈现血压计的全部细节。
-  - 口播: Nếu thấy giá chưa tới 300 thì săn liền, săn lẻ giúp em Dịp chấp nhoáng chỉ có trong hôm nay thôi Hết là về giá gốc đó ạ Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Chào mừng quý vị đến với bộ phim Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - 口播: Nếu thấy giá chưa tới 300 thì săn liền, săn lẻ giúp em Dịp chấp nhoáng chỉ có trong hôm nay thôi Hết là về giá gốc đó ạ Chào mừng quý vị đến với bộ phim
 [Background Sound]:
 - 无背景音乐，全程仅有人声带货口播，语速较快、语气热情、带有强烈促销紧迫感，伴随轻微的车间环境底噪
 [Transition / Editing]:
@@ -110,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-tools-440786](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-tools-440786?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-tools-440786)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-tools-440786](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-tools-440786?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-tools-440786)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

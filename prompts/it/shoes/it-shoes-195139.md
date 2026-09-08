@@ -1,6 +1,6 @@
 ---
 id: it-shoes-195139
-title: "Men's Patchwork Lace Up Low Top Safety Shoes — Real Review (Italy · Shoes)"
+title: "Men's Patchwork Lace Up Low Top… — Real Review (Italy · Shoes)"
 market: it
 category: shoes
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680108537523195139
 creator: "@user8192461792785"
 published: 2026-08-31
 ---
-# Men's Patchwork Lace Up Low Top Safety Shoes — Real Review (Italy · Shoes)
+# Men's Patchwork Lace Up Low Top… — Real Review (Italy · Shoes)
 **Weekly #1** · 🇮🇹 Italy · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680108537523195139) by [@user8192461792785](https://www.tiktok.com/@user8192461792785). Format: **Real Review** · 17s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Are you still torturing your feet with heavy boots”
+**Opening line (translated from the video):** “Are you still torturing your feet with heavy boots”
 
 **Pain point it attacks:** Work shoes are heavy and rub feet
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-shoes-195139](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-shoes-195139?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-shoes-195139)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-shoes-195139](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-shoes-195139?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-shoes-195139)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

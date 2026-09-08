@@ -1,6 +1,6 @@
 ---
 id: us-virtual-098718
-title: "Roblox eGift Card + Free Virtual Item — Story Skit (United States · Virtual Products)"
+title: "Roblox eGift Card + Free Virtual… — Story Skit (United States · Virtual Products)"
 market: us
 category: virtual-products
 video_type: story-skit
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671803989310098718
 creator: "@reiki.with.ashley"
 published: 2026-08-08
 ---
-# Roblox eGift Card + Free Virtual Item — Story Skit (United States · Virtual Products)
+# Roblox eGift Card + Free Virtual… — Story Skit (United States · Virtual Products)
 **Weekly #1** · 🇺🇸 United States · Virtual Products · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671803989310098718) by [@reiki.with.ashley](https://www.tiktok.com/@reiki.with.ashley). Format: **Story Skit** · 11s · hook: **Skit Conflict** · Multiple people · Coupon
-**Opening line (from the video):** “Parents of Roblox kids understand”
+**Opening line (quoted from the video):** “Parents of Roblox kids understand”
 
 **Pain point it attacks:** Kids need Roblox virtual currency, parents just bought it and it's gone
 
@@ -41,7 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 1.5sec
   - Scene Type: Problem setup
   - Scene: In the entryway hallway, the long-haired woman playing the mother presses both hands tightly to her chest, bends her knees slightly, leans her body forward, looks panicked, and runs hurriedly toward the camera. The background features the entryway's vintage chandelier and the wall's decorative paintings. On-screen text 'Parents of Roblox kids understand' and playful emojis are overlaid. The handheld camera moves forward steadily, following the rhythm of the character's running.
-  - Subject: What happened?  I'm out of virtual books.  That's the emergency?
+  - Subject: What happened? I'm out of virtual books. That's the emergency?
 Shot 2:
   - Duration: 1.5sec - 2.5sec
   - Scene Type: Problem setup
@@ -50,12 +49,12 @@ Shot 3:
   - Duration: 2.5sec - 4.0sec
   - Scene Type: Problem setup
   - Scene: The camera pans quickly to the left, as the woman playing the mother rushes to the sofa, leans forward, with a look of utter disbelief and exasperation on her face, opening her mouth to speak urgently. The on-screen text 'virtual bucks =ROBUX' remains on the frame. The camera pans rapidly, with focus shifting naturally to the mother.
-  - Subject: Yes.  I literally just bought you some.  I know.  On what?  I bought some stuff.
+  - Subject: Yes. I literally just bought you some. I know. On what? I bought some stuff.
 Shot 4:
   - Duration: 4.0sec - 7.0sec
   - Scene Type: Pain point identification
   - Scene: The camera cuts rapidly back and forth between the child on the sofa and the standing mother. The child waves their arms excitedly to argue their case, while the mother throws up her hands in astonishment, her expression gradually shifting from shock to a mix of amusement and exasperation. The on-screen text 'virtual bucks =ROBUX' stays visible throughout. Fast shot-reverse-shot editing is used, with the camera switching repeatedly between the two characters.
-  - Subject: Parents, please tell me it's not just my kid.  Mom, who did you get?
+  - Subject: Parents, please tell me it's not just my kid. Mom, who did you get?
 Shot 5:
   - Duration: 7.0sec - 10.5sec
   - Scene Type: Emotional connection
@@ -84,7 +83,7 @@ Shot 1:
   - 时长: 0.0sec - 1.5sec
   - 镜头类型: 设置问题
   - 画面: 玄关走廊处，扮演母亲的长发女性双手紧紧按在胸口，双腿微屈，身体前倾，神情惊慌失措，急促地朝着镜头方向跑动，背景是玄关的复古吊灯与墙上的装饰画。画面叠加字幕“Parents of Roblox kids understand”与趣味表情符号。手持镜头跟随人物跑动节奏向前平稳推进。
-  - 口播: What happened?  I'm out of virtual books.  That's the emergency?
+  - 口播: What happened? I'm out of virtual books. That's the emergency?
 Shot 2:
   - 时长: 1.5sec - 2.5sec
   - 镜头类型: 设置问题
@@ -93,12 +92,12 @@ Shot 3:
   - 时长: 2.5sec - 4.0sec
   - 镜头类型: 设置问题
   - 画面: 镜头快速向左侧摇移，扮演母亲的女性冲到沙发跟前，俯身向前，脸上满是难以置信又无奈的神情，张嘴急切地说话，画面保持“virtual bucks =ROBUX”字幕。镜头快速横摇，焦点自然切换到母亲身上。
-  - 口播: Yes.  I literally just bought you some.  I know.  On what?  I bought some stuff.
+  - 口播: Yes. I literally just bought you some. I know. On what? I bought some stuff.
 Shot 4:
   - 时长: 4.0sec - 7.0sec
   - 镜头类型: 点明痛点问题
   - 画面: 镜头在沙发上的孩子与站着的母亲之间快速来回切换，孩子激动地挥舞手臂辩解，母亲一脸错愕地摊手，神情从惊讶慢慢转为哭笑不得，画面始终保留“virtual bucks =ROBUX”字幕。采用快速正反打剪辑，镜头在两人之间反复切换。
-  - 口播: Parents, please tell me it's not just my kid.  Mom, who did you get?
+  - 口播: Parents, please tell me it's not just my kid. Mom, who did you get?
 Shot 5:
   - 时长: 7.0sec - 10.5sec
   - 镜头类型: 情感连接
@@ -116,4 +115,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-virtual-098718](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-virtual-098718?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-virtual-098718)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-virtual-098718](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-virtual-098718?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-virtual-098718)
-🤖 **Driving an AI agent?** `clipcat prompt search "Virtual Products"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Virtual Products story skit"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

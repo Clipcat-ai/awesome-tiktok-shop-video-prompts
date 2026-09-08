@@ -1,6 +1,6 @@
 ---
 id: jp-beauty-772692
-title: "【dadawoca】｜目元エステ 美顔器 EMS｜クマ・小ジワ集中ケア 温感 微振動 — Real Review (Japan · Beauty & Personal Care)"
+title: "【dadawoca】｜目元エステ 美顔器… — Real Review (Japan · Beauty & Personal Care)"
 market: jp
 category: beauty-personal-care
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677437494643772692
 creator: "@kailafromhawaii"
 published: 2026-08-24
 ---
-# 【dadawoca】｜目元エステ 美顔器 EMS｜クマ・小ジワ集中ケア 温感 微振動 — Real Review (Japan · Beauty & Personal Care)
+# 【dadawoca】｜目元エステ 美顔器… — Real Review (Japan · Beauty & Personal Care)
 **Weekly #1** · 🇯🇵 Japan · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677437494643772692) by [@kailafromhawaii](https://www.tiktok.com/@kailafromhawaii). Format: **Real Review** · 38s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Just one touch and your eye size will change”
+**Opening line (translated from the video):** “Just one touch and your eye size will change”
 
 **Pain point it attacks:** Dark circles and fine lines around eyes, loose eye skin
 
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-beauty-772692](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-beauty-772692?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-beauty-772692)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-beauty-772692](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-beauty-772692?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-beauty-772692)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

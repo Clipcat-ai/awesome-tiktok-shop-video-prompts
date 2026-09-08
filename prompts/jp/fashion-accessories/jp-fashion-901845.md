@@ -1,6 +1,6 @@
 ---
 id: jp-fashion-901845
-title: "磁気ネックレスで肩コリ解決する#血行改善#ストレスフリー#男女兼用#おしゃれアイテム — Talking Head (Japan · Fashion Accessories)"
+title: "磁気ネックレスで肩コリ解決する#血行… — Talking Head (Japan · Fashion Accessories)"
 market: jp
 category: fashion-accessories
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675280803105901845
 creator: "@yukari_outfittip"
 published: 2026-08-18
 ---
-# 磁気ネックレスで肩コリ解決する#血行改善#ストレスフリー#男女兼用#おしゃれアイテム — Talking Head (Japan · Fashion Accessories)
+# 磁気ネックレスで肩コリ解決する#血行… — Talking Head (Japan · Fashion Accessories)
 **Weekly #1** · 🇯🇵 Japan · Fashion Accessories · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675280803105901845) by [@yukari_outfittip](https://www.tiktok.com/@yukari_outfittip). Format: **Talking Head** · 17s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “What is this? It's so popular, really”
+**Opening line (translated from the video):** “What is this? It's so popular, really”
 
 **Pain point it attacks:** Stiff and uncomfortable shoulders and neck
 
@@ -56,7 +55,6 @@ Shot 4:
   - Duration: 8.5sec - 10.5sec
   - Scene Type: Product usage scene
   - Scene: The woman wearing a pure white short-sleeve T-shirt stands in front of the camera, raises both hands to the back of her neck to adjust the necklace clasp, and securely fastens the black leather cord necklace at the front of her neck, with the blue geometric pendant resting perfectly at the right position on her chest. The background is a bright window where the light and shadow of blinds are visible, and the frame clearly shows the effect of the necklace worn around the neck.
-  - Subject: ご視聴ありがとうございました。
 Shot 5:
   - Duration: 10.5sec - 13.5sec
   - Scene Type: Contextual lifestyle showcase
@@ -101,7 +99,6 @@ Shot 4:
   - 时长: 8.5sec - 10.5sec
   - 镜头类型: 产品使用场景
   - 画面: 穿着纯白色短袖T恤的女性正站在镜头前，双手抬到颈后调整项链的搭扣，将黑色皮绳项链稳稳佩戴在颈部前方，蓝色几何吊坠刚好落在胸前的合适位置，背景是能看到百叶窗光影的明亮窗边，画面清晰展示项链佩戴后的颈部效果。
-  - 口播: ご視聴ありがとうございました。
 Shot 5:
   - 时长: 10.5sec - 13.5sec
   - 镜头类型: 场景化生活秀
@@ -120,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-fashion-901845](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-fashion-901845?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-fashion-901845)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-fashion-901845](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-fashion-901845?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-fashion-901845)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

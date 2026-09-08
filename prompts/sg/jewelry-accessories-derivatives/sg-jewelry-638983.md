@@ -1,6 +1,6 @@
 ---
 id: sg-jewelry-638983
-title: "SK Jewellery Gilded Clover 999 Pure Gold Pendant — Product Close-Up (Singapore · Jewelry Accessories & Derivatives)"
+title: "SK Jewellery Gilded Clover 999… — Product Close-Up (Singapore · Jewelry Accessories & Derivatives)"
 market: sg
 category: jewelry-accessories-derivatives
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669478396308638983
 creator: "@jilbeauty"
 published: 2026-08-02
 ---
-# SK Jewellery Gilded Clover 999 Pure Gold Pendant — Product Close-Up (Singapore · Jewelry Accessories & Derivatives)
+# SK Jewellery Gilded Clover 999… — Product Close-Up (Singapore · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇸🇬 Singapore · Jewelry Accessories & Derivatives · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669478396308638983) by [@jilbeauty](https://www.tiktok.com/@jilbeauty). Format: **Product Close-Up** · 10s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “4 leaf clover shape is for 4 blessings”
+**Opening line (quoted from the video):** “4 leaf clover shape is for 4 blessings”
 
 **Key visuals:** Gold Clover Pendant · Velvet Clover Ornament · Fresh Clover · SK Jewellery Logo · Promotion Label · White Lace Top · Female Host
 
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-jewelry-638983](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-jewelry-638983?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-jewelry-638983)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-jewelry-638983](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-jewelry-638983?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-jewelry-638983)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

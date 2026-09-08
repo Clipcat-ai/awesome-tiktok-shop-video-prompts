@@ -1,6 +1,6 @@
 ---
 id: id-menswear-526549
-title: "[Isi 3/6 Pcs] Celana Dalam Pria Boxer Anti Bakteri Celana Dala — Handheld Demo (Indonesia · Menswear & Underwear)"
+title: "[Isi 3/6 Pcs] Celana Dalam Pria… — Handheld Demo (Indonesia · Menswear & Underwear)"
 market: id
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671585199817526549
 creator: "@celana.dalam.andaa"
 published: 2026-08-08
 ---
-# [Isi 3/6 Pcs] Celana Dalam Pria Boxer Anti Bakteri Celana Dala — Handheld Demo (Indonesia · Menswear & Underwear)
+# [Isi 3/6 Pcs] Celana Dalam Pria… — Handheld Demo (Indonesia · Menswear & Underwear)
 **Weekly #1** · 🇮🇩 Indonesia · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671585199817526549) by [@celana.dalam.andaa](https://www.tiktok.com/@celana.dalam.andaa). Format: **Handheld Demo** · 23s · hook: **Curiosity Gap** · On-camera host · Discount
-**Opening line (from the video):** “So many boxer shorts only cost around 30 thousand rupiah”
+**Opening line (translated from the video):** “So many boxer shorts only cost around 30 thousand rupiah”
 
 **Pain point it attacks:** Men's underwear is stuffy, not breathable and poorly made
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: Realistic popular Douyin product recommendation aesthetic, with bright, clear image colors that highlight the rich colorways and comfortable texture of the product, amplifying the visual appeal of excellent value for money.
+[Style]: Realistic popular TikTok product recommendation aesthetic, with bright, clear image colors that highlight the rich colorways and comfortable texture of the product, amplifying the visual appeal of excellent value for money.
 [Environment]: Bright, well-lit professional gym setting, with a full range of fitness strength equipment arranged in the background, multiple round recessed ceiling lights installed on the ceiling to provide even illumination, and a light natural wood display table placed in the foreground. The entire space is clean, modern, and has a strong athletic atmosphere.
 [Tone & Pacing]: Overall rhythm is fast, compact, and tightly paced, with smooth, crisp shot transitions. Every product selling point is paired with a direct, intuitive action demonstration, no redundant footage, maintaining the high-efficiency sales pace of a product recommendation video throughout.
 [Camera]: Filmed with a multi-perspective combination: the opening wide shot shows the full package of products, then cuts to a close-up detail shot of a single pair of underwear, paired with a fixed camera shot showing the upper body effect on the model, with appropriate subtle panning follow shots to clearly present every design highlight of the product.
@@ -56,12 +55,12 @@ Shot 4:
   - Duration: 9.0sec - 12.5sec
   - Scene Type: Product effectiveness demonstration
   - Scene: The camera cuts to a white half-body mannequin, a pair of hands pulls a pair of gray men's boxer briefs onto the mannequin's hip area, then gently pulls both sides of the pant body and the leg openings, adjusting them until the underwear sits smoothly and snugly, showing the streamlined cut and perfect fit of the underwear when worn from a 360-degree perspective. The background is the interior of the gym.
-  - Subject: Keringet dan dingin loh  Jadi udah pasti adem dan nyaman
+  - Subject: Keringet dan dingin loh Jadi udah pasti adem dan nyaman
 Shot 5:
   - Duration: 12.5sec - 15.5sec
   - Scene Type: Product design highlights
   - Scene: The woman's hands hold the leg openings of a green pair of men's boxer briefs, lift the entire pair vertically then spread it out horizontally, pinch both sides of the waistband and gently pull outward, fully displaying the overall cut, streamlined tailoring and excellent elasticity of the entire pair of underwear. The background remains the bright gym environment.
-  - Subject: aman kalau dipakai.  Jahitannya juga rapi banget.
+  - Subject: aman kalau dipakai. Jahitannya juga rapi banget.
 Shot 6:
   - Duration: 15.5sec - 17.0sec
   - Scene Type: Close-up of product details
@@ -69,7 +68,7 @@ Shot 6:
   - Subject: Dan sudah ada antibakterinya juga, jadi terlalu.
 Shot 7:
   - Duration: 17.0sec - 19.0sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: Two pairs of men's boxer briefs, one yellow and one gray, are laid flat side by side aligned on a white worktable inside the gym. The woman's hands gently adjust and align the waistbands of the two pairs of underwear, showing the style details of the two different colorways and the design features of the printed waistbands.
 Shot 8:
   - Duration: 19.0sec - 23.5sec
@@ -79,11 +78,11 @@ Shot 8:
 [Background Sound]:
 - Upbeat TikTok-style live-stream sales background music with a brisk, rising rhythm, medium-high volume, electronic drum beats and playful synth sound effects, tailored for fast-paced shopping scenarios targeting young consumer groups. The track style is similar to 'viral e-commerce promotional hit music', creating a sense of urgency and the allure of great value for money, paired with accelerated voiceover speed and enthusiastic tone to boost purchase conversion impulse.
 [Transition / Editing]:
-- Adopts a fast-cut editing style, with each selling point shot connecting directly and seamlessly, paired with synchronized dynamic arrow indicator animations and selling point text to enhance the audience's visual memory, the overall rhythm matches the compact style of Douyin product recommendation videos.
+- Adopts a fast-cut editing style, with each selling point shot connecting directly and seamlessly, paired with synchronized dynamic arrow indicator animations and selling point text to enhance the audience's visual memory, the overall rhythm matches the compact style of TikTok product recommendation videos.
 ```
 ## 提示词（中文）
 ```text
-[Style]: 抖音热门好物种草写实风格，画面色彩鲜亮通透，突出商品丰富配色与舒适质感，强化高性价比的视觉吸引力。
+[Style]: TikTok热门好物种草写实风格，画面色彩鲜亮通透，突出商品丰富配色与舒适质感，强化高性价比的视觉吸引力。
 [Environment]: 明亮通透的专业健身房场景，背景排布着齐全的健身力量器械，天花板安装多盏圆形嵌入式顶灯提供均匀照明，前景摆放一张浅原木色的展示台面，整体空间整洁现代，运动氛围浓厚。
 [Tone & Pacing]: 整体节奏明快紧凑，镜头切换流畅利落，每一处商品卖点都对应直观的动作展示，没有冗余画面，全程保持种草视频的高效带货节奏。
 [Camera]: 采用多视角组合拍摄：开场全景展示整包商品，随后切换近景特写展示单条内裤细节，搭配固定机位拍摄半身模特上身效果，适当加入轻微平移跟拍，清晰呈现商品每一处设计亮点。
@@ -110,12 +109,12 @@ Shot 4:
   - 时长: 9.0sec - 12.5sec
   - 镜头类型: 产品有效性
   - 画面: 镜头切换至白色半身mannequin模特身前，一双手将灰色男士平角内裤套在模特胯部位置，随后轻轻拉扯裤身两侧与裤脚，调整至穿着平整服帖的状态，360度展示内裤上身之后的流畅版型与贴合效果。背景是健身房内部场景。
-  - 口播: Keringet dan dingin loh  Jadi udah pasti adem dan nyaman
+  - 口播: Keringet dan dingin loh Jadi udah pasti adem dan nyaman
 Shot 5:
   - 时长: 12.5sec - 15.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 女生的双手拎着一条绿色男士平角内裤的裤脚位置，将内裤整体垂直拎起后再水平展开，双手捏住腰头两侧轻轻向外拉伸，完整展示整条内裤的整体版型、流畅剪裁与优秀弹力。背景依然是明亮的健身房环境。
-  - 口播: aman kalau dipakai.  Jahitannya juga rapi banget.
+  - 口播: aman kalau dipakai. Jahitannya juga rapi banget.
 Shot 6:
   - 时长: 15.5sec - 17.0sec
   - 镜头类型: 产品细节特写
@@ -123,7 +122,7 @@ Shot 6:
   - 口播: Dan sudah ada antibakterinya juga, jadi terlalu.
 Shot 7:
   - 时长: 17.0sec - 19.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 两条黄色与灰色的男士平角内裤被平整对齐并排铺在健身房内的白色操作台上，女生的双手轻轻将两条内裤的腰头整理对齐，展示两款不同配色的款式细节与印花腰头的设计特点。
 Shot 8:
   - 时长: 19.0sec - 23.5sec
@@ -133,9 +132,9 @@ Shot 8:
 [Background Sound]:
 - 非常欢快的TikTok风格带货背景音乐，节奏轻快上扬、音量中等偏高、带有电子鼓点和俏皮合成器音效，适合年轻消费群体的快节奏购物场景，歌曲风格类似“潮流电商爆款促销曲”，营造紧迫感与高性价比诱惑氛围，配合口播语速加快、语气热情，增强转化冲动。
 [Transition / Editing]:
-- 采用快速跳转的剪辑方式，每一个卖点镜头之间直接流畅衔接，搭配同步出现的动态箭头指示动画与卖点文字，强化观众视觉记忆，整体节奏贴合抖音种草视频的紧凑风格。
+- 采用快速跳转的剪辑方式，每一个卖点镜头之间直接流畅衔接，搭配同步出现的动态箭头指示动画与卖点文字，强化观众视觉记忆，整体节奏贴合TikTok种草视频的紧凑风格。
 ```
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-menswear-526549](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-menswear-526549?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-menswear-526549)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-menswear-526549](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-menswear-526549?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-menswear-526549)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

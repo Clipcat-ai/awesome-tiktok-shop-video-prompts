@@ -1,6 +1,6 @@
 ---
 id: us-furniture-237837
-title: "UDEAR 10-Tier Shoe Rack with 9 Compartments and Dust Cover Sho — Lifestyle Scene (United States · Furniture)"
+title: "UDEAR 10-Tier Shoe Rack with 9… — Lifestyle Scene (United States · Furniture)"
 market: us
 category: furniture
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7666118037296237837
 creator: "@happyhustleginger"
 published: 2026-07-24
 ---
-# UDEAR 10-Tier Shoe Rack with 9 Compartments and Dust Cover Sho — Lifestyle Scene (United States · Furniture)
+# UDEAR 10-Tier Shoe Rack with 9… — Lifestyle Scene (United States · Furniture)
 **Weekly #1** · 🇺🇸 United States · Furniture · week of 2026-08-03
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7666118037296237837) by [@happyhustleginger](https://www.tiktok.com/@happyhustleginger). Format: **Lifestyle Scene** · 16s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A black empty shoe rack sits in a spacious factory workshop with workers busy nearby, a finger points to it”
+**Opening line (quoted from the video):** “A black empty shoe rack sits in a spacious factory workshop with workers busy nearby, a finger points to it”
 
 **Key visuals:** Factory Workshop · Black Shoe Rack · Stock Cartons · Bedroom Corner · Curtains · Shoes · Entryway · Wooden Side Table
 
@@ -44,15 +43,12 @@ Shot 2:
   - Duration: 5.5sec - 10.5sec
   - Scene Type: Lifestyle demonstration in context
   - Scene: The scene switches to a well-lit bedroom corner, every layer of the black shoe rack is neatly filled with shoes of various styles. The lady wearing a white T-shirt and blue jeans bends down to arrange the shoes on the lower layer neatly, then raises her hand to flip up the roll-up dust cover on the top of the shoe rack and secure it in place, then turns to face the camera and raises her hand in a sharing gesture. The main subjects in the frame are the black shoe rack filled with various shoes, the lady in casual outfit operating the shoe rack, and the bedroom furniture and furnishings in the background.
-  - Subject: Woo, baby.  Come on, y'all.  Woo, baby.
-Lauder.  Boom.  Boom.
+  - Subject: Woo, baby. Come on, y'all. Woo, baby. Lauder. Boom. Boom.
 Shot 3:
   - Duration: 10.5sec - 16.0sec
   - Scene Type: Product usage scenario
   - Scene: The scene switches to a warm home entryway area, the black shoe rack is neatly placed against the wall, each layer holds different types of footwear sorted by category, including white sneakers, casual sports shoes, and daily commute flats. The camera slowly pushes forward to focus on the shoe rack, the lady walks in from one side of the frame, reaches out to pick up a pair of brown casual shoes from the middle layer, then the camera pulls back to fully show the neatly arranged shoe rack and the entire home environment. The main subjects in the frame are the black shoe rack filled with all kinds of footwear, the lady reaching for a shoe, and the entryway furnishings such as green plants and the wooden side table in the background.
-  - Subject: I'm a lot of hoops.
-Moose!
-Like a soccer.
+  - Subject: I'm a lot of hoops. Moose! Like a soccer.
 [Background Sound]:
 - Very upbeat TikTok background music in hip-hop/rap style, fast-paced, relatively loud, with strong drum beats and repeated vocal samples such as 'Come on y’all, a little louder'. The track is likely the hit single 'Shakalaka' or a similarly rhythmic popular song, perfectly matching the energetic vibe of short product promotion videos.
 [Transition / Editing]:
@@ -77,15 +73,12 @@ Shot 2:
   - 时长: 5.5sec - 10.5sec
   - 镜头类型: 场景化生活秀
   - 画面: 场景切换至采光良好的卧室角落，黑色鞋架上的每一层都整齐摆满了款式各异的鞋子；身着白T恤与蓝牛仔裤的女士俯身将下层的鞋子摆放整齐，随后抬手向上翻折鞋架顶部的卷式防尘罩，将其固定到位，之后转身面向镜头抬手做出分享手势。画面主体为摆满各式鞋子的黑色鞋架，正在操作鞋架的休闲着装女士，背景中的卧室家居陈设。
-  - 口播: Woo, baby.  Come on, y'all.  Woo, baby.
-Lauder.  Boom.  Boom.
+  - 口播: Woo, baby. Come on, y'all. Woo, baby. Lauder. Boom. Boom.
 Shot 3:
   - 时长: 10.5sec - 16.0sec
   - 镜头类型: 产品使用场景
   - 画面: 场景切换至温馨的居家玄关区域，黑色鞋架整齐摆放在墙边，每一层都分类摆放着小白鞋、休闲运动鞋、通勤单鞋等不同类型的鞋履；镜头缓缓向前推进聚焦鞋架，女士从画面一侧走入，伸手取出中间层的一双棕色休闲鞋，随后镜头拉远，完整展示摆放整齐的鞋架与整体家居环境。画面主体为摆满各类鞋履的黑色鞋架，伸手取鞋的女士，背景中的绿植、木质边几等玄关家居陈设。
-  - 口播: I'm a lot of hoops.
-Moose!
-Like a soccer.
+  - 口播: I'm a lot of hoops. Moose! Like a soccer.
 [Background Sound]:
 - 非常欢快的TikTok背景音乐，嘻哈/说唱风格、快节奏、音量较大、带有强烈鼓点和重复人声采样（如“Come on y’all, a little louder”），歌曲名字疑似为《Shakalaka》或类似节奏型热单，适配动感带货类短视频氛围。
 [Transition / Editing]:
@@ -94,4 +87,4 @@ Like a soccer.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-furniture-237837](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-furniture-237837?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-furniture-237837)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-furniture-237837](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-furniture-237837?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-furniture-237837)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

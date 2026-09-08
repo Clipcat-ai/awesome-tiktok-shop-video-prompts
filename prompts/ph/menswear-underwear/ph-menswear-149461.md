@@ -1,6 +1,6 @@
 ---
 id: ph-menswear-149461
-title: "3/6Pcs Mens brief Cotton Men's Underwear Briefs for mens Stret — Handheld Demo (Philippines · Menswear & Underwear)"
+title: "3/6Pcs Mens brief Cotton Men's… — Handheld Demo (Philippines · Menswear & Underwear)"
 market: ph
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7623511607213149461
 creator: "@edzmelendrezferrer"
 published: 2026-04-01
 ---
-# 3/6Pcs Mens brief Cotton Men's Underwear Briefs for mens Stret — Handheld Demo (Philippines · Menswear & Underwear)
+# 3/6Pcs Mens brief Cotton Men's… — Handheld Demo (Philippines · Menswear & Underwear)
 **Weekly #1** · 🇵🇭 Philippines · Menswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7623511607213149461) by [@edzmelendrezferrer](https://www.tiktok.com/@edzmelendrezferrer). Format: **Handheld Demo** · 19s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Experience the perfect fit and comfort of NACE underwear, premium fabric stretches and recovers”
+**Opening line (quoted from the video):** “Experience the perfect fit and comfort of NACE underwear, premium fabric stretches and recovers”
 
 **Key visuals:** Dark Gray Textured Table · Mens Underwear · Hand · Soft Lighting · Background Music
 
@@ -44,7 +43,7 @@ Shot 2:
   - Duration: 9.5sec - 15.0sec
   - Scene Type: Product material demonstration
   - Scene: A pair of hands picks up the black underwear from the tabletop again, repeating the series of actions of stretching the waistband, pulling the fabric, kneading and spreading it out, to further emphasize the high elasticity and soft, skin-friendly texture of the product. Finally, the black underwear is placed back flat on the table, and the fingertips of both hands gently smooth out the wrinkles on the surface of the underwear.
-  - Subject: La la la, it's true la la Oh, I shall be running  Oh
+  - Subject: La la la, it's true la la Oh, I shall be running Oh
 Shot 3:
   - Duration: 15.0sec - 19.5sec
   - Scene Type: Product material demonstration
@@ -74,7 +73,7 @@ Shot 2:
   - 时长: 9.5sec - 15.0sec
   - 镜头类型: 产品材质展示
   - 画面: 一双手再次拿起桌面上的黑色内裤，重复进行腰头拉伸、面料拉扯、揉搓展开的一系列动作，进一步强化展示产品的高弹性与柔软亲肤的质感，最后将黑色内裤平整地放回桌面，双手指尖轻轻抚平内裤表面的褶皱。
-  - 口播: La la la, it's true la la Oh, I shall be running  Oh
+  - 口播: La la la, it's true la la Oh, I shall be running Oh
 Shot 3:
   - 时长: 15.0sec - 19.5sec
   - 镜头类型: 产品材质展示
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-menswear-149461](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-menswear-149461?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-menswear-149461)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-menswear-149461](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-menswear-149461?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-menswear-149461)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

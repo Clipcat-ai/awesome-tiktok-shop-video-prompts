@@ -1,6 +1,6 @@
 ---
 id: jp-household-619464
-title: "ナイトライトオールインワン 超音波害虫駆除器 蚊対策 ゴキブリ対策 低光量睡眠用照明 サイレント 家庭用害虫対策 — Handheld Demo (Japan · Household Appliances)"
+title: "ナイトライトオールインワン… — Handheld Demo (Japan · Household Appliances)"
 market: jp
 category: household-appliances
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673209924989619464
 creator: "@intus.ltd"
 published: 2026-08-12
 ---
-# ナイトライトオールインワン 超音波害虫駆除器 蚊対策 ゴキブリ対策 低光量睡眠用照明 サイレント 家庭用害虫対策 — Handheld Demo (Japan · Household Appliances)
+# ナイトライトオールインワン… — Handheld Demo (Japan · Household Appliances)
 **Weekly #1** · 🇯🇵 Japan · Household Appliances · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673209924989619464) by [@intus.ltd](https://www.tiktok.com/@intus.ltd). Format: **Handheld Demo** · 19s · hook: **Urgency** · Hands only · Discount, Coupon
-**Opening line (from the video):** “1 yen is crazy! Check it out now✨ Those with coupons get it for just 1 yen!?”
+**Opening line (translated from the video):** “1 yen is crazy! Check it out now✨ Those with coupons get it for just 1 yen!?”
 
 **Pain point it attacks:** Troubled by mosquitoes, worried about chemicals affecting family and pets
 
@@ -41,7 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 1.5sec
   - Scene Type: Product Appearance Display
   - Scene: A product packaging box sits on a light wood-grain tabletop, printed with a render of the mosquito-repellent night light and brand text. A small potted green plant rests on a wooden tray in the upper left corner of the frame, and a fan-shaped wooden-base table lamp is partially visible in one corner of the background. Eye-catching Japanese promotional text pops up on the screen.
-  - Subject: Dijien, naratorias, ¿qué es lo que?  Cono coupon, arrujito a
+  - Subject: Dijien, naratorias, ¿qué es lo que? Cono coupon, arrujito a
 Shot 2:
   - Duration: 1.5sec - 4.5sec
   - Scene Type: Handheld Product Display
@@ -91,7 +90,7 @@ Shot 1:
   - 时长: 0.0sec - 1.5sec
   - 镜头类型: 产品外观展示
   - 画面: 浅原木色的桌面上摆放着产品包装盒，包装盒上印有驱蚊小夜灯的产品效果图与品牌文字，画面左上角的木托盘上放着一盆小型绿植，背景一角露出扇形木底台灯，画面弹出醒目的日文促销文字。
-  - 口播: Dijien, naratorias, ¿qué es lo que?  Cono coupon, arrujito a
+  - 口播: Dijien, naratorias, ¿qué es lo que? Cono coupon, arrujito a
 Shot 2:
   - 时长: 1.5sec - 4.5sec
   - 镜头类型: 手持商品展示
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-household-619464](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-household-619464?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-household-619464)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-household-619464](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-household-619464?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-household-619464)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: sg-collectibles-002503
-title: "PAAL SAAMBARAANI. with CHARCOAL 20 PCS — Product Close-Up (Singapore · Collectibles)"
+title: "PAAL SAAMBARAANI. with CHARCOAL 20… — Product Close-Up (Singapore · Collectibles)"
 market: sg
 category: collectibles
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674989310181002503
 creator: "@murugavelmuru18"
 published: 2026-08-17
 ---
-# PAAL SAAMBARAANI. with CHARCOAL 20 PCS — Product Close-Up (Singapore · Collectibles)
+# PAAL SAAMBARAANI. with CHARCOAL 20… — Product Close-Up (Singapore · Collectibles)
 **Weekly #1** · 🇸🇬 Singapore · Collectibles · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674989310181002503) by [@murugavelmuru18](https://www.tiktok.com/@murugavelmuru18). Format: **Product Close-Up** · 22s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Put the incense on the burning charcoal, white smoke rises”
+**Opening line (translated from the video):** “Put the incense on the burning charcoal, white smoke rises”
 
 **Key visuals:** Brass Oil Lamp · Ganesha Statue · Marigold Garland · Charcoal Block · Incense Powder · Glass Jar · Wooden Pillar
 
@@ -128,4 +127,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-collectibles-002503](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-collectibles-002503?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-collectibles-002503)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-collectibles-002503](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-collectibles-002503?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-collectibles-002503)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

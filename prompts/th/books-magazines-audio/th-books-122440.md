@@ -1,6 +1,6 @@
 ---
 id: th-books-122440
-title: "สวดมนต์แปล สาธยายธรรมนำสุข — Brand TVC (Thailand · Books, Magazines & Audio)"
+title: "สวดมนต์แปล สาธยายธรรมนำสุข (แพ็ก 1… — Brand TVC (Thailand · Books, Magazines & Audio)"
 market: th
 category: books-magazines-audio
 video_type: brand-tvc
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7629285928611122440
 creator: "@yodyaimshop"
 published: 2026-04-16
 ---
-# สวดมนต์แปล สาธยายธรรมนำสุข — Brand TVC (Thailand · Books, Magazines & Audio)
+# สวดมนต์แปล สาธยายธรรมนำสุข (แพ็ก 1… — Brand TVC (Thailand · Books, Magazines & Audio)
 **Weekly #1** · 🇹🇭 Thailand · Books, Magazines & Audio · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7629285928611122440) by [@yodyaimshop](https://www.tiktok.com/@yodyaimshop). Format: **Brand TVC** · 82s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A Southeast Asian man sits in black water up to his legs on a dark swamp surface, splashing black mud around him”
+**Opening beat:** “A Southeast Asian man sits in black water up to his legs on a dark swamp surface, splashing black mud around him”
 
 **Key visuals:** Dark Swamp Water · Golden Rune · Black Mud · Buddha Phantom · Golden Light · Floating Holy Land · Ancient Dagger
 
@@ -150,4 +149,4 @@ Shot 12:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-books-122440](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-books-122440?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-books-122440)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-books-122440](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-books-122440?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-books-122440)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio brand tvc"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

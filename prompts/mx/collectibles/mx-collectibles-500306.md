@@ -1,6 +1,6 @@
 ---
 id: mx-collectibles-500306
-title: "Marcadores Plumones Punta Marcador Acrílico — Real Review (Mexico · Collectibles)"
+title: "Marcadores Plumones Punta Marcador… — Real Review (Mexico · Collectibles)"
 market: mx
 category: collectibles
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7640643442963500306
 creator: "@erikashop27"
 published: 2026-05-16
 ---
-# Marcadores Plumones Punta Marcador Acrílico — Real Review (Mexico · Collectibles)
+# Marcadores Plumones Punta Marcador… — Real Review (Mexico · Collectibles)
 **Weekly #1** · 🇲🇽 Mexico · Collectibles · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7640643442963500306) by [@erikashop27](https://www.tiktok.com/@erikashop27). Format: **Real Review** · 15s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Today I bring you these acrylic markers, I'm not good at drawing but want to show how to use them”
+**Opening line (translated from the video):** “Today I bring you these acrylic markers, I'm not good at drawing but want to show how to use them”
 
 **Key visuals:** Spiral Notebook · Acrylic Marker · Hand · Green Sleeve · Heart Outline · Pink Ink
 
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-collectibles-500306](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-collectibles-500306?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-collectibles-500306)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-collectibles-500306](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-collectibles-500306?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-collectibles-500306)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

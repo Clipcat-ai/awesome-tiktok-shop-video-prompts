@@ -1,6 +1,6 @@
 ---
 id: br-beauty-147925
-title: "Kit Premium 3 em 1 — Handheld Demo (Brazil · Beauty & Personal Care)"
+title: "Kit Premium 3 em 1 | Escova Mágica… — Handheld Demo (Brazil · Beauty & Personal Care)"
 market: br
 category: beauty-personal-care
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675746813957147925
 creator: "@biobioroi"
 published: 2026-08-19
 ---
-# Kit Premium 3 em 1 — Handheld Demo (Brazil · Beauty & Personal Care)
+# Kit Premium 3 em 1 | Escova Mágica… — Handheld Demo (Brazil · Beauty & Personal Care)
 **Weekly #1** · 🇧🇷 Brazil · Beauty & Personal Care · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675746813957147925) by [@biobioroi](https://www.tiktok.com/@biobioroi). Format: **Handheld Demo** · 10s · hook: **Result First** · Hands only · Discount
-**Opening line (from the video):** “Show the opened wine-red hair care gift box with three hair care products”
+**Opening beat:** “Show the opened wine-red hair care gift box with three hair care products”
 
 **Pain point it attacks:** Hair is frizzy and needs care
 
@@ -92,4 +91,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-beauty-147925](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-beauty-147925?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-beauty-147925)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-beauty-147925](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-beauty-147925?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-beauty-147925)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

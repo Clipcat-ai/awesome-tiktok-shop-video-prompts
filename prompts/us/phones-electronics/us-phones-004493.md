@@ -1,6 +1,6 @@
 ---
 id: us-phones-004493
-title: "[BackToSchool] 4G Solar Powered Digital Security Camera with 4 — Talking Head (United States · Phones & Electronics)"
+title: "[BackToSchool] 4G Solar Powered… — Talking Head (United States · Phones & Electronics)"
 market: us
 category: phones-electronics
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671229145854004493
 creator: "@page.wylde"
 published: 2026-08-08
 ---
-# [BackToSchool] 4G Solar Powered Digital Security Camera with 4 — Talking Head (United States · Phones & Electronics)
+# [BackToSchool] 4G Solar Powered… — Talking Head (United States · Phones & Electronics)
 **Weekly #1** · 🇺🇸 United States · Phones & Electronics · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671229145854004493) by [@page.wylde](https://www.tiktok.com/@page.wylde). Format: **Talking Head** · 43s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “This property is under 24-7 surveillance”
+**Opening line (quoted from the video):** “This property is under 24-7 surveillance”
 
 **Pain point it attacks:** No Wi-Fi in remote areas to install security devices
 
@@ -160,4 +159,4 @@ Shot 12:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-phones-004493](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-phones-004493?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-phones-004493)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-phones-004493](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-phones-004493?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-phones-004493)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -19,9 +19,8 @@ published: 2026-08-16
 ---
 # Ezee BPA Free Idli Mould 8 pcs — Handheld Demo (Malaysia · Kitchenware)
 **Weekly #1** · 🇲🇾 Malaysia · Kitchenware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674601221285530887) by [@az.cahaya](https://www.tiktok.com/@az.cahaya). Format: **Handheld Demo** · 8s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Moms who love making idli themselves look here”
+**Opening line (quoted from the video):** “Moms who love making idli themselves look here”
 
 **Pain point it attacks:** Inconvenient to use molds when making idli
 
@@ -46,14 +45,12 @@ Shot 2:
   - Duration: 1.5sec - 5.0sec
   - Scene Type: Demonstrate cooking method
   - Scene: The picture fades in to switch to the scene next to the steamer, with curling steam rising from the food steamer. The character holds the two side handles of the green silicone Idli mould with both hands, carefully placing the mould full of rice batter steadily on the steaming rack inside the stainless steel steamer, then scoops in a little more rice batter with the spoon, smoothing the surface of the rice batter inside the mould. The steam drifts slowly across the frame, creating a strong cooking atmosphere.
-  - Subject: Mak-mak yang suka buat idli sendiri
-Look at this.
+  - Subject: Mak-mak yang suka buat idli sendiri Look at this.
 Shot 3:
   - Duration: 5.0sec - 9.0sec
   - Scene Type: Product design highlights
   - Scene: The picture switches to the dining table area where the finished products are placed. On a bamboo placemat lies a large plate of plump, white Idli steamed rice cakes, with four small bowls of different flavored special dipping sauces neatly arranged next to the rice cakes. The character holds the empty green silicone Idli mould with both hands, turning the back of the mould fully towards the camera to show it, while extending a finger to point at the grooves on the mould, clearly demonstrating the 8 circular groove design of the mould to the camera. The dining plate in front of her is filled with the finished white rice cakes and matching dipping sauces, making the visual of the frame rich and full.
   - Subject: Easy Idli Mool has 8 pieces.
-Thank you.
 [Background Sound]:
 - No background music, only a fast-paced, friendly Indonesian voiceover in a typical e-commerce product sales presentation style. The entire atmosphere focuses on product introduction, highlighting the selling point that the Easy Idli Mould 8 pcs makes idli easily
 [Transition / Editing]:
@@ -78,14 +75,12 @@ Shot 2:
   - 时长: 1.5sec - 5.0sec
   - 镜头类型: 演示烹饪方法
   - 画面: 画面淡入切换至蒸锅旁的场景，蒸笼中升腾起袅袅热气，人物双手握住绿色硅胶Idli模具的两侧把手，小心翼翼地将装满米浆的模具平稳放置到不锈钢蒸锅里的蒸格上，随后再用汤勺补充舀入少许米浆，将模具内的米浆表面整理平整，蒸汽在画面中缓缓飘散，营造出浓郁的烹饪氛围感。
-  - 口播: Mak-mak yang suka buat idli sendiri
-Look at this.
+  - 口播: Mak-mak yang suka buat idli sendiri Look at this.
 Shot 3:
   - 时长: 5.0sec - 9.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 画面切换至摆放着成品的餐桌区域，竹制餐垫上摆放着一大盘白白胖胖的Idli蒸米糕，米糕旁整齐摆放着四小碗不同风味的特色蘸酱，人物双手举着清空的绿色硅胶Idli模具，将模具背面完全朝向镜头展示，同时伸出手指指向模具上的凹槽位置，向镜头清晰展示模具的8个圆形凹槽设计，身前的餐盘里摆满制作完成的洁白米糕与搭配的蘸料，画面视觉丰盛饱满。
   - 口播: Easy Idli Mool has 8 pieces.
-Thank you.
 [Background Sound]:
 - 无背景音乐，仅包含语速轻快、语气亲切的印尼语人声讲解，属于典型的电商带货口播风格，整体氛围聚焦于产品介绍，强调Easy Idli Mould 8 pcs容易制作idli的卖点
 [Transition / Editing]:
@@ -94,4 +89,4 @@ Thank you.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-kitchenware-530887](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-kitchenware-530887?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-kitchenware-530887)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-kitchenware-530887](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-kitchenware-530887?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-kitchenware-530887)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

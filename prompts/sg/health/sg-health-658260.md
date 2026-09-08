@@ -1,6 +1,6 @@
 ---
 id: sg-health-658260
-title: "【Teddilab】【HALAL】Unichi Blue Gummy for Hair Boost — Promo Pitch (Singapore · Health)"
+title: "【Teddilab】【HALAL】Unichi Blue… — Promo Pitch (Singapore · Health)"
 market: sg
 category: health
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7631874292111658260
 creator: "@klim1520"
 published: 2026-04-23
 ---
-# 【Teddilab】【HALAL】Unichi Blue Gummy for Hair Boost — Promo Pitch (Singapore · Health)
+# 【Teddilab】【HALAL】Unichi Blue… — Promo Pitch (Singapore · Health)
 **Weekly #1** · 🇸🇬 Singapore · Health · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7631874292111658260) by [@klim1520](https://www.tiktok.com/@klim1520). Format: **Promo Pitch** · 7s · hook: **Urgency** · Hands only · Discount
-**Opening line (from the video):** “If you bought this product earlier at full price, I honestly feel bad for you”
+**Opening line (quoted from the video):** “If you bought this product earlier at full price, I honestly feel bad for you”
 
 **Pain point it attacks:** Paid high price for health supplements before
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-health-658260](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-health-658260?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-health-658260)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-health-658260](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-health-658260?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-health-658260)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

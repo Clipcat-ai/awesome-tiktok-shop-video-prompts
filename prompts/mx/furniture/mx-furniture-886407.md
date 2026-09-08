@@ -1,6 +1,6 @@
 ---
 id: mx-furniture-886407
-title: "Silla Playera Portatil Plegable Para Exteriore Camping Pesca-S — Handheld Demo (Mexico · Furniture)"
+title: "Silla Playera Portatil Plegable… — Handheld Demo (Mexico · Furniture)"
 market: mx
 category: furniture
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676147653578886407
 creator: "@laushop18"
 published: 2026-08-20
 ---
-# Silla Playera Portatil Plegable Para Exteriore Camping Pesca-S — Handheld Demo (Mexico · Furniture)
+# Silla Playera Portatil Plegable… — Handheld Demo (Mexico · Furniture)
 **Weekly #1** · 🇲🇽 Mexico · Furniture · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676147653578886407) by [@laushop18](https://www.tiktok.com/@laushop18). Format: **Handheld Demo** · 20s · hook: **POV Scenario** · No one on camera · Discount
-**Opening line (from the video):** “Hey girls, I'm here to show you this beautiful chair”
+**Opening line (translated from the video):** “Hey girls, I'm here to show you this beautiful chair”
 
 **Key visuals:** Pink Folding Chair · Beach · Reef · Sea · Sunset · Insulated Cooler · Metal Bracket
 
@@ -52,7 +51,7 @@ Shot 3:
   - Subject: Es muy resistente, aparte que trae su portavasos y funda... para que la puedas transportar
 Shot 4:
   - Duration: 12.0sec - 19.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The camera uses a fixed full shot perspective to frame the bright pink folding chair, the chair is stably placed on the beach, the background is always layered reefs and the rippling sea surface. The purchase guide icon in the lower left corner of the frame is continuously displayed, allowing the audience to fully see the overall effect of the product in the seaside usage scenario, fully conveying the feature that the product is suitable for outdoor beach leisure.
   - Subject: Hay disponible en tres colores diferentes, rosa negra. Libro y azul. Y lo mejor es que está a un super precio, así que aprovecha y pide la clave.
 Shot 5:
@@ -92,7 +91,7 @@ Shot 3:
   - 口播: Es muy resistente, aparte que trae su portavasos y funda... para que la puedas transportar
 Shot 4:
   - 时长: 12.0sec - 19.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头以固定全景视角定格亮粉色折叠椅，椅子稳稳安放在沙滩上，背景始终是层叠礁石与泛着波纹的海面，画面左下角的购买引导标识持续显示，让观众完整看清产品置于海边使用场景中的整体效果，充分传递产品适合户外海滩休闲的特点。
   - 口播: Hay disponible en tres colores diferentes, rosa negra. Libro y azul. Y lo mejor es que está a un super precio, así que aprovecha y pide la clave.
 Shot 5:
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-furniture-886407](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-furniture-886407?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-furniture-886407)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-furniture-886407](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-furniture-886407?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-furniture-886407)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: br-automotive-192404
-title: "Central Multimídia MP5 2 DIN 7 Polegadas USB/AUX/TF Com Mirror — Promo Pitch (Brazil · Automotive & Motorcycle)"
+title: "Central Multimídia MP5 2 DIN 7… — Promo Pitch (Brazil · Automotive & Motorcycle)"
 market: br
 category: automotive-motorcycle
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7681046095174192404
 creator: "@luana.santos.only"
 published: 2026-09-02
 ---
-# Central Multimídia MP5 2 DIN 7 Polegadas USB/AUX/TF Com Mirror — Promo Pitch (Brazil · Automotive & Motorcycle)
+# Central Multimídia MP5 2 DIN 7… — Promo Pitch (Brazil · Automotive & Motorcycle)
 **Weekly #1** · 🇧🇷 Brazil · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7681046095174192404) by [@luana.santos.only](https://www.tiktok.com/@luana.santos.only). Format: **Promo Pitch** · 23s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “Who bought yesterday will cry, this multimedia central used to cost over 250 reais but I got it”
+**Opening line (translated from the video):** “Who bought yesterday will cry, this multimedia central used to cost over 250 reais but I got it”
 
 **Pain point it attacks:** Car multimedia central is expensive and hard to fit car models
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-automotive-192404](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-automotive-192404?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-automotive-192404)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-automotive-192404](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-automotive-192404?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-automotive-192404)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

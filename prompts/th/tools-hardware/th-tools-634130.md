@@ -1,6 +1,6 @@
 ---
 id: th-tools-634130
-title: "รุ่นประหยัด ชุด ข้อต่อ สายน้ำทิ้ง ถังแช่ ถังน้ำแข็ง พร้อมวาล์ว — Real Review (Thailand · Tools & Hardware)"
+title: "รุ่นประหยัด ชุด ข้อต่อ สายน้ำทิ้ง… — Real Review (Thailand · Tools & Hardware)"
 market: th
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7562851184000634130
 creator: "@2.5.3.coffee.hous"
 published: 2025-10-19
 ---
-# รุ่นประหยัด ชุด ข้อต่อ สายน้ำทิ้ง ถังแช่ ถังน้ำแข็ง พร้อมวาล์ว — Real Review (Thailand · Tools & Hardware)
+# รุ่นประหยัด ชุด ข้อต่อ สายน้ำทิ้ง… — Real Review (Thailand · Tools & Hardware)
 **Weekly #1** · 🇹🇭 Thailand · Tools & Hardware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7562851184000634130) by [@2.5.3.coffee.hous](https://www.tiktok.com/@2.5.3.coffee.hous). Format: **Real Review** · 22s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Hands twist a plastic connector to install on a water storage bucket”
+**Opening line (translated from the video):** “Hands twist a plastic connector to install on a water storage bucket”
 
 **Key visuals:** Blue Water Bucket · Plastic Connector · Plastic Valve · Hose · Cement Step · Dirt Road · Dry Leaf · Old Tin Bucket
 
@@ -40,22 +39,16 @@ Shot 1:
   - Scene Type: Demonstrate ease of use
   - Scene: Close-up shot showing a hand aligning a blue right-angle plastic connector with the pre-drilled hole on the side wall of the blue water storage bucket. The fingers apply force to twist the connector to secure it in place. Then the hand holds the edge of the water storage bucket to adjust its position, repeatedly checking the installation firmness of the connector, and pulls the hand back after confirming the pipe fitting installation is complete. The old small iron bucket under the water storage bucket stays in the bottom right corner of the frame the entire time, fully recording the connection effect between the connector and the water storage bucket.
   - Subject: Đây là khuất cả tiền trái
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - Duration: 9.5sec - 19.5sec
   - Scene Type: Demonstrate ease of use
   - Scene: The camera moves to face the operator squatting next to the cement step, showing him aligning a blue plastic valve connector with a red switch handle to the opening of a blue flexible hose. Both hands work together to apply force and twist to tighten the connector, repeatedly confirming multiple times that the interface connection is tight and not loose. A dry brown fallen leaf is visible on the ground, and a small amount of water splatters on the ground during the operation.
-  - Subject: Họt đo lấy hả? Họt đo sẵn mạng anh
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Tổng ai sẽ đủ sợ bài đá
+  - Subject: Họt đo lấy hả? Họt đo sẵn mạng anh Tổng ai sẽ đủ sợ bài đá
 Shot 3:
   - Duration: 19.5sec - 22.5sec
   - Scene Type: Demonstrate ease of use
   - Scene: The camera moves to the low-angle position under the bottom of the water storage bucket, shooting upward at the fully assembled blue pipe fitting and flexible hose combination, clearly showing the smooth routing effect of the entire set of accessories after installation. The ground is wet and reflective, fully presenting the final usable state of this set of water outlet accessories.
-  - Subject: Cảm ơn các bạn đã theo dõi và hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Cảm ơn.
-Cảm ơn các bạn đã theo dõi.
+  - Subject: và Cảm ơn.
 [Background Sound]:
 - No background music at all; natural outdoor ambient sounds are retained throughout the whole video, paired with spoken explanatory narration. Midway through, the frictional sound of a hand twisting a plastic pipe fitting and the damp sound of water flowing onto the ground are interspersed.
 [Transition / Editing]:
@@ -76,22 +69,16 @@ Shot 1:
   - 镜头类型: 展示易用性
   - 画面: 特写展示一只手正在将蓝色直角塑料接头对准蓝色储水桶侧壁的预设孔位，手指发力拧动接头完成固定，随后手部扶着储水桶边缘调整位置，反复检查接头的安装牢固度，确认管件安装完成后收回手部。储水桶下方的旧铁皮小桶始终处于画面右下角位置，全程记录接头与储水桶的连接效果。
   - 口播: Đây là khuất cả tiền trái
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - 时长: 9.5sec - 19.5sec
   - 镜头类型: 展示易用性
   - 画面: 镜头移动后对准蹲在水泥台阶旁的操作者，展示他正将带有红色开关手柄的蓝色塑料阀门接头对准蓝色软管的管口，双手配合发力旋转拧紧接头，反复多次确认接口连接紧密无松动，地面上能看到一片干枯的褐色树叶，操作过程中地面上溅有少量水渍。
-  - 口播: Họt đo lấy hả? Họt đo sẵn mạng anh
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Tổng ai sẽ đủ sợ bài đá
+  - 口播: Họt đo lấy hả? Họt đo sẵn mạng anh Tổng ai sẽ đủ sợ bài đá
 Shot 3:
   - 时长: 19.5sec - 22.5sec
   - 镜头类型: 展示易用性
   - 画面: 镜头移动到储水桶底部下方的低角度位置，仰拍已经完整安装好的蓝色管件与软管组合，清晰展示整套配件安装完成后的流畅走线效果，地面湿润反光，完整呈现这套出水配件最终的使用状态。
-  - 口播: Cảm ơn các bạn đã theo dõi và hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Cảm ơn.
-Cảm ơn các bạn đã theo dõi.
+  - 口播: và Cảm ơn.
 [Background Sound]:
 - 没有背景音乐，全程保留户外自然环境音，搭配口语讲解声，中途穿插手拧动塑料管件的摩擦声响、水流接触地面的湿润声音。
 [Transition / Editing]:
@@ -100,4 +87,4 @@ Cảm ơn các bạn đã theo dõi.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-tools-634130](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-tools-634130?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-tools-634130)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-tools-634130](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-tools-634130?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-tools-634130)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

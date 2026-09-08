@@ -1,6 +1,6 @@
 ---
 id: th-beauty-278420
-title: "ลิปสติก Handaiyan 6 สี ผิวด้าน ไม่ซีดจาง ไม่ติดถ้วย เหมาะสำหรั — Talking Head (Thailand · Beauty & Personal Care)"
+title: "ลิปสติก Handaiyan 6 สี ผิวด้าน… — Talking Head (Thailand · Beauty & Personal Care)"
 market: th
 category: beauty-personal-care
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667590194182278420
 creator: "@catpunpro"
 published: 2026-07-28
 ---
-# ลิปสติก Handaiyan 6 สี ผิวด้าน ไม่ซีดจาง ไม่ติดถ้วย เหมาะสำหรั — Talking Head (Thailand · Beauty & Personal Care)
+# ลิปสติก Handaiyan 6 สี ผิวด้าน… — Talking Head (Thailand · Beauty & Personal Care)
 **Weekly #1** · 🇹🇭 Thailand · Beauty & Personal Care · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667590194182278420) by [@catpunpro](https://www.tiktok.com/@catpunpro). Format: **Talking Head** · 10s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Wow, this color is so beautiful, shade 05”
+**Opening line (translated from the video):** “Wow, this color is so beautiful, shade 05”
 
 **Key visuals:** Dressing Room · Vintage Mirror · Dry Flowers · Lipstick · Hand · Back of Hand · Lips
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-beauty-278420](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-beauty-278420?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-beauty-278420)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-beauty-278420](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-beauty-278420?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-beauty-278420)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

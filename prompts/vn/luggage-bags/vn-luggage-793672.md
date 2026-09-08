@@ -1,6 +1,6 @@
 ---
 id: vn-luggage-793672
-title: "Balo nam nữ SPORTBAG chống nước thời trang đi học — Handheld Demo (Vietnam · Luggage & Bags)"
+title: "Balo nam nữ SPORTBAG chống nước… — Handheld Demo (Vietnam · Luggage & Bags)"
 market: vn
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7641993127531793672
 creator: "@tintinshophcm"
 published: 2026-05-20
 ---
-# Balo nam nữ SPORTBAG chống nước thời trang đi học — Handheld Demo (Vietnam · Luggage & Bags)
+# Balo nam nữ SPORTBAG chống nước… — Handheld Demo (Vietnam · Luggage & Bags)
 **Weekly #1** · 🇻🇳 Vietnam · Luggage & Bags · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7641993127531793672) by [@tintinshophcm](https://www.tiktok.com/@tintinshophcm). Format: **Handheld Demo** · 16s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Guys who need a nice, durable and compact backpack don't miss this one”
+**Opening line (translated from the video):** “Guys who need a nice, durable and compact backpack don't miss this one”
 
 **Pain point it attacks:** No specific pain point mentioned
 
@@ -46,23 +45,20 @@ Shot 2:
   - Duration: 4.0sec - 5.5sec
   - Scene Type: Product versatility demonstration
   - Scene: The camera cuts to a close-up of the backpack's front pocket being opened. The young man pulls open the front pocket zipper of the backpack with both hands, revealing a laptop and several thin books placed inside the pocket. Then the young man brings the backpack back to his side, and points to the text 'SPORTBAG' printed on the front of the backpack.
-  - Subject: thì đừng bỏ qua mẫu này nhé.  Thiết kế trẻ trung đứng cực sang, đựng vừa lắp,
+  - Subject: thì đừng bỏ qua mẫu này nhé. Thiết kế trẻ trung đứng cực sang, đựng vừa lắp,
 Shot 3:
   - Duration: 5.5sec - 8.0sec
   - Scene Type: Product usage scenario demonstration
   - Scene: The young man holds the top handle of the backpack with one hand, fully opening the main compartment of the backpack towards the camera to clearly show the large-capacity space inside the main compartment, where a laptop, multiple books, and folded clothing are neatly placed, intuitively demonstrating the backpack's loading capacity.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - Duration: 8.0sec - 12.5sec
   - Scene Type: Ease of use demonstration
   - Scene: The camera returns to a medium shot of the young man. He sequentially pulls open the two layers of zippers on the top of the backpack with both hands to demonstrate the smooth sliding feel of the zippers, then zips them back closed. He gently brushes the palm of his hand over the surface of the backpack fabric to show the thick, sturdy texture of the material.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 5:
   - Duration: 12.5sec - 16.0sec
   - Scene Type: Order process guidance
   - Scene: The young man turns the backpack sideways to the camera, points to the side pocket of the backpack, and looks at the camera with a bright, cheerful smile. Finally, the young man gently holds the backpack and adjusts his demonstration posture.
-  - Subject: Bạn bấm vào liên kết sản phẩm ở góc dưới bên trái để xem thêm nhé
-Ngay kéo hết
+  - Subject: Bạn bấm vào liên kết sản phẩm ở góc dưới bên trái để xem thêm nhé Ngay kéo hết
 [Background Sound]:
 - No background music throughout, this is a pure live human voice sales presentation format with no background sound effects or musical accompaniment, only the host's explanatory voice is retained. The pace is tight and the speaking speed is fast, making the audience's attention fully focused on the product description and promotional information.
 [Transition / Editing]:
@@ -87,23 +83,20 @@ Shot 2:
   - 时长: 4.0sec - 5.5sec
   - 镜头类型: 产品多功能性
   - 画面: 镜头切换到背包前袋的打开特写，男生双手拉开背包正面的前袋拉链，可以看到袋内放置着笔记本电脑与几本薄本书籍，随后男生将背包收回身侧，用手指向背包正面印有的“SPORTBAG”字样。
-  - 口播: thì đừng bỏ qua mẫu này nhé.  Thiết kế trẻ trung đứng cực sang, đựng vừa lắp,
+  - 口播: thì đừng bỏ qua mẫu này nhé. Thiết kế trẻ trung đứng cực sang, đựng vừa lắp,
 Shot 3:
   - 时长: 5.5sec - 8.0sec
   - 镜头类型: 产品使用场景
   - 画面: 男生单手拎住背包顶部的手提带，将背包主舱完全打开面向镜头，清晰展示主舱内的大容量空间，里面妥善放置着笔记本电脑、多本书籍以及折叠好的衣物，直观呈现背包的装载能力。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - 时长: 8.0sec - 12.5sec
   - 镜头类型: 展示易用性
   - 画面: 镜头回到男生的中景画面，男生用双手依次拉开背包顶部的两层拉链，展示拉链的顺滑使用感，随后将拉链拉合复位，手掌轻轻拂过背包的面料表面，展示面料的厚实质感。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 5:
   - 时长: 12.5sec - 16.0sec
   - 镜头类型: 下单流程指引
   - 画面: 男生将背包侧对镜头，手指指向背包的侧袋位置，面带灿烂的笑容看向镜头，最后男生轻轻扶住背包，调整展示姿态。
-  - 口播: Bạn bấm vào liên kết sản phẩm ở góc dưới bên trái để xem thêm nhé
-Ngay kéo hết
+  - 口播: Bạn bấm vào liên kết sản phẩm ở góc dưới bên trái để xem thêm nhé Ngay kéo hết
 [Background Sound]:
 - 全程无背景音乐，为纯人声口播带货形式，无背景音效或音乐衬托，仅保留主播的讲解声音，节奏紧凑、语速较快，让观众注意力完全集中在产品描述和促销信息上。
 [Transition / Editing]:
@@ -112,4 +105,4 @@ Ngay kéo hết
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-luggage-793672](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-luggage-793672?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-luggage-793672)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-luggage-793672](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-luggage-793672?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-luggage-793672)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

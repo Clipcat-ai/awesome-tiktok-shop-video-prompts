@@ -1,6 +1,6 @@
 ---
 id: jp-textiles-456520
-title: "4/6-Piece Natural Art Floral Print Chair Covers — Handheld Demo (Japan · Textiles & Soft Furnishings)"
+title: "4/6-Piece Natural Art Floral Print… — Handheld Demo (Japan · Textiles & Soft Furnishings)"
 market: jp
 category: textiles-soft-furnishings
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667845739103456520
 creator: "@sofaskinz6"
 published: 2026-07-29
 ---
-# 4/6-Piece Natural Art Floral Print Chair Covers — Handheld Demo (Japan · Textiles & Soft Furnishings)
+# 4/6-Piece Natural Art Floral Print… — Handheld Demo (Japan · Textiles & Soft Furnishings)
 **Weekly #1** · 🇯🇵 Japan · Textiles & Soft Furnishings · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667845739103456520) by [@sofaskinz6](https://www.tiktok.com/@sofaskinz6). Format: **Handheld Demo** · 17s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Kids always mess up the chairs”
+**Opening line (translated from the video):** “Kids always mess up the chairs”
 
 **Pain point it attacks:** Kids mess up dining chairs, need to protect them
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-textiles-456520](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-textiles-456520?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-textiles-456520)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-textiles-456520](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-textiles-456520?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-textiles-456520)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

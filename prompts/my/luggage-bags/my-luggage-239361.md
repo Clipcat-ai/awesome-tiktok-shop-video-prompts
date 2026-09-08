@@ -1,6 +1,6 @@
 ---
 id: my-luggage-239361
-title: "NUNU Cloth Gyoza Bag - Unisex Women Men Fashion Crossbody Half — Handheld Demo (Malaysia · Luggage & Bags)"
+title: "NUNU Cloth Gyoza Bag - Unisex… — Handheld Demo (Malaysia · Luggage & Bags)"
 market: my
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7659983838168239361
 creator: "@lokman.jaafar"
 published: 2026-07-08
 ---
-# NUNU Cloth Gyoza Bag - Unisex Women Men Fashion Crossbody Half — Handheld Demo (Malaysia · Luggage & Bags)
+# NUNU Cloth Gyoza Bag - Unisex… — Handheld Demo (Malaysia · Luggage & Bags)
 **Weekly #1** · 🇲🇾 Malaysia · Luggage & Bags · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7659983838168239361) by [@lokman.jaafar](https://www.tiktok.com/@lokman.jaafar). Format: **Handheld Demo** · 10s · hook: **Curiosity Gap** · Hands only · No promo
-**Opening line (from the video):** “This NUNU crossbody bag looks small...”
+**Opening line (translated from the video):** “This NUNU crossbody bag looks small...”
 
 **Pain point it attacks:** Worried small bags can't hold many items
 
@@ -61,7 +60,7 @@ Shot 5:
   - Duration: 7.5sec - 10.0sec
   - Scene Type: Product design highlights
   - Scene: A hand holds the side of the closed black crossbody bag, slowly rotating the bag to sequentially show the brand woven label on the side of the bag, the adjustable shoulder strap, and the embossed brand logo on the front of the bag.
-  - Subject: Memang puas hati gila.  Senang bawa pergi kerja atau jalan-jalan. Korang tengok kat bawah.
+  - Subject: Memang puas hati gila. Senang bawa pergi kerja atau jalan-jalan. Korang tengok kat bawah.
 [Background Sound]:
 - No background music, only pure colloquial Malay spoken voice for product recommendation, with a fast speaking pace, lively and casual tone, and an overall relaxed atmosphere that fits the vibe of sharing great finds.
 [Transition / Editing]:
@@ -101,7 +100,7 @@ Shot 5:
   - 时长: 7.5sec - 10.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 手握着闭合好的黑色斜挎包侧边，缓慢转动包包，依次展示包身侧面的品牌织标、可调节肩带以及包身正面的压印品牌logo。
-  - 口播: Memang puas hati gila.  Senang bawa pergi kerja atau jalan-jalan. Korang tengok kat bawah.
+  - 口播: Memang puas hati gila. Senang bawa pergi kerja atau jalan-jalan. Korang tengok kat bawah.
 [Background Sound]:
 - 无背景音乐，为纯马来语口语化种草人声，语速较快、语气活泼生活化，整体氛围轻松贴合好物分享种草属性。
 [Transition / Editing]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-luggage-239361](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-luggage-239361?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-luggage-239361)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-luggage-239361](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-luggage-239361?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-luggage-239361)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

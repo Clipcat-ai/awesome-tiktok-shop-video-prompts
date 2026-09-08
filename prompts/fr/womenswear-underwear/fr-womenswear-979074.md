@@ -1,6 +1,6 @@
 ---
 id: fr-womenswear-979074
-title: "Halara Women's High Waisted Straight Leg Work Trousers with Si — OOTD Showcase (France · Womenswear & Underwear)"
+title: "Halara Women's High Waisted… — OOTD Showcase (France · Womenswear & Underwear)"
 market: fr
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669560708450979074
 creator: "@kristine_walshe"
 published: 2026-08-02
 ---
-# Halara Women's High Waisted Straight Leg Work Trousers with Si — OOTD Showcase (France · Womenswear & Underwear)
+# Halara Women's High Waisted… — OOTD Showcase (France · Womenswear & Underwear)
 **Weekly #1** · 🇫🇷 France · Womenswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669560708450979074) by [@kristine_walshe](https://www.tiktok.com/@kristine_walshe). Format: **OOTD Showcase** · 9s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Never been so comfy at work before”
+**Opening beat:** “Never been so comfy at work before”
 
 **Pain point it attacks:** Workwear seeks balance of comfort and beauty
 
@@ -92,4 +91,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-womenswear-979074](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-womenswear-979074?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-womenswear-979074)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-womenswear-979074](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-womenswear-979074?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-womenswear-979074)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

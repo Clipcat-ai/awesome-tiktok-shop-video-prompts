@@ -1,6 +1,6 @@
 ---
 id: id-kitchenware-658772
-title: "Kertas Alas Air Fryer Anti Lengket — Handheld Demo (Indonesia · Kitchenware)"
+title: "Kertas Alas Air Fryer Anti Lengket… — Handheld Demo (Indonesia · Kitchenware)"
 market: id
 category: kitchenware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7650079892167658772
 creator: "@hua0743"
 published: 2026-06-11
 ---
-# Kertas Alas Air Fryer Anti Lengket — Handheld Demo (Indonesia · Kitchenware)
+# Kertas Alas Air Fryer Anti Lengket… — Handheld Demo (Indonesia · Kitchenware)
 **Weekly #1** · 🇮🇩 Indonesia · Kitchenware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7650079892167658772) by [@hua0743](https://www.tiktok.com/@hua0743). Format: **Handheld Demo** · 10s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “200 pieces!”
+**Opening line (translated from the video):** “200 pieces!”
 
 **Pain point it attacks:** Air fryer is hard to clean and gets oily easily
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-kitchenware-658772](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-kitchenware-658772?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-kitchenware-658772)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-kitchenware-658772](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-kitchenware-658772?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-kitchenware-658772)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

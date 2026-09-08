@@ -1,6 +1,6 @@
 ---
 id: jp-collectibles-610004
-title: "Blooming 絞り出しおもちゃ 手作りDIY 食品グレードシリコーンおもちゃゆっくりとした反動でストレス解消になるおもち — Handheld Demo (Japan · Collectibles)"
+title: "Blooming 絞り出しおもちゃ… — Handheld Demo (Japan · Collectibles)"
 market: jp
 category: collectibles
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7620787073137610004
 creator: "@pome_tororo"
 published: 2026-03-24
 ---
-# Blooming 絞り出しおもちゃ 手作りDIY 食品グレードシリコーンおもちゃゆっくりとした反動でストレス解消になるおもち — Handheld Demo (Japan · Collectibles)
+# Blooming 絞り出しおもちゃ… — Handheld Demo (Japan · Collectibles)
 **Weekly #1** · 🇯🇵 Japan · Collectibles · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7620787073137610004) by [@pome_tororo](https://www.tiktok.com/@pome_tororo). Format: **Handheld Demo** · 56s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “This is the top squeeze toy I bought this year”
+**Opening line (quoted from the video):** “This is the top squeeze toy I bought this year”
 
 **Key visuals:** Squishy Toy · Transparent Plastic Bag · Mango Pattern · Cartoon Sticker · Light Beige Table · Hand
 
@@ -52,7 +51,7 @@ Shot 3:
   - Subject: I'm so excited. It's one of the ones. This is really cool!
 Shot 4:
   - Duration: 24.5sec - 32.0sec
-  - Scene Type: Multi-style selection showcase (fashion category)
+  - Scene Type: Multi-style selection showcase
   - Scene: The hands pause the kneading motion, stay still briefly then continue to gently press the toy. A square image pops up in the center of the frame, displaying other squeeze toys from the same series in different flavor shapes such as strawberry and chocolate, to recommend and preview subsequent new products, with corresponding descriptive subtitles appearing at the bottom of the frame at the same time.
   - Subject: I don't know if you like it, but Oh, no, it's a different one.
 Shot 5:
@@ -64,7 +63,7 @@ Shot 6:
   - Duration: 38.5sec - 56.0sec
   - Scene Type: Creator's personal test experience
   - Scene: Two hands continuously change positions through the plastic bag, pressing and kneading the toy from different angles to fully demonstrate its excellent squishy soft texture. A cartoon girl sticker with expectant eyes and clasped hands pops up on the frame, conveying the strong recommendation vibe that hopes everyone gets to experience this toy. Finally, the hands hold the flattened, soft squeeze toy to end the shot, with corresponding descriptive subtitles appearing at the bottom of the frame at the same time.
-  - Subject: I'm not sure how to do this. I can't speak to the word. I'm going to go! I'm going to go to the next video. Thank you.
+  - Subject: I'm not sure how to do this. I can't speak to the word. I'm going to go! I'm going to go to the next video.
 [Background Sound]:
 - No music, no soundtrack or background music throughout the entire video; the content is driven entirely by the host's fast, enthusiastic, emotionally charged verbal delivery
 [Transition / Editing]:
@@ -97,7 +96,7 @@ Shot 3:
   - 口播: I'm so excited. It's one of the ones. This is really cool!
 Shot 4:
   - 时长: 24.5sec - 32.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 手部暂停揉捏动作，短暂停顿后继续轻轻按压玩具，画面中间弹出一张方形配图，图中展示了草莓、巧克力等其他不同口味造型的同款系列捏捏乐产品，为后续新品做推荐展示，画面底部同步出现对应介绍字幕。
   - 口播: I don't know if you like it, but Oh, no, it's a different one.
 Shot 5:
@@ -109,7 +108,7 @@ Shot 6:
   - 时长: 38.5sec - 56.0sec
   - 镜头类型: 博主亲测体验
   - 画面: 两只手隔着塑料袋不断变换姿势，从不同角度按压、揉搓玩具，充分展示玩具软乎乎的绝佳质感，画面中弹出一个眼含期待、双手合十的卡通女生贴纸，传递出强烈安利希望大家都体验这款玩具的情绪，最后手部托住平整绵软的捏捏乐收尾，画面底部同步出现对应介绍字幕。
-  - 口播: I'm not sure how to do this. I can't speak to the word. I'm going to go! I'm going to go to the next video. Thank you.
+  - 口播: I'm not sure how to do this. I can't speak to the word. I'm going to go! I'm going to go to the next video.
 [Background Sound]:
 - 无，全程无配乐或背景音乐，仅以主播快速、热情、带情绪的口头表达推进内容
 [Transition / Editing]:
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-collectibles-610004](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-collectibles-610004?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-collectibles-610004)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-collectibles-610004](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-collectibles-610004?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-collectibles-610004)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

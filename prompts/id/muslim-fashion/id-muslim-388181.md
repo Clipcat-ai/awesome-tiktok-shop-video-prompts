@@ -1,6 +1,6 @@
 ---
 id: id-muslim-388181
-title: "Hijab Segi empat Voal Motif Lasercut Series Wardan — Talking Head (Indonesia · Muslim Fashion)"
+title: "Hijab Segi empat Voal Motif… — Talking Head (Indonesia · Muslim Fashion)"
 market: id
 category: muslim-fashion
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7656422540587388181
 creator: "@jihancollection24"
 published: 2026-06-28
 ---
-# Hijab Segi empat Voal Motif Lasercut Series Wardan — Talking Head (Indonesia · Muslim Fashion)
+# Hijab Segi empat Voal Motif… — Talking Head (Indonesia · Muslim Fashion)
 **Weekly #1** · 🇮🇩 Indonesia · Muslim Fashion · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7656422540587388181) by [@jihancollection24](https://www.tiktok.com/@jihancollection24). Format: **Talking Head** · 26s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “This is really my favorite hijab, the price is just right, super comfortable”
+**Opening line (translated from the video):** “This is really my favorite hijab, the price is just right, super comfortable”
 
 **Pain point it attacks:** Hijab is easy to wrinkle and uncomfortable to wear
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-muslim-388181](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-muslim-388181?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-muslim-388181)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-muslim-388181](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-muslim-388181?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-muslim-388181)
-🤖 **Driving an AI agent?** `clipcat prompt search "Muslim Fashion"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Muslim Fashion talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

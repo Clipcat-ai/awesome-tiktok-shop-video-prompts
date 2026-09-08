@@ -1,6 +1,6 @@
 ---
 id: vn-beauty-260948
-title: "Sữa rửa mặt Hyaluronic Acid 60g 30g với thành phần Amino Acid — Promo Pitch (Vietnam · Beauty & Personal Care)"
+title: "Sữa rửa mặt Hyaluronic Acid 60g… — Promo Pitch (Vietnam · Beauty & Personal Care)"
 market: vn
 category: beauty-personal-care
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7661104046031260948
 creator: "@hyudadung0704"
 published: 2026-07-11
 ---
-# Sữa rửa mặt Hyaluronic Acid 60g 30g với thành phần Amino Acid — Promo Pitch (Vietnam · Beauty & Personal Care)
+# Sữa rửa mặt Hyaluronic Acid 60g… — Promo Pitch (Vietnam · Beauty & Personal Care)
 **Weekly #1** · 🇻🇳 Vietnam · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7661104046031260948) by [@hyudadung0704](https://www.tiktok.com/@hyudadung0704). Format: **Promo Pitch** · 21s · hook: **Skit Conflict** · Multiple people · No promo
-**Opening line (from the video):** “If I won 10k, I would ask mom for 3 branches to buy that great facial cleanser”
+**Opening line (translated from the video):** “If I won 10k, I would ask mom for 3 branches to buy that great facial cleanser”
 
 **Key visuals:** Graduation Gown · Bachelor Cap · Microphone · Facial Cleanser · Great Wall · Colorful Bubbles · Small Wooden Table
 
@@ -44,7 +43,6 @@ Shot 2:
   - Duration: 7.5sec - 21.0sec
   - Scene Type: High-impact promotion of product selling points
   - Scene: The scene switches to the stone walkway of the Great Wall. The 22-25 year old selling host squats on the ground, wearing a off-white stand-collar top with black bottoms and a traditional Vietnamese conical hat, holding a facial cleanser towards the camera with both hands. The ancient Great Wall and beacon towers behind her are clearly in view. Several identical facial cleansers are neatly arranged on the small wooden table at her feet, and colorful transparent bubbles continuously drift through the air. The host introduces the product to the camera with full enthusiasm the entire time, naturally moving and displaying the facial cleanser in her hands, always wearing a highly infectious smile on her face.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn. Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn. Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn. Cảm ơn các bạn đã theo dõi. Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
 - Extremely upbeat TikTok-style background music with a fast tempo, strong drum beats, and relatively high volume, featuring electronic synthesizers and vocal samples. It is a typical e-commerce promotional carnival BGM, perfectly suited for flash sales and conversion-focused live selling scenarios, effectively amplifying the lively promotional atmosphere and stimulating viewers' impulse to place orders.
 [Transition / Editing]:
@@ -69,7 +67,6 @@ Shot 2:
   - 时长: 7.5sec - 21.0sec
   - 镜头类型: 促销卖点强推
   - 画面: 场景切换至长城的石板步道上，22-25岁的带货主播蹲在地上，身着米白色立领上衣搭配黑色下装，头戴越南传统斗笠，双手捧着一支洗面奶朝向镜头，身后的古老长城与烽火台清晰映入眼帘。脚边的小木桌上整齐摆放着多支同款洗面奶，空气中不断飘过彩色的透明泡泡。主播全程激情满满地对着镜头介绍产品，手部动作自然地摆弄展示手中的洗面奶，脸上始终挂着极具感染力的笑容。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn. Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn. Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn. Cảm ơn các bạn đã theo dõi. Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏明快、鼓点强烈、音量较高，带有电子合成器和人声采样，属于典型的电商促销狂欢类BGM，适配限时抢购、带货转化场景，能有效烘托热烈的促销氛围，激发观众的下单冲动。
 [Transition / Editing]:
@@ -78,4 +75,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-beauty-260948](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-beauty-260948?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-beauty-260948)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-beauty-260948](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-beauty-260948?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-beauty-260948)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

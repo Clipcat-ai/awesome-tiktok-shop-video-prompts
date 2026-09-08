@@ -1,6 +1,6 @@
 ---
 id: id-shoes-490888
-title: "Hilo's  Sandal Selop Tali Silang Wanita Simpel Terbaru  size 3 — Handheld Demo (Indonesia · Shoes)"
+title: "Hilo's Sandal Selop Tali Silang… — Handheld Demo (Indonesia · Shoes)"
 market: id
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675602423758490888
 creator: "@debinuryl"
 published: 2026-08-19
 ---
-# Hilo's  Sandal Selop Tali Silang Wanita Simpel Terbaru  size 3 — Handheld Demo (Indonesia · Shoes)
+# Hilo's Sandal Selop Tali Silang… — Handheld Demo (Indonesia · Shoes)
 **Weekly #1** · 🇮🇩 Indonesia · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675602423758490888) by [@debinuryl](https://www.tiktok.com/@debinuryl). Format: **Handheld Demo** · 9s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Show hands holding slippers and feet wearing slippers against a tea garden background”
+**Opening beat:** “Show hands holding slippers and feet wearing slippers against a tea garden background”
 
 **Key visuals:** Alpine Tea Garden · Brown Slipper · Cross Strap · Anti-slip Sole · Square Decorative Label · Light-colored Manicure · Slim Calf
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-shoes-490888](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-shoes-490888?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-shoes-490888)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-shoes-490888](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-shoes-490888?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-shoes-490888)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

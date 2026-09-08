@@ -1,6 +1,6 @@
 ---
 id: us-collectibles-704286
-title: "Unisex #23 James Philadelphia Basketball Jersey – Black Icon E — OOTD Showcase (United States · Collectibles)"
+title: "Unisex #23 James Philadelphia… — OOTD Showcase (United States · Collectibles)"
 market: us
 category: collectibles
 video_type: ootd
@@ -17,9 +17,8 @@ source: https://www.tiktok.com/share/video/7679785874040704286
 creator: "@therussianbadgerr"
 published: 2026-08-30
 ---
-# Unisex #23 James Philadelphia Basketball Jersey – Black Icon E — OOTD Showcase (United States · Collectibles)
+# Unisex #23 James Philadelphia… — OOTD Showcase (United States · Collectibles)
 **Weekly #1** · 🇺🇸 United States · Collectibles · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679785874040704286) by [@therussianbadgerr](https://www.tiktok.com/@therussianbadgerr). Format: **OOTD Showcase** · 10s · hook: **POV Scenario** · Multiple people · No promo
 **Key visuals:** Basketball Jersey · Graffiti Wall · Street Sign · Basketball Hoop · Cement Court · Brick Building
 
@@ -53,12 +52,10 @@ Shot 5:
   - Duration: 6.5sec - 8.5sec
   - Scene Type: OOTD outfit showcase
   - Scene: The two men turn outwards simultaneously, the White man who was facing away from the camera turns to face forward, the Black man who was facing the camera directly turns to the side, the front sides of both of their jerseys face the camera at the same time to be displayed, their movements are synchronized and crisp, the wide shot camera translates slightly following their turning motion, keeping the characters always in the center of the frame.
-  - Subject: Yeah, yeah, yeah.
 Shot 6:
   - Duration: 8.5sec - 10.0sec
   - Scene Type: OOTD outfit showcase
   - Scene: The two return to the side-by-side standing position, the Black man faces the camera directly, the White man turns sideways to face half away from the camera, while the White man looks back towards the camera, the basketball hoop in the background comes clearly into the frame, fully displaying the final full-body look of both men in the jerseys, the fixed wide shot stays stable and freezes on the complete trendy athletic look of the two.
-  - Subject: Okay.
 [Background Sound]:
 - Upbeat EDM-style TikTok background music, fast tempo around 120-140 BPM, relatively high volume, with heavy drum beats and synthesizer melodies, tailored for promoting trendy youth apparel, overall dynamic and energetic.
 [Transition / Editing]:
@@ -94,12 +91,10 @@ Shot 5:
   - 时长: 6.5sec - 8.5sec
   - 镜头类型: OOTD穿搭展示
   - 画面: 两位男性同步向外侧转身，原本背对镜头的白人男性转至正面方向，原本正对镜头的黑人男性转至侧面方向，两人的球衣正面同时朝向镜头展示，动作同步利落，全景机位跟随两人转身动作小幅平移，保持人物始终处于画面中心。
-  - 口播: Yeah, yeah, yeah.
 Shot 6:
   - 时长: 8.5sec - 10.0sec
   - 镜头类型: OOTD穿搭展示
   - 画面: 两人回到并肩站位，黑人男性正面对准镜头，白人男性侧身后半背对镜头，同时白人男性回头看向镜头方向，背景中篮球架清晰入镜，完整展示两人穿球衣的全身最终造型，固定全景机位画面稳定定格在两人的完整潮流运动造型上。
-  - 口播: Okay.
 [Background Sound]:
 - 欢快的电子舞曲风格TikTok背景音乐，节奏约120-140 BPM快节奏，音量较大，带有强烈鼓点和合成器旋律，适配年轻化潮流服饰推广，整体动感有活力。
 [Transition / Editing]:
@@ -108,4 +103,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-collectibles-704286](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-collectibles-704286?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-collectibles-704286)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-collectibles-704286](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-collectibles-704286?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-collectibles-704286)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

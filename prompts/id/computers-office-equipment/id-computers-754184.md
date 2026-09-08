@@ -1,6 +1,6 @@
 ---
 id: id-computers-754184
-title: "FIVEVOO PENGHAPUS PENSIL MEKANIK/ MECHANICAL ERASER — Handheld Demo (Indonesia · Computers & Office Equipment)"
+title: "FIVEVOO PENGHAPUS PENSIL MEKANIK… — Handheld Demo (Indonesia · Computers & Office Equipment)"
 market: id
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671139199436754184
 creator: "@spilprodukmurah.2025"
 published: 2026-08-07
 ---
-# FIVEVOO PENGHAPUS PENSIL MEKANIK/ MECHANICAL ERASER — Handheld Demo (Indonesia · Computers & Office Equipment)
+# FIVEVOO PENGHAPUS PENSIL MEKANIK… — Handheld Demo (Indonesia · Computers & Office Equipment)
 **Weekly #1** · 🇮🇩 Indonesia · Computers & Office Equipment · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671139199436754184) by [@spilprodukmurah.2025](https://www.tiktok.com/@spilprodukmurah.2025). Format: **Handheld Demo** · 19s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “If your kid's eraser often gets lost”
+**Opening line (translated from the video):** “If your kid's eraser often gets lost”
 
 **Pain point it attacks:** Kids' erasers often get lost
 
@@ -39,7 +38,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 1.0sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The fair hands of an Asian woman hold four cartoon mechanical erasers in different color schemes, gently turning her hands to fully display the four macaron-colored mechanical erasers printed with cartoon patterns of a little girl, a little white rabbit, an astronaut, and a frog in front of the camera, against a background of a neat, bright study desk with soft lighting.
   - Subject: Kalau penghapus si kecil sering hilang,
 Shot 2:
@@ -64,7 +63,7 @@ Shot 5:
   - Subject: Ditambah motifnya luku-luku yang bikin anak makin semangat belajar. Yo Tambahkan ke koleksi alat tulisnya sekarang juga, sebelum kehabisan.
 Shot 6:
   - Duration: 17.0sec - 19.5sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The hand gently holds the four erasers and adjusts the holding angle to freeze the most neat and beautiful state of the products in the frame. The overall picture is clean and bright, fully presenting the visual effect of the full set of products, with the front cartoon patterns of all products facing the camera completely.
 [Background Sound]:
 - Very upbeat TikTok-style background music with a light, lively rhythm, moderately high volume, and electronic pop elements. The melody is memorable with a repeating chorus, belonging to popular BGM categories like Kawaii Pop or Study Vibe. It is tailored for children's stationery/school supplies marketing videos, creating a relaxed, cute, energetic shopping atmosphere that complements the selling points of 'cute design + essential for students' to boost viewers' purchasing impulse.
@@ -83,7 +82,7 @@ Shot 6:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 1.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 亚洲女性的白皙手部握着四支不同配色的卡通机械橡皮擦，手部微微转动，将印有小女孩、小白兔、宇航员、青蛙卡通图案的四支马卡龙色系机械橡皮擦完整展示在镜头前，背景是整洁明亮的学习桌面，光线柔和。
   - 口播: Kalau penghapus si kecil sering hilang,
 Shot 2:
@@ -108,7 +107,7 @@ Shot 5:
   - 口播: Ditambah motifnya luku-luku yang bikin anak makin semangat belajar. Yo Tambahkan ke koleksi alat tulisnya sekarang juga, sebelum kehabisan.
 Shot 6:
   - 时长: 17.0sec - 19.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 手部轻握四款橡皮擦调整握持角度，将产品最整齐美观的状态定格在画面中，画面整体干净明亮，完整呈现全套产品的视觉效果，所有产品的正面卡通图案完整朝向镜头。
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子流行元素，旋律具有记忆点和重复副歌，属于Kawaii Pop或Study Vibe类热门BGM，适配儿童文具/学习用品类带货视频，营造轻松、可爱、充满活力的购物氛围，配合“萌系设计+学生党刚需”卖点，增强观众购买冲动。
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-computers-754184](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-computers-754184?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-computers-754184)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-computers-754184](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-computers-754184?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-computers-754184)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: ph-phones-588167
-title: "Quad-Core Dual Dynamic Drivers Wired Earphones — Product Close-Up (Philippines · Phones & Electronics)"
+title: "Quad-Core Dual Dynamic Drivers… — Product Close-Up (Philippines · Phones & Electronics)"
 market: ph
 category: phones-electronics
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671460473438588167
 creator: "@chmby_26"
 published: 2026-08-08
 ---
-# Quad-Core Dual Dynamic Drivers Wired Earphones — Product Close-Up (Philippines · Phones & Electronics)
+# Quad-Core Dual Dynamic Drivers… — Product Close-Up (Philippines · Phones & Electronics)
 **Weekly #1** · 🇵🇭 Philippines · Phones & Electronics · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671460473438588167) by [@chmby_26](https://www.tiktok.com/@chmby_26). Format: **Product Close-Up** · 10s · hook: **Result First** · No one on camera · No promo
-**Opening line (from the video):** “Do you want a sound that shakes your world”
+**Opening line (translated from the video):** “Do you want a sound that shakes your world”
 
 **Key visuals:** Sci-fi Digital Display Space · Pink Neon Light Strip · Rotating Display Platform · Transparent Earphone Shell · Blue-cyan Metal Parts · Gold Dynamic Coil · Black Braided Cable
 
@@ -77,7 +76,7 @@ Shot 1:
   - 口播: Gusto mo ba ng sound na yayanig sa mundo mo?
 Shot 2:
   - 时长: 2.5sec - 5.0sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 镜头切换至耳机内部结构的特写画面，画面清晰展示出耳机内部四个带有蓝圈的金色动态音圈组件，镜头缓慢向前推进，放大音圈表面的精密螺旋纹理，金属部件在光线照射下反射出细腻光泽。采用微距推镜，从耳机外壳的透明部分向内逐步深入对焦，聚焦在四个核心动圈组件上。
   - 口播: Ito ang 4-core dynamic coil, sipa ng pinagpapos.
 Shot 3:
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-phones-588167](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-phones-588167?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-phones-588167)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-phones-588167](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-phones-588167?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-phones-588167)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

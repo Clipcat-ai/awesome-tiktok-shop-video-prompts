@@ -1,6 +1,6 @@
 ---
 id: sg-bookings-016148
-title: "MaczTech Car Wash With Detailing — Real Review (Singapore · Bookings & Vouchers)"
+title: "MaczTech Car Wash With Detailing… — Real Review (Singapore · Bookings & Vouchers)"
 market: sg
 category: bookings-vouchers
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676700061816016148
 creator: "@shopwithskyeyap"
 published: 2026-08-22
 ---
-# MaczTech Car Wash With Detailing — Real Review (Singapore · Bookings & Vouchers)
+# MaczTech Car Wash With Detailing… — Real Review (Singapore · Bookings & Vouchers)
 **Weekly #1** · 🇸🇬 Singapore · Bookings & Vouchers · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676700061816016148) by [@shopwithskyeyap](https://www.tiktok.com/@shopwithskyeyap). Format: **Real Review** · 20s · hook: **Pain Point** · On-camera host · Coupon
-**Opening line (from the video):** “If your car is dirty, get professional refined cleaning”
+**Opening line (quoted from the video):** “If your car is dirty, get professional refined cleaning”
 
 **Pain point it attacks:** Car gets dirty, gaps have hard-to-remove dust
 
@@ -140,4 +139,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-bookings-016148](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-bookings-016148?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-bookings-016148)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-bookings-016148](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-bookings-016148?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-bookings-016148)
-🤖 **Driving an AI agent?** `clipcat prompt search "Bookings & Vouchers"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Bookings & Vouchers real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

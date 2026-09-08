@@ -1,6 +1,6 @@
 ---
 id: fr-womenswear-941025
-title: "Halara - combinaison décontractée à manches courtes — Talking Head (France · Womenswear & Underwear)"
+title: "Halara - combinaison décontractée… — Talking Head (France · Womenswear & Underwear)"
 market: fr
 category: womenswear-underwear
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673615141597941025
 creator: "@aureliemaellia"
 published: 2026-09-02
 ---
-# Halara - combinaison décontractée à manches courtes — Talking Head (France · Womenswear & Underwear)
+# Halara - combinaison décontractée… — Talking Head (France · Womenswear & Underwear)
 **Weekly #1** · 🇫🇷 France · Womenswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673615141597941025) by [@aureliemaellia](https://www.tiktok.com/@aureliemaellia). Format: **Talking Head** · 44s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “I always liked jumpsuits, but they were a hassle to take off for the toilet”
+**Opening line (translated from the video):** “I always liked jumpsuits, but they were a hassle to take off for the toilet”
 
 **Pain point it attacks:** Jumpsuits are hard to take off for toilet use
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-womenswear-941025](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-womenswear-941025?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-womenswear-941025)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-womenswear-941025](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-womenswear-941025?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-womenswear-941025)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

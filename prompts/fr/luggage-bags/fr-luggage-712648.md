@@ -1,6 +1,6 @@
 ---
 id: fr-luggage-712648
-title: "Maliit na Handbag na Pambabae na Malaki ang Kapasidad — Handheld Demo (France · Luggage & Bags)"
+title: "Maliit na Handbag na Pambabae na… — Handheld Demo (France · Luggage & Bags)"
 market: fr
 category: luggage-bags
 video_type: handheld-demo
@@ -17,17 +17,16 @@ source: https://www.tiktok.com/share/video/7672393808205712648
 creator: "@shra5447"
 published: 2026-08-10
 ---
-# Maliit na Handbag na Pambabae na Malaki ang Kapasidad — Handheld Demo (France · Luggage & Bags)
+# Maliit na Handbag na Pambabae na… — Handheld Demo (France · Luggage & Bags)
 **Weekly #1** · 🇫🇷 France · Luggage & Bags · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672393808205712648) by [@shra5447](https://www.tiktok.com/@shra5447). Format: **Handheld Demo** · 23s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Show 4 colorful knitted handbags with different color combinations”
+**Opening line (quoted from the video):** “Show 4 colorful knitted handbags with different color combinations”
 
 **Key visuals:** Knitted Handbag · Colorful Poster · White Shelf · Nail Polish · Plush Sleeve · Toiletries · Metal Ring Buckle
 
 ## Prompt (English)
 ```text
-[Style]: Douyin product showcase realistic style, with clear and bright visuals, soft and natural lighting, highlighting the exquisite appearance and practical features of the knitted handbag, creating a relatable daily product recommendation atmosphere.
+[Style]: TikTok product showcase realistic style, with clear and bright visuals, soft and natural lighting, highlighting the exquisite appearance and practical features of the knitted handbag, creating a relatable daily product recommendation atmosphere.
 [Environment]: A tidy indoor home display scene. Macaron-colored sponge hair bands are neatly hung on a light-colored pegboard background wall. The display platform is a pure white countertop. The entire environment is clean and bright, with no extra clutter to distract from the main product.
 [Tone & Pacing]: Lively and brisk product sharing style, the rhythm advances in line with the drum beats of the background music. The camera cuts smoothly and naturally, and every detail display of the bag is precisely aligned with the music beats, full of strong recommendation appeal.
 [Camera]: Fixed close-up shot, focusing on the handbag throughout the whole process. The camera occasionally follows the actions of rotating and lifting the handbag with slight synchronized movement. The picture is stable and clear, highlighting the material, capacity and detailed design of the bag.
@@ -37,7 +36,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 0.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The opening shows a bright and colorful promotional poster of handbags. The picture presents 4 colorful knitted handbags with different color-blocking designs, paired with decorative florals and text layout, quickly establishing the overall visual impression of the product, with no person appearing in the frame.
   - Subject: Give me my confirmation
 Shot 2:
@@ -59,14 +58,11 @@ Shot 5:
   - Duration: 12.0sec - 18.0sec
   - Scene Type: Product usage scenario
   - Scene: Two hands lift the woven handles at the opening of the bag, pinch the handles to lift the entire handbag filled with toiletry products, showing the load-bearing performance of the bag when full and its naturally draping shape. The camera moves up slightly following the lifted bag, keeping the bag in the center of the frame.
-  - Subject: What I should do
-I'm so crazy, I can't stand there
+  - Subject: What I should do I'm so crazy, I can't stand there
 Shot 6:
   - Duration: 18.0sec - 23.0sec
   - Scene Type: Show ease of use
   - Scene: Both hands take the handbag, pinch, knead and squeeze the bag firmly with fingers, demonstrating the soft, foldable and highly elastic feature of the knitted fabric, then pull open the bag opening again, clearly showing the complete inner knitted lining details of the empty bag. The fixed close-up shot focuses on the fabric and inner lining details of the bag throughout the process.
-  - Subject: Thank you.
-.
 [Background Sound]:
 - A very upbeat pop dance-style TikTok background music with a fast tempo, strong drum beats, and a catchy melody. The volume is moderately high, featuring electronic synthesizers and vocal harmonies. The song title is suspected to be 'Imagination'. The overall atmosphere is dynamic and dreamy, creating the emotions of 'crazy infatuation' and 'being unable to pull away', enhancing the audience's sense of immersion and desire to share. It loops throughout the whole video to match the rhythm of the product showcase.
 [Transition / Editing]:
@@ -74,7 +70,7 @@ Shot 6:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 抖音好物展示写实风，画面清晰通透，光影柔和自然，重点突出针织手提包的精致外观与实用属性，营造出贴近日常好物分享的种草氛围。
+[Style]: TikTok好物展示写实风，画面清晰通透，光影柔和自然，重点突出针织手提包的精致外观与实用属性，营造出贴近日常好物分享的种草氛围。
 [Environment]: 室内整洁的家居展示场景，浅色洞洞板背景墙上有序挂着马卡龙色系的海绵发箍，展示台为纯白色置物台面，整体环境干净明亮，无多余杂物干扰主体展示。
 [Tone & Pacing]: 活泼轻快的好物分享风格，节奏贴合背景音乐鼓点推进，镜头切换流畅自然，每一处包袋的细节展示都精准卡准音乐节拍，种草感十足。
 [Camera]: 固定机位特写镜头，全程聚焦手提包主体，镜头偶尔伴随手提包转动、拎起的动作做轻微同步跟随，画面稳定清晰，重点突出包袋的材质、容量与细节设计。
@@ -84,7 +80,7 @@ Shot 6:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 0.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 开篇展示一张色彩明快的手提包宣传海报，画面中呈现4款不同拼色设计的彩色针织手提包，搭配装饰性的花艺与文字排版，快速建立产品的整体视觉印象，无人物出镜。
   - 口播: Give me my confirmation
 Shot 2:
@@ -106,14 +102,11 @@ Shot 5:
   - 时长: 12.0sec - 18.0sec
   - 镜头类型: 产品使用场景
   - 画面: 两只手将包口处的编织提带提起，捏住提手将装满洗护用品的手提包整个拎起，展示包袋装满物品后的承重效果与自然垂坠的版型状态。镜头跟随拎起的包袋轻微上移，保持包袋处于画面中心位置。
-  - 口播: What I should do
-I'm so crazy, I can't stand there
+  - 口播: What I should do I'm so crazy, I can't stand there
 Shot 6:
   - 时长: 18.0sec - 23.0sec
   - 镜头类型: 展示易用性
   - 画面: 双手接过手提包，用手指用力捏揉、挤压包身，展示针织面料柔软可折叠的高弹力特质，随后再次拉开包袋开口，空包状态下清晰展示内部完整的针织内里细节。固定特写镜头全程聚焦包袋的面料与内里细节。
-  - 口播: Thank you.
-.
 [Background Sound]:
 - 非常欢快的流行舞曲风格TikTok背景音乐，节奏明快、鼓点强烈、旋律上口，音量适中偏高，带有电子合成器和人声和声，歌曲名疑似为《Imagination》，整体氛围充满动感与梦幻感，营造“疯狂迷恋”“无法自拔”的情绪，增强观众代入感与转发欲，全程循环播放适配好物展示节奏。
 [Transition / Editing]:
@@ -122,4 +115,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-luggage-712648](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-luggage-712648?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-luggage-712648)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-luggage-712648](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-luggage-712648?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-luggage-712648)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

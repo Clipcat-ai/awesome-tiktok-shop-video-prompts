@@ -1,6 +1,6 @@
 ---
 id: it-kitchenware-072214
-title: "SAEIV 1040/370 contenitori in vetro con coperchio	Set di cioto — Handheld Demo (Italy · Kitchenware)"
+title: "SAEIV 1040/370 contenitori in… — Handheld Demo (Italy · Kitchenware)"
 market: it
 category: kitchenware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677319863404072214
 creator: "@saeivit"
 published: 2026-08-23
 ---
-# SAEIV 1040/370 contenitori in vetro con coperchio	Set di cioto — Handheld Demo (Italy · Kitchenware)
+# SAEIV 1040/370 contenitori in… — Handheld Demo (Italy · Kitchenware)
 **Weekly #1** · 🇮🇹 Italy · Kitchenware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677319863404072214) by [@saeivit](https://www.tiktok.com/@saeivit). Format: **Handheld Demo** · 18s · hook: **Curiosity Gap** · Hands only · Discount
-**Opening line (from the video):** “Don't think this is just an ordinary glass bowl”
+**Opening line (translated from the video):** “Don't think this is just an ordinary glass bowl”
 
 **Pain point it attacks:** Ordinary containers are not sealed, heat-resistant or easy to store
 
@@ -46,17 +45,17 @@ Shot 2:
   - Duration: 4.5sec - 7.5sec
   - Scene Type: Product usage scenario
   - Scene: The camera cuts to the interior of a household refrigerator. On the shelf of the refrigerator's refrigeration compartment, two identical lidded glass food storage containers already filled with ingredients are placed. A hand steadily places two more lidded glass food storage containers holding different ingredients onto the lower shelf. The temperature control display screen on the top of the refrigerator is clearly visible, directly presenting the refrigerator storage usage scenario of the product.
-  - Subject: La mia ciotola è una cronola di vetro per conservare gli alimenti.  Può contenere di nuovo.
+  - Subject: La mia ciotola è una cronola di vetro per conservare gli alimenti. Può contenere di nuovo.
 Shot 3:
   - Duration: 7.5sec - 13.5sec
   - Scene Type: Product multi-function demonstration
   - Scene: The camera cuts back to the original kitchen counter scene. The operator holds the empty glass food storage container in the palm again, and slides their fingers gently along the edge of the container opening to show it. Then they put small pieces of bell pepper, onion and other ingredients into the container one by one, and flip the container to show its state after being filled with ingredients. The capacity and transparent property of the food storage container are clearly presented throughout the process.
-  - Subject: Il microfono ha un'acqua di cibi caldi e freddi ed è anche adatta al microonde. Perfetto da portare al lavoro o a scuola.  Il prezzo è superconfortante.
+  - Subject: Il microfono ha un'acqua di cibi caldi e freddi ed è anche adatta al microonde. Perfetto da portare al lavoro o a scuola. Il prezzo è superconfortante.
 Shot 4:
   - Duration: 13.5sec - 18.0sec
   - Scene Type: Promotional selling point highlight
   - Scene: The operator aligns the lid with an exhaust valve to the container body, and fastens the sealing clips around it in sequence to fully seal the food storage container. Then the fingers gently turn the black exhaust valve on the lid to show its movable structural details. Finally, the frame gradually dims until it turns completely to a pure black background.
-  - Subject: Proprio ora c'è un'offerta fantastica. Ragazze, non fatevela scappare.  Approfittatene.
+  - Subject: Proprio ora c'è un'offerta fantastica. Ragazze, non fatevela scappare. Approfittatene.
 [Background Sound]:
 - Very upbeat TikTok-style background music with a brisk, lively rhythm, moderately high volume, electronic drum beats and a playful synthesizer melody. It is tailored for product promotion videos targeting young female audiences, creating a sense of urgency and excitement for 'limited-time flash sales' and 'super value discounts'. The overall atmosphere is full of energy, strong promotional vibes, and perfectly matches the conversational urging tone.
 [Transition / Editing]:
@@ -81,17 +80,17 @@ Shot 2:
   - 时长: 4.5sec - 7.5sec
   - 镜头类型: 产品使用场景
   - 画面: 镜头切换至家用冰箱内部，冰箱冷藏层的搁架上已经摆放着两个装有食材的同款带盖玻璃保鲜盒，一只手将另外两个装有不同食材的带盖玻璃保鲜盒平稳放置到下层搁架中，冰箱顶部的温控显示屏清晰可见，画面直观呈现产品的冰箱收纳使用场景。
-  - 口播: La mia ciotola è una cronola di vetro per conservare gli alimenti.  Può contenere di nuovo.
+  - 口播: La mia ciotola è una cronola di vetro per conservare gli alimenti. Può contenere di nuovo.
 Shot 3:
   - 时长: 7.5sec - 13.5sec
   - 镜头类型: 产品多功能性
   - 画面: 镜头切回原先的厨房台面场景，操作者重新将空的玻璃保鲜盒托在掌心，手指沿着盒口边缘轻轻滑动展示，随后向盒内依次放入小块彩椒、洋葱等食材，翻转盒身展示内部装载食材后的状态，全程清晰呈现保鲜盒的容量与通透属性。
-  - 口播: Il microfono ha un'acqua di cibi caldi e freddi ed è anche adatta al microonde. Perfetto da portare al lavoro o a scuola.  Il prezzo è superconfortante.
+  - 口播: Il microfono ha un'acqua di cibi caldi e freddi ed è anche adatta al microonde. Perfetto da portare al lavoro o a scuola. Il prezzo è superconfortante.
 Shot 4:
   - 时长: 13.5sec - 18.0sec
   - 镜头类型: 促销卖点强推
   - 画面: 操作者将带排气阀的盒盖对准盒身，依次扣紧四周的密封卡扣将保鲜盒完全密封，随后手指轻轻转动盒盖上的黑色排气阀展示其可活动的结构细节，最后镜头画面逐步变暗直至完全转为纯黑色背景。
-  - 口播: Proprio ora c'è un'offerta fantastica. Ragazze, non fatevela scappare.  Approfittatene.
+  - 口播: Proprio ora c'è un'offerta fantastica. Ragazze, non fatevela scappare. Approfittatene.
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量中等偏高、带有电子鼓点和俏皮的合成器旋律，适合年轻女性受众的带货视频，营造“限时抢购”“超值优惠”的紧迫感与兴奋感，整体氛围充满活力、促销感强，与口语化催促语完美契合。
 [Transition / Editing]:
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-kitchenware-072214](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-kitchenware-072214?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-kitchenware-072214)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-kitchenware-072214](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-kitchenware-072214?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-kitchenware-072214)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: gb-menswear-403094
-title: "Men's Baseball Jacket Streetwear Menswear High Street Patchwor — Handheld Demo (United Kingdom · Menswear & Underwear)"
+title: "Men's Baseball Jacket Streetwear… — Handheld Demo (United Kingdom · Menswear & Underwear)"
 market: gb
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675408622666403094
 creator: "@joshstrongman"
 published: 2026-08-19
 ---
-# Men's Baseball Jacket Streetwear Menswear High Street Patchwor — Handheld Demo (United Kingdom · Menswear & Underwear)
+# Men's Baseball Jacket Streetwear… — Handheld Demo (United Kingdom · Menswear & Underwear)
 **Weekly #1** · 🇬🇧 United Kingdom · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675408622666403094) by [@joshstrongman](https://www.tiktok.com/@joshstrongman). Format: **Handheld Demo** · 32s · hook: **Curiosity Gap** · On-camera host · Discount
-**Opening line (from the video):** “You got caught wearing this last week, I just found it too”
+**Opening line (quoted from the video):** “You got caught wearing this last week, I just found it too”
 
 **Key visuals:** Baseball Jacket · Jude Bellingham Photo · Sofa · Bed · Orange Floor Lamp · Poster · Plant
 
@@ -138,4 +137,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-menswear-403094](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-menswear-403094?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-menswear-403094)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-menswear-403094](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-menswear-403094?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-menswear-403094)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: gb-jewelry-574806
-title: "Matte Finish Agate Obsidian Bracelet — Handheld Demo (United Kingdom · Jewelry Accessories & Derivatives)"
+title: "Matte Finish Agate Obsidian… — Handheld Demo (United Kingdom · Jewelry Accessories & Derivatives)"
 market: gb
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672345860071574806
 creator: "@lunarcrystal22"
 published: 2026-08-10
 ---
-# Matte Finish Agate Obsidian Bracelet — Handheld Demo (United Kingdom · Jewelry Accessories & Derivatives)
+# Matte Finish Agate Obsidian… — Handheld Demo (United Kingdom · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇬🇧 United Kingdom · Jewelry Accessories & Derivatives · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672345860071574806) by [@lunarcrystal22](https://www.tiktok.com/@lunarcrystal22). Format: **Handheld Demo** · 15s · hook: **Contrarian** · On-camera host · No promo
-**Opening line (from the video):** “Think all black stones are real? Look closer.”
+**Opening line (quoted from the video):** “Think all black stones are real? Look closer.”
 
 **Pain point it attacks:** Feeling off needs true grounding
 
@@ -56,12 +55,12 @@ Shot 4:
   - Duration: 10.0sec - 13.0sec
   - Scene Type: Product Effect Demonstration
   - Scene: In the close-up shot, the man slowly slips the bracelet onto his right wrist, then gently clenches his fist and relaxes, adjusting the position of the bracelet on his wrist to get the most comfortable fit. The camera focuses on the bracelet at the wrist, clearly showing the close-fitting wearing effect of the bracelet on the wrist.
-  - Subject: No plastic.  Instantly balances your energy.
+  - Subject: No plastic. Instantly balances your energy.
 Shot 5:
   - Duration: 13.0sec - 15.5sec
   - Scene Type: Checkout Process Guidance
   - Scene: The camera pulls back to a medium full shot, the man stands by the floor-to-ceiling window of a high-rise office building, with a wide open city skyline outside the window. The warm afternoon light falls on him, he calmly rolls up his shirt cuffs, stretches his arms, the wrist wearing the bracelet lifts naturally, his eyes look out the window, his entire state is stretched, relaxed, and his expression is peaceful and composed.
-  - Subject: Protect your peace.  Get it in the TikTok shop now. Wow.
+  - Subject: Protect your peace. Get it in the TikTok shop now. Wow.
 [Background Sound]:
 - A very calm, rhythmical modern meditation-style background track: low-frequency pulse sound effects + ethereal synth pads + subtle percussive rhythm (similar to a heartbeat or drum beat), with a medium-high volume, steady rhythm, a hint of mystery and 'energetic feel'. The style resembles 'meditation electronic' or 'urban spirituality vibe', paired with a gentle exhale soothing sound effect at the opening, soft natural clinking and rubbing sounds of stone beads in the middle section, and deep rhythmic drum beats in the latter half. The entire audio has a clean background with no extra noise, matching the product tone of 'Obsidian', 'energy balance' and 'protection peace', creating a premium, tranquil atmosphere.
 [Transition / Editing]:
@@ -96,12 +95,12 @@ Shot 4:
   - 时长: 10.0sec - 13.0sec
   - 镜头类型: 产品有效性
   - 画面: 特写画面中，男士将手串缓缓套入右手手腕，随后轻轻攥拳再放松，调整手串在手腕上的位置，将手串佩戴到最舒适的状态，镜头聚焦手腕处的手串，清晰展示出手串贴合腕部的佩戴效果。
-  - 口播: No plastic.  Instantly balances your energy.
+  - 口播: No plastic. Instantly balances your energy.
 Shot 5:
   - 时长: 13.0sec - 15.5sec
   - 镜头类型: 下单流程指引
   - 画面: 镜头拉远为中全景，男士站在高层写字楼的落地窗边，窗外是开阔的城市天际线，午后暖光落在他身上，他从容地挽起衬衫袖口，舒展手臂，佩戴着手串的手腕自然抬起，眼神望向窗外，整个人状态舒展放松，神态平和安定。
-  - 口播: Protect your peace.  Get it in the TikTok shop now. Wow.
+  - 口播: Protect your peace. Get it in the TikTok shop now. Wow.
 [Background Sound]:
 - 非常沉稳且富有节奏感的现代冥想风格背景音乐：低频脉冲音效 + 空灵合成器铺底 + 轻微打击乐节奏（类似心跳或鼓点），音量中等偏高，节奏稳定、带点神秘感和“能量感”，风格类似“冥想电子”或“都市灵性风”，搭配开篇轻微吐气舒缓音效、中段轻微石珠碰撞摩擦自然声响、后半段低沉节奏鼓点，全程背景干净无多余杂音，契合“黑曜石”“能量平衡”“保护peace”的产品调性，营造高级沉静的氛围。
 [Transition / Editing]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-jewelry-574806](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-jewelry-574806?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-jewelry-574806)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-jewelry-574806](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-jewelry-574806?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-jewelry-574806)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

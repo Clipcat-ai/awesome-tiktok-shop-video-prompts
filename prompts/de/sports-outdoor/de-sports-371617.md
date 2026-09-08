@@ -1,6 +1,6 @@
 ---
 id: de-sports-371617
-title: "SONGMICSHOME Pavillon 3 x 3 m — Real Review (Germany · Sports & Outdoor)"
+title: "SONGMICSHOME Pavillon 3 x 3 m… — Real Review (Germany · Sports & Outdoor)"
 market: de
 category: sports-outdoor
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671252501974371617
 creator: "@songmicshome.de"
 published: 2026-08-09
 ---
-# SONGMICSHOME Pavillon 3 x 3 m — Real Review (Germany · Sports & Outdoor)
+# SONGMICSHOME Pavillon 3 x 3 m… — Real Review (Germany · Sports & Outdoor)
 **Weekly #1** · 🇩🇪 Germany · Sports & Outdoor · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671252501974371617) by [@songmicshome.de](https://www.tiktok.com/@songmicshome.de). Format: **Real Review** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Look how compact this folded is, perfect for carrying”
+**Opening line (translated from the video):** “Look how compact this folded is, perfect for carrying”
 
 **Pain point it attacks:** Outdoor sun and rain gear is hard to store and set up
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: Realistic outdoor product showcase style, with bright, clear colors that carry authentic, relatable everyday appeal, matching the snappy, sales-focused texture of Douyin short videos.
+[Style]: Realistic outdoor product showcase style, with bright, clear colors that carry authentic, relatable everyday appeal, matching the snappy, sales-focused texture of TikTok short videos.
 [Environment]: A lakeside lawn scene on a clear sunny day, with a wide, calm lake in the distance, several white boats moored on the water. Tall birch trees and lush green reeds grow scattered along the shore, and the ground underfoot is green grass dotted with small yellow and white wildflowers. A few wispy clouds drift across the sky, sunlight is abundant, and the atmosphere is warm and comforting.
 [Tone & Pacing]: The overall rhythm is tight and brisk, action demonstrations are smooth and precise, and the commentary tone is enthusiastic and straightforward. The presentation progresses step by step from showing the stored state, to the setup process, to the finished product experience, with no unnecessary, dragging segments.
 [Camera]: Fixed camera position is used throughout the entire video to keep the footage steady. The framing adjusts naturally as the scene advances, starting with a close-up focused on the folded tent, gradually pulling back to a medium shot to show the full setup process, then switching to close-ups to display the tent pole details and medium shots to present the resting scene. All shots are taken at eye level facing directly forward.
@@ -41,7 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 3.0sec
   - Scene Type: Product material and form display
   - Scene: On the lakeside lawn on a clear sunny day, the Caucasian man faces the camera to show the fully folded, stored khaki instant pop-up tent. He raises both hands to gesture on either side of the tent, then gently presses his palms against the main body of the folded tent to clearly demonstrate its compact, small storage size.
-  - Subject: Schaut euch an, wie kompakt das zusammengefüllt ist.  Perfekt zum Mikdingen.
+  - Subject: Schaut euch an, wie kompakt das zusammengefüllt ist. Perfekt zum Mikdingen.
 Shot 2:
   - Duration: 3.0sec - 9.5sec
   - Scene Type: Ease of use demonstration
@@ -60,11 +59,11 @@ Shot 4:
 [Background Sound]:
 - No background music throughout the entire video, only a crisp, energetic German voiceover is retained, paired with subtle outdoor natural ambient sounds: the soft rippling of lake water, the faint rustle of wind through grass. No additional musical scoring is used, to highlight the commentary content and keep viewers focused on the product operation steps and feature descriptions.
 [Transition / Editing]:
-- Seamless, continuous jump-cut editing is used, transitioning naturally from showing the folded stored state to the setup process, then smoothly moving on to detail explanations and the resting scene. The overall editing rhythm is fluid with no jarring, disjointed transition effects, fitting the brisk tone of Douyin outdoor product showcase videos.
+- Seamless, continuous jump-cut editing is used, transitioning naturally from showing the folded stored state to the setup process, then smoothly moving on to detail explanations and the resting scene. The overall editing rhythm is fluid with no jarring, disjointed transition effects, fitting the brisk tone of TikTok outdoor product showcase videos.
 ```
 ## 提示词（中文）
 ```text
-[Style]: 写实户外好物展示风，画面色彩明亮通透，充满生活化的真实感染力，兼具抖音短视频的明快带货质感。
+[Style]: 写实户外好物展示风，画面色彩明亮通透，充满生活化的真实感染力，兼具TikTok短视频的明快带货质感。
 [Environment]: 晴朗白天的湖畔草坪场景，远处是开阔的平静湖面，水面停泊着几艘白色小船，岸边错落生长着高大的白桦树与翠绿芦苇，脚下是点缀着小黄花与白色野花的青草地，天空飘着几缕轻薄白云，阳光充足，氛围治愈舒适。
 [Tone & Pacing]: 整体节奏紧凑明快，动作演示流畅利落，讲解语气热情直白，从收纳状态展示到搭建过程再到成品体验，层层递进，无多余拖沓环节。
 [Camera]: 全程采用固定机位拍摄，画面保持稳定，取景范围随场景推进自然调整，从近景聚焦折叠帐篷逐步拉远到中景展示搭建全过程，最后切换近景展示帐篷立柱细节、中景呈现休憩场景，全程平视正前方取景。
@@ -76,7 +75,7 @@ Shot 1:
   - 时长: 0.0sec - 3.0sec
   - 镜头类型: 产品材质展示
   - 画面: 晴朗白天的湖畔草坪上，白人男子正对着镜头展示完全折叠收纳状态的卡其色速开帐篷，他双手抬起在帐篷两侧比划，随后手掌轻轻贴向折叠好的帐篷主体，清晰展示其紧凑小巧的收纳体积。
-  - 口播: Schaut euch an, wie kompakt das zusammengefüllt ist.  Perfekt zum Mikdingen.
+  - 口播: Schaut euch an, wie kompakt das zusammengefüllt ist. Perfekt zum Mikdingen.
 Shot 2:
   - 时长: 3.0sec - 9.5sec
   - 镜头类型: 展示易用性
@@ -95,9 +94,9 @@ Shot 4:
 [Background Sound]:
 - 全程无背景音乐，仅保留节奏明快清晰的德语解说人声，搭配轻微的户外自然环境音：湖水的轻波声、草丛间的细碎风声，无额外配乐设计，突出解说内容，让观众专注于产品操作步骤与优势描述。
 [Transition / Editing]:
-- 采用无缝连贯的跳转剪辑方式，从展示折叠收纳状态自然过渡到搭建过程，再顺承到细节讲解与休憩场景，整体剪辑节奏流畅，没有生硬割裂的转场效果，符合抖音户外好物展示类视频的明快调性。
+- 采用无缝连贯的跳转剪辑方式，从展示折叠收纳状态自然过渡到搭建过程，再顺承到细节讲解与休憩场景，整体剪辑节奏流畅，没有生硬割裂的转场效果，符合TikTok户外好物展示类视频的明快调性。
 ```
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-sports-371617](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-sports-371617?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-sports-371617)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-sports-371617](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-sports-371617?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-sports-371617)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

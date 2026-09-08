@@ -1,6 +1,6 @@
 ---
 id: br-books-086866
-title: "O Poder do Autocontrole: A Chave para a Grandeza Pessoal — Brand TVC (Brazil · Books, Magazines & Audio)"
+title: "O Poder do Autocontrole: A Chave… — Brand TVC (Brazil · Books, Magazines & Audio)"
 market: br
 category: books-magazines-audio
 video_type: brand-tvc
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679499192431086866
 creator: "@lifeexperiience"
 published: 2026-08-29
 ---
-# O Poder do Autocontrole: A Chave para a Grandeza Pessoal — Brand TVC (Brazil · Books, Magazines & Audio)
+# O Poder do Autocontrole: A Chave… — Brand TVC (Brazil · Books, Magazines & Audio)
 **Weekly #1** · 🇧🇷 Brazil · Books, Magazines & Audio · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679499192431086866) by [@lifeexperiience](https://www.tiktok.com/@lifeexperiience). Format: **Brand TVC** · 16s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Correct your life with God, let go of what must be abolished, make space for Jesus”
+**Opening line (translated from the video):** “Correct your life with God, let go of what must be abolished, make space for Jesus”
 
 **Pain point it attacks:** Lack of self-control hinders self-improvement
 
@@ -80,4 +79,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-books-086866](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-books-086866?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-books-086866)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-books-086866](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-books-086866?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-books-086866)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio brand tvc"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

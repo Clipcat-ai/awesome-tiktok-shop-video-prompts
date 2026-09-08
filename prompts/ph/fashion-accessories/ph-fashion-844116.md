@@ -1,6 +1,6 @@
 ---
 id: ph-fashion-844116
-title: "stainless steel letters ring whth heart design — Handheld Demo (Philippines · Fashion Accessories)"
+title: "stainless steel letters ring whth… — Handheld Demo (Philippines · Fashion Accessories)"
 market: ph
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675727212791844116
 creator: "@jackie_online_shop"
 published: 2026-08-19
 ---
-# stainless steel letters ring whth heart design — Handheld Demo (Philippines · Fashion Accessories)
+# stainless steel letters ring whth… — Handheld Demo (Philippines · Fashion Accessories)
 **Weekly #1** · 🇵🇭 Philippines · Fashion Accessories · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675727212791844116) by [@jackie_online_shop](https://www.tiktok.com/@jackie_online_shop). Format: **Handheld Demo** · 10s · hook: **Curiosity Gap** · Hands only · No promo
-**Opening line (from the video):** “What's your name?”
+**Opening line (quoted from the video):** “What's your name?”
 
 **Key visuals:** Pink String Lights · Tulip Vase · Smiley Night Light · Scented Candle · Pink Storage Box · Gold Ring · Pink Neon Sign
 
@@ -54,7 +53,6 @@ Shot 4:
   - Duration: 8.5sec - 10.0sec
   - Scene Type: Handheld product display
   - Scene: The shot returns to a close-up of the hand. The finger wearing the ring gently stretches and adjusts its angle to fully present the ring to the camera, clearly showing the wearing effect and sparkling texture of the ring on the finger. The camera focus stays firmly locked on the ring, the pink warm background scene dissolves into a soft hazy atmosphere, and the 'Ring Letter' text remains at the top of the frame throughout.
-  - Subject: .
 [Background Sound]:
 - A sad and lyrical pop song with a male lead vocal, featuring a slow, affectionate melody with distinct emotional tension and resonance. The accompaniment is primarily piano and strings, creating a soft, slightly melancholic atmosphere of memories or farewell. The volume is moderately high, perfectly matching the emotional resonance needs of sweet-style jewelry displays.
 [Transition / Editing]:
@@ -89,7 +87,6 @@ Shot 4:
   - 时长: 8.5sec - 10.0sec
   - 镜头类型: 手持商品展示
   - 画面: 镜头再次给到手部特写，佩戴着戒指的手指轻轻舒展调整角度，将戒指完整地展示在镜头前，清晰呈现戒指在手指上的佩戴效果与闪耀质感，镜头焦点牢牢锁定在戒指上，背景的粉色温馨场景化作柔和的朦胧氛围，画面顶部“Ring Letter”字幕始终保留。
-  - 口播: .
 [Background Sound]:
 - 悲伤抒情风格的流行歌曲，男声主唱，旋律缓慢深情，带有明显的情感张力和共鸣感，伴奏以钢琴和弦乐为主，营造出略带忧伤、回忆或告别的柔和氛围，音量适中偏高，适配甜系饰品展示的情感共鸣需求。
 [Transition / Editing]:
@@ -98,4 +95,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-fashion-844116](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-fashion-844116?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-fashion-844116)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-fashion-844116](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-fashion-844116?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-fashion-844116)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: mx-kitchenware-580820
-title: "Vaso térmico infantil de acero inoxidable con pajita — Handheld Demo (Mexico · Kitchenware)"
+title: "Vaso térmico infantil de acero… — Handheld Demo (Mexico · Kitchenware)"
 market: mx
 category: kitchenware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675537286393580820
 creator: "@soymamaysoymaestra"
 published: 2026-08-19
 ---
-# Vaso térmico infantil de acero inoxidable con pajita — Handheld Demo (Mexico · Kitchenware)
+# Vaso térmico infantil de acero… — Handheld Demo (Mexico · Kitchenware)
 **Weekly #1** · 🇲🇽 Mexico · Kitchenware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675537286393580820) by [@soymamaysoymaestra](https://www.tiktok.com/@soymamaysoymaestra). Format: **Handheld Demo** · 19s · hook: **Curiosity Gap** · Hands only · No promo
-**Opening line (from the video):** “Are you looking for a thermos for this back to school?”
+**Opening line (translated from the video):** “Are you looking for a thermos for this back to school?”
 
 **Pain point it attacks:** Can't find a suitable thermos for kids back to school
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: Douyin-style realistic product review aesthetic, with bright, saturated screen colors that emphasize the soft, delicate pastel texture of the macaron-colored thermos cups, bringing an authentic, real-life filming feel that makes product displays intuitive and clear.
+[Style]: TikTok-style realistic product review aesthetic, with bright, saturated screen colors that emphasize the soft, delicate pastel texture of the macaron-colored thermos cups, bringing an authentic, real-life filming feel that makes product displays intuitive and clear.
 [Environment]: A home indoor desktop scene, covered with a tablecloth that has a white base and light gray daisy patterns. On the warm orange wall in the background, the brand outer packaging boxes of the two thermos cups are placed. The overall lighting is bright and clean, creating a warm and cozy atmosphere for product sharing.
 [Tone & Pacing]: The rhythm is relaxed and gentle, with a strong explanatory sharing vibe. Sufficient screen dwell time is reserved for every product function demonstration, allowing viewers to clearly observe core details of the thermos cups such as leak-proof performance and the stainless steel inner liner.
 [Camera]: The entire video is shot from a first-person top-down fixed camera position, with the lens focused on the two thermos cups on the table. There are no large-scale camera movements, only extremely slight natural shakes that follow hand movements, to the greatest extent restoring the real perspective of daily unboxing and display.
@@ -56,10 +55,10 @@ Shot 4:
   - Duration: 11.0sec - 15.0sec
   - Scene Type: Product effectiveness demonstration
   - Scene: After completing the sealing operation of the light purple thermos cup, the hand moves next to the pink thermos cup, pinches the pink lid of the pink thermos cup which has an orange handle, and twists it tight and sealed along the threads as well. Then both hands pick up the light purple thermos cup and the pink thermos cup respectively, flip both cups completely upside down with their openings facing fully downward, showing the camera that not a single drop of water leaks out from the openings, intuitively demonstrating the leak-proof effect.
-  - Subject: o lonchera escolar.  Además, hay muchos conocimientos
+  - Subject: o lonchera escolar. Además, hay muchos conocimientos
 Shot 5:
   - Duration: 15.0sec - 19.5sec
-  - Scene Type: Display of multiple style options (fashion category)
+  - Scene Type: Display of multiple style options
   - Scene: The hands place the two thermos cups back upright, with their lids with handles facing upward and stably set down on the daisy-patterned tablecloth. The two macaron-colored thermos cups are fully presented in the frame, with the product packaging boxes in the background also clearly visible. The screen freezes to showcase the overall appearance and shape of the products.
   - Subject: colores. Gracias.
 [Background Sound]:
@@ -69,7 +68,7 @@ Shot 5:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 抖音写实好物测评风，画面色彩明亮饱和，着重突出保温杯马卡龙色系的粉嫩质感，自带生活化的真实拍摄感，产品展示直观清晰。
+[Style]: TikTok写实好物测评风，画面色彩明亮饱和，着重突出保温杯马卡龙色系的粉嫩质感，自带生活化的真实拍摄感，产品展示直观清晰。
 [Environment]: 居家室内桌面场景，铺有白色底带浅灰色雏菊花纹的桌布，背景的暖橙色墙面上摆放着两款保温杯的品牌外包装盒，整体光线充足干净，营造出温馨舒适的好物分享氛围。
 [Tone & Pacing]: 节奏轻松平缓，讲解式分享感十足，每一步产品功能演示都留足画面停留时间，让观众可以清晰观察到保温杯的防漏、不锈钢内胆等核心细节。
 [Camera]: 全程采用第一人称俯视固定机位拍摄，镜头聚焦桌面的两款保温杯，全程没有大幅度运镜，偶尔随手部动作有极其轻微的自然晃动，最大程度还原日常开箱展示的真实视角。
@@ -96,10 +95,10 @@ Shot 4:
   - 时长: 11.0sec - 15.0sec
   - 镜头类型: 产品有效性
   - 画面: 完成浅紫色保温杯的密封操作后，手部移到粉色保温杯旁，捏住粉色保温杯的带橙色提手的粉色杯盖，同样顺着螺纹旋紧密封，随后两只手分别拿起浅紫色保温杯与粉色保温杯，将两个保温杯整体倒置，杯口完全朝下，向镜头展示杯口没有一滴水流出，直观演示防漏效果。
-  - 口播: o lonchera escolar.  Además, hay muchos conocimientos
+  - 口播: o lonchera escolar. Además, hay muchos conocimientos
 Shot 5:
   - 时长: 15.0sec - 19.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 手部将两款保温杯重新摆正，带提手的杯盖朝上平稳放置在带雏菊花纹的桌布上，两款马卡龙色系的保温杯完整地呈现在画面中，背景的产品包装盒也清晰可见，画面定格展示产品的整体外观造型。
   - 口播: colores. Gracias.
 [Background Sound]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-kitchenware-580820](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-kitchenware-580820?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-kitchenware-580820)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-kitchenware-580820](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-kitchenware-580820?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-kitchenware-580820)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

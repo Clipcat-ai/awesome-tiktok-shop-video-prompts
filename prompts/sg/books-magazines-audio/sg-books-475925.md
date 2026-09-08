@@ -1,6 +1,6 @@
 ---
 id: sg-books-475925
-title: "Al-Quran Per Kata An-Nur With Translation and Transliteration — Talking Head (Singapore · Books, Magazines & Audio)"
+title: "Al-Quran Per Kata An-Nur With… — Talking Head (Singapore · Books, Magazines & Audio)"
 market: sg
 category: books-magazines-audio
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678088312040475925
 creator: "@immieazzray"
 published: 2026-08-25
 ---
-# Al-Quran Per Kata An-Nur With Translation and Transliteration — Talking Head (Singapore · Books, Magazines & Audio)
+# Al-Quran Per Kata An-Nur With… — Talking Head (Singapore · Books, Magazines & Audio)
 **Weekly #1** · 🇸🇬 Singapore · Books, Magazines & Audio · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678088312040475925) by [@immieazzray](https://www.tiktok.com/@immieazzray). Format: **Talking Head** · 22s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Being here, I don't just want to read the Quran. I want to truly understand it.”
+**Opening line (quoted from the video):** “Being here, I don't just want to read the Quran. I want to truly understand it.”
 
 **Pain point it attacks:** It is hard to truly understand the Quran
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-books-475925](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-books-475925?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-books-475925)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-books-475925](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-books-475925?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-books-475925)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: es-luggage-418177
-title: "3-in-1 Convertible Backpack for Women — Handheld Demo (Spain · Luggage & Bags)"
+title: "3-in-1 Convertible Backpack for… — Handheld Demo (Spain · Luggage & Bags)"
 market: es
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670010439614418177
 creator: "@lhl.bag.shop"
 published: 2026-08-04
 ---
-# 3-in-1 Convertible Backpack for Women — Handheld Demo (Spain · Luggage & Bags)
+# 3-in-1 Convertible Backpack for… — Handheld Demo (Spain · Luggage & Bags)
 **Weekly #1** · 🇪🇸 Spain · Luggage & Bags · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670010439614418177) by [@lhl.bag.shop](https://www.tiktok.com/@lhl.bag.shop). Format: **Handheld Demo** · 8s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Cute pink leather mini backpack handbag”
+**Opening line (quoted from the video):** “Cute pink leather mini backpack handbag”
 
 **Key visuals:** Pink Backpack · Leather Texture · Gold Snap Buttons · Adjustable Straps · Plush Pendant · White Blouse
 
@@ -78,4 +77,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-luggage-418177](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-luggage-418177?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-luggage-418177)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-luggage-418177](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-luggage-418177?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-luggage-418177)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

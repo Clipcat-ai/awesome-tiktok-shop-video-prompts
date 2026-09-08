@@ -1,6 +1,6 @@
 ---
 id: th-household-749397
-title: "หม้อไฟฟ้า  1 ลิตร ทำอาหารได้หลากหลาย ฝาแก้ว ทอด ผัด ได้ ร้อนเร — Promo Pitch (Thailand · Household Appliances)"
+title: "หม้อไฟฟ้า 1 ลิตร ทำอาหารได้หลากหลาย… — Promo Pitch (Thailand · Household Appliances)"
 market: th
 category: household-appliances
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7632526766975749397
 creator: "@eddtiktok999"
 published: 2026-04-25
 ---
-# หม้อไฟฟ้า  1 ลิตร ทำอาหารได้หลากหลาย ฝาแก้ว ทอด ผัด ได้ ร้อนเร — Promo Pitch (Thailand · Household Appliances)
+# หม้อไฟฟ้า 1 ลิตร ทำอาหารได้หลากหลาย… — Promo Pitch (Thailand · Household Appliances)
 **Weekly #1** · 🇹🇭 Thailand · Household Appliances · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7632526766975749397) by [@eddtiktok999](https://www.tiktok.com/@eddtiktok999). Format: **Promo Pitch** · 8s · hook: **Urgency** · On-camera host · Discount
-**Opening line (from the video):** “Original 199, warehouse clearance price only 45 baht, limited to 5 minutes”
+**Opening line (translated from the video):** “Original 199, warehouse clearance price only 45 baht, limited to 5 minutes”
 
 **Pain point it attacks:** Want affordable multi-functional small electric pot but can't find cost-effective one
 
@@ -46,8 +45,7 @@ Shot 2:
   - Duration: 1.5sec - 3.5sec
   - Scene Type: Product design highlight showcase
   - Scene: The host extends her right index finger to point precisely at the red power switch on the front of the small electric cooker, clearly presenting the product's core operating part to the camera. She tilts her head slightly, fully engaged as she introduces the feature.
-  - Subject: ซื้อ 199 เสียใจด้วย วันนี้เครียร์กว่าดังรถเหลือ 45 บาท
-ต้องผัดทอดได้หมดร้อนไวล่าง่ายลายมีหน้าละ
+  - Subject: ซื้อ 199 เสียใจด้วย วันนี้เครียร์กว่าดังรถเหลือ 45 บาท ต้องผัดทอดได้หมดร้อนไวล่าง่ายลายมีหน้าละ
 Shot 3:
   - Duration: 3.5sec - 5.0sec
   - Scene Type: Product multi-functionality showcase
@@ -82,8 +80,7 @@ Shot 2:
   - 时长: 1.5sec - 3.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 主播伸出右手食指，精准指向小电锅正面的红色电源开关，将产品的核心操作部位清晰展示给镜头，头部微微侧倾，状态投入地进行介绍。
-  - 口播: ซื้อ 199 เสียใจด้วย วันนี้เครียร์กว่าดังรถเหลือ 45 บาท
-ต้องผัดทอดได้หมดร้อนไวล่าง่ายลายมีหน้าละ
+  - 口播: ซื้อ 199 เสียใจด้วย วันนี้เครียร์กว่าดังรถเหลือ 45 บาท ต้องผัดทอดได้หมดร้อนไวล่าง่ายลายมีหน้าละ
 Shot 3:
   - 时长: 3.5sec - 5.0sec
   - 镜头类型: 产品多功能性
@@ -102,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-household-749397](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-household-749397?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-household-749397)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-household-749397](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-household-749397?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-household-749397)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

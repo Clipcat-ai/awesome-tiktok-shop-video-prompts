@@ -1,6 +1,6 @@
 ---
 id: us-jewelry-880671
-title: "PAVOI 14K Gold Plated Sterling Silver Posts Cubic Zirconia Seg — Handheld Demo (United States · Jewelry Accessories & Derivatives)"
+title: "PAVOI 14K Gold Plated Sterling… — Handheld Demo (United States · Jewelry Accessories & Derivatives)"
 market: us
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675388736212880671
 creator: "@ilovecake214"
 published: 2026-08-18
 ---
-# PAVOI 14K Gold Plated Sterling Silver Posts Cubic Zirconia Seg — Handheld Demo (United States · Jewelry Accessories & Derivatives)
+# PAVOI 14K Gold Plated Sterling… — Handheld Demo (United States · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇺🇸 United States · Jewelry Accessories & Derivatives · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675388736212880671) by [@ilovecake214](https://www.tiktok.com/@ilovecake214). Format: **Handheld Demo** · 34s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “I'm back with another great purchase from the TikTok shop from Pavoy”
+**Opening line (quoted from the video):** “I'm back with another great purchase from the TikTok shop from Pavoy”
 
 **Key visuals:** Marble Countertop · Dark Green Box · Gold Triple Hoop Earrings · Cubic Zirconia · French Manicure · Light Wall · Embedded Vent
 
@@ -49,7 +48,7 @@ Shot 3:
   - Duration: 17.5sec - 35.0sec
   - Scene Type: Product usage scenario
   - Scene: The scene switches to a bright residential interior, with a medium close-up focused on the content creator's half of the face and ear. The creator is already wearing the three-hoop earrings on her ear. She raises her hand with the French manicure, gently points her fingertips at the earrings, repeatedly adjusts and touches them, and demonstrates the fit and wearing beauty of the earrings from multiple angles. Her movements are soft and natural, with the entire shot focused on showcasing the earrings on the ear.
-  - Subject: All right, here's what they look like in... have one piercing, been wanting a double piercing, but then I found on these and thought why. They're on sale right now. So cute. Goes with casual, dressy anything. And again, I've gotten so many compliments on them. Thank you.
+  - Subject: All right, here's what they look like in... have one piercing, been wanting a double piercing, but then I found on these and thought why. They're on sale right now. So cute. Goes with casual, dressy anything. And again, I've gotten so many compliments on them.
 [Background Sound]:
 - Extremely upbeat TikTok-style background music with a light, lively rhythm, moderately high volume, featuring pop electronic beats and playful synthesizer tones. It is ideal for fashion accessory product promotion videos, with a catchy, rhythmic melody that enhances viewers' visual associations of the earrings as 'super cute', 'extremely photogenic', and 'highly eye-catching'. The overall atmosphere is relaxed, youthful, and full of shopping enjoyment.
 [Transition / Editing]:
@@ -79,7 +78,7 @@ Shot 3:
   - 时长: 17.5sec - 35.0sec
   - 镜头类型: 产品使用场景
   - 画面: 场景切换至明亮的居家室内，近景对准博主的半侧脸颊与耳部，博主的耳朵上已经佩戴好了这款三环耳饰。她抬起那只做了法式美甲的手，用指尖轻轻指向耳饰，反复调整、触碰耳饰，多角度展示耳饰的上耳贴合效果与佩戴美感，动作轻柔自然，全程聚焦在耳部的耳饰展示上。
-  - 口播: All right, here's what they look like in... have one piercing, been wanting a double piercing, but then I found on these and thought why. They're on sale right now. So cute. Goes with casual, dressy anything. And again, I've gotten so many compliments on them. Thank you.
+  - 口播: All right, here's what they look like in... have one piercing, been wanting a double piercing, but then I found on these and thought why. They're on sale right now. So cute. Goes with casual, dressy anything. And again, I've gotten so many compliments on them.
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有流行电子节拍和俏皮的合成器音色，适合时尚饰品类带货视频，旋律抓耳、富有节奏感，能增强观众对耳环“超可爱”“超上镜”“高回头率”的视觉联想，整体氛围轻松、年轻、充满购物愉悦感。
 [Transition / Editing]:
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-jewelry-880671](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-jewelry-880671?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-jewelry-880671)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-jewelry-880671](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-jewelry-880671?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-jewelry-880671)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

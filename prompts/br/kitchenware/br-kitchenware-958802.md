@@ -1,6 +1,6 @@
 ---
 id: br-kitchenware-958802
-title: "Kit Com  Até 10 petisqueira barquinha Plastica canoa petiscos — Handheld Demo (Brazil · Kitchenware)"
+title: "Kit Com Até 10 petisqueira… — Handheld Demo (Brazil · Kitchenware)"
 market: br
 category: kitchenware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674243077111958802
 creator: "@sabrinareis123"
 published: 2026-08-15
 ---
-# Kit Com  Até 10 petisqueira barquinha Plastica canoa petiscos — Handheld Demo (Brazil · Kitchenware)
+# Kit Com Até 10 petisqueira… — Handheld Demo (Brazil · Kitchenware)
 **Weekly #1** · 🇧🇷 Brazil · Kitchenware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674243077111958802) by [@sabrinareis123](https://www.tiktok.com/@sabrinareis123). Format: **Handheld Demo** · 10s · hook: **Pain Point** · Hands only · Discount
-**Opening line (from the video):** “I hate people using pots on the table, look at this”
+**Opening line (translated from the video):** “I hate people using pots on the table, look at this”
 
 **Pain point it attacks:** Using pots on the dining table looks unrefined
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-kitchenware-958802](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-kitchenware-958802?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-kitchenware-958802)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-kitchenware-958802](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-kitchenware-958802?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-kitchenware-958802)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

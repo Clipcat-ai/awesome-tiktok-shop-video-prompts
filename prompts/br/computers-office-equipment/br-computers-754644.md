@@ -1,6 +1,6 @@
 ---
 id: br-computers-754644
-title: "PENDRIVE  MODÃO RAIZ 4500 MUSICAS SO MODÃO 16 GB — Talking Head (Brazil · Computers & Office Equipment)"
+title: "PENDRIVE MODÃO RAIZ 4500 MUSICAS… — Talking Head (Brazil · Computers & Office Equipment)"
 market: br
 category: computers-office-equipment
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7681481625661754644
 creator: "@cworldrealities"
 published: 2026-09-04
 ---
-# PENDRIVE  MODÃO RAIZ 4500 MUSICAS SO MODÃO 16 GB — Talking Head (Brazil · Computers & Office Equipment)
+# PENDRIVE MODÃO RAIZ 4500 MUSICAS… — Talking Head (Brazil · Computers & Office Equipment)
 **Weekly #1** · 🇧🇷 Brazil · Computers & Office Equipment · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7681481625661754644) by [@cworldrealities](https://www.tiktok.com/@cworldrealities). Format: **Talking Head** · 28s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “This pen drive has 4500 modão music tracks and the price is good”
+**Opening line (quoted from the video):** “This pen drive has 4500 modão music tracks and the price is good”
 
 **Pain point it attacks:** Few car music resources, trouble finding favorite music
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-computers-754644](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-computers-754644?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-computers-754644)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-computers-754644](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-computers-754644?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-computers-754644)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: it-womenswear-168032
-title: "Women's Seamless Wave Design Underwear Set — Handheld Demo (Italy · Womenswear & Underwear)"
+title: "Women's Seamless Wave Design… — Handheld Demo (Italy · Womenswear & Underwear)"
 market: it
 category: womenswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674760029467168032
 creator: "@lallynalally"
 published: 2026-08-16
 ---
-# Women's Seamless Wave Design Underwear Set — Handheld Demo (Italy · Womenswear & Underwear)
+# Women's Seamless Wave Design… — Handheld Demo (Italy · Womenswear & Underwear)
 **Weekly #1** · 🇮🇹 Italy · Womenswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674760029467168032) by [@lallynalally](https://www.tiktok.com/@lallynalally). Format: **Handheld Demo** · 17s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “For those who can't stand seams and tight things...”
+**Opening line (translated from the video):** “For those who can't stand seams and tight things...”
 
 **Pain point it attacks:** Underwear has seams or is tight and uncomfortable
 
@@ -49,16 +48,14 @@ Shot 2:
   - Subject: Questo è l'ideale. Io ho preso ben 10 pezzi.
 Shot 3:
   - Duration: 7.0sec - 14.0sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The hands pick up the corner of a deep brown underwear piece, pinch the wavy edge of the underwear with their fingertips, and repeatedly pull it gently to both sides to focus on demonstrating the elasticity of the lace trim. Movements are slow and deliberate, and when the fabric is stretched open, its semi-sheer, lightweight texture is clearly visible. Italian subtitles introducing the wide variety of product color options pop up on screen.
-  - Subject: di questi colori bellissimi  eleganti
-ma ci sono anche in colori più accesi
+  - Subject: di questi colori bellissimi eleganti ma ci sono anche in colori più accesi
 Shot 4:
   - Duration: 14.0sec - 17.0sec
   - Scene Type: Checkout process guidance
   - Scene: The hands lay the demonstrated underwear flat back on the desktop, then pick up a light beige underwear piece, fully unfold the inner tag printed with size and material information toward the camera to clearly display all text on the tag. Italian subtitles guiding viewers to select specifications in the shopping cart pop up on screen.
-  - Subject: e si possono scegliere diverse quantità
-Qui nel carillino,
+  - Subject: e si possono scegliere diverse quantità Qui nel carillino,
 [Background Sound]:
 - No background music at all. The entire video features only a soft, gentle AI-synthesized female voice narrating in Italian, with a mellow, soothing timbre and no extra ambient noise interference.
 [Transition / Editing]:
@@ -86,16 +83,14 @@ Shot 2:
   - 口播: Questo è l'ideale. Io ho preso ben 10 pezzi.
 Shot 3:
   - 时长: 7.0sec - 14.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 双手拿起一件深棕色调的内衣边角，指尖捏住内衣波浪形的边缘，反复向两侧抻拉，重点展示花边部分的弹力，动作细致缓慢，将面料抻开后可以看到面料呈现半通透的轻薄质感，画面弹出介绍产品色彩选择多样性的意语字幕。
-  - 口播: di questi colori bellissimi  eleganti
-ma ci sono anche in colori più accesi
+  - 口播: di questi colori bellissimi eleganti ma ci sono anche in colori più accesi
 Shot 4:
   - 时长: 14.0sec - 17.0sec
   - 镜头类型: 下单流程指引
   - 画面: 双手将展示完的内衣平整铺回桌面，随后拎起一件浅米色的内衣，将印有尺码与材质标识的内侧标签面向镜头充分展开，清晰展示标签上的文字信息，画面弹出引导购物车选择规格的意语字幕。
-  - 口播: e si possono scegliere diverse quantità
-Qui nel carillino,
+  - 口播: e si possono scegliere diverse quantità Qui nel carillino,
 [Background Sound]:
 - 无背景音乐，全程仅有轻柔的AI合成意语女声旁白，音色柔和舒缓，无额外环境杂音干扰。
 [Transition / Editing]:
@@ -104,4 +99,4 @@ Qui nel carillino,
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-womenswear-168032](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-womenswear-168032?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-womenswear-168032)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-womenswear-168032](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-womenswear-168032?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-womenswear-168032)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

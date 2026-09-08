@@ -1,6 +1,6 @@
 ---
 id: th-tools-430548
-title: "สายสะพายเครื่องตัดหญ้าสะพายบ่าคู่ — Handheld Demo (Thailand · Tools & Hardware)"
+title: "สายสะพายเครื่องตัดหญ้าสะพายบ่าคู่… — Handheld Demo (Thailand · Tools & Hardware)"
 market: th
 category: tools-hardware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7655702469573430548
 creator: "@kritinaz.xx.1"
 published: 2026-06-26
 ---
-# สายสะพายเครื่องตัดหญ้าสะพายบ่าคู่ — Handheld Demo (Thailand · Tools & Hardware)
+# สายสะพายเครื่องตัดหญ้าสะพายบ่าคู่… — Handheld Demo (Thailand · Tools & Hardware)
 **Weekly #1** · 🇹🇭 Thailand · Tools & Hardware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7655702469573430548) by [@kritinaz.xx.1](https://www.tiktok.com/@kritinaz.xx.1). Format: **Handheld Demo** · 8s · hook: **Curiosity Gap** · Hands only · No promo
-**Opening line (from the video):** “Don't scroll away, this thick shoulder pad double strap for lawnmower”
+**Opening line (translated from the video):** “Don't scroll away, this thick shoulder pad double strap for lawnmower”
 
 **Pain point it attacks:** Lawnmower straps hurt shoulders, poor load-bearing
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-tools-430548](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-tools-430548?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-tools-430548)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-tools-430548](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-tools-430548?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-tools-430548)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

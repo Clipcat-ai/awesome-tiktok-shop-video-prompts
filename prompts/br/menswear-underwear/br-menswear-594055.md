@@ -1,6 +1,6 @@
 ---
 id: br-menswear-594055
-title: "Kit 3/2/1 Calça Jeans Masculina Country Elastano Rodeio para B — Handheld Demo (Brazil · Menswear & Underwear)"
+title: "Kit 3/2/1 Calça Jeans Masculina… — Handheld Demo (Brazil · Menswear & Underwear)"
 market: br
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670505537762594055
 creator: "@shopmixr3"
 published: 2026-08-05
 ---
-# Kit 3/2/1 Calça Jeans Masculina Country Elastano Rodeio para B — Handheld Demo (Brazil · Menswear & Underwear)
+# Kit 3/2/1 Calça Jeans Masculina… — Handheld Demo (Brazil · Menswear & Underwear)
 **Weekly #1** · 🇧🇷 Brazil · Menswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670505537762594055) by [@shopmixr3](https://www.tiktok.com/@shopmixr3). Format: **Handheld Demo** · 15s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “You take one look and know it's not ordinary jeans, it's country style”
+**Opening line (translated from the video):** “You take one look and know it's not ordinary jeans, it's country style”
 
 **Key visuals:** Marble Countertop · Glowing Wall Light · Display Case · Cowboy Boot · Denim Jeans · Mannequin · Wooden Display Stand
 
@@ -39,17 +38,17 @@ Shot 1:
   - Duration: 0.0sec - 3.5sec
   - Scene Type: Product material display
   - Scene: A panoramic shot shows the backs of three headless black mannequins in the store. The mannequins are wearing royal blue, dark blue, and black jeans respectively, paired with brown cowboy boots, standing on a wooden glowing display stand. Then the camera pushes forward slowly, and a light-skinned, hairy male arm gently reaches in from the right side of the frame. The palm softly strokes the outer thigh fabric of the dark blue jeans, with fingers slowly gliding across the fabric surface to clearly show the fine texture of the denim
-  - Subject: Você bate o olho e já entende.  Não é jeans comum, é presença count.
+  - Subject: Você bate o olho e já entende. Não é jeans comum, é presença count.
 Shot 2:
   - Duration: 3.5sec - 8.5sec
-  - Scene Type: Display of multiple style options (fashion category)
+  - Scene Type: Display of multiple style options
   - Scene: The camera continues to pull back slowly, gradually pulling away from the close-up of the hand touching the dark blue denim fabric to fully present the panoramic view of the three mannequins standing side by side. The hand extending from off-screen raises one finger, gently gesturing above the three pairs of jeans. The hand moves naturally and smoothly, sweeping across the display areas of the royal blue, dark blue, and black pairs of pants in sequence
   - Subject: O kit com três calças em elastano combina resistência com fonte. E aí
 Shot 3:
   - Duration: 9.0sec - 15.5sec
   - Scene Type: Order placement process guidance
   - Scene: The camera pushes forward again to focus on the dark blue jeans in the middle. The male arm re-enters the frame from the right side, the palm first rests gently on the back pocket area of the jeans, the fingers touch the hanging brown 'MA' brand tag, then the palm slides downward to fully stroke the entire back thigh fabric of the jeans, fully demonstrating the elasticity and draping fit of the pants. Finally, the hand extends its index finger downward from the bottom of the frame, making a gesture guiding viewers to click to place an order, before pulling back slightly to bring all three mannequins fully into the frame
-  - Subject: semana você ganha liberdade para se mover e um caimento que não desistirá desmonta o look.  Bata no carrinho  e leve o trio  que seu guarda-roupa Opa, pede.
+  - Subject: semana você ganha liberdade para se mover e um caimento que não desistirá desmonta o look. Bata no carrinho e leve o trio que seu guarda-roupa Opa, pede.
 [Background Sound]:
 - No background music, purely a live voiceover format with no accompanying music or sound effects. The sense of urgency and fashion is created through the rhythm, intonation and wording of the script to guide viewers to place orders immediately. The style is direct, high-energy and promotional, and the absence of music interference highlights the verbal content and product selling points
 [Transition / Editing]:
@@ -69,17 +68,17 @@ Shot 1:
   - 时长: 0.0sec - 3.5sec
   - 镜头类型: 产品材质展示
   - 画面: 全景展示店内三尊无头黑色人体模特的背影，模特分别身着宝蓝色、深蓝色、黑色牛仔裤，脚穿棕色牛仔靴立于木质发光展台，随后镜头向前推近，一只浅肤色带汗毛的男性手臂从画面右侧缓缓伸入，手掌轻柔抚摸深蓝色牛仔裤的大腿外侧面料，手指缓慢划过布料表面，清晰展示牛仔布的细腻肌理
-  - 口播: Você bate o olho e já entende.  Não é jeans comum, é presença count.
+  - 口播: Você bate o olho e já entende. Não é jeans comum, é presença count.
 Shot 2:
   - 时长: 3.5sec - 8.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头继续向后拉远，从触摸深蓝色牛仔裤面料的手部特写缓缓拉开，完整呈现三尊模特并排站立的全景画面，画外伸出的手竖起一根手指，在三款牛仔裤上方轻轻比划示意，手部动作舒展自然，依次扫过宝蓝色、深蓝色、黑色三款裤子的展示区域
   - 口播: O kit com três calças em elastano combina resistência com fonte. E aí
 Shot 3:
   - 时长: 9.0sec - 15.5sec
   - 镜头类型: 下单流程指引
   - 画面: 镜头再次向前推近聚焦中间的深蓝色牛仔裤，男性手臂从画面右侧重新伸入，手掌先轻轻搭在牛仔裤的后袋区域，手指触碰悬挂着的棕色“MA”品牌吊牌，随后手掌向下滑动，再次完整抚摸整条牛仔裤的大腿后侧面料，充分展示裤子的弹性与垂坠版型，最后手部从画面下方伸出食指向下指向地面方向，做出引导点击下单的手势，最后轻微拉远让三尊模特完整入镜
-  - 口播: semana você ganha liberdade para se mover e um caimento que não desistirá desmonta o look.  Bata no carrinho  e leve o trio  que seu guarda-roupa Opa, pede.
+  - 口播: semana você ganha liberdade para se mover e um caimento que não desistirá desmonta o look. Bata no carrinho e leve o trio que seu guarda-roupa Opa, pede.
 [Background Sound]:
 - 没有背景音乐，为纯口播文案形式，无配乐或音效，通过文案节奏、语调和用词营造紧迫感与时尚感，引导观众立即下单，风格直接高能带促销性质，无配乐干扰可突出语言内容和产品卖点
 [Transition / Editing]:
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-menswear-594055](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-menswear-594055?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-menswear-594055)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-menswear-594055](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-menswear-594055?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-menswear-594055)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

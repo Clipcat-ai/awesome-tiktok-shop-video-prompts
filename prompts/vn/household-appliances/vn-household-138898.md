@@ -1,6 +1,6 @@
 ---
 id: vn-household-138898
-title: "DKHOUSE Nồi Điện 1.8L Đa Năng — Promo Pitch (Vietnam · Household Appliances)"
+title: "DKHOUSE Nồi Điện 1.8L Đa Năng, Nồi… — Promo Pitch (Vietnam · Household Appliances)"
 market: vn
 category: household-appliances
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673896462954138898
 creator: "@thegioidoxin"
 published: 2026-08-14
 ---
-# DKHOUSE Nồi Điện 1.8L Đa Năng — Promo Pitch (Vietnam · Household Appliances)
+# DKHOUSE Nồi Điện 1.8L Đa Năng, Nồi… — Promo Pitch (Vietnam · Household Appliances)
 **Weekly #1** · 🇻🇳 Vietnam · Household Appliances · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673896462954138898) by [@thegioidoxin](https://www.tiktok.com/@thegioidoxin). Format: **Promo Pitch** · 38s · hook: **Benefit First** · Hands only · Discount
-**Opening line (from the video):** “Today's price is even lower, fits all spaces, place your order quickly”
+**Opening line (translated from the video):** “Today's price is even lower, fits all spaces, place your order quickly”
 
 **Pain point it attacks:** High price when buying electric hot pot
 
@@ -41,23 +40,12 @@ Shot 1:
   - Duration: 0.0sec - 19.5sec
   - Scene Type: Promotional selling point highlight
   - Scene: The core display area of the indoor home goods lifestyle store, with tableware and green plants on the shelves clearly visible. The Asian woman's hand steadily holds the handle of the transparent gift box printed with the brand logo, inside the gift box is the milky white Bloomcook mini electric hot pot. The camera slowly orbits counterclockwise centered on the product, comprehensively showing the product promotional text and after-sales marks on the gift box, as well as the complete appearance of the electric hot pot with glass lid and adjustment knob. In the distant background, a store clerk is organizing goods, and prominent Vietnamese promotional subtitles remain at the top of the frame throughout the shot.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Ai mà bán cái giá đó thì em cũng đến bái phục luôn, chứ tận kho tận xưởng đâu.
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Người ta chợ giá rất là rẻ luôn  Bình thường các bác mua ở ngoài cũng phải từ nơi
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - Subject: Ai mà bán cái giá đó thì em cũng đến bái phục luôn, chứ tận kho tận xưởng đâu. Người ta chợ giá rất là rẻ luôn Bình thường các bác mua ở ngoài cũng phải từ nơi
 Shot 2:
   - Duration: 19.5sec - 38.5sec
   - Scene Type: Promotional selling point highlight
   - Scene: The camera pans to the tableware display area on the other side of the lifestyle store, the background shelves are filled with stacked ceramic dinner plates, woven baskets and hanging fabric textiles. The woman's hands keep holding the handle of the gift box, orbiting clockwise around the product at an even slower speed, focusing on demonstrating the side handle design of the electric hot pot and the brand slogan details on the transparent gift box, fully presenting the overall shape and packaging texture of the product.
-  - Subject: Thậm chí 200 cũng không phải luôn  Giá hôm nay còn rẻ hơn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc ạ.
+  - Subject: Thậm chí 200 cũng không phải luôn Giá hôm nay còn rẻ hơn Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc ạ.
 [Background Sound]:
 - Very upbeat TikTok background music, fast tempo around 120-140 BPM, electro-pop style, medium-high volume, with drum beats and synthesizer melodies, a typical TikTok viral shop promotional music with tight rhythm and high energy, effectively driving viewers' purchasing impulse, creating a lively sales promotion atmosphere and reinforcing the urgency to place an order.
 [Transition / Editing]:
@@ -77,23 +65,12 @@ Shot 1:
   - 时长: 0.0sec - 19.5sec
   - 镜头类型: 促销卖点强推
   - 画面: 室内家居生活馆的核心展示区域，货架上的餐具、绿植清晰可见。亚洲女性的手稳稳握住印有品牌标识的透明礼盒提手，礼盒内封装着奶白色Bloomcook迷你电火锅，镜头以产品为中心缓慢逆时针环绕旋转，全方位展示礼盒上的产品宣传文字、售后标识，以及电火锅带玻璃盖、调节旋钮的完整外观，背景中远处有店员在整理货品，全程画面顶部保留醒目的活动促销越南语字幕。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Ai mà bán cái giá đó thì em cũng đến bái phục luôn, chứ tận kho tận xưởng đâu.
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Người ta chợ giá rất là rẻ luôn  Bình thường các bác mua ở ngoài cũng phải từ nơi
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - 口播: Ai mà bán cái giá đó thì em cũng đến bái phục luôn, chứ tận kho tận xưởng đâu. Người ta chợ giá rất là rẻ luôn Bình thường các bác mua ở ngoài cũng phải từ nơi
 Shot 2:
   - 时长: 19.5sec - 38.5sec
   - 镜头类型: 促销卖点强推
   - 画面: 镜头转动至生活馆另一侧的餐具展示区，背景货架上陈列着堆叠的陶瓷餐盘、编织篮与挂放的布艺织物。女性的双手继续保持握持礼盒提手的姿态，以更缓慢的速度顺时针环绕产品转动，着重展示电火锅的侧面把手设计、透明礼盒上的品牌标语细节，充分呈现产品的整体造型与包装质感。
-  - 口播: Thậm chí 200 cũng không phải luôn  Giá hôm nay còn rẻ hơn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
-Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc ạ.
+  - 口播: Thậm chí 200 cũng không phải luôn Giá hôm nay còn rẻ hơn Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc ạ.
 [Background Sound]:
 - 非常欢快的TikTok背景音乐，快节奏约120-140 BPM，电子流行风格，音量中等偏高，带有鼓点和合成器旋律，属于典型的TikTok viral shop类促销音乐，节奏紧凑、情绪高涨，有效带动观众购买冲动，营造出热闹的带货促销氛围，强化下单紧迫感。
 [Transition / Editing]:
@@ -102,4 +79,4 @@ Lúc phù hợp mọi không gian, các bác chốt lẹ kéo về giá gốc �
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-household-138898](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-household-138898?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-household-138898)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-household-138898](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-household-138898?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-household-138898)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

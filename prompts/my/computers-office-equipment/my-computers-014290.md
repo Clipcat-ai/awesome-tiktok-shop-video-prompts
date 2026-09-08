@@ -1,6 +1,6 @@
 ---
 id: my-computers-014290
-title: "TBF [20pcs]TUALA GIFT BOX TOWEL — Handheld Demo (Malaysia · Computers & Office Equipment)"
+title: "TBF [20pcs]TUALA GIFT BOX TOWEL… — Handheld Demo (Malaysia · Computers & Office Equipment)"
 market: my
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7610684237037014290
 creator: "@zanaishak.1"
 published: 2026-02-25
 ---
-# TBF [20pcs]TUALA GIFT BOX TOWEL — Handheld Demo (Malaysia · Computers & Office Equipment)
+# TBF [20pcs]TUALA GIFT BOX TOWEL… — Handheld Demo (Malaysia · Computers & Office Equipment)
 **Weekly #1** · 🇲🇾 Malaysia · Computers & Office Equipment · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7610684237037014290) by [@zanaishak.1](https://www.tiktok.com/@zanaishak.1). Format: **Handheld Demo** · 27s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “Each is less than a ringgit”
+**Opening line (translated from the video):** “Each is less than a ringgit”
 
 **Pain point it attacks:** Wedding door gifts are hard to choose, cheap yet elegant
 
@@ -51,22 +50,22 @@ Shot 3:
   - Duration: 6.5sec - 10.5sec
   - Scene Type: Product material showcase
   - Scene: The shot switches to a macro close-up, the focus is on the lavender plush fabric of the mini towel. A single finger in the frame gently touches the fluffy, soft purple terry fabric of the towel, then the lens slowly pushes in, focuses on the 'Textile boutique' brand label in the middle of the gift box, clearly shows the fine texture of the fabric and the printed details of the label, the text 'Tak sampai seringgit/pcs' remains on screen throughout.
-  - Subject: packaging dia kemas  warna lembut  terus nampak premium
+  - Subject: packaging dia kemas warna lembut terus nampak premium
 Shot 4:
   - Duration: 10.5sec - 13.5sec
   - Scene Type: Product usage scenario
   - Scene: The shot cuts back to a medium shot of the outdoor wedding venue, the man stands in his original position, continues to hold the gift box and face the camera to share. The man holds the mini towel gift box with both hands, his fingers gently support the bottom of the box, naturally explains the practicality of the product to the camera, wears a relaxed smile, the guests and wedding venue environment in the background remain clearly visible, the on-screen text stays unchanged.
-  - Subject: Tetamu dapat terus boleh guna  Letak dalam kereta  Bawa travel
+  - Subject: Tetamu dapat terus boleh guna Letak dalam kereta Bawa travel
 Shot 5:
   - Duration: 13.5sec - 19.5sec
   - Scene Type: Gift-giving scenario
   - Scene: The camera angle shifts, turning from the front of the man to a side perspective that captures his interaction with a female guest opposite him, showing the gift-giving process. The man hands over the mini towel gift box with both hands, the woman opposite wearing pink clothing, a watch and rings reaches out with both hands to receive the gift, then the lens focuses on the female guest's hands, shows her holding the gift box, carefully admiring it and turning the box to check its details, the text 'Tak sampai seringgit/pcs' remains on screen for the entire segment.
-  - Subject: guna dekat rumah.  Kandung gift tak perlu besar.  Cukup yang ada kumpulan Kualiti dan nampak klasik macam ni  Confirm orang ingat siapa bagi
+  - Subject: guna dekat rumah. Kandung gift tak perlu besar. Cukup yang ada kumpulan Kualiti dan nampak klasik macam ni Confirm orang ingat siapa bagi
 Shot 6:
   - Duration: 19.5sec - 27.0sec
   - Scene Type: Great value price
   - Scene: After a short fade-in effect, the shot returns to a close-up of the man facing the camera, the location is still the lively outdoor wedding venue. The man steadily holds the mini towel gift box with both hands, positions the product in front of his body close to the camera, continues the final part of the sharing with a confident smile, looks earnestly at the camera, the text 'Tak sampai seringgit/pcs' remains displayed on the frame.
-  - Subject: Kuala nak dogi nampak premium tapi harga... masih berbaloi. Yang ni memang  pilihan selamat. Tanpa awal sebelum tarikh penuh ya.
+  - Subject: Kuala nak dogi nampak premium tapi harga... masih berbaloi. Yang ni memang pilihan selamat. Tanpa awal sebelum tarikh penuh ya.
 [Background Sound]:
 - No background music, the entire audio is a fast-paced, enthusiastic e-commerce sales voiceover spoken purely in Malay, with only extremely faint microphone background noise and the soft ambient chatter of the crowd at an outdoor wedding banquet, no other soundtrack or sound effect elements are present.
 [Transition / Editing]:
@@ -96,22 +95,22 @@ Shot 3:
   - 时长: 6.5sec - 10.5sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头切换为微距特写画面，焦点集中在迷你毛巾的淡紫色毛绒面料上。画面中可以看到一根手指轻轻触碰毛巾蓬松柔软的紫色毛圈面料，随后镜头缓缓推近，聚焦礼盒中间的“Textile boutique”品牌标签，清晰展示面料细腻的纹理与标签的印刷细节，全程保留“Tak sampai seringgit/pcs”的字幕。
-  - 口播: packaging dia kemas  warna lembut  terus nampak premium
+  - 口播: packaging dia kemas warna lembut terus nampak premium
 Shot 4:
   - 时长: 10.5sec - 13.5sec
   - 镜头类型: 产品使用场景
   - 画面: 镜头切回户外婚宴的中景画面，男子站在原本的位置继续手持礼品盒面向镜头分享。男子双手捧着迷你毛巾礼品盒，手指轻托礼盒底部，自然向镜头讲解产品的实用性，脸上带着轻松的微笑，背景的宾客与婚庆场地环境依旧清晰呈现，字幕保持不变。
-  - 口播: Tetamu dapat terus boleh guna  Letak dalam kereta  Bawa travel
+  - 口播: Tetamu dapat terus boleh guna Letak dalam kereta Bawa travel
 Shot 5:
   - 时长: 13.5sec - 19.5sec
   - 镜头类型: 送礼场景
   - 画面: 镜头角度切换，从男子的正面转向他与对面女性宾客互动的侧面视角，展示赠礼过程。男子将迷你毛巾礼品盒双手递出，对面身着粉色服饰、佩戴手表与戒指的女性伸出双手接过礼品，随后镜头聚焦在女性宾客的双手上，展示她捧着礼品盒仔细观赏、转动礼盒查看细节的动作，画面中“Tak sampai seringgit/pcs”的字幕全程保留。
-  - 口播: guna dekat rumah.  Kandung gift tak perlu besar.  Cukup yang ada kumpulan Kualiti dan nampak klasik macam ni  Confirm orang ingat siapa bagi
+  - 口播: guna dekat rumah. Kandung gift tak perlu besar. Cukup yang ada kumpulan Kualiti dan nampak klasik macam ni Confirm orang ingat siapa bagi
 Shot 6:
   - 时长: 19.5sec - 27.0sec
   - 镜头类型: 超值价格
   - 画面: 画面经过短暂的淡入效果，回到男子面向镜头的近景画面，场地依旧是热闹的户外婚宴现场。男子双手稳稳捧着迷你毛巾礼品盒，将产品放置在身体前侧靠近镜头的位置，面带自信的微笑继续完成最后的分享，眼神真挚地看向镜头，画面中保留“Tak sampai seringgit/pcs”的字幕。
-  - 口播: Kuala nak dogi nampak premium tapi harga... masih berbaloi. Yang ni memang  pilihan selamat. Tanpa awal sebelum tarikh penuh ya.
+  - 口播: Kuala nak dogi nampak premium tapi harga... masih berbaloi. Yang ni memang pilihan selamat. Tanpa awal sebelum tarikh penuh ya.
 [Background Sound]:
 - 无背景音乐，全程为纯马来语电商带货口播，语速较快、语气热情，仅存在极其轻微的麦克风底噪与户外婚宴现场微弱的人群交谈背景音，无任何配乐、音效元素。
 [Transition / Editing]:
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-computers-014290](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-computers-014290?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-computers-014290)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-computers-014290](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-computers-014290?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-computers-014290)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

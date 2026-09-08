@@ -1,6 +1,6 @@
 ---
 id: br-shoes-419858
-title: "Mocassim Feminino Sapatos sem cadarço Macio — Handheld Demo (Brazil · Shoes)"
+title: "Mocassim Feminino Sapatos sem… — Handheld Demo (Brazil · Shoes)"
 market: br
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675775598836419858
 creator: "@belezaweekloja_"
 published: 2026-08-19
 ---
-# Mocassim Feminino Sapatos sem cadarço Macio — Handheld Demo (Brazil · Shoes)
+# Mocassim Feminino Sapatos sem… — Handheld Demo (Brazil · Shoes)
 **Weekly #1** · 🇧🇷 Brazil · Shoes · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675775598836419858) by [@belezaweekloja_](https://www.tiktok.com/@belezaweekloja_). Format: **Handheld Demo** · 26s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Hi girls, what is this orthopedic moccasin shoe”
+**Opening line (translated from the video):** “Hi girls, what is this orthopedic moccasin shoe”
 
 **Key visuals:** Rose Red Reflective Floor · Golden Deer Ornament · Art Painting · Yellow White Artificial Flowers · Black Moccasin · Off-white Moccasin · Brown Moccasin · Thin Socks
 
@@ -37,7 +36,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 4.5sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The camera focuses on feet wearing sheer light skin-toned stockings. Three pairs of casual shoes of the same style in black, off-white and brown are placed in a row on the magenta reflective floor beside the feet. The foot that lifts first is wearing the black pair, then a hand helps change into the off-white pair, and finally switches back to the black pair. The foot gently taps on the floor to adjust the shoe's position, with the golden deer ornament and floral decorations in the background clearly visible. The camera maintains a close-up framing, slightly adjusting focus to follow the foot's movement, resulting in stable footage.
   - Subject: Olá meninas, qual é essa sapatilha mocassin ortopédica que
 Shot 2:
@@ -52,9 +51,9 @@ Shot 3:
   - Subject: Você pode usá-la com calça de sai.
 Shot 4:
   - Duration: 13.0sec - 14.5sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The character keeps wearing the black cropped casual trousers, and sequentially reveals the off-white and brown pairs of casual shoes, lifting her feet to showcase the upper details and outsole colorways of the two models. Against the magenta reflective floor, the light off-white and brown tones and textures of the shoe uppers are clearly presented. The camera pans slightly to shift focus, aiming at each different colored shoe in turn.
-  - Subject: Vestido ou shorts.  É feito de couro masturado.
+  - Subject: Vestido ou shorts. É feito de couro masturado.
 Shot 5:
   - Duration: 14.5sec - 19.0sec
   - Scene Type: Product material showcase
@@ -82,7 +81,7 @@ Shot 6:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 4.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头聚焦在穿着浅肤色丝袜的脚上，脚边的玫红色反光地面依次摆放着黑色、米白色、棕色三款同款式休闲鞋，先抬起的脚穿着黑色款，随后手辅助换穿米白色鞋，最后再换回黑色鞋，在地面轻轻踩踏调整鞋身位置，背景中的金色小鹿摆件与花艺装饰清晰可见，镜头保持近距离特写，轻微跟随脚部移动调整对焦，画面稳定。
   - 口播: Olá meninas, qual é essa sapatilha mocassin ortopédica que
 Shot 2:
@@ -97,9 +96,9 @@ Shot 3:
   - 口播: Você pode usá-la com calça de sai.
 Shot 4:
   - 时长: 13.0sec - 14.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 人物保持黑色九分休闲裤穿搭，依次切换露出米白色与棕色款休闲鞋，抬脚展示两款鞋的鞋面细节与鞋底配色，在玫红色反光地面的映衬下，鞋身的浅米与棕色调和质感清晰呈现，镜头小幅度平移切换焦点，依次对准不同颜色的鞋子。
-  - 口播: Vestido ou shorts.  É feito de couro masturado.
+  - 口播: Vestido ou shorts. É feito de couro masturado.
 Shot 5:
   - 时长: 14.5sec - 19.0sec
   - 镜头类型: 产品材质展示
@@ -123,4 +122,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-shoes-419858](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-shoes-419858?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-shoes-419858)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-shoes-419858](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-shoes-419858?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-shoes-419858)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

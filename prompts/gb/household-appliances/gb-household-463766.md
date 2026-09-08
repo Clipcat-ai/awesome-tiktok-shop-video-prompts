@@ -1,6 +1,6 @@
 ---
 id: gb-household-463766
-title: "2500W Portable Steam Cleaner with 6 Levels Fast Heating — Real Review (United Kingdom · Household Appliances)"
+title: "2500W Portable Steam Cleaner with… — Real Review (United Kingdom · Household Appliances)"
 market: gb
 category: household-appliances
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7619676595254463766
 creator: "@jenniferpalmerzv"
 published: 2026-03-21
 ---
-# 2500W Portable Steam Cleaner with 6 Levels Fast Heating — Real Review (United Kingdom · Household Appliances)
+# 2500W Portable Steam Cleaner with… — Real Review (United Kingdom · Household Appliances)
 **Weekly #1** · 🇬🇧 United Kingdom · Household Appliances · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7619676595254463766) by [@jenniferpalmerzv](https://www.tiktok.com/@jenniferpalmerzv). Format: **Real Review** · 15s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Mould won't come off”
+**Opening line (quoted from the video):** “Mould won't come off”
 
 **Pain point it attacks:** Stubborn mould is hard to remove
 
@@ -154,4 +153,4 @@ Shot 10:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-household-463766](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-household-463766?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-household-463766)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-household-463766](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-household-463766?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-household-463766)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

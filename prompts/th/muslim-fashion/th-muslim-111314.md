@@ -1,6 +1,6 @@
 ---
 id: th-muslim-111314
-title: "ชุดเซตกางเกง รุ่นจัสมิน สวยเก๋ ลุคผู้ดีมาก ผ้าสลาฟเกรดA — OOTD Showcase (Thailand · Muslim Fashion)"
+title: "ชุดเซตกางเกง รุ่นจัสมิน สวยเก๋… — OOTD Showcase (Thailand · Muslim Fashion)"
 market: th
 category: muslim-fashion
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7660417106785111314
 creator: "@nifarhapayae"
 published: 2026-07-09
 ---
-# ชุดเซตกางเกง รุ่นจัสมิน สวยเก๋ ลุคผู้ดีมาก ผ้าสลาฟเกรดA — OOTD Showcase (Thailand · Muslim Fashion)
+# ชุดเซตกางเกง รุ่นจัสมิน สวยเก๋… — OOTD Showcase (Thailand · Muslim Fashion)
 **Weekly #1** · 🇹🇭 Thailand · Muslim Fashion · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7660417106785111314) by [@nifarhapayae](https://www.tiktok.com/@nifarhapayae). Format: **OOTD Showcase** · 5s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Even though it's all in our own”
+**Opening line (quoted from the video):** “Even though it's all in our own”
 
 **Key visuals:** Cafe Interior · Mirror Selfie · Olive Green Suit · Wooden Tables · White Ceramic Containers · Baked Goods · Indoor Plants
 
@@ -78,4 +77,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-muslim-111314](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-muslim-111314?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-muslim-111314)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-muslim-111314](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-muslim-111314?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-muslim-111314)
-🤖 **Driving an AI agent?** `clipcat prompt search "Muslim Fashion"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Muslim Fashion ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: br-collectibles-980629
-title: "Dispenser Copa Do Mundo 2026 - 100 Envelopes /700 Figurinhas — Promo Pitch (Brazil · Collectibles)"
+title: "Dispenser Copa Do Mundo 2026 - 100… — Promo Pitch (Brazil · Collectibles)"
 market: br
 category: collectibles
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679148959754980629
 creator: "@diegoshopp1"
 published: 2026-08-28
 ---
-# Dispenser Copa Do Mundo 2026 - 100 Envelopes /700 Figurinhas — Promo Pitch (Brazil · Collectibles)
+# Dispenser Copa Do Mundo 2026 - 100… — Promo Pitch (Brazil · Collectibles)
 **Weekly #1** · 🇧🇷 Brazil · Collectibles · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679148959754980629) by [@diegoshopp1](https://www.tiktok.com/@diegoshopp1). Format: **Promo Pitch** · 23s · hook: **Pain Point** · On-camera host · Discount
-**Opening line (from the video):** “Whoever bought this pack for 700 reais must be crying now”
+**Opening line (translated from the video):** “Whoever bought this pack for 700 reais must be crying now”
 
 **Pain point it attacks:** People who bought World Cup sticker packs at high price regret
 
@@ -41,24 +40,17 @@ Shot 1:
   - Duration: 0.0sec - 5.0sec
   - Scene Type: Highlight the pain point
   - Scene: The host standing in front of the workshop conveyor belt holds the yellow 2026 FIFA World Cup Panini packaging box with both hands, leans slightly forward, opens their mouth wide with a surprised expression, then furrows their brows to show a regretful look. They gently rotate the box with their hands to show its different sides, while workers in the background continue their normal packaging tasks.
-  - Subject: Quem comprou esse pack por 700 reais
-Deve estar chorando agora.
+  - Subject: Quem comprou esse pack por 700 reais Deve estar chorando agora.
 Shot 2:
   - Duration: 5.0sec - 15.5sec
   - Scene Type: Strongly promote the selling points
   - Scene: The host raises one hand in a pressing-down emphasizing gesture, then gently taps their finger on the surface of the packaging box, widens their eyes to show an excited, delighted expression. While explaining, they use hand gestures to illustrate the product quantity contained in the box. The conveyor belt in the background keeps running, workers maintain their steady working state, and the 2026 World Cup logo on the front of the packaging box is prominently displayed.
-  - Subject: A Panini simplesmente derrubou o preço. isso
-O pack com 100 pacotinhos de figurinhas.
-E agora está saindo por menos de 320.
-R$ 20,00.
+  - Subject: A Panini simplesmente derrubou o preço. isso O pack com 100 pacotinhos de figurinhas. E agora está saindo por menos de 320. R$ 20,00.
 Shot 3:
   - Duration: 15.5sec - 23.0sec
   - Scene Type: Guide the order placement process
   - Scene: The host stands slightly straighter, extends the index finger of their left hand to point toward the lower part of the camera, wears a bright, fully enthusiastic smile on their face, keeps their mouth moving as they continue explaining, and signals the audience to click the link below to get the discount. The video ends with the host still holding the packaging box.
-  - Subject: Se você quer completar o álbum da Copa, a hora é agora.
-Agora.
-Clica no carrinho laranja e aproveita essa oferta.
-Obrigado.
+  - Subject: Se você quer completar o álbum da Copa, a hora é agora. Agora. Clica no carrinho laranja e aproveita essa oferta. Obrigado.
 [Background Sound]:
 - A very upbeat, high-rhythm TikTok-style background music with electronic drum beats and a lively synthesizer melody. The volume is moderately high, with a brisk tempo of around 120-130 BPM. It is a typical e-commerce promotional BGM driven by strong drum beats and repeating melodies, creating a sense of urgency and excitement for 'limited-time flash sales' and 'super value offers'. It is perfectly suited for product promotion content, effectively grabbing the audience's attention and driving them to click and purchase.
 [Transition / Editing]:
@@ -78,24 +70,17 @@ Shot 1:
   - 时长: 0.0sec - 5.0sec
   - 镜头类型: 点明痛点问题
   - 画面: 站在车间传送带前的主播双手捧着黄色2026 FIFA世界杯帕尼尼包装盒，身体微微前倾，嘴巴大张表情惊讶，随后皱起眉头露出惋惜的神情，手部轻轻转动包装盒展示不同侧面，背景中的工人正常进行包装作业。
-  - 口播: Quem comprou esse pack por 700 reais
-Deve estar chorando agora.
+  - 口播: Quem comprou esse pack por 700 reais Deve estar chorando agora.
 Shot 2:
   - 时长: 5.0sec - 15.5sec
   - 镜头类型: 促销卖点强推
   - 画面: 主播扬起一只手做出下压强调的动作，随后手指轻轻点在包装盒表面，眼睛睁大露出兴奋惊喜的表情，一边讲解一边用手势辅助说明包装盒的内容量，背景传送带持续运转，工人作业状态保持稳定，重点展示包装盒正面的2026世界杯标识。
-  - 口播: A Panini simplesmente derrubou o preço. isso
-O pack com 100 pacotinhos de figurinhas.
-E agora está saindo por menos de 320.
-R$ 20,00.
+  - 口播: A Panini simplesmente derrubou o preço. isso O pack com 100 pacotinhos de figurinhas. E agora está saindo por menos de 320. R$ 20,00.
 Shot 3:
   - 时长: 15.5sec - 23.0sec
   - 镜头类型: 下单流程指引
   - 画面: 主播身体微微站直，伸出左手食指指向镜头下方的方向，脸上露出热情满满的笑容，嘴巴开合持续进行讲解，示意观众点击下方链接享受优惠，最后保持持握包装盒的姿势结束画面。
-  - 口播: Se você quer completar o álbum da Copa, a hora é agora.
-Agora.
-Clica no carrinho laranja e aproveita essa oferta.
-Obrigado.
+  - 口播: Se você quer completar o álbum da Copa, a hora é agora. Agora. Clica no carrinho laranja e aproveita essa oferta. Obrigado.
 [Background Sound]:
 - 非常欢快、节奏感强的TikTok风格背景音乐，带有电子鼓点和轻快的合成器旋律，音量中等偏高，节奏明快（约120-130 BPM），属于典型的电商促销BGM，具有强烈的鼓点驱动和重复旋律，营造出“限时抢购”“超值优惠”的紧迫感和兴奋感，适配带货促销内容，有效吸引观众注意力推动点击购买。
 [Transition / Editing]:
@@ -104,4 +89,4 @@ Obrigado.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-collectibles-980629](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-collectibles-980629?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-collectibles-980629)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-collectibles-980629](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-collectibles-980629?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-collectibles-980629)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

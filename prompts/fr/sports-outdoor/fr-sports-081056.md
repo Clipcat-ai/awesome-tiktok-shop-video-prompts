@@ -1,6 +1,6 @@
 ---
 id: fr-sports-081056
-title: "Tapis roulant pliable UMAY SF20 — Real Review (France · Sports & Outdoor)"
+title: "Tapis roulant pliable UMAY SF20… — Real Review (France · Sports & Outdoor)"
 market: fr
 category: sports-outdoor
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7663844615602081056
 creator: "@dandouch06"
 published: 2026-07-18
 ---
-# Tapis roulant pliable UMAY SF20 — Real Review (France · Sports & Outdoor)
+# Tapis roulant pliable UMAY SF20… — Real Review (France · Sports & Outdoor)
 **Weekly #1** · 🇫🇷 France · Sports & Outdoor · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7663844615602081056) by [@dandouch06](https://www.tiktok.com/@dandouch06). Format: **Real Review** · 14s · hook: **Urgency** · On-camera host · Discount
-**Opening line (from the video):** “Look, it just arrived. I use the same one at home”
+**Opening line (translated from the video):** “Look, it just arrived. I use the same one at home”
 
 **Pain point it attacks:** Home treadmills are hard to choose, worry about instability and complex operation
 
@@ -111,7 +110,7 @@ Shot 7:
   - 时长: 10.0sec - 15.0sec
   - 镜头类型: 促销卖点强推
   - 画面: 仓库全景区域，博主继续在跑步机上随着传送带的速度自然行走，步伐逐渐加快，展示快走与轻度跑步的流畅体验，同时博主抬手指向画面左下角方向，向镜头提示折扣活动的位置，背景中工作人员依旧在忙碌整理货品，画面的“-20%”折扣标识持续显示，博主行走状态平稳放松，表情愉悦自信，抬手做出指向左下角的手势，全程保持和镜头的亲切交流，背景里工作人员的搬运动作自然真实，镜头从博主行走的中景慢慢拉远为全景，完整呈现仓库大环境与博主使用跑步机的整体场景。
-  - 口播: sous-bouger chez soi, elle fait le travail.  Si ça t'intéresse, regarde en bas. à la gauche.
+  - 口播: sous-bouger chez soi, elle fait le travail. Si ça t'intéresse, regarde en bas. à la gauche.
 [Background Sound]:
 - 视频中未检测到任何背景音乐或音效，全程为纯人声法语旁白，语速自然、语气轻松，配合画面展示产品使用场景，属于典型的“无配乐+真人实拍+口播推荐”型电商短视频风格，重点突出产品体验和使用效果，而非通过音乐营造氛围。
 [Transition / Editing]:
@@ -120,4 +119,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-sports-081056](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-sports-081056?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-sports-081056)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-sports-081056](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-sports-081056?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-sports-081056)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

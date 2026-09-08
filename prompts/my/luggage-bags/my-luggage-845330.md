@@ -1,6 +1,6 @@
 ---
 id: my-luggage-845330
-title: "Business travel waterproof computer bag - Simple and spacious — Handheld Demo (Malaysia · Luggage & Bags)"
+title: "Business travel waterproof… — Handheld Demo (Malaysia · Luggage & Bags)"
 market: my
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7657743428284845330
 creator: "@abkajang"
 published: 2026-07-02
 ---
-# Business travel waterproof computer bag - Simple and spacious — Handheld Demo (Malaysia · Luggage & Bags)
+# Business travel waterproof… — Handheld Demo (Malaysia · Luggage & Bags)
 **Weekly #1** · 🇲🇾 Malaysia · Luggage & Bags · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7657743428284845330) by [@abkajang](https://www.tiktok.com/@abkajang). Format: **Handheld Demo** · 20s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “This bag is only about RM22, looks premium”
+**Opening line (translated from the video):** “This bag is only about RM22, looks premium”
 
 **Pain point it attacks:** Can't find affordable waterproof large-capacity backpack
 
@@ -41,7 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 3.0sec
   - Scene Type: Product Material Display
   - Scene: The creator stands in the center of the store aisle, holding the blue top handle of the backpack with his right hand, pointing at the brand logo area on the front of the backpack with his left hand, smiling warmly at the camera. The background shelves are filled with a wide, varied selection of bags and luggage, and the figures of browsing customers are visible in the distance.
-  - Subject: Bird ni baru lebih kurang  RM22 je  nampak premium
+  - Subject: Bird ni baru lebih kurang RM22 je nampak premium
 Shot 2:
   - Duration: 3.0sec - 6.0sec
   - Scene Type: Product Versatility
@@ -71,7 +70,7 @@ Shot 7:
   - Duration: 17.5sec - 20.0sec
   - Scene Type: Limited-Time Special Offer
   - Scene: The creator slings the backpack over both shoulders, turns sideways to adjust the tightness of the shoulder straps to show how the backpack looks when worn, then turns back to face the camera, points at the blue decorative section on the backpack's shoulder strap with his finger, and finishes the final demonstration guidance with a smile.
-  - Subject: harga promosi macam ni  memang berbaloi  sebelum habis cepat check out sekarang.
+  - Subject: harga promosi macam ni memang berbaloi sebelum habis cepat check out sekarang.
 [Background Sound]:
 - Extremely upbeat TikTok-style background music with a brisk, lively rhythm, moderately high volume, electronic drum beats and playful synthesizer melodies. The style resembles viral TikTok pop dance or Gen Z trending beats, perfectly suited for youth-focused high-conversion product sales scenarios, matching the sense of urgency of limited-time promotional flash sales, amplifying the trendy feel of great value, and prompting viewers to make impulsive purchases.
 [Transition / Editing]:
@@ -91,7 +90,7 @@ Shot 1:
   - 时长: 0.0sec - 3.0sec
   - 镜头类型: 产品材质展示
   - 画面: 博主站在箱包店过道中央，右手握住背包顶部的蓝色提手，左手指向背包正面的品牌标识区域，面向镜头热情微笑，背景货架上陈列着琳琅满目的各类箱包，远处能看到逛店的顾客身影。
-  - 口播: Bird ni baru lebih kurang  RM22 je  nampak premium
+  - 口播: Bird ni baru lebih kurang RM22 je nampak premium
 Shot 2:
   - 时长: 3.0sec - 6.0sec
   - 镜头类型: 产品多功能性
@@ -121,7 +120,7 @@ Shot 7:
   - 时长: 17.5sec - 20.0sec
   - 镜头类型: 限时优惠
   - 画面: 博主将背包背到双肩上，侧身调整背带的松紧度，向镜头展示背包的上身效果，随后转回正面，伸出手指指向背包肩带上的蓝色装饰部分，面带笑容完成最后的展示引导。
-  - 口播: harga promosi macam ni  memang berbaloi  sebelum habis cepat check out sekarang.
+  - 口播: harga promosi macam ni memang berbaloi sebelum habis cepat check out sekarang.
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子鼓点和俏皮合成器旋律，风格类似viral TikTok pop dance或Gen Z trending beat，适配年轻化高转化带货场景，契合促销限时抢购的紧迫感，强化高性价比的潮流感，刺激观众冲动下单。
 [Transition / Editing]:
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-luggage-845330](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-luggage-845330?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-luggage-845330)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-luggage-845330](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-luggage-845330?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-luggage-845330)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

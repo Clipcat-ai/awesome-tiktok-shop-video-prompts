@@ -1,6 +1,6 @@
 ---
 id: ph-womenswear-602452
-title: "HERMOSA Jeneya Ribbed Asymmetrical Off-Shoulder Batwing Sleeve — OOTD Showcase (Philippines · Womenswear & Underwear)"
+title: "HERMOSA Jeneya Ribbed Asymmetrical… — OOTD Showcase (Philippines · Womenswear & Underwear)"
 market: ph
 category: womenswear-underwear
 video_type: ootd
@@ -17,9 +17,8 @@ source: https://www.tiktok.com/share/video/7676378475191602452
 creator: "@silvermist.xuh"
 published: 2026-08-21
 ---
-# HERMOSA Jeneya Ribbed Asymmetrical Off-Shoulder Batwing Sleeve — OOTD Showcase (Philippines · Womenswear & Underwear)
+# HERMOSA Jeneya Ribbed Asymmetrical… — OOTD Showcase (Philippines · Womenswear & Underwear)
 **Weekly #1** · 🇵🇭 Philippines · Womenswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676378475191602452) by [@silvermist.xuh](https://www.tiktok.com/@silvermist.xuh). Format: **OOTD Showcase** · 13s · hook: **POV Scenario** · On-camera host · No promo
 **Key visuals:** Cloakroom · White Wardrobe · Wooden Door · Burgundy Knit Top · White Mini Skirt · Underarm Bag · Wood Floor
 
@@ -96,4 +95,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-womenswear-602452](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-womenswear-602452?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-womenswear-602452)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-womenswear-602452](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-womenswear-602452?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-womenswear-602452)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

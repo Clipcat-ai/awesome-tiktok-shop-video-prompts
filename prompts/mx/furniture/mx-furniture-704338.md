@@ -1,6 +1,6 @@
 ---
 id: mx-furniture-704338
-title: "Clóset Armable de Tela para Recámara — Promo Pitch (Mexico · Furniture)"
+title: "Clóset Armable de Tela para… — Promo Pitch (Mexico · Furniture)"
 market: mx
 category: furniture
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667499982655704338
 creator: "@feliz_vida_01"
 published: 2026-07-28
 ---
-# Clóset Armable de Tela para Recámara — Promo Pitch (Mexico · Furniture)
+# Clóset Armable de Tela para… — Promo Pitch (Mexico · Furniture)
 **Weekly #1** · 🇲🇽 Mexico · Furniture · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667499982655704338) by [@feliz_vida_01](https://www.tiktok.com/@feliz_vida_01). Format: **Promo Pitch** · 15s · hook: **POV Scenario** · On-camera host · Discount
-**Opening line (from the video):** “It's time to order your room”
+**Opening line (quoted from the video):** “It's time to order your room”
 
 **Pain point it attacks:** Room is messy and hard to organize
 
@@ -46,12 +45,11 @@ Shot 2:
   - Duration: 4.0sec - 8.0sec
   - Scene Type: Ease of use demonstration
   - Scene: The shot cuts to a close-up of the wardrobe interior. The South Asian woman stands in front of the wardrobe's hanging rod, picks up light-colored tops on hangers one by one, and hangs them neatly and orderly on the top metal horizontal rod, arranging them in a line from left to right. Even, uniform gaps are left between each hanging garment for a tidy, comfortable visual effect. The fixed close-up shot focuses on the hanging rod area, clearly capturing the detailed hand movements of hanging the clothes.
-  - Subject: Thank you. Thank you.
 Shot 3:
   - Duration: 8.0sec - 11.5sec
   - Scene Type: Product effectiveness demonstration
   - Scene: The South Asian woman holds multiple stacks of neatly folded light-colored and beige fabrics, and places them one by one onto the empty lower shelves of the wardrobe. She bends down to align each stack of fabrics neatly against the edge of the shelf, and the three lower shelves are quickly filled with the orderly folded items. All movements in this process are fluid and organized. The camera stays at a close-up position, moving slightly downward to follow the woman's bending and placing motion, fully recording the fine details of storing the folded items.
-  - Subject: All in order then. Thank you.
+  - Subject: All in order then.
 Shot 4:
   - Duration: 11.5sec - 15.0sec
   - Scene Type: Great value price presentation
@@ -81,12 +79,11 @@ Shot 2:
   - 时长: 4.0sec - 8.0sec
   - 镜头类型: 展示易用性
   - 画面: 镜头切换到衣柜内部的近景，南亚裔女性站立在衣柜挂衣杆前，逐件拿起带有衣架的浅色系上衣，将它们整齐有序地挂在顶层的金属横杆上，从左到右依次排列，挂好的衣物之间留有均匀的间距，视觉上整洁舒适，固定近景镜头聚焦挂衣杆区域，清晰捕捉挂放衣物的手部动作。
-  - 口播: Thank you. Thank you.
 Shot 3:
   - 时长: 8.0sec - 11.5sec
   - 镜头类型: 产品有效性
   - 画面: 南亚裔女性怀抱多叠整理好的浅色、米色织物，逐一向衣柜下层的空层板摆放，弯腰将每叠织物对齐层板边缘码放整齐，三层层板很快就被规整的叠品填满，整个过程动作流畅有序，镜头保持近景机位，跟随人物弯腰摆放的动作轻微下移，完整记录叠品收纳的细节。
-  - 口播: All in order then. Thank you.
+  - 口播: All in order then.
 Shot 4:
   - 时长: 11.5sec - 15.0sec
   - 镜头类型: 超值价格
@@ -100,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-furniture-704338](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-furniture-704338?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-furniture-704338)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-furniture-704338](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-furniture-704338?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-furniture-704338)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: us-womenswear-154207
-title: "Vintage School Punk Rock Band Print — OOTD Showcase (United States · Womenswear & Underwear)"
+title: "Vintage School Punk Rock Band… — OOTD Showcase (United States · Womenswear & Underwear)"
 market: us
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678205266227154207
 creator: "@ani.shop889"
 published: 2026-08-26
 ---
-# Vintage School Punk Rock Band Print — OOTD Showcase (United States · Womenswear & Underwear)
+# Vintage School Punk Rock Band… — OOTD Showcase (United States · Womenswear & Underwear)
 **Weekly #1** · 🇺🇸 United States · Womenswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678205266227154207) by [@ani.shop889](https://www.tiktok.com/@ani.shop889). Format: **OOTD Showcase** · 12s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “At night's campus back-to-school party, a blonde woman raises a red party cup high”
+**Opening beat:** “At night's campus back-to-school party, a blonde woman raises a red party cup high”
 
 **Key visuals:** Campus Party String Lights · Red Party Cup · White Printed T-shirt · Black Pleated Skirt · Palm Tree · Bedroom Blinds · Backdrop Banner · Red and Black Balloons
 
@@ -98,4 +97,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-womenswear-154207](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-womenswear-154207?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-womenswear-154207)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-womenswear-154207](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-womenswear-154207?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-womenswear-154207)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

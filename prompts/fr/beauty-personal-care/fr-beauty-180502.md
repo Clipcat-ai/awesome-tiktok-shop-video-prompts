@@ -1,6 +1,6 @@
 ---
 id: fr-beauty-180502
-title: "GOKOCO Masque Facial LED GF1076 – 7 Couleurs de Lumière pour A — Real Review (France · Beauty & Personal Care)"
+title: "GOKOCO Masque Facial LED GF1076… — Real Review (France · Beauty & Personal Care)"
 market: fr
 category: beauty-personal-care
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678432910768180502
 creator: "@gokoco.europe"
 published: 2026-08-26
 ---
-# GOKOCO Masque Facial LED GF1076 – 7 Couleurs de Lumière pour A — Real Review (France · Beauty & Personal Care)
+# GOKOCO Masque Facial LED GF1076… — Real Review (France · Beauty & Personal Care)
 **Weekly #1** · 🇫🇷 France · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678432910768180502) by [@gokoco.europe](https://www.tiktok.com/@gokoco.europe). Format: **Real Review** · 32s · hook: **Curiosity Gap** · Hands only · No promo
-**Opening line (from the video):** “Girls, look what I just received from TikTok”
+**Opening line (translated from the video):** “Girls, look what I just received from TikTok”
 
 **Pain point it attacks:** Skin has wrinkles and blemishes needing improvement
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-beauty-180502](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-beauty-180502?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-beauty-180502)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-beauty-180502](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-beauty-180502?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-beauty-180502)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

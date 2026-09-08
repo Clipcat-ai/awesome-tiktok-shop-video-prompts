@@ -1,6 +1,6 @@
 ---
 id: fr-phones-066646
-title: "Sans application Chercheur de clés avec lampe de poche - Local — Real Review (France · Phones & Electronics)"
+title: "Sans application Chercheur de clés… — Real Review (France · Phones & Electronics)"
 market: fr
 category: phones-electronics
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674944448203066646
 creator: "@user5030167446970"
 published: 2026-08-17
 ---
-# Sans application Chercheur de clés avec lampe de poche - Local — Real Review (France · Phones & Electronics)
+# Sans application Chercheur de clés… — Real Review (France · Phones & Electronics)
 **Weekly #1** · 🇫🇷 France · Phones & Electronics · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674944448203066646) by [@user5030167446970](https://www.tiktok.com/@user5030167446970). Format: **Real Review** · 25s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “You always lose your keys at the worst time”
+**Opening line (translated from the video):** “You always lose your keys at the worst time”
 
 **Pain point it attacks:** Can't find keys and other small items daily
 
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-phones-066646](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-phones-066646?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-phones-066646)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-phones-066646](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-phones-066646?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-phones-066646)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

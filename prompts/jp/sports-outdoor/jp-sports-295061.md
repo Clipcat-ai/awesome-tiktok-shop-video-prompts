@@ -1,6 +1,6 @@
 ---
 id: jp-sports-295061
-title: "折りたたみ椅子 超軽量340g upcheirna アウトドアチェア キャンプチェア 携帯スツール 耐荷重120kg アルミ — Handheld Demo (Japan · Sports & Outdoor)"
+title: "折りたたみ椅子 超軽量340g… — Handheld Demo (Japan · Sports & Outdoor)"
 market: jp
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670063845922295061
 creator: "@oota.yua6"
 published: 2026-08-04
 ---
-# 折りたたみ椅子 超軽量340g upcheirna アウトドアチェア キャンプチェア 携帯スツール 耐荷重120kg アルミ — Handheld Demo (Japan · Sports & Outdoor)
+# 折りたたみ椅子 超軽量340g… — Handheld Demo (Japan · Sports & Outdoor)
 **Weekly #1** · 🇯🇵 Japan · Sports & Outdoor · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670063845922295061) by [@oota.yua6](https://www.tiktok.com/@oota.yua6). Format: **Handheld Demo** · 10s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “It's more convenient than it looks, folds small and is super easy to carry”
+**Opening line (translated from the video):** “It's more convenient than it looks, folds small and is super easy to carry”
 
 **Pain point it attacks:** Inconvenient to carry seats for outdoor trips
 
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-sports-295061](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-sports-295061?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-sports-295061)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-sports-295061](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-sports-295061?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-sports-295061)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

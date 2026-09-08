@@ -1,6 +1,6 @@
 ---
 id: th-kitchenware-261447
-title: "มีดครัว KIWI แท้ ซื้อ 1 แถม 1 คมจัด ทนทาน สแตนเลสแท้ ใช้ดีทุกค — Promo Pitch (Thailand · Kitchenware)"
+title: "มีดครัว KIWI แท้ ซื้อ 1 แถม 1… — Promo Pitch (Thailand · Kitchenware)"
 market: th
 category: kitchenware
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669365307911261447
 creator: "@iceprincess.pop"
 published: 2026-08-02
 ---
-# มีดครัว KIWI แท้ ซื้อ 1 แถม 1 คมจัด ทนทาน สแตนเลสแท้ ใช้ดีทุกค — Promo Pitch (Thailand · Kitchenware)
+# มีดครัว KIWI แท้ ซื้อ 1 แถม 1… — Promo Pitch (Thailand · Kitchenware)
 **Weekly #1** · 🇹🇭 Thailand · Kitchenware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669365307911261447) by [@iceprincess.pop](https://www.tiktok.com/@iceprincess.pop). Format: **Promo Pitch** · 20s · hook: **Result First** · Hands only · Bundle deal
-**Opening line (from the video):** “1 baht 1 baht 1 baht, wholesale 1 baht also don't know”
+**Opening line (translated from the video):** “1 baht 1 baht 1 baht, wholesale 1 baht also don't know”
 
 **Key visuals:** Wooden Knife Box · KIWI Brand Knife · Lime · Tomato · Wooden Cutting Board · 7-Eleven Shopping Bag · Fresh Vegetables · Wooden Shelf
 
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-kitchenware-261447](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-kitchenware-261447?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-kitchenware-261447)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-kitchenware-261447](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-kitchenware-261447?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-kitchenware-261447)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

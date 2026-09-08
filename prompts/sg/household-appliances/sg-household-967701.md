@@ -1,6 +1,6 @@
 ---
 id: sg-household-967701
-title: "SG READY STOCK Portable Mini Travel Kettle 800ml Stainless Ste — Lifestyle Scene (Singapore · Household Appliances)"
+title: "SG READY STOCK Portable Mini… — Lifestyle Scene (Singapore · Household Appliances)"
 market: sg
 category: household-appliances
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7626275406340967701
 creator: "@user7067974186192"
 published: 2026-04-08
 ---
-# SG READY STOCK Portable Mini Travel Kettle 800ml Stainless Ste — Lifestyle Scene (Singapore · Household Appliances)
+# SG READY STOCK Portable Mini… — Lifestyle Scene (Singapore · Household Appliances)
 **Weekly #1** · 🇸🇬 Singapore · Household Appliances · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7626275406340967701) by [@user7067974186192](https://www.tiktok.com/@user7067974186192). Format: **Lifestyle Scene** · 14s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “This little kettle is my office lifesaver”
+**Opening line (quoted from the video):** “This little kettle is my office lifesaver”
 
 **Pain point it attacks:** Hard to make hot meals quickly in office
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-household-967701](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-household-967701?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-household-967701)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-household-967701](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-household-967701?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-household-967701)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

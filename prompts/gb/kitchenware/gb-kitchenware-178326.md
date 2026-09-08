@@ -1,6 +1,6 @@
 ---
 id: gb-kitchenware-178326
-title: "4-Pack Pasta Bowls Large 22.5cm Unbreakable Plastic Serving Bo — Real Review (United Kingdom · Kitchenware)"
+title: "4-Pack Pasta Bowls Large 22.5cm… — Real Review (United Kingdom · Kitchenware)"
 market: gb
 category: kitchenware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674562436162178326
 creator: "@justrowbo_"
 published: 2026-08-16
 ---
-# 4-Pack Pasta Bowls Large 22.5cm Unbreakable Plastic Serving Bo — Real Review (United Kingdom · Kitchenware)
+# 4-Pack Pasta Bowls Large 22.5cm… — Real Review (United Kingdom · Kitchenware)
 **Weekly #1** · 🇬🇧 United Kingdom · Kitchenware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674562436162178326) by [@justrowbo_](https://www.tiktok.com/@justrowbo_). Format: **Real Review** · 15s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “If you're clumsy like me, these unbreakable pasta bowls are an absolute lifesaver”
+**Opening line (quoted from the video):** “If you're clumsy like me, these unbreakable pasta bowls are an absolute lifesaver”
 
 **Pain point it attacks:** Clumsy people often break tableware
 
@@ -61,7 +60,7 @@ Shot 5:
   - Duration: 9.5sec - 12.0sec
   - Scene Type: Product Versatility
   - Scene: The camera first points at the interior of the open dishwasher, as a hand steadily places the black pasta bowl on the dishwasher's rack. Then the frame cuts to an empty white cabinet shelf, where a hand holds a neat stack of five identical black pasta bowls, placing the stack neatly on the cabinet shelf. The hand gently adjusts the position of the bowls to make sure they are stably placed. The camera moves from inside the dishwasher to inside the cabinet, maintaining an eye-level perspective, fully presenting the process of storing and arranging the bowls.
-  - Subject: Perfect for daily meals or quick pasta nights.  Love them.
+  - Subject: Perfect for daily meals or quick pasta nights. Love them.
 Shot 6:
   - Duration: 12.0sec - 15.0sec
   - Scene Type: Emotional Connection
@@ -105,7 +104,7 @@ Shot 5:
   - 时长: 9.5sec - 12.0sec
   - 镜头类型: 产品多功能性
   - 画面: 镜头先对准打开门的洗碗机内部，手将黑色意面碗平稳放置在洗碗机的碗架上，随后画面切换到白色空置的橱柜层板前，手捧着一摞叠放整齐的五个同款黑色意面碗，将碗摞整齐摆放到橱柜的层板上，手部轻轻调整碗的位置使其摆放稳妥，镜头从洗碗机内部移动到橱柜内部，保持平视视角，完整呈现碗的收纳摆放过程。
-  - 口播: Perfect for daily meals or quick pasta nights.  Love them.
+  - 口播: Perfect for daily meals or quick pasta nights. Love them.
 Shot 6:
   - 时长: 12.0sec - 15.0sec
   - 镜头类型: 情感连接
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-kitchenware-178326](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-kitchenware-178326?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-kitchenware-178326)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-kitchenware-178326](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-kitchenware-178326?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-kitchenware-178326)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

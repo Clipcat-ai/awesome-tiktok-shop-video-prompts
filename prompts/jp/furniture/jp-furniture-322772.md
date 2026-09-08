@@ -1,6 +1,6 @@
 ---
 id: jp-furniture-322772
-title: "Inflatable Lazy Boy Sofa — Lifestyle Scene (Japan · Furniture)"
+title: "Inflatable Lazy Boy Sofa, Ball… — Lifestyle Scene (Japan · Furniture)"
 market: jp
 category: furniture
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675648401337322772
 creator: "@yukari_outfittip"
 published: 2026-08-19
 ---
-# Inflatable Lazy Boy Sofa — Lifestyle Scene (Japan · Furniture)
+# Inflatable Lazy Boy Sofa, Ball… — Lifestyle Scene (Japan · Furniture)
 **Weekly #1** · 🇯🇵 Japan · Furniture · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675648401337322772) by [@yukari_outfittip](https://www.tiktok.com/@yukari_outfittip). Format: **Lifestyle Scene** · 16s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Wow, really? I actually found this right here”
+**Opening line (translated from the video):** “Wow, really? I actually found this right here”
 
 **Key visuals:** Supermarket Shelves · Inflatable Sofa Box · Shopping Cart · Living Room · Knitted Carpet · Inflatable Sofa · White Short-sleeve · Striped Home Pants
 
@@ -126,4 +125,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-furniture-322772](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-furniture-322772?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-furniture-322772)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-furniture-322772](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-furniture-322772?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-furniture-322772)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

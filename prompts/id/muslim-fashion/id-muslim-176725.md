@@ -1,6 +1,6 @@
 ---
 id: id-muslim-176725
-title: "Hijab Bergo Hamidah Size M/ Hijab Sport M Jersey Premium — Talking Head (Indonesia · Muslim Fashion)"
+title: "Hijab Bergo Hamidah Size M/ Hijab… — Talking Head (Indonesia · Muslim Fashion)"
 market: id
 category: muslim-fashion
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7658543664339176725
 creator: "@rija_ahmad"
 published: 2026-07-05
 ---
-# Hijab Bergo Hamidah Size M/ Hijab Sport M Jersey Premium — Talking Head (Indonesia · Muslim Fashion)
+# Hijab Bergo Hamidah Size M/ Hijab… — Talking Head (Indonesia · Muslim Fashion)
 **Weekly #1** · 🇮🇩 Indonesia · Muslim Fashion · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7658543664339176725) by [@rija_ahmad](https://www.tiktok.com/@rija_ahmad). Format: **Talking Head** · 10s · hook: **Identity** · On-camera host · No promo
-**Opening line (from the video):** “Sis, this hijab is so pretty, where did you buy it? It's from Ashifa”
+**Opening line (translated from the video):** “Sis, this hijab is so pretty, where did you buy it? It's from Ashifa”
 
 **Key visuals:** Shopping Mall · Sage Green Hijab · Marble Floor · Brand Logo · Interview Microphone · Lighting · Hijab Label
 
@@ -43,7 +42,7 @@ Shot 2:
   - Duration: 1.0sec - 3.0sec
   - Scene Type: Real use review
   - Scene: The scene shifts to a busy mall atrium. The young woman in the same outfit stands in the center of the frame. An arm holding an interview microphone extends into the frame from the right to conduct an offline interview with her. She first turns her head to show a smile, then turns to face the camera and responds happily, with naturally moving passersby in the background
-  - Subject: Kak, hijabnya bagus banget, beli dimana sih?  Ini dari Ashifa.
+  - Subject: Kak, hijabnya bagus banget, beli dimana sih? Ini dari Ashifa.
 Shot 3:
   - Duration: 3.0sec - 6.0sec
   - Scene Type: Product material demonstration
@@ -51,9 +50,9 @@ Shot 3:
   - Subject: Bahannya adem, lembut, dan nyaman banget dipakai seharian dimulai
 Shot 4:
   - Duration: 6.0sec - 9.0sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The young woman gently pinches the brand tag at the hem of the hijab with both hands to show the brand logo to the camera, then raises both hands to point to the head section of her hijab to showcase details, maintaining a consistently warm, bright sweet smile on her face
-  - Subject: Pilihan warnanya cantik banget  Pokoknya kalian wajib punya koleksinya
+  - Subject: Pilihan warnanya cantik banget Pokoknya kalian wajib punya koleksinya
 Shot 5:
   - Duration: 9.0sec - 10.0sec
   - Scene Type: Highlight promotional selling points
@@ -82,7 +81,7 @@ Shot 2:
   - 时长: 1.0sec - 3.0sec
   - 镜头类型: 真实使用测评
   - 画面: 场景切换至热闹的商场中庭，年轻女性身着同款穿搭站在画面中，手持采访麦克风的手臂从画面右侧探入对着她进行线下采访，她先是侧头露出笑意，随即转过脸面向镜头开心地做出回应，背景中往来行人动态自然。
-  - 口播: Kak, hijabnya bagus banget, beli dimana sih?  Ini dari Ashifa.
+  - 口播: Kak, hijabnya bagus banget, beli dimana sih? Ini dari Ashifa.
 Shot 3:
   - 时长: 3.0sec - 6.0sec
   - 镜头类型: 产品材质展示
@@ -90,9 +89,9 @@ Shot 3:
   - 口播: Bahannya adem, lembut, dan nyaman banget dipakai seharian dimulai
 Shot 4:
   - 时长: 6.0sec - 9.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 年轻女性的双手轻轻捏住hijab下摆处的品牌标签，向镜头展示品牌标识，随后抬起双手指向自己hijab的头部位置展示细节，脸上始终挂着热情饱满的甜美笑容。
-  - 口播: Pilihan warnanya cantik banget  Pokoknya kalian wajib punya koleksinya
+  - 口播: Pilihan warnanya cantik banget Pokoknya kalian wajib punya koleksinya
 Shot 5:
   - 时长: 9.0sec - 10.0sec
   - 镜头类型: 促销卖点强推
@@ -106,4 +105,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-muslim-176725](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-muslim-176725?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-muslim-176725)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-muslim-176725](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-muslim-176725?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-muslim-176725)
-🤖 **Driving an AI agent?** `clipcat prompt search "Muslim Fashion"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Muslim Fashion talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

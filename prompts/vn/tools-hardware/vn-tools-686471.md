@@ -1,6 +1,6 @@
 ---
 id: vn-tools-686471
-title: "Keo dán giày thể thao siêu dính dùng nhiệt trong suốt Ximo 60m — Real Review (Vietnam · Tools & Hardware)"
+title: "Keo dán giày thể thao siêu dính… — Real Review (Vietnam · Tools & Hardware)"
 market: vn
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680826128222686471
 creator: "@comeco.review02"
 published: 2026-09-02
 ---
-# Keo dán giày thể thao siêu dính dùng nhiệt trong suốt Ximo 60m — Real Review (Vietnam · Tools & Hardware)
+# Keo dán giày thể thao siêu dính… — Real Review (Vietnam · Tools & Hardware)
 **Weekly #1** · 🇻🇳 Vietnam · Tools & Hardware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680826128222686471) by [@comeco.review02](https://www.tiktok.com/@comeco.review02). Format: **Real Review** · 31s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Subscribe to Ghiền Mì Gõ channel to get more great videos”
+**Opening line (translated from the video):** “Subscribe to Ghiền Mì Gõ channel to get more great videos”
 
 **Pain point it attacks:** Shoes and leather goods peel and are hard to repair
 
@@ -41,17 +40,14 @@ Shot 1:
   - Duration: 0.0sec - 2.5sec
   - Scene Type: Product usage scenario
   - Scene: From a first-person perspective, a pair of hands holds a white slipper that has snapped completely in two halves and an orange tube of shoe glue, carefully and evenly applying the glue to the two broken cross-sections of the slipper with steady, meticulous movements. A fixed close-up shot focuses on the contact surface where the glue is being applied.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - Duration: 2.5sec - 5.0sec
   - Scene Type: Product effectiveness
   - Scene: The camera cuts, and a pair of hands squeezes the broken section of the glued white slipper firmly, bending the shoe upper to show the seamless initial bonding effect after the slipper is joined. The camera moves slightly following the hand movements, keeping the slipper in close-up frame the entire time.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 3:
   - Duration: 5.0sec - 7.5sec
   - Scene Type: Product usage scenario
   - Scene: Holding an old leather sandal with a large area of the shoe upper peeling away and coming unglued, the glue tube with a flexible hose nozzle is used to precisely apply glue deep into the inner gap of the unglued section, carefully working the glue into the depths of the gap. A macro close-up shot fully records the entire process of the glue being injected into the gap.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - Duration: 7.5sec - 11.5sec
   - Scene Type: Product effectiveness
@@ -66,17 +62,14 @@ Shot 6:
   - Duration: 14.0sec - 16.5sec
   - Scene Type: Ease of use demonstration
   - Scene: Both hands use two wide brown rubber bands to tightly wrap and secure the bonded area of the black dress shoe that has just had glue applied, demonstrating the professional at-home bonding fixing operation. The shoe upper stays taut and fitted, and a fixed close-up shot fully records the action of wrapping the rubber bands.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 7:
   - Duration: 16.5sec - 19.5sec
   - Scene Type: Product usage scenario
   - Scene: Holding a pair of women's low-cut sandals with lace detailing on the upper, glue is applied to the gap where the insole has separated from the outsole, then the insole is pressed down to fit completely back into place for a firm bond. The first-person close-up perspective moves naturally following the hand movements.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 8:
   - Duration: 19.5sec - 23.5sec
   - Scene Type: Product effectiveness
   - Scene: The footage shows in sequence: both hands forcefully bend the bonded area of the leather sandal, which will not come unglued at all; then both hands squeeze and bend a pair of yellow clogs that had previously broken in half, showing that the seam of the bonded clogs remains as stable as new and will not split open. The camera cuts between the two pairs of shoes in turn, keeping a close-up on the stressed section of each shoe.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 9:
   - Duration: 23.5sec - 27.5sec
   - Scene Type: Product versatility
@@ -106,17 +99,14 @@ Shot 1:
   - 时长: 0.0sec - 2.5sec
   - 镜头类型: 产品使用场景
   - 画面: 第一人称视角下，一双手分别拿着完全断裂成两半的白色拖鞋和橙色管装鞋胶，将胶水小心均匀地涂抹在拖鞋断裂的两个截面上，动作细致平稳，固定特写镜头聚焦涂胶的接触面。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - 时长: 2.5sec - 5.0sec
   - 镜头类型: 产品有效性
   - 画面: 镜头切换，一双手对准涂好胶水的白色拖鞋断裂位置用力挤压、弯折鞋面，展示拖鞋拼接后严丝合缝的初步粘合效果，镜头跟随双手动作轻微移动，全程保持对拖鞋的特写取景。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 3:
   - 时长: 5.0sec - 7.5sec
   - 镜头类型: 产品使用场景
   - 画面: 手持一只鞋帮大面积开胶脱落的旧皮凉鞋，用带软管尖嘴的胶管将胶水精准涂抹在开胶的内部缝隙之中，动作细致地处理缝隙深处，微距特写镜头完整记录胶水注入缝隙的全过程。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - 时长: 7.5sec - 11.5sec
   - 镜头类型: 产品有效性
@@ -131,17 +121,14 @@ Shot 6:
   - 时长: 14.0sec - 16.5sec
   - 镜头类型: 展示易用性
   - 画面: 双手用两根棕色宽橡皮筋将刚涂完胶水的黑色皮鞋粘合处紧紧缠绕固定，展示专业居家粘合的固定操作，皮鞋鞋面保持紧绷贴合，固定特写镜头完整记录缠绕橡皮筋的动作。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 7:
   - 时长: 16.5sec - 19.5sec
   - 镜头类型: 产品使用场景
   - 画面: 手持一双鞋面装饰蕾丝的女士浅口凉鞋，将胶水涂抹在鞋垫与鞋底分离的空隙处，随后按压鞋垫使其完全归位，粘合牢固，第一人称特写视角跟随手部动作自然移动。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 8:
   - 时长: 19.5sec - 23.5sec
   - 镜头类型: 产品有效性
   - 画面: 画面依次展示：双手用力弯折皮凉鞋的粘合处，完全不会再次开胶；随后双手大力挤压、弯折一双断裂过的黄色洞洞鞋，展示粘合后的洞洞鞋接缝处稳固如常，完全不会开裂，镜头依次在两款鞋子间切换，保持对鞋子受力部位的特写。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 9:
   - 时长: 23.5sec - 27.5sec
   - 镜头类型: 产品多功能性
@@ -160,4 +147,4 @@ Shot 10:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-tools-686471](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-tools-686471?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-tools-686471)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-tools-686471](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-tools-686471?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-tools-686471)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

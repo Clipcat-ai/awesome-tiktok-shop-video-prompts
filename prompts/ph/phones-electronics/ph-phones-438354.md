@@ -1,6 +1,6 @@
 ---
 id: ph-phones-438354
-title: "【No.1 in sales】N607 3-in-1 Turbo Fan: 4000mAh Battery — Handheld Demo (Philippines · Phones & Electronics)"
+title: "【No.1 in sales】N607 3-in-1 Turbo… — Handheld Demo (Philippines · Phones & Electronics)"
 market: ph
 category: phones-electronics
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7585469366171438354
 creator: "@juanstop001"
 published: 2025-12-19
 ---
-# 【No.1 in sales】N607 3-in-1 Turbo Fan: 4000mAh Battery — Handheld Demo (Philippines · Phones & Electronics)
+# 【No.1 in sales】N607 3-in-1 Turbo… — Handheld Demo (Philippines · Phones & Electronics)
 **Weekly #1** · 🇵🇭 Philippines · Phones & Electronics · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7585469366171438354) by [@juanstop001](https://www.tiktok.com/@juanstop001). Format: **Handheld Demo** · 35s · hook: **Result First** · On-camera host · Coupon
-**Opening line (from the video):** “I got this portable turbofan that everyone's talking about”
+**Opening line (translated from the video):** “I got this portable turbofan that everyone's talking about”
 
 **Pain point it attacks:** Hot summer needs a powerful portable cooling tool
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-phones-438354](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-phones-438354?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-phones-438354)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-phones-438354](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-phones-438354?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-phones-438354)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

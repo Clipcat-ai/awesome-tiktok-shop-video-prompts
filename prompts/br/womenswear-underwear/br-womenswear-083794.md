@@ -1,6 +1,6 @@
 ---
 id: br-womenswear-083794
-title: "Vestido Camisetão Tshirts Sem Estampa em Tecido 100% Algodão — Handheld Demo (Brazil · Womenswear & Underwear)"
+title: "Vestido Camisetão Tshirts Sem… — Handheld Demo (Brazil · Womenswear & Underwear)"
 market: br
 category: womenswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677798155295083794
 creator: "@isa_bella064"
 published: 2026-08-25
 ---
-# Vestido Camisetão Tshirts Sem Estampa em Tecido 100% Algodão — Handheld Demo (Brazil · Womenswear & Underwear)
+# Vestido Camisetão Tshirts Sem… — Handheld Demo (Brazil · Womenswear & Underwear)
 **Weekly #1** · 🇧🇷 Brazil · Womenswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677798155295083794) by [@isa_bella064](https://www.tiktok.com/@isa_bella064). Format: **Handheld Demo** · 20s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “I found the cheapest dress and bought a set right away”
+**Opening line (translated from the video):** “I found the cheapest dress and bought a set right away”
 
 **Pain point it attacks:** Can't find affordable and comfortable dresses
 
@@ -39,7 +38,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 3.0sec
-  - Scene Type: Multiple Style Selection Showcase (Fashion Category)
+  - Scene Type: Multiple Style Selection Showcase
   - Scene: The creator is wearing a light khaki T-shirt dress, paired with white casual sneakers, and a black quilted chain crossbody bag slung over her shoulder. She stands on the pink crocheted rug facing the camera, takes a few small steps forward to demonstrate the dress's drape, then raises one hand to gently pinch a corner of the skirt hem as the camera zooms in to show the fabric details of the dress.
   - Subject: E eu que achei o vestido mais barato e acabei comprando logo o quadro.
 Shot 2:
@@ -84,7 +83,7 @@ Shot 6:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 3.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 博主上身穿着浅卡其色T恤连衣裙，脚踩白色休闲运动鞋，斜挎黑色菱格链条包，站在粉色钩花地毯上正对镜头。她小步向前走动展示裙身垂感，随后抬手轻轻捏住裙摆一角，镜头随之拉近，展示裙身的面料细节。
   - 口播: E eu que achei o vestido mais barato e acabei comprando logo o quadro.
 Shot 2:
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-womenswear-083794](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-womenswear-083794?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-womenswear-083794)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-womenswear-083794](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-womenswear-083794?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-womenswear-083794)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

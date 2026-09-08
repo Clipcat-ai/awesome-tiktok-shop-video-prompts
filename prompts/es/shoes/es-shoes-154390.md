@@ -1,6 +1,6 @@
 ---
 id: es-shoes-154390
-title: "Women's Lace-Up Casual Sneakers — Handheld Demo (Spain · Shoes)"
+title: "Women's Lace-Up Casual Sneakers… — Handheld Demo (Spain · Shoes)"
 market: es
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676953031560154390
 creator: "@magiazucar"
 published: 2026-08-24
 ---
-# Women's Lace-Up Casual Sneakers — Handheld Demo (Spain · Shoes)
+# Women's Lace-Up Casual Sneakers… — Handheld Demo (Spain · Shoes)
 **Weekly #1** · 🇪🇸 Spain · Shoes · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676953031560154390) by [@magiazucar](https://www.tiktok.com/@magiazucar). Format: **Handheld Demo** · 14s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “This sneaker combines comfort and style”
+**Opening line (translated from the video):** “This sneaker combines comfort and style”
 
 **Key visuals:** Blue White Sneakers · Light Gray Brick Wall · Dark Gray Countertop · Green Plant · Urban Path · Blue Jeans · Yellow Text · Guiding Arrow
 
@@ -132,4 +131,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-shoes-154390](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-shoes-154390?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-shoes-154390)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-shoes-154390](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-shoes-154390?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-shoes-154390)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

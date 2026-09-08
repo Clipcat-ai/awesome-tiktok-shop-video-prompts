@@ -1,6 +1,6 @@
 ---
 id: jp-tools-594196
-title: "【完全リニューアル版】 3in1 多機能メジャー 携帯寸法測定巻尺 水平器一体型 5m USB充電式 光ガイドライン 住宅リ — Real Review (Japan · Tools & Hardware)"
+title: "【完全リニューアル版】 3in1… — Real Review (Japan · Tools & Hardware)"
 market: jp
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671262545264594196
 creator: "@guoguo1341"
 published: 2026-08-07
 ---
-# 【完全リニューアル版】 3in1 多機能メジャー 携帯寸法測定巻尺 水平器一体型 5m USB充電式 光ガイドライン 住宅リ — Real Review (Japan · Tools & Hardware)
+# 【完全リニューアル版】 3in1… — Real Review (Japan · Tools & Hardware)
 **Weekly #1** · 🇯🇵 Japan · Tools & Hardware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671262545264594196) by [@guoguo1341](https://www.tiktok.com/@guoguo1341). Format: **Real Review** · 28s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “The latest tape measure that professional carpenters on site are replacing is really good”
+**Opening line (translated from the video):** “The latest tape measure that professional carpenters on site are replacing is really good”
 
 **Pain point it attacks:** Traditional tape measures require multiple people to measure with low efficiency
 
@@ -56,14 +55,12 @@ Shot 4:
   - Duration: 11.5sec - 16.5sec
   - Scene Type: Product effectiveness demonstration
   - Scene: The scene returns to the woodworking workbench with pre-drilled positioning holes. A long white board is placed on the tabletop. The person pulls out the tape belt of the multifunctional tape measure to align with the edge of the board, projects a straight green horizontal laser line, and uses a blue marker to draw continuous precise marking lines on the board surface along the laser line, easily completing the positioning marking of the board. Uses a fixed overhead close-up shot, clearly recording the complete operation details of the marking work, showing the adult male's both hands holding the tape measure and the marker, with a minimalist tattoo on one wrist.
-  - Subject: これなら一人で一瞬メジャー
-レーザーを伸ばした場所にふっきりとレーザー線が出るから
+  - Subject: これなら一人で一瞬メジャー レーザーを伸ばした場所にふっきりとレーザー線が出るから
 Shot 5:
   - Duration: 16.5sec - 19.0sec
   - Scene Type: Product effectiveness demonstration
   - Scene: The scene switches to an outdoor long wood board processing site surrounded by green plants. The man wearing a green long-sleeve work clothes holds the multifunctional tape measure, pulls out the tape belt to align with the edge of the wood board, the tool body projects a green laser line, then he holds a marker pen to draw a precise marking line on the side of the wood board along the laser line. Uses a fixed side-angle close-up shot, focusing on capturing the clear effect of the laser line projected on the wood board, showing the adult male's hands and part of his side silhouette in the green long-sleeve work clothes.
-  - Subject: 板材のマーキングもミニ単位でずれずに
-超正確!ボタン一つで自動開示!
+  - Subject: 板材のマーキングもミニ単位でずれずに 超正確!ボタン一つで自動開示!
 Shot 6:
   - Duration: 19.0sec - 21.5sec
   - Scene Type: Usability demonstration
@@ -103,14 +100,12 @@ Shot 4:
   - 时长: 11.5sec - 16.5sec
   - 镜头类型: 产品有效性
   - 画面: 场景回到带定位孔的木工工作台上，台面上放置着一块白色长板材，人物用多功能卷尺将尺带拉出对齐板材边缘，投射出笔直的绿色水平激光线，沿着激光线用蓝色记号笔在板材表面连续画出精准标记线，轻松完成板材定位标记，固定俯视特写镜头，清晰记录标记作业的完整操作细节，露出持卷尺和记号笔的成年男性双手，其中一只手手腕带有简约纹身。
-  - 口播: これなら一人で一瞬メジャー
-レーザーを伸ばした場所にふっきりとレーザー線が出るから
+  - 口播: これなら一人で一瞬メジャー レーザーを伸ばした場所にふっきりとレーザー線が出るから
 Shot 5:
   - 时长: 16.5sec - 19.0sec
   - 镜头类型: 产品有效性
   - 画面: 场景切换至户外木质长板材加工场地，周围绿植环绕，身着绿色长袖工作服的男性握着多功能卷尺将尺带拉出对齐木板材边缘，机身投射出绿色激光线，随后手持标记笔沿着激光线在木板材侧面画出精准标线，固定侧拍特写镜头，重点捕捉激光线投射在木板材上的清晰效果，露出身着绿色长袖工作服的成年男性的手部和部分身体侧影。
-  - 口播: 板材のマーキングもミニ単位でずれずに
-超正確!ボタン一つで自動開示!
+  - 口播: 板材のマーキングもミニ単位でずれずに 超正確!ボタン一つで自動開示!
 Shot 6:
   - 时长: 19.0sec - 21.5sec
   - 镜头类型: 展示易用性
@@ -120,8 +115,7 @@ Shot 7:
   - 时长: 21.5sec - 26.5sec
   - 镜头类型: 产品使用场景
   - 画面: 场景切换到居家DIY墙面安装区域，身着绿色工作服的男性双手扶着待安装的深色墙面置物板，用放置在升降支架上的多功能卷尺投射出绿色水平激光线定位墙面，随后在一旁的木质立板旁，用卷尺拉出尺带对齐立板边缘，投射激光线辅助红色金属安装定位板对齐校准，镜头跟随人物动作平滑切换场景，从置物板安装演示自然过渡到安装板校准特写，露出带纹身的手臂与部分身体，动作专注熟练。
-  - 口播: お疲れ様でした。
-アブロボのオリンカー!
+  - 口播: お疲れ様でした。 アブロボのオリンカー!
 Shot 8:
   - 时长: 26.5sec - 29.0sec
   - 镜头类型: 产品镜头特写
@@ -134,4 +128,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-tools-594196](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-tools-594196?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-tools-594196)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-tools-594196](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-tools-594196?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-tools-594196)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

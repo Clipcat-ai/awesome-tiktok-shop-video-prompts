@@ -1,6 +1,6 @@
 ---
 id: es-womenswear-412566
-title: "Blazer ARMONIAS fruncido — OOTD Showcase (Spain · Womenswear & Underwear)"
+title: "Blazer ARMONIAS fruncido, estilo… — OOTD Showcase (Spain · Womenswear & Underwear)"
 market: es
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678139698262412566
 creator: "@luna.freitas74"
 published: 2026-08-26
 ---
-# Blazer ARMONIAS fruncido — OOTD Showcase (Spain · Womenswear & Underwear)
+# Blazer ARMONIAS fruncido, estilo… — OOTD Showcase (Spain · Womenswear & Underwear)
 **Weekly #1** · 🇪🇸 Spain · Womenswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678139698262412566) by [@luna.freitas74](https://www.tiktok.com/@luna.freitas74). Format: **OOTD Showcase** · 24s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A blazer that transforms any look ✨ Elegant cut and shoulder styling”
+**Opening line (quoted from the video):** “A blazer that transforms any look ✨ Elegant cut and shoulder styling”
 
 **Key visuals:** Mirror Selfie · Blazer · Denim Jeans · Gold Necklace · Bedside Table · Curtain · Smartphone
 
@@ -48,7 +47,6 @@ Shot 3:
   - Duration: 9.5sec - 13.0sec
   - Scene Type: Product design highlights
   - Scene: The camera pulls back out to return to the full-body framing. She stands sideways, slowly turning her body from front to side then back to front, showing the elegant silhouette of the blazer that flatters the shoulder line and the neat cut of the three-quarter sleeves. The gold watch on her wrist sways naturally with her movements. The introduction text at the top of the frame remains displayed, fully presenting the slimming and figure-flattering wearing effect of the blazer.
-  - Subject: .
 Shot 4:
   - Duration: 13.0sec - 19.0sec
   - Scene Type: Product material display
@@ -58,7 +56,7 @@ Shot 5:
   - Duration: 19.0sec - 24.0sec
   - Scene Type: Outfit matching demonstration
   - Scene: The camera pulls back to a full shot. She stands still in front of the mirror, gently lifts one corner of the blazer's hem with one hand then releases it naturally to show the fabric's draping effect, then extends the index finger of her other hand to tap down lightly on her high-waisted jeans, and finally stands up straight to show a generous, satisfied smile to the camera. The introduction text remains at the top of the frame until the end of the video, fully demonstrating the hem draping effect of the blazer and the upper-lower body proportion of the complete outfit, presenting a trendy and wearable daily styling reference.
-  - Subject: Oh Thank you.
+  - Subject: Oh
 [Background Sound]:
 - Upbeat TikTok electronic dance background music with a fast tempo of around 128BPM, loud volume, strong drum beats and synth melodies. The track is likely 'Put It On Me', perfectly suited for the vibe of fashion outfit short videos, with a powerful and energetic overall rhythm.
 [Transition / Editing]:
@@ -87,7 +85,6 @@ Shot 3:
   - 时长: 9.5sec - 13.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 镜头向后拉远回到全身取景范围，她侧身站立，缓慢转动身体，从正面转到侧面再转回正面，展示西装外套修饰肩线的优雅版型与七分袖的利落剪裁，手腕上的金色手表随着动作自然晃动。画面顶部的介绍文字持续展示，完整呈现西装遮肉显瘦的上身效果。
-  - 口播: .
 Shot 4:
   - 时长: 13.0sec - 19.0sec
   - 镜头类型: 产品材质展示
@@ -97,7 +94,7 @@ Shot 5:
   - 时长: 19.0sec - 24.0sec
   - 镜头类型: 穿搭搭配示范
   - 画面: 镜头拉回全景，她站定在镜面前方，一只手轻轻拎起西装外套的下摆一角再自然松开，展示面料的垂坠感，随后伸出另一只手的食指向下轻点自己的高腰牛仔裤位置，最后站直身体对着镜头露出大方满意的笑容。画面顶部始终保留介绍文字直到视频结束，完整展示西装外套的下摆垂感与整套穿搭的上下身比例效果，呈现日常可借鉴的时髦搭配思路。
-  - 口播: Oh Thank you.
+  - 口播: Oh
 [Background Sound]:
 - 欢快的TikTok电子舞曲背景音乐，快节奏约128BPM，音量较大，带有强烈鼓点和合成器旋律，歌曲疑似为《Put It On Me》，适配时尚穿搭类短视频氛围，整体律动强劲有活力。
 [Transition / Editing]:
@@ -106,4 +103,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-womenswear-412566](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-womenswear-412566?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-womenswear-412566)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-womenswear-412566](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-womenswear-412566?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-womenswear-412566)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

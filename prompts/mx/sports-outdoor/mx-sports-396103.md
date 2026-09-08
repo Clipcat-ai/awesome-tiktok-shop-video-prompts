@@ -1,6 +1,6 @@
 ---
 id: mx-sports-396103
-title: "Leggin Deportivo T-1022 con Control de Abdomen Cintura Alta El — Handheld Demo (Mexico · Sports & Outdoor)"
+title: "Leggin Deportivo T-1022 con… — Handheld Demo (Mexico · Sports & Outdoor)"
 market: mx
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7644462971791396103
 creator: "@mariiiiiiiiiiiii288"
 published: 2026-05-27
 ---
-# Leggin Deportivo T-1022 con Control de Abdomen Cintura Alta El — Handheld Demo (Mexico · Sports & Outdoor)
+# Leggin Deportivo T-1022 con… — Handheld Demo (Mexico · Sports & Outdoor)
 **Weekly #1** · 🇲🇽 Mexico · Sports & Outdoor · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7644462971791396103) by [@mariiiiiiiiiiiii288](https://www.tiktok.com/@mariiiiiiiiiiiii288). Format: **Handheld Demo** · 26s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Beauty, I bring you these super comfortable leggings”
+**Opening line (translated from the video):** “Beauty, I bring you these super comfortable leggings”
 
 **Key visuals:** Black Leggings · Pink Bed Sheet · Cartoon Letters · Plush Doll · Waistband Label · Hip Jacquard · Hand
 
@@ -47,7 +46,7 @@ Shot 2:
   - Subject: para hacer ejercicio, y aparte te van a estar comprobando. ¿Está comprimiendo todo el tiempo tu abdomen? Porque cuenta con...
 Shot 3:
   - Duration: 10.5sec - 15.0sec
-  - Scene Type: Showcase of multiple style options (fashion category)
+  - Scene Type: Showcase of multiple style options
   - Scene: Both hands twist and gently knead the legging body to demonstrate the soft, smooth texture of the fabric, then flip the entire pair of leggings over and lay it flat on the pink printed bed sheet, revealing the special golden honeycomb jacquard fabric area at the hip position.
   - Subject: con una tela tipo fa. Aparte es incolor. Para Otzi, casual o deportivo, está supecita.
 Shot 4:
@@ -87,7 +86,7 @@ Shot 2:
   - 口播: para hacer ejercicio, y aparte te van a estar comprobando. ¿Está comprimiendo todo el tiempo tu abdomen? Porque cuenta con...
 Shot 3:
   - 时长: 10.5sec - 15.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 双手将紧身裤裤身拧起、轻轻揉搓，展示面料的柔软顺滑质感，随后将裤子整体翻转，平铺在粉色印花床单上，露出臀部位置的金色蜂窝状特殊提花面料区域。
   - 口播: con una tela tipo fa. Aparte es incolor. Para Otzi, casual o deportivo, está supecita.
 Shot 4:
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-sports-396103](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-sports-396103?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-sports-396103)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-sports-396103](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-sports-396103?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-sports-396103)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

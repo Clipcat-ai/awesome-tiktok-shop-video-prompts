@@ -1,6 +1,6 @@
 ---
 id: it-kitchenware-447265
-title: "Piastra Rettangolare Double Face 25×37 cm 🇮🇹 — Real Review (Italy · Kitchenware)"
+title: "Piastra Rettangolare Double Face… — Real Review (Italy · Kitchenware)"
 market: it
 category: kitchenware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680187883688447265
 creator: "@enzo_misterjoy"
 published: 2026-08-31
 ---
-# Piastra Rettangolare Double Face 25×37 cm 🇮🇹 — Real Review (Italy · Kitchenware)
+# Piastra Rettangolare Double Face… — Real Review (Italy · Kitchenware)
 **Weekly #1** · 🇮🇹 Italy · Kitchenware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680187883688447265) by [@enzo_misterjoy](https://www.tiktok.com/@enzo_misterjoy). Format: **Real Review** · 17s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Made in Italy, showing traditional production methods”
+**Opening line (translated from the video):** “Made in Italy, showing traditional production methods”
 
 **Key visuals:** Gas Stove · Black Baking Tray · Golden Grilled Food · White Tile Wall · Kitchen Appliance · Gold Bracelet · Gas Stove Knob
 
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-kitchenware-447265](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-kitchenware-447265?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-kitchenware-447265)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-kitchenware-447265](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-kitchenware-447265?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-kitchenware-447265)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

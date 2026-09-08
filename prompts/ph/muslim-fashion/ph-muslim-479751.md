@@ -1,6 +1,6 @@
 ---
 id: ph-muslim-479751
-title: "S-XL coco dress aline dress abaya simple casual — Handheld Demo (Philippines · Muslim Fashion)"
+title: "S-XL coco dress aline dress abaya… — Handheld Demo (Philippines · Muslim Fashion)"
 market: ph
 category: muslim-fashion
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7655963147148479751
 creator: "@ashya1029"
 published: 2026-06-27
 ---
-# S-XL coco dress aline dress abaya simple casual — Handheld Demo (Philippines · Muslim Fashion)
+# S-XL coco dress aline dress abaya… — Handheld Demo (Philippines · Muslim Fashion)
 **Weekly #1** · 🇵🇭 Philippines · Muslim Fashion · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7655963147148479751) by [@ashya1029](https://www.tiktok.com/@ashya1029). Format: **Handheld Demo** · 24s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Peace be upon you, everyone looking for elegant and comfortable robes, this long dress is highly recommended”
+**Opening line (translated from the video):** “Peace be upon you, everyone looking for elegant and comfortable robes, this long dress is highly recommended”
 
 **Key visuals:** White Cloakroom · Golden Hanger · Muslim Long Dress · Pink Rose Vase · Golden Side Table · Dry Pampas Grass · Wall Niche
 
@@ -47,7 +46,7 @@ Shot 2:
   - Subject: Ang haba at tabas nito ay saktong-sakto. ito ay para sa modernong Muslim. Available po ito
 Shot 3:
   - Duration: 15.0sec - 24.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The host returns to the front camera position, takes the pink phone back in her right hand, then makes natural explanatory gestures with alternating hands. She turns sideways to gesture toward the multi-colored garments displayed on the clothes rack behind her, then tucks the phone naturally at her side, gently lifts both sides of her skirt with both hands before releasing them, fully showcasing the wide range of color options across the full long dress collection, clearly communicating the rich selection of available colors.
   - Subject: sa iba't ibang kulay na makikita nyo rito sa aking likortan. huwag nyo nang palampasin huwag nyo nang palampasin, iget nyo na ang paborito ninyong kulay.
 [Background Sound]:
@@ -77,7 +76,7 @@ Shot 2:
   - 口播: Ang haba at tabas nito ay saktong-sakto. ito ay para sa modernong Muslim. Available po ito
 Shot 3:
   - 时长: 15.0sec - 24.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 博主回到正面机位，右手接过粉色手机，随后双手交替做出自然的讲解手势，侧身抬手示意身后衣架上陈列的多色服饰，接着将手机自然收至身侧，双手轻轻提起两侧裙摆后放松放下，完整展示全系列长裙的多种配色，清晰传递出服饰可供选择的丰富色彩。
   - 口播: sa iba't ibang kulay na makikita nyo rito sa aking likortan. huwag nyo nang palampasin huwag nyo nang palampasin, iget nyo na ang paborito ninyong kulay.
 [Background Sound]:
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-muslim-479751](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-muslim-479751?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-muslim-479751)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-muslim-479751](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-muslim-479751?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-muslim-479751)
-🤖 **Driving an AI agent?** `clipcat prompt search "Muslim Fashion"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Muslim Fashion handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

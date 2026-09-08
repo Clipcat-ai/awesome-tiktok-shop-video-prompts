@@ -1,6 +1,6 @@
 ---
 id: ph-menswear-603733
-title: "919 JEANS PH : 5 Colors Korean Mens Casual Fashion Denim Mensw — Handheld Demo (Philippines · Menswear & Underwear)"
+title: "919 JEANS PH : 5 Colors Korean… — Handheld Demo (Philippines · Menswear & Underwear)"
 market: ph
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675360633155603733
 creator: "@unknownbaby023"
 published: 2026-08-18
 ---
-# 919 JEANS PH : 5 Colors Korean Mens Casual Fashion Denim Mensw — Handheld Demo (Philippines · Menswear & Underwear)
+# 919 JEANS PH : 5 Colors Korean… — Handheld Demo (Philippines · Menswear & Underwear)
 **Weekly #1** · 🇵🇭 Philippines · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675360633155603733) by [@unknownbaby023](https://www.tiktok.com/@unknownbaby023). Format: **Handheld Demo** · 10s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “This product has sold so much because it's so good”
+**Opening line (translated from the video):** “This product has sold so much because it's so good”
 
 **Key visuals:** Gray Studio Background · Denim Jeans · Black Short-sleeve Top · Gray Slippers · Metal Button · Denim Texture · Leather Patch
 
@@ -124,4 +123,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-menswear-603733](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-menswear-603733?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-menswear-603733)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-menswear-603733](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-menswear-603733?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-menswear-603733)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

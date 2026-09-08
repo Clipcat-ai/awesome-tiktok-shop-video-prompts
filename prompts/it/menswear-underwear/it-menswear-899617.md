@@ -1,6 +1,6 @@
 ---
 id: it-menswear-899617
-title: "Men's Striped Hooded Sweatshirt & Waffle Knit Pants Set — Handheld Demo (Italy · Menswear & Underwear)"
+title: "Men's Striped Hooded Sweatshirt &… — Handheld Demo (Italy · Menswear & Underwear)"
 market: it
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679944684524899617
 creator: "@malika_.world"
 published: 2026-08-30
 ---
-# Men's Striped Hooded Sweatshirt & Waffle Knit Pants Set — Handheld Demo (Italy · Menswear & Underwear)
+# Men's Striped Hooded Sweatshirt &… — Handheld Demo (Italy · Menswear & Underwear)
 **Weekly #1** · 🇮🇹 Italy · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679944684524899617) by [@malika_.world](https://www.tiktok.com/@malika_.world). Format: **Handheld Demo** · 15s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Look at this really nice outfit”
+**Opening line (translated from the video):** “Look at this really nice outfit”
 
 **Key visuals:** Men's Clothing Store · Wooden Hanger Rack · Striped Hooded Sweatshirt · Waffle Knit Pants · White Sneakers · NEW COLLECTION Sign · Green Plant
 
@@ -39,26 +38,22 @@ Shot 1:
   - Duration: 0.0sec - 3.0sec
   - Scene Type: OOTD outfit showcase
   - Scene: In the bright men's clothing store, the young man walks slowly forward from a distance, stops when he reaches the front of the camera, one hand naturally lifts to his chest and rests gently on the clothing, the other hand hangs down naturally. The men's clothing racks and stacked clothes in the background are clearly visible, the character looks at the camera naturally, and his mouth moves as he speaks
-  - Subject: guarda questo completo
-davvero bellissimo.
+  - Subject: guarda questo completo davvero bellissimo.
 Shot 2:
   - Duration: 3.0sec - 6.5sec
   - Scene Type: Outfit matching demonstration
   - Scene: The frame naturally shows the man standing front-facing, he gently pinches the two drawstrings on the hoodie with both hands, slightly adjusts to show the cut of the hoodie, then releases the drawstrings, raises his hand and gestures gently at the clothing on his chest to show the stripe and color-block design details of the top. The camera stays at a medium shot focusing on the character's upper body, and the man moves his mouth to speak
-  - Subject: Mi piace soprattutto il design, semplice, moderno e facile da abbinare.
-Grazie.
+  - Subject: Mi piace soprattutto il design, semplice, moderno e facile da abbinare. Grazie.
 Shot 3:
   - Duration: 6.5sec - 10.0sec
   - Scene Type: Product material showcase
   - Scene: The camera slowly pushes forward, transitioning from the full-body shot of the character to a partial upper-body shot, and finally focuses on the collar of the hoodie, clearly showing the button design of the collar, the details of the chest pocket, and the fabric texture of the black horizontal stripes on the garment. The character's lips open and close slightly, with a calm expression
-  - Subject: guarda bene i dettagli e come veste.
-anche i pantaloni completano perfettamente il look
+  - Subject: guarda bene i dettagli e come veste. anche i pantaloni completano perfettamente il look
 Shot 4:
   - Duration: 10.0sec - 15.5sec
   - Scene Type: Product usage scenario
   - Scene: The camera pulls back to a full shot, the man first grabs the waistband of his pants with both hands to adjust the clothing, then naturally puts both hands into the side pockets, standing in a relaxed and stretched posture, then turns his body sideways to show the outfit effect from different angles, fully presenting the wearing effect of the entire casual set. The in-store displays in the background remain clearly visible, and the character keeps moving his mouth to speak
-  - Subject: è un completo comodo ma allo stesso tempo molto elegante se ti piace potrai
-puoi trovarlo direttamente su TikTok Shop.
+  - Subject: è un completo comodo ma allo stesso tempo molto elegante se ti piace potrai puoi trovarlo direttamente su TikTok Shop.
 [Background Sound]:
 - Very upbeat TikTok background music, light pop style with a fast tempo (approximately 120-130 BPM), moderately high volume, featuring electronic beats and playful synthesizer tones. Perfect for fashion outfit product promotion videos, creating a relaxed, cheerful and highly trendy shopping atmosphere. The music style is similar to the commonly used BGM for TikTok viral fashion trends, which can effectively boost viewer retention rate and click conversion rate
 [Transition / Editing]:
@@ -78,26 +73,22 @@ Shot 1:
   - 时长: 0.0sec - 3.0sec
   - 镜头类型: OOTD穿搭展示
   - 画面: 明亮的男装店内，年轻男士从远处缓步向前走，走到镜头正面后停下脚步，一只手自然抬起到胸口位置轻放于衣物上，另一只手自然垂落，背景里的男装货架与叠放的衣物清晰可见，人物神态自然地看向镜头，嘴部动嘴发出声音
-  - 口播: guarda questo completo
-davvero bellissimo.
+  - 口播: guarda questo completo davvero bellissimo.
 Shot 2:
   - 时长: 3.0sec - 6.5sec
   - 镜头类型: 穿搭搭配示范
   - 画面: 画面自然呈现男士正面站立的状态，他双手轻轻捏住连帽卫衣的两侧抽绳，微微调整展示卫衣的版型，随后松开抽绳，抬手在胸前衣物位置轻轻比划，展示上衣的条纹与拼色设计细节，镜头保持中景聚焦人物上半身，男士动嘴进行表述
-  - 口播: Mi piace soprattutto il design, semplice, moderno e facile da abbinare.
-Grazie.
+  - 口播: Mi piace soprattutto il design, semplice, moderno e facile da abbinare. Grazie.
 Shot 3:
   - 时长: 6.5sec - 10.0sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头缓慢向前推进，从人物全身画面过渡到上半身局部，最终聚焦在连帽卫衣的领口位置，清晰展示领口的纽扣设计、胸前口袋细节以及衣身的黑色横条纹面料质感，人物的嘴唇微微开合，神态从容
-  - 口播: guarda bene i dettagli e come veste.
-anche i pantaloni completano perfettamente il look
+  - 口播: guarda bene i dettagli e come veste. anche i pantaloni completano perfettamente il look
 Shot 4:
   - 时长: 10.0sec - 15.5sec
   - 镜头类型: 产品使用场景
   - 画面: 镜头拉回全景，男士先是双手抓住裤腰位置调整衣物，随后将双手自然插入两侧裤袋，站姿舒展放松，接着侧身转动身体展示穿搭的不同角度效果，完整呈现整套休闲套装的上身效果，背景的店内陈列依旧清晰，人物持续动嘴表述
-  - 口播: è un completo comodo ma allo stesso tempo molto elegante se ti piace potrai
-puoi trovarlo direttamente su TikTok Shop.
+  - 口播: è un completo comodo ma allo stesso tempo molto elegante se ti piace potrai puoi trovarlo direttamente su TikTok Shop.
 [Background Sound]:
 - 非常欢快的TikTok背景音乐，轻快流行风格、节奏明快（约120-130 BPM）、音量适中偏高、带有电子节拍和俏皮合成器音色，适合时尚穿搭类带货视频，营造轻松愉悦、潮流感十足的购物氛围，歌曲风格类似TikTok viral fashion trend常用BGM，能有效提升观众停留率和点击转化率
 [Transition / Editing]:
@@ -106,4 +97,4 @@ puoi trovarlo direttamente su TikTok Shop.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-menswear-899617](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-menswear-899617?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-menswear-899617)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-menswear-899617](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-menswear-899617?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-menswear-899617)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: gb-computers-121475
-title: "USB Flash Drive 2TB  3.2 Type C PenDrive Memory Stick 256GB 1T — Handheld Demo (United Kingdom · Computers & Office Equipment)"
+title: "USB Flash Drive 2TB 3.2 Type C… — Handheld Demo (United Kingdom · Computers & Office Equipment)"
 market: gb
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7665275214330121475
 creator: "@yylingsa"
 published: 2026-07-22
 ---
-# USB Flash Drive 2TB  3.2 Type C PenDrive Memory Stick 256GB 1T — Handheld Demo (United Kingdom · Computers & Office Equipment)
+# USB Flash Drive 2TB 3.2 Type C… — Handheld Demo (United Kingdom · Computers & Office Equipment)
 **Weekly #1** · 🇬🇧 United Kingdom · Computers & Office Equipment · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7665275214330121475) by [@yylingsa](https://www.tiktok.com/@yylingsa). Format: **Handheld Demo** · 15s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Do not let your phone run out of space”
+**Opening line (quoted from the video):** “Do not let your phone run out of space”
 
 **Pain point it attacks:** Phone storage is insufficient
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-computers-121475](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-computers-121475?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-computers-121475)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-computers-121475](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-computers-121475?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-computers-121475)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

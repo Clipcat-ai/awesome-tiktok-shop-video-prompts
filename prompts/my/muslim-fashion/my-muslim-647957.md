@@ -1,6 +1,6 @@
 ---
 id: my-muslim-647957
-title: "INSTANT PURDAH FLOW ZAHVEEN ~ HQ KOREAN LYCRA PREMIUM FABRIC ~ — Talking Head (Malaysia · Muslim Fashion)"
+title: "INSTANT PURDAH FLOW ZAHVEEN ~ HQ… — Talking Head (Malaysia · Muslim Fashion)"
 market: my
 category: muslim-fashion
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667203681640647957
 creator: "@syariniey"
 published: 2026-07-27
 ---
-# INSTANT PURDAH FLOW ZAHVEEN ~ HQ KOREAN LYCRA PREMIUM FABRIC ~ — Talking Head (Malaysia · Muslim Fashion)
+# INSTANT PURDAH FLOW ZAHVEEN ~ HQ… — Talking Head (Malaysia · Muslim Fashion)
 **Weekly #1** · 🇲🇾 Malaysia · Muslim Fashion · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667203681640647957) by [@syariniey](https://www.tiktok.com/@syariniey). Format: **Talking Head** · 28s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “If you want to look younger, you need to wear this kind of tudung style”
+**Opening line (translated from the video):** “If you want to look younger, you need to wear this kind of tudung style”
 
 **Pain point it attacks:** Tudung is hard to wear and hard to look young
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-muslim-647957](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-muslim-647957?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-muslim-647957)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-muslim-647957](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-muslim-647957?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-muslim-647957)
-🤖 **Driving an AI agent?** `clipcat prompt search "Muslim Fashion"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Muslim Fashion talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

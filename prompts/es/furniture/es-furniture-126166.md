@@ -1,6 +1,6 @@
 ---
 id: es-furniture-126166
-title: "Espejo de Maquillaje con Iluminación LED: Tocador con 15 Bombi — Talking Head (Spain · Furniture)"
+title: "Espejo de Maquillaje con… — Talking Head (Spain · Furniture)"
 market: es
 category: furniture
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670633149881126166
 creator: "@dailydeals.1"
 published: 2026-08-05
 ---
-# Espejo de Maquillaje con Iluminación LED: Tocador con 15 Bombi — Talking Head (Spain · Furniture)
+# Espejo de Maquillaje con… — Talking Head (Spain · Furniture)
 **Weekly #1** · 🇪🇸 Spain · Furniture · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670633149881126166) by [@dailydeals.1](https://www.tiktok.com/@dailydeals.1). Format: **Talking Head** · 10s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Girls, I've been looking for a mirror that really lights up well”
+**Opening line (translated from the video):** “Girls, I've been looking for a mirror that really lights up well”
 
 **Pain point it attacks:** Can't find a makeup mirror with good lighting
 
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 4.0sec - 6.0sec
   - Scene Type: Product effectiveness demonstration
   - Scene: One of the creator's hands reaches in from the left side of the frame, gently touching the hidden touch control on the makeup mirror surface. All the surrounding globe bulbs light up at the exact same time, the even bright light instantly fills the entire mirror surface, the brightness of the area in front of the mirror increases significantly, the creator's facial skin tone in the mirror is brightened, and she shows a surprised and satisfied expression.
-  - Subject: ...y este ha sido un antes y un después...
+  - Subject: y este ha sido un antes y un después...
 Shot 3:
   - Duration: 6.0sec - 9.0sec
   - Scene Type: Product design highlights
@@ -81,7 +80,7 @@ Shot 2:
   - 时长: 4.0sec - 6.0sec
   - 镜头类型: 产品有效性
   - 画面: 博主的一只手从画面左侧伸入，轻轻触摸化妆镜镜面的隐藏触控按键，镜边环绕的所有球形灯瞬间同步亮起，均匀明亮的光线瞬间铺满整个镜面，镜前区域的明亮度大幅提升，镜中博主的面部肤色被提亮，她露出惊喜满意的神情。
-  - 口播: ...y este ha sido un antes y un después...
+  - 口播: y este ha sido un antes y un después...
 Shot 3:
   - 时长: 6.0sec - 9.0sec
   - 镜头类型: 产品设计亮点
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-furniture-126166](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-furniture-126166?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-furniture-126166)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-furniture-126166](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-furniture-126166?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-furniture-126166)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

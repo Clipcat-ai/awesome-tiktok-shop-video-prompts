@@ -1,6 +1,6 @@
 ---
 id: es-household-043798
-title: "Taylor Swoden Cafetera de Goteo — Talking Head (Spain · Household Appliances)"
+title: "Taylor Swoden Cafetera de Goteo… — Talking Head (Spain · Household Appliances)"
 market: es
 category: household-appliances
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677286051144043798
 creator: "@viky78169"
 published: 2026-08-23
 ---
-# Taylor Swoden Cafetera de Goteo — Talking Head (Spain · Household Appliances)
+# Taylor Swoden Cafetera de Goteo… — Talking Head (Spain · Household Appliances)
 **Weekly #1** · 🇪🇸 Spain · Household Appliances · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677286051144043798) by [@viky78169](https://www.tiktok.com/@viky78169). Format: **Talking Head** · 10s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Your coffee is ready exactly when you need it”
+**Opening line (translated from the video):** “Your coffee is ready exactly when you need it”
 
 **Pain point it attacks:** Waiting for coffee in the morning is time-consuming
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-household-043798](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-household-043798?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-household-043798)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-household-043798](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-household-043798?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-household-043798)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

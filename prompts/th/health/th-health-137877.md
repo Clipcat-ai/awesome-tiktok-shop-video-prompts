@@ -1,6 +1,6 @@
 ---
 id: th-health-137877
-title: "[ยิ่งช้อป ยิ่งคุ้ม] Dr.PONG 20%ACV Apple Cider Vinegar 750 mg — Story Skit (Thailand · Health)"
+title: "[ยิ่งช้อป ยิ่งคุ้ม] Dr.PONG 20%ACV… — Story Skit (Thailand · Health)"
 market: th
 category: health
 video_type: story-skit
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7647010403834137877
 creator: "@moomay_3m"
 published: 2026-06-03
 ---
-# [ยิ่งช้อป ยิ่งคุ้ม] Dr.PONG 20%ACV Apple Cider Vinegar 750 mg — Story Skit (Thailand · Health)
+# [ยิ่งช้อป ยิ่งคุ้ม] Dr.PONG 20%ACV… — Story Skit (Thailand · Health)
 **Weekly #1** · 🇹🇭 Thailand · Health · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7647010403834137877) by [@moomay_3m](https://www.tiktok.com/@moomay_3m). Format: **Story Skit** · 10s · hook: **Skit Conflict** · No one on camera · No promo
-**Opening line (from the video):** “Want a good figure and can eat without guilt, try this apple cider vinegar pill”
+**Opening line (translated from the video):** “Want a good figure and can eat without guilt, try this apple cider vinegar pill”
 
 **Pain point it attacks:** Want to control figure but can't stop eating
 
@@ -41,8 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 6.0sec
   - Scene Type: Interactive plot performance
   - Scene: On the frosted refrigerator shelf, the anthropomorphic green matcha drink cup character first furrows its thick eyebrows, opening and closing its mouth nonstop to complain, with a haughty and dissatisfied look. The adjacent anthropomorphic Dr.PONG + apple cider vinegar capsule bottle character simultaneously furrows its brows to respond, the capsule outlet on the front of the bottle repeatedly opens and closes in rhythm with the dialogue, popping out and retracting capsules. The two are in a state of bickering confrontation, and the frost details of the surrounding refrigerator environment are clearly visible.
-  - Subject: กูอ้วน ๆ แต่กินกูไม่หยุด กินทุกวัน
-กินกูก่อนอาหารเพียงวันละ 2 เมตร หุ่นสวย
+  - Subject: กูอ้วน ๆ แต่กินกูไม่หยุด กินทุกวัน กินกูก่อนอาหารเพียงวันละ 2 เมตร หุ่นสวย
 Shot 2:
   - Duration: 6.0sec - 9.0sec
   - Scene Type: Interactive plot performance
@@ -67,8 +65,7 @@ Shot 1:
   - 时长: 0.0sec - 6.0sec
   - 镜头类型: 互动剧情演绎
   - 画面: 结冰的冰箱置物架上，绿色抹茶饮品杯拟人角色率先皱起浓眉，嘴巴不断张合进行吐槽，神态傲娇带着不满；身旁的Dr.PONG+苹果醋胶囊瓶拟人角色同步皱起眉头回应，瓶身正面的胶囊排出口随对话节奏反复开合，弹出又收回胶囊，双方处于互怼对峙的状态，周边冰箱环境的冰霜细节清晰可见。
-  - 口播: กูอ้วน ๆ แต่กินกูไม่หยุด กินทุกวัน
-กินกูก่อนอาหารเพียงวันละ 2 เมตร หุ่นสวย
+  - 口播: กูอ้วน ๆ แต่กินกูไม่หยุด กินทุกวัน กินกูก่อนอาหารเพียงวันละ 2 เมตร หุ่นสวย
 Shot 2:
   - 时长: 6.0sec - 9.0sec
   - 镜头类型: 互动剧情演绎
@@ -82,4 +79,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-health-137877](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-health-137877?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-health-137877)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-health-137877](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-health-137877?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-health-137877)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health story skit"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

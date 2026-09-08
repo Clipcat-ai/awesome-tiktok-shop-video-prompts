@@ -1,6 +1,6 @@
 ---
 id: vn-womenswear-713799
-title: "OOTD Showcase — Womenswear & Underwear (Vietnam)"
+title: "( màu mới có bigsize ) bộ ngủ 2… — OOTD Showcase (Vietnam · Womenswear & Underwear)"
 market: vn
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7646015258443713799
 creator: "@suni.kol"
 published: 2026-05-31
 ---
-# OOTD Showcase — Womenswear & Underwear (Vietnam)
+# ( màu mới có bigsize ) bộ ngủ 2… — OOTD Showcase (Vietnam · Womenswear & Underwear)
 **Weekly #1** · 🇻🇳 Vietnam · Womenswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7646015258443713799) by [@suni.kol](https://www.tiktok.com/@suni.kol). Format: **OOTD Showcase** · 19s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Please subscribe to Ghiền Mì Gõ channel not to miss exciting videos”
+**Opening line (translated from the video):** “Please subscribe to Ghiền Mì Gõ channel not to miss exciting videos”
 
 **Key visuals:** Mirror · Vintage Camera · White Knit Pajamas · Bear Embroidery · Gray Carpet · Roman Column · Wooden Door Frame
 
@@ -39,17 +38,14 @@ Shot 1:
   - Duration: 0.0sec - 9.5sec
   - Scene Type: OOTD loungewear display
   - Scene: The girl stands in front of a full-length mirror, holding a vintage camera to take a selfie towards the lens. Her left hand occasionally rests naturally by her side, she raises her hand to gently brush the hair on top of her head, and subtly adjusts her standing posture repeatedly to show the overall fit and wearing effect of the pajama set, with a retro-styled cozy living room in the background.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - Duration: 9.5sec - 15.0sec
   - Scene Type: Product fabric detail display
   - Scene: The shot transitions from the mirror selfie view, switching to an overhead flat-lay perspective that shows the full pajama set laid flat on the grey short-pile carpet. Soft sunlight shadows are visible on the surface of the carpet and clothing, clearly showcasing the bear embroidery on the camisole, the lace trim, and the all-over bear print pattern on the shorts.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 3:
   - Duration: 15.0sec - 19.5sec
   - Scene Type: OOTD loungewear display
   - Scene: The shot cuts back to the girl's mirror selfie scene. She gently flips her long wavy hair, then naturally raises her hand to brush her hair behind her shoulder, adjusts her standing posture again, and continues to show the wearing effect of the pajama set from multiple angles with a relaxed, content expression.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
 - A Vietnamese pop ballad with a nostalgic, melancholic atmosphere, featuring a soft melody and slow tempo, led by piano and string instruments. The vocals are clear and delicate with sincere emotion, at a moderate, gentle volume with no strong beats, perfectly matching the mood of slow-motion shots and loungewear home display footage.
 [Transition / Editing]:
@@ -69,17 +65,14 @@ Shot 1:
   - 时长: 0.0sec - 9.5sec
   - 镜头类型: OOTD穿搭展示
   - 画面: 女生站在落地镜前，手持复古相机对着镜头自拍，左手偶尔自然垂落，抬手轻轻拂过头顶的发丝，不断细微调整站姿，展示睡衣上身的整体版型与穿搭效果，背景是充满复古质感的居家客厅空间。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - 时长: 9.5sec - 15.0sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头从对镜自拍画面过渡，采用平拍俯拍视角，展示整套睡衣平铺在灰色短绒地毯上的状态，画面中可以看到阳光在地毯与衣物表面投下柔和的光影，清晰呈现出吊带的小熊刺绣图案、蕾丝花边以及短裤满印的小熊纹样细节。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 3:
   - 时长: 15.0sec - 19.5sec
   - 镜头类型: OOTD穿搭展示
   - 画面: 画面切回女生的对镜自拍场景，女生轻轻甩动长卷发，随后自然抬手将长发拨到肩后，再次调整站姿，继续多角度展示睡衣上身的效果，神情惬意放松。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
 - 一首带有伤感与回忆氛围的越南语流行抒情歌曲，旋律柔和、节奏舒缓，以钢琴和弦乐为主导，人声清澈细腻，情感真挚，音量适中偏柔，无强烈节奏，适配慢镜头与居家穿搭展示的画面氛围。
 [Transition / Editing]:
@@ -88,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-womenswear-713799](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-womenswear-713799?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-womenswear-713799)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-womenswear-713799](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-womenswear-713799?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-womenswear-713799)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

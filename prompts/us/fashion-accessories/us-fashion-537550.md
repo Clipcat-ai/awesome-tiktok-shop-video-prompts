@@ -1,6 +1,6 @@
 ---
 id: us-fashion-537550
-title: "【TRENDY VIBES】MYIAUR Women's Polarized Sunglasses - Big Style — Handheld Demo (United States · Fashion Accessories)"
+title: "【TRENDY VIBES】MYIAUR Women's… — Handheld Demo (United States · Fashion Accessories)"
 market: us
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678275253373537550
 creator: "@floriana354"
 published: 2026-08-26
 ---
-# 【TRENDY VIBES】MYIAUR Women's Polarized Sunglasses - Big Style — Handheld Demo (United States · Fashion Accessories)
+# 【TRENDY VIBES】MYIAUR Women's… — Handheld Demo (United States · Fashion Accessories)
 **Weekly #1** · 🇺🇸 United States · Fashion Accessories · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678275253373537550) by [@floriana354](https://www.tiktok.com/@floriana354). Format: **Handheld Demo** · 15s · hook: **Identity** · On-camera host · No promo
-**Opening line (from the video):** “Girl, if you like sunglasses nobody else has, look at it”
+**Opening line (quoted from the video):** “Girl, if you like sunglasses nobody else has, look at it”
 
 **Pain point it attacks:** Can't find unique sunglasses
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-fashion-537550](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-fashion-537550?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-fashion-537550)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-fashion-537550](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-fashion-537550?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-fashion-537550)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

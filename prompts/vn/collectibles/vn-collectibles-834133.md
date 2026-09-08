@@ -1,6 +1,6 @@
 ---
 id: vn-collectibles-834133
-title: "Huy chương bóng đá in theo yêu cầu kim loại giá rẻ sọc chéo — Handheld Demo (Vietnam · Collectibles)"
+title: "Huy chương bóng đá in theo yêu cầu… — Handheld Demo (Vietnam · Collectibles)"
 market: vn
 category: collectibles
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7582062565811834133
 creator: "@tienphuong50"
 published: 2025-12-10
 ---
-# Huy chương bóng đá in theo yêu cầu kim loại giá rẻ sọc chéo — Handheld Demo (Vietnam · Collectibles)
+# Huy chương bóng đá in theo yêu cầu… — Handheld Demo (Vietnam · Collectibles)
 **Weekly #1** · 🇻🇳 Vietnam · Collectibles · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7582062565811834133) by [@tienphuong50](https://www.tiktok.com/@tienphuong50). Format: **Handheld Demo** · 56s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A woman sits on the tiled floor holding a stack of medals to show”
+**Opening line (translated from the video):** “A woman sits on the tiled floor holding a stack of medals to show”
 
 **Key visuals:** Metal Medals · Tiled Floor · Packaging Paper · Wooden Workbench · Express Box · Red Tape Dispenser · Pink Scissors · Yellow Storage Basket
 
@@ -49,12 +48,12 @@ Shot 3:
   - Duration: 16.0sec - 30.0sec
   - Scene Type: Product detail display
   - Scene: The girl flips all the medals over, facing the camera with their yellow front sides printed with the school football tournament logo, her fingers tap the logo area of each medal one by one, adjusting the arrangement order of the medals, sequentially showing the full front appearance of the gold, silver, and copper medals, allowing the camera to clearly capture the printing details of every logo.
-  - Subject: Das ist ein, was ich hier in der Karte. Zeit, Mama.  Er ist safe, na... Ja, wie schon, dann in. Das war's. Ja. Huh? Das ist dann beim Backdown. Das ist ja, ich bin der Geist. Vielen Dank.
+  - Subject: Das ist ein, was ich hier in der Karte. Zeit, Mama. Er ist safe, na... Ja, wie schon, dann in. Das war's. Ja. Huh? Das ist dann beim Backdown. Das ist ja, ich bin der Geist. Vielen Dank.
 Shot 4:
   - Duration: 30.0sec - 38.0sec
   - Scene Type: Product detail display
   - Scene: The girl takes out a single gold medal separately, flips it to show the 3D embossed detail of a player kicking a ball on its back, her fingertips gently brush over the embossed surface to demonstrate the fine texture of the metal, then holds the gold medal up to the camera and slowly rotates it, presenting the English text 'FOOTBALL' on the embossment from different angles, before placing the gold medal back onto the stack of medals.
-  - Subject: mau vanne Hier ist ein kleineser. Das ist ein Löffel.  Ich habe auch die Football noch.
+  - Subject: mau vanne Hier ist ein kleineser. Das ist ein Löffel. Ich habe auch die Football noch.
 Shot 5:
   - Duration: 38.0sec - 53.0sec
   - Scene Type: Product material display
@@ -94,12 +93,12 @@ Shot 3:
   - 时长: 16.0sec - 30.0sec
   - 镜头类型: 产品细节展示
   - 画面: 女生翻转所有奖牌，将印有学校足球赛事logo的黄色正面朝向镜头，手指依次点过每一块奖牌的logo区域，调整奖牌排列顺序，依次展示金牌、银牌、铜牌的正面完整样式，让镜头清晰看清每一个logo的印刷细节。
-  - 口播: Das ist ein, was ich hier in der Karte. Zeit, Mama.  Er ist safe, na... Ja, wie schon, dann in. Das war's. Ja. Huh? Das ist dann beim Backdown. Das ist ja, ich bin der Geist. Vielen Dank.
+  - 口播: Das ist ein, was ich hier in der Karte. Zeit, Mama. Er ist safe, na... Ja, wie schon, dann in. Das war's. Ja. Huh? Das ist dann beim Backdown. Das ist ja, ich bin der Geist. Vielen Dank.
 Shot 4:
   - 时长: 30.0sec - 38.0sec
   - 镜头类型: 产品细节展示
   - 画面: 女生单独取出一块金牌，翻转展示其背面的球员踢球立体浮雕细节，指尖轻轻摩挲浮雕表面，展示金属的细腻纹理，随后将金牌举到镜头前缓慢转动，从不同角度呈现浮雕上的英文“FOOTBALL”字样，随后再将金牌放回奖牌堆里。
-  - 口播: mau vanne Hier ist ein kleineser. Das ist ein Löffel.  Ich habe auch die Football noch.
+  - 口播: mau vanne Hier ist ein kleineser. Das ist ein Löffel. Ich habe auch die Football noch.
 Shot 5:
   - 时长: 38.0sec - 53.0sec
   - 镜头类型: 产品材质展示
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-collectibles-834133](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-collectibles-834133?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-collectibles-834133)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-collectibles-834133](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-collectibles-834133?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-collectibles-834133)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

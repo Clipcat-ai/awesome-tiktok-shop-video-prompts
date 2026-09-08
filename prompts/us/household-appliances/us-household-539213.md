@@ -1,6 +1,6 @@
 ---
 id: us-household-539213
-title: "Sweetcrispy 5 Gal Bottom-Loading Stainless Steel Water Cooler — Real Review (United States · Household Appliances)"
+title: "Sweetcrispy 5 Gal Bottom-Loading… — Real Review (United States · Household Appliances)"
 market: us
 category: household-appliances
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670837719475539213
 creator: "@sweetcrispy_plus"
 published: 2026-08-06
 ---
-# Sweetcrispy 5 Gal Bottom-Loading Stainless Steel Water Cooler — Real Review (United States · Household Appliances)
+# Sweetcrispy 5 Gal Bottom-Loading… — Real Review (United States · Household Appliances)
 **Weekly #1** · 🇺🇸 United States · Household Appliances · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670837719475539213) by [@sweetcrispy_plus](https://www.tiktok.com/@sweetcrispy_plus). Format: **Real Review** · 15s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “No more heavy lifting, just slide it in”
+**Opening line (quoted from the video):** “No more heavy lifting, just slide it in”
 
 **Pain point it attacks:** Changing water buckets is laborious
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-household-539213](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-household-539213?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-household-539213)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-household-539213](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-household-539213?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-household-539213)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

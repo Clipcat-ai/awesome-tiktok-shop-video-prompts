@@ -1,6 +1,6 @@
 ---
 id: sg-furniture-550740
-title: "WoodMall ราวตากผ้า ราวแขวนเสื้อผ้า Coat Rack ราวตากผ้าอเนกประส — Promo Pitch (Singapore · Furniture)"
+title: "WoodMall ราวตากผ้า ราวแขวนเสื้อผ้า… — Promo Pitch (Singapore · Furniture)"
 market: sg
 category: furniture
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7649262196127550740
 creator: "@ban.jime"
 published: 2026-06-09
 ---
-# WoodMall ราวตากผ้า ราวแขวนเสื้อผ้า Coat Rack ราวตากผ้าอเนกประส — Promo Pitch (Singapore · Furniture)
+# WoodMall ราวตากผ้า ราวแขวนเสื้อผ้า… — Promo Pitch (Singapore · Furniture)
 **Weekly #1** · 🇸🇬 Singapore · Furniture · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7649262196127550740) by [@ban.jime](https://www.tiktok.com/@ban.jime). Format: **Promo Pitch** · 24s · hook: **POV Scenario** · On-camera host · Discount
-**Opening line (from the video):** “This coat rack is the best choice for minimalist home decor”
+**Opening line (translated from the video):** “This coat rack is the best choice for minimalist home decor”
 
 **Pain point it attacks:** No clear pain point
 
@@ -71,8 +70,7 @@ Shot 7:
   - Duration: 18.0sec - 24.0sec
   - Scene Type: Limited-time offer
   - Scene: The character continues sharing the good product, guiding the audience to pay attention to the promotional event information.
-  - Subject: กับราวตากภาทน ๆ ยำว่าตอนนี้เท่านั้น
-กิมตะก้าเพื่อดูโปร รับรองว่าคุมแม่นอนจ้ะ
+  - Subject: กับราวตากภาทน ๆ ยำว่าตอนนี้เท่านั้น กิมตะก้าเพื่อดูโปร รับรองว่าคุมแม่นอนจ้ะ
 [Background Sound]:
 - Upbeat, highly rhythmic TikTok-style background music with light electronic beats and playful synth melodies, moderately high volume, tempo around 120-130 BPM, purely instrumental with no distinct lyrics, similar to popular e-commerce promotional hits, driven by repeating melodies and drum beats to create a rush-buying atmosphere, perfectly suited for short product marketing videos.
 [Transition / Editing]:
@@ -122,8 +120,7 @@ Shot 7:
   - 时长: 18.0sec - 24.0sec
   - 镜头类型: 限时优惠
   - 画面: 人物继续进行好物分享，引导观众关注促销活动信息。
-  - 口播: กับราวตากภาทน ๆ ยำว่าตอนนี้เท่านั้น
-กิมตะก้าเพื่อดูโปร รับรองว่าคุมแม่นอนจ้ะ
+  - 口播: กับราวตากภาทน ๆ ยำว่าตอนนี้เท่านั้น กิมตะก้าเพื่อดูโปร รับรองว่าคุมแม่นอนจ้ะ
 [Background Sound]:
 - 非常欢快、节奏感强的TikTok风格背景音乐，带有轻快的电子节拍和俏皮的合成器旋律，音量适中偏高，节奏约120-130 BPM，属于无明确歌词的纯音乐，类似电商促销神曲，搭配重复旋律和鼓点驱动，营造出抢购感和促销氛围，适配带货类短视频场景。
 [Transition / Editing]:
@@ -132,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-furniture-550740](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-furniture-550740?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-furniture-550740)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-furniture-550740](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-furniture-550740?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-furniture-550740)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

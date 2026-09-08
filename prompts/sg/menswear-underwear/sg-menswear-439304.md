@@ -1,6 +1,6 @@
 ---
 id: sg-menswear-439304
-title: "Men's Short-sleeved T-shirt Made of Pure Cotton Material — Handheld Demo (Singapore · Menswear & Underwear)"
+title: "Men's Short-sleeved T-shirt Made… — Handheld Demo (Singapore · Menswear & Underwear)"
 market: sg
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7635285302084439304
 creator: "@tide.style"
 published: 2026-05-02
 ---
-# Men's Short-sleeved T-shirt Made of Pure Cotton Material — Handheld Demo (Singapore · Menswear & Underwear)
+# Men's Short-sleeved T-shirt Made… — Handheld Demo (Singapore · Menswear & Underwear)
 **Weekly #1** · 🇸🇬 Singapore · Menswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7635285302084439304) by [@tide.style](https://www.tiktok.com/@tide.style). Format: **Handheld Demo** · 10s · hook: **ASMR Sensory** · Hands only · No promo
-**Opening line (from the video):** “No voiceover, only show hand pulling T-shirt fabric and music rhythm”
+**Opening beat:** “No voiceover, only show hand pulling T-shirt fabric and music rhythm”
 
 **Key visuals:** Short-sleeved T-shirt · Wooden Hanger · Leather Watch · Striped Carpet · Round Ceiling Lamp · Clothes Hangers
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-menswear-439304](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-menswear-439304?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-menswear-439304)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-menswear-439304](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-menswear-439304?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-menswear-439304)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

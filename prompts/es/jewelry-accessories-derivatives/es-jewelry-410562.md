@@ -1,6 +1,6 @@
 ---
 id: es-jewelry-410562
-title: "Davaco Collar Ojo Turco en Cristal Templado con Cadena de Plat — Handheld Demo (Spain · Jewelry Accessories & Derivatives)"
+title: "Davaco Collar Ojo Turco en Cristal… — Handheld Demo (Spain · Jewelry Accessories & Derivatives)"
 market: es
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677291960893410562
 creator: "@angelavegalyra"
 published: 2026-08-23
 ---
-# Davaco Collar Ojo Turco en Cristal Templado con Cadena de Plat — Handheld Demo (Spain · Jewelry Accessories & Derivatives)
+# Davaco Collar Ojo Turco en Cristal… — Handheld Demo (Spain · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇪🇸 Spain · Jewelry Accessories & Derivatives · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677291960893410562) by [@angelavegalyra](https://www.tiktok.com/@angelavegalyra). Format: **Handheld Demo** · 35s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Some jewelry not only complements your style, but reminds you to stay calm”
+**Opening line (translated from the video):** “Some jewelry not only complements your style, but reminds you to stay calm”
 
 **Key visuals:** Blue Evil Eye Pendant · 925 Silver Chain · Linen Dress · Sea View · Lavender · Crystal · Pink Gift Bag
 
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-jewelry-410562](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-jewelry-410562?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-jewelry-410562)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-jewelry-410562](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-jewelry-410562?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-jewelry-410562)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

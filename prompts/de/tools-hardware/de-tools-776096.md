@@ -1,6 +1,6 @@
 ---
 id: de-tools-776096
-title: "Fanttik F2 Master Mini kabelloses Polier- und Gravierwerkzeugs — Real Review (Germany · Tools & Hardware)"
+title: "Fanttik F2 Master Mini kabelloses… — Real Review (Germany · Tools & Hardware)"
 market: de
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680313409702776096
 creator: "@dneronelove"
 published: 2026-08-31
 ---
-# Fanttik F2 Master Mini kabelloses Polier- und Gravierwerkzeugs — Real Review (Germany · Tools & Hardware)
+# Fanttik F2 Master Mini kabelloses… — Real Review (Germany · Tools & Hardware)
 **Weekly #1** · 🇩🇪 Germany · Tools & Hardware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680313409702776096) by [@dneronelove](https://www.tiktok.com/@dneronelove). Format: **Real Review** · 10s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A wagon only looks good when its small edges are done right”
+**Opening line (translated from the video):** “A wagon only looks good when its small edges are done right”
 
 **Pain point it attacks:** Small edges of models are hard to handle well
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-tools-776096](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-tools-776096?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-tools-776096)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-tools-776096](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-tools-776096?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-tools-776096)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

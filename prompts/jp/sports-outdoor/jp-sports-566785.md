@@ -1,6 +1,6 @@
 ---
 id: jp-sports-566785
-title: "【期間限定】偏光調光サングラス メンズ レディース 男女兼用 UVカット ウェリントン型 おしゃれ 運転用 アウトドア — Promo Pitch (Japan · Sports & Outdoor)"
+title: "【期間限定】偏光調光サングラス… — Promo Pitch (Japan · Sports & Outdoor)"
 market: jp
 category: sports-outdoor
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678485783996566785
 creator: "@user5834922453063"
 published: 2026-08-26
 ---
-# 【期間限定】偏光調光サングラス メンズ レディース 男女兼用 UVカット ウェリントン型 おしゃれ 運転用 アウトドア — Promo Pitch (Japan · Sports & Outdoor)
+# 【期間限定】偏光調光サングラス… — Promo Pitch (Japan · Sports & Outdoor)
 **Weekly #1** · 🇯🇵 Japan · Sports & Outdoor · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678485783996566785) by [@user5834922453063](https://www.tiktok.com/@user5834922453063). Format: **Promo Pitch** · 14s · hook: **Curiosity Gap** · On-camera host · Discount, Coupon
-**Opening line (from the video):** “Wait, look at this, it's only 1 yen, and shipping is free”
+**Opening line (translated from the video):** “Wait, look at this, it's only 1 yen, and shipping is free”
 
 **Pain point it attacks:** Worry about buying overpriced polarized sunglasses
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-sports-566785](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-sports-566785?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-sports-566785)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-sports-566785](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-sports-566785?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-sports-566785)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

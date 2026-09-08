@@ -1,6 +1,6 @@
 ---
 id: us-computers-914253
-title: "WRITECH Liquid Ink Rollerball Pens 8ct Assorted Colors 0.5mm T — Promo Pitch (United States · Computers & Office Equipment)"
+title: "WRITECH Liquid Ink Rollerball Pens… — Promo Pitch (United States · Computers & Office Equipment)"
 market: us
 category: computers-office-equipment
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667506907631914253
 creator: "@pretty.real.life.over40"
 published: 2026-07-28
 ---
-# WRITECH Liquid Ink Rollerball Pens 8ct Assorted Colors 0.5mm T — Promo Pitch (United States · Computers & Office Equipment)
+# WRITECH Liquid Ink Rollerball Pens… — Promo Pitch (United States · Computers & Office Equipment)
 **Weekly #1** · 🇺🇸 United States · Computers & Office Equipment · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667506907631914253) by [@pretty.real.life.over40](https://www.tiktok.com/@pretty.real.life.over40). Format: **Promo Pitch** · 14s · hook: **Urgency** · Hands only · Discount
-**Opening line (from the video):** “If you waited until today you absolutely won, this is so dirt cheap right now”
+**Opening line (quoted from the video):** “If you waited until today you absolutely won, this is so dirt cheap right now”
 
 **Key visuals:** Stationery Store Shelf · WRITECH Rollerball Pen · Pen Box · Gradient Pen Body · Blank Notebook · Small Green Plant · Wooden Table
 
@@ -44,7 +43,7 @@ Shot 2:
   - Duration: 3.5sec - 10.0sec
   - Scene Type: Product design highlights
   - Scene: The shot cuts to a close-up of the hand, this hand holds a box of WRITECH liquid ink rollerball pens up in front of the camera. The thumb gently brushes over the cover area of the pen box then moves away, the hand slowly rotates the pen box to fully display the product text information on the front of the box, the exterior design, and the 8 pens with different colored clips peeking out from the top of the box. The background is various stationery items stacked on the stationery store shelf.
-  - Subject: This is so dirt cheap right now.  Just tap the link. it in your cart then go straight to checkout and see what it comes
+  - Subject: This is so dirt cheap right now. Just tap the link. it in your cart then go straight to checkout and see what it comes
 Shot 3:
   - Duration: 10.0sec - 15.0sec
   - Scene Type: Limited time offer
@@ -74,7 +73,7 @@ Shot 2:
   - 时长: 3.5sec - 10.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 镜头切换到手部特写，这只手握着一盒WRITECH直液式走珠笔展示在镜头前，拇指轻轻拂过笔盒的封面区域后移开，手部微微转动笔盒，全方位展示笔盒正面的产品文字信息、外观设计以及盒顶露出的8支不同色彩笔夹的笔身，背景是文具店货架上堆叠的各类文具商品。
-  - 口播: This is so dirt cheap right now.  Just tap the link. it in your cart then go straight to checkout and see what it comes
+  - 口播: This is so dirt cheap right now. Just tap the link. it in your cart then go straight to checkout and see what it comes
 Shot 3:
   - 时长: 10.0sec - 15.0sec
   - 镜头类型: 限时优惠
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-computers-914253](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-computers-914253?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-computers-914253)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-computers-914253](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-computers-914253?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-computers-914253)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: fr-sports-090720
-title: "UMAY 5 en 1 vélo d'appartement pliable vertical avec 8 niveaux — Lifestyle Scene (France · Sports & Outdoor)"
+title: "UMAY 5 en 1 vélo d'appartement… — Lifestyle Scene (France · Sports & Outdoor)"
 market: fr
 category: sports-outdoor
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7658326986003090720
 creator: "@abcdefj_1999"
 published: 2026-07-03
 ---
-# UMAY 5 en 1 vélo d'appartement pliable vertical avec 8 niveaux — Lifestyle Scene (France · Sports & Outdoor)
+# UMAY 5 en 1 vélo d'appartement… — Lifestyle Scene (France · Sports & Outdoor)
 **Weekly #1** · 🇫🇷 France · Sports & Outdoor · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7658326986003090720) by [@abcdefj_1999](https://www.tiktok.com/@abcdefj_1999). Format: **Lifestyle Scene** · 6s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “This exercise bike is my wellness helper”
+**Opening line (translated from the video):** “This exercise bike is my wellness helper”
 
 **Key visuals:** Home Exercise Bike · White T-shirt · Gray Sweatpants · White Sneakers · Window · Wooden Floor · Wall
 
@@ -78,4 +77,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-sports-090720](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-sports-090720?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-sports-090720)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-sports-090720](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-sports-090720?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-sports-090720)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

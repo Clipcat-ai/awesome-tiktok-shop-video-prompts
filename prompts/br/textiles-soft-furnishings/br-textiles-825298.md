@@ -1,6 +1,6 @@
 ---
 id: br-textiles-825298
-title: "Mantas de Sofá Luxo de todas as medidas King Gigante 240x180/2 — Promo Pitch (Brazil · Textiles & Soft Furnishings)"
+title: "Mantas de Sofá Luxo de todas as… — Promo Pitch (Brazil · Textiles & Soft Furnishings)"
 market: br
 category: textiles-soft-furnishings
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669821631853825298
 creator: "@lunabshopp"
 published: 2026-08-03
 ---
-# Mantas de Sofá Luxo de todas as medidas King Gigante 240x180/2 — Promo Pitch (Brazil · Textiles & Soft Furnishings)
+# Mantas de Sofá Luxo de todas as… — Promo Pitch (Brazil · Textiles & Soft Furnishings)
 **Weekly #1** · 🇧🇷 Brazil · Textiles & Soft Furnishings · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669821631853825298) by [@lunabshopp](https://www.tiktok.com/@lunabshopp). Format: **Promo Pitch** · 22s · hook: **Contrarian** · On-camera host · Discount
-**Opening line (from the video):** “Guys look at this, this blanket's price is wrong”
+**Opening line (translated from the video):** “Guys look at this, this blanket's price is wrong”
 
 **Pain point it attacks:** Home blankets are too expensive to afford
 
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 1.5sec - 8.5sec
   - Scene Type: Product Effect Demonstration
   - Scene: The shot switches to the full view of the showroom. The young woman stands in front of the off-white sofa, takes the off-white tasseled knit blanket out of the packaging bag, and slowly unfolds the blanket with alternating hands in a gentle, fluid motion. She fully stretches the entire blanket out on the wood floor, then peels off and removes the remaining transparent packaging bag completely from the blanket, fully demonstrating the blanket's extra-large size, with a surprised and delighted smile on her face.
-  - Subject: e ainda não perceberam.  Semana passada, tava R$ 100,00. Obrigado. Hoje está saindo por menos de 30.  Repara no tamanho, 39.
+  - Subject: e ainda não perceberam. Semana passada, tava R$ 100,00. Obrigado. Hoje está saindo por menos de 30. Repara no tamanho, 39.
 Shot 3:
   - Duration: 8.5sec - 11.5sec
   - Scene Type: Set Up Usage Scene
@@ -90,7 +89,7 @@ Shot 2:
   - 时长: 1.5sec - 8.5sec
   - 镜头类型: 产品有效性
   - 画面: 镜头切换到展厅全景，年轻女性站在米白色沙发前，从包装袋中取出米白色带流苏的针织毛毯，双手交替慢慢舒展毛毯，动作轻柔流畅，全程将毛毯完全拉开铺展在木地板上，顺手将残余的透明包装袋从毛毯上彻底撕下取走，完整展示毛毯的超大尺寸，她的脸上露出惊喜愉悦的笑容。
-  - 口播: e ainda não perceberam.  Semana passada, tava R$ 100,00. Obrigado. Hoje está saindo por menos de 30.  Repara no tamanho, 39.
+  - 口播: e ainda não perceberam. Semana passada, tava R$ 100,00. Obrigado. Hoje está saindo por menos de 30. Repara no tamanho, 39.
 Shot 3:
   - 时长: 8.5sec - 11.5sec
   - 镜头类型: 设置使用场景
@@ -118,4 +117,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-textiles-825298](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-textiles-825298?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-textiles-825298)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-textiles-825298](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-textiles-825298?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-textiles-825298)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

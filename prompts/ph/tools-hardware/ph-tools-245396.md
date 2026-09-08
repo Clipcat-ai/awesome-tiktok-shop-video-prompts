@@ -1,6 +1,6 @@
 ---
 id: ph-tools-245396
-title: "Multiple Sizes Aluminum Foil Tape Super Fix Repair Wall Crack — Real Review (Philippines · Tools & Hardware)"
+title: "Multiple Sizes Aluminum Foil Tape… — Real Review (Philippines · Tools & Hardware)"
 market: ph
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7664911560938245396
 creator: "@nana666shop"
 published: 2026-07-21
 ---
-# Multiple Sizes Aluminum Foil Tape Super Fix Repair Wall Crack — Real Review (Philippines · Tools & Hardware)
+# Multiple Sizes Aluminum Foil Tape… — Real Review (Philippines · Tools & Hardware)
 **Weekly #1** · 🇵🇭 Philippines · Tools & Hardware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7664911560938245396) by [@nana666shop](https://www.tiktok.com/@nana666shop). Format: **Real Review** · 17s · hook: **Pain Point** · Multiple people · No promo
-**Opening line (from the video):** “Our room is leaking, so I bought this”
+**Opening line (translated from the video):** “Our room is leaking, so I bought this”
 
 **Pain point it attacks:** Room leaks and needs repair
 
@@ -160,4 +159,4 @@ Shot 11:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-tools-245396](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-tools-245396?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-tools-245396)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-tools-245396](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-tools-245396?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-tools-245396)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

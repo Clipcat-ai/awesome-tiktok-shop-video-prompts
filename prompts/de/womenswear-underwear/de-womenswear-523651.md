@@ -1,6 +1,6 @@
 ---
 id: de-womenswear-523651
-title: "UA-264 Embroidered Festive Sheesha Silk Collection by Umnaa — OOTD Showcase (Germany · Womenswear & Underwear)"
+title: "UA-264 Embroidered Festive Sheesha… — OOTD Showcase (Germany · Womenswear & Underwear)"
 market: de
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675040474318523651
 creator: "@asadali_092"
 published: 2026-08-17
 ---
-# UA-264 Embroidered Festive Sheesha Silk Collection by Umnaa — OOTD Showcase (Germany · Womenswear & Underwear)
+# UA-264 Embroidered Festive Sheesha… — OOTD Showcase (Germany · Womenswear & Underwear)
 **Weekly #1** · 🇩🇪 Germany · Womenswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675040474318523651) by [@asadali_092](https://www.tiktok.com/@asadali_092). Format: **OOTD Showcase** · 10s · hook: **Result First** · Multiple people · No promo
-**Opening line (from the video):** “Show four different light-colored luxury embroidered South Asian traditional suits”
+**Opening beat:** “Show four different light-colored luxury embroidered South Asian traditional suits”
 
 **Key visuals:** Studio · Solid Color Wall · Wooden Floor · Embroidered Suit · Clutch Bag · Rings · Sequins
 
@@ -37,7 +36,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 2.5sec
-  - Scene Type: Display multiple style options (fashion category)
+  - Scene Type: Display multiple style options
   - Scene: Four South Asian women wearing embroidered suits of different light colors stand side by side properly in front of the camera, each holding a light-colored clutch uniformly. Colorful sequin effects slowly fall from the top of the frame, colorful dynamic light effects flash on the left and right sides of the frame. The background is the pure white wainscot wall and light brown solid wood floor, all four ladies keep bright smiles and look at the camera the whole time.
 Shot 2:
   - Duration: 2.5sec - 5.0sec
@@ -51,7 +50,6 @@ Shot 4:
   - Duration: 7.5sec - 10.0sec
   - Scene Type: Order process guidance
   - Scene: The camera returns to the full shot frame, the four ladies stand side by side in a row again. A striking red 'Link in Bio' logo and neon style 'Buy Now' button effect pop up at the bottom of the frame. All four ladies raise their right hands at the same time, wave enthusiastically to the camera, with bright and full smiles.
-  - Subject: Yeah.
 [Background Sound]:
 - Starts with enthusiastic live audience applause, then transitions into a very upbeat TikTok-style background music with a light, lively rhythm, moderately high volume, electronic drum beats and bright synthesizer melodies, and ends with a short cheer sound effect. The overall vibe is full of energy, perfectly suited for a clothing product promotion short video style.
 [Transition / Editing]:
@@ -69,7 +67,7 @@ Shot 4:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 2.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 四位身着不同色系刺绣套装的南亚女性并排端正站立在镜头前，手中统一握着浅色系手拿包，彩色亮片特效从画面上方缓缓飘落，画面左右两侧闪过彩色动态光效，背景是纯白色护墙板墙面与浅棕色实木地板，四位女士全程保持明媚笑容看向镜头。
 Shot 2:
   - 时长: 2.5sec - 5.0sec
@@ -83,7 +81,6 @@ Shot 4:
   - 时长: 7.5sec - 10.0sec
   - 镜头类型: 下单流程指引
   - 画面: 镜头回归全景画面，四位女士重新并肩站立成一排，画面底部弹出醒目的红色“Link in Bio”标识与霓虹风格“Buy Now”按钮特效，四位女士同步抬起右手，热情地对着镜头挥手致意，笑容灿烂饱满。
-  - 口播: Yeah.
 [Background Sound]:
 - 开头伴随热烈的现场掌声，随后接入非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子鼓点与明亮合成器旋律，最后收尾搭配短促的欢呼音效，整体活力十足，适配服饰带货短视频风格。
 [Transition / Editing]:
@@ -92,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-womenswear-523651](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-womenswear-523651?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-womenswear-523651)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-womenswear-523651](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-womenswear-523651?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-womenswear-523651)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

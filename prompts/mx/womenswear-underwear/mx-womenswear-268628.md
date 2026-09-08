@@ -1,6 +1,6 @@
 ---
 id: mx-womenswear-268628
-title: "2 Halter Sequin Fringe Crop Top Mini Skirt Set Women — OOTD Showcase (Mexico · Womenswear & Underwear)"
+title: "2 Halter Sequin Fringe Crop Top… — OOTD Showcase (Mexico · Womenswear & Underwear)"
 market: mx
 category: womenswear-underwear
 video_type: ootd
@@ -17,9 +17,8 @@ source: https://www.tiktok.com/share/video/7671782582807268628
 creator: "@omshop_1"
 published: 2026-08-08
 ---
-# 2 Halter Sequin Fringe Crop Top Mini Skirt Set Women — OOTD Showcase (Mexico · Womenswear & Underwear)
+# 2 Halter Sequin Fringe Crop Top… — OOTD Showcase (Mexico · Womenswear & Underwear)
 **Weekly #1** · 🇲🇽 Mexico · Womenswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671782582807268628) by [@omshop_1](https://www.tiktok.com/@omshop_1). Format: **OOTD Showcase** · 7s · hook: **POV Scenario** · On-camera host · No promo
 **Key visuals:** Arched Floor Mirror · Burgundy Sequin Dress · Hanging Lamp · Desk · Roller Door · Necklace
 
@@ -88,4 +87,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-womenswear-268628](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-womenswear-268628?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-womenswear-268628)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-womenswear-268628](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-womenswear-268628?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-womenswear-268628)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

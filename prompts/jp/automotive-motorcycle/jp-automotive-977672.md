@@ -1,6 +1,6 @@
 ---
 id: jp-automotive-977672
-title: "Novelty Cat Seatbelt Shoulder Pad — Handheld Demo (Japan · Automotive & Motorcycle)"
+title: "Novelty Cat Seatbelt Shoulder Pad… — Handheld Demo (Japan · Automotive & Motorcycle)"
 market: jp
 category: automotive-motorcycle
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668587303496977672
 creator: "@user8450107360227"
 published: 2026-07-31
 ---
-# Novelty Cat Seatbelt Shoulder Pad — Handheld Demo (Japan · Automotive & Motorcycle)
+# Novelty Cat Seatbelt Shoulder Pad… — Handheld Demo (Japan · Automotive & Motorcycle)
 **Weekly #1** · 🇯🇵 Japan · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668587303496977672) by [@user8450107360227](https://www.tiktok.com/@user8450107360227). Format: **Handheld Demo** · 11s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Before, the seatbelt always rubbed uncomfortably, but after using this it's different”
+**Opening line (translated from the video):** “Before, the seatbelt always rubbed uncomfortably, but after using this it's different”
 
 **Pain point it attacks:** Seatbelt rubs uncomfortably
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-automotive-977672](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-automotive-977672?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-automotive-977672)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-automotive-977672](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-automotive-977672?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-automotive-977672)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

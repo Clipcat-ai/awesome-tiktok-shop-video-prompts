@@ -1,6 +1,6 @@
 ---
 id: gb-kitchenware-964758
-title: "Easy-To-Clean Microwave Omelette Maker — Real Review (United Kingdom · Kitchenware)"
+title: "Easy-To-Clean Microwave Omelette… — Real Review (United Kingdom · Kitchenware)"
 market: gb
 category: kitchenware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673837067842964758
 creator: "@gb5vlink3390"
 published: 2026-08-14
 ---
-# Easy-To-Clean Microwave Omelette Maker — Real Review (United Kingdom · Kitchenware)
+# Easy-To-Clean Microwave Omelette… — Real Review (United Kingdom · Kitchenware)
 **Weekly #1** · 🇬🇧 United Kingdom · Kitchenware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673837067842964758) by [@gb5vlink3390](https://www.tiktok.com/@gb5vlink3390). Format: **Real Review** · 10s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “If you've been eyeing this, TikTok's price right now is definitely a win”
+**Opening beat:** “If you've been eyeing this, TikTok's price right now is definitely a win”
 
 **Key visuals:** Microwave Omelette Maker · Tray · Poached Egg · Bacon · Toast · Coffee Cup · Tulip Vase · Microwave
 
@@ -39,20 +38,14 @@ Shot 1:
   - Duration: 0.0sec - 1.5sec
   - Scene Type: Food tasting experience
   - Scene: Sunlight floods the off-white kitchen countertop, revealing a breakfast arranged on a wooden serving board. Two slices of toast are topped with lightly seared bacon, each bacon slice holding a runny soft-boiled egg. One hand gently steadies the wooden board while the other holds a knife, slowly slicing open one of the soft-boiled eggs to let the golden-orange yolk flow gently out from the egg white. The camera stays fully focused on the egg-cutting action and the oozing runny yolk details.
-  - Subject: Thank you.
 Shot 2:
   - Duration: 1.5sec - 5.0sec
   - Scene Type: Demonstrate ease of use
   - Scene: The camera cuts to the white two-compartment microwave egg steamer at the center of the countertop, which is open with two clean, empty circular grooves. A pair of hands each holds an egg, cracking both eggs to let their egg liquid flow slowly into the two circular grooves. The hands then align the steamer's top lid precisely with the base, and the fingertips gently press the latches to fully close and lock the steamer shut.
-  - Subject: Oh
-Thank you.
 Shot 3:
   - Duration: 5.0sec - 7.5sec
   - Scene Type: Set the usage scene
   - Scene: The scene shifts to the front of a built-in microwave. One hand grips the handle of the white egg steamer and places it steadily at the center of the microwave's glass turntable, then gently closes the microwave door. An index finger accurately presses the number button on the microwave's control panel, triggering an electronic alert tone as the microwave starts up and begins running.
-  - Subject: Thank you.
-Thank you.
-Thank you.
 Shot 4:
   - Duration: 7.5sec - 10.5sec
   - Scene Type: Demonstrate product effectiveness
@@ -76,20 +69,14 @@ Shot 1:
   - 时长: 0.0sec - 1.5sec
   - 镜头类型: 食品试吃体验
   - 画面: 阳光铺满米白色厨房台面，一份摆放在木质餐板上的早餐映入眼帘，两片吐司上铺着煎至微焦的培根，培根上各放置一颗溏心水波蛋。一只手轻轻扶稳木质餐板，另一只手握着餐刀缓缓将其中一颗溏心蛋切开，金橙色的蛋液缓缓从蛋白中流淌而出，镜头全程聚焦在切蛋的动作与流心的细节上。
-  - 口播: Thank you.
 Shot 2:
   - 时长: 1.5sec - 5.0sec
   - 镜头类型: 展示易用性
   - 画面: 镜头切换至台面中央的白色双格微波蒸蛋器，蒸蛋器处于打开状态，两个圆形凹槽洁净空荡。一双手各握着一枚鸡蛋，将两枚鸡蛋分别磕破，让蛋壳中的蛋液缓缓流入两个圆形凹槽内，随后双手将蒸蛋器的上盖准确对齐下盖，指尖轻轻按压卡扣，将蒸蛋器完全闭合锁好。
-  - 口播: Oh
-Thank you.
 Shot 3:
   - 时长: 5.0sec - 7.5sec
   - 镜头类型: 设置使用场景
   - 画面: 场景切换到嵌入式微波炉前，一只手握住白色蒸蛋器的把手，将平稳放置到微波炉的玻璃转盘中央，随后轻轻合上微波炉舱门。食指精准按下微波炉操作面板上的数字按键，电子提示音随之响起，微波炉开始启动运转。
-  - 口播: Thank you.
-Thank you.
-Thank you.
 Shot 4:
   - 时长: 7.5sec - 10.5sec
   - 镜头类型: 产品有效性
@@ -102,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-kitchenware-964758](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-kitchenware-964758?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-kitchenware-964758)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-kitchenware-964758](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-kitchenware-964758?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-kitchenware-964758)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

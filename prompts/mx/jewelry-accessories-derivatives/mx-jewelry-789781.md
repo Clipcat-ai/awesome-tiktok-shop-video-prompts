@@ -1,6 +1,6 @@
 ---
 id: mx-jewelry-789781
-title: "Women's Elegant Rhinestone Decor Nose Rings — Handheld Demo (Mexico · Jewelry Accessories & Derivatives)"
+title: "Women's Elegant Rhinestone Decor… — Handheld Demo (Mexico · Jewelry Accessories & Derivatives)"
 market: mx
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676275027200789781
 creator: "@user796128188179"
 published: 2026-08-21
 ---
-# Women's Elegant Rhinestone Decor Nose Rings — Handheld Demo (Mexico · Jewelry Accessories & Derivatives)
+# Women's Elegant Rhinestone Decor… — Handheld Demo (Mexico · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇲🇽 Mexico · Jewelry Accessories & Derivatives · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676275027200789781) by [@user796128188179](https://www.tiktok.com/@user796128188179). Format: **Handheld Demo** · 16s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “If you love changing your nose rings, you must...”
+**Opening line (translated from the video):** “If you love changing your nose rings, you must...”
 
 **Pain point it attacks:** Nose rings have single styles with few choices
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-jewelry-789781](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-jewelry-789781?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-jewelry-789781)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-jewelry-789781](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-jewelry-789781?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-jewelry-789781)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

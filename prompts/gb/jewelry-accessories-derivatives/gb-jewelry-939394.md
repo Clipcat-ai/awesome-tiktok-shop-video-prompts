@@ -1,6 +1,6 @@
 ---
 id: gb-jewelry-939394
-title: "Matte Finish Agate Obsidian Bracelet — Handheld Demo (United Kingdom · Jewelry Accessories & Derivatives)"
+title: "Matte Finish Agate Obsidian… — Handheld Demo (United Kingdom · Jewelry Accessories & Derivatives)"
 market: gb
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680030267246939394
 creator: "@lunarcrystal22"
 published: 2026-08-31
 ---
-# Matte Finish Agate Obsidian Bracelet — Handheld Demo (United Kingdom · Jewelry Accessories & Derivatives)
+# Matte Finish Agate Obsidian… — Handheld Demo (United Kingdom · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇬🇧 United Kingdom · Jewelry Accessories & Derivatives · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680030267246939394) by [@lunarcrystal22](https://www.tiktok.com/@lunarcrystal22). Format: **Handheld Demo** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “You do not want to wear a mask of Didion unless you are ready to shift your energy”
+**Opening line (quoted from the video):** “You do not want to wear a mask of Didion unless you are ready to shift your energy”
 
 **Key visuals:** Dark Matte Slate · Warm Golden Beam · Obsidian Bracelet · Male Hand · Dark Gray Long-sleeve Shirt · SHOP NOW Text
 
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-jewelry-939394](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-jewelry-939394?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-jewelry-939394)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-jewelry-939394](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-jewelry-939394?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-jewelry-939394)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

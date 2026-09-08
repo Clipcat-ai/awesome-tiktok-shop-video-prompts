@@ -1,6 +1,6 @@
 ---
 id: vn-automotive-924434
-title: "Lót mũ bảo hiểm Silicon Massage chống nóng — Handheld Demo (Vietnam · Automotive & Motorcycle)"
+title: "Lót mũ bảo hiểm Silicon Massage… — Handheld Demo (Vietnam · Automotive & Motorcycle)"
 market: vn
 category: automotive-motorcycle
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7666322122632924434
 creator: "@vitamin_st04"
 published: 2026-07-25
 ---
-# Lót mũ bảo hiểm Silicon Massage chống nóng — Handheld Demo (Vietnam · Automotive & Motorcycle)
+# Lót mũ bảo hiểm Silicon Massage… — Handheld Demo (Vietnam · Automotive & Motorcycle)
 **Weekly #1** · 🇻🇳 Vietnam · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7666322122632924434) by [@vitamin_st04](https://www.tiktok.com/@vitamin_st04). Format: **Handheld Demo** · 33s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “I've bought the third one already, they always get stolen at school”
+**Opening line (translated from the video):** “I've bought the third one already, they always get stolen at school”
 
 **Pain point it attacks:** Helmet liner is easy to lose
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: UGC-style realistic product sharing aesthetic popular on Douyin and Xiaohongshu, with clean and bright visuals, natural and lively performer demeanor, and an overall relaxed, comforting vibe of everyday home life
+[Style]: UGC-style realistic product sharing aesthetic popular on TikTok and Xiaohongshu, with clean and bright visuals, natural and lively performer demeanor, and an overall relaxed, comforting vibe of everyday home life
 [Environment]: Everyday home bedroom setting. Walls are light beige with a pale green trim along the ceiling. Storage cabinets, stacked express delivery boxes and scattered small daily items are visible in the background corners. The desk is decorated with cute plush dolls and small cartoon-shaped ornaments. The overall atmosphere is warm, casual and full of authentic daily life feel
 [Tone & Pacing]: Authentic Vietnamese local short video product recommendation style, with a brisk and smooth rhythm, progressive narrative that starts from relatable real-life pain points and gradually demonstrates product features. The overall pace fits the viewing habits of short video users, feeling relaxed and highly engaging
 [Camera]: Primarily first-person selfie perspective, switching halfway to a macro close-up shot of the desktop. Camera movement is steady and natural: the selfie phase frames the performer from the upper body up, while the close-up phase focuses precisely on product details
@@ -51,7 +50,6 @@ Shot 3:
   - Duration: 5.5sec - 7.5sec
   - Scene Type: Raise the question
   - Scene: The girl holds the removed helmet in front of her, shows the pre-installed pink silicone lining inside the helmet to the camera, looks at the lens with a soft smile. Corresponding introduction subtitles appear at the top of the frame
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - Duration: 7.5sec - 18.0sec
   - Scene Type: Demonstrate product material
@@ -66,12 +64,12 @@ Shot 6:
   - Duration: 22.0sec - 27.5sec
   - Scene Type: Demonstrate product effectiveness
   - Scene: The girl puts on the cartoon helmet with the lining installed again, adjusts the chin buckle to secure the helmet, then raises her hand to take the helmet off her head, revealing her long straight black hair that remains fluffy. She reaches out to gently brush the stray hairs on her forehead to show that her hair is not flattened or deformed, keeping a soft smile the whole time. Corresponding experience introduction subtitles are displayed synchronously at the top of the frame
-  - Subject: Cảm ơn các bạn đã theo dõi. Các bạn hãy đăng ký kênh để ủng hộ kênh của mình nhé.
+  - Subject: Các bạn hãy đăng ký kênh để ủng hộ kênh của mình nhé.
 Shot 7:
   - Duration: 27.5sec - 34.0sec
   - Scene Type: Blogger's personal test experience
   - Scene: The girl playfully taps her own cheek towards the camera, then extends one finger to point at the pink silicone lining inside the helmet, emphasizing the product details. She keeps a sweet smile the whole time, looks directly at the camera to finish the final product recommendation closing segment. Playful summary subtitles appear synchronously at the top of the frame
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn. Cái lót mũ còn không giữ được thì sao giữ được n-i-hà-các. Vợ ơi!
+  - Subject: Cái lót mũ còn không giữ được thì sao giữ được n-i-hà-các. Vợ ơi!
 [Background Sound]:
 - No background music at all. Only clear, colloquial Vietnamese voiceover is retained throughout the entire video, with no additional soundtrack or background sound effects that would interfere with speech clarity
 [Transition / Editing]:
@@ -79,7 +77,7 @@ Shot 7:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 抖音小红书UGC写实好物分享风，画面干净通透，人物状态自然鲜活，整体洋溢着居家日常的轻松治愈质感
+[Style]: TikTok小红书UGC写实好物分享风，画面干净通透，人物状态自然鲜活，整体洋溢着居家日常的轻松治愈质感
 [Environment]: 日常居家卧室场景，墙面为浅米色，顶部搭配淡绿色墙沿，背景角落可见收纳柜、堆叠的快递纸箱与零散摆放的日常小物件，桌面布置有造型可爱的毛绒玩偶、卡通造型小摆件，整体氛围温馨随性，充满生活化气息
 [Tone & Pacing]: 地道的越南本土短视频种草风格，节奏轻快流畅，叙事层层递进，从真实场景痛点切入逐步展示产品功能，整体节奏贴合短视频用户观看习惯，松弛且富有吸引力
 [Camera]: 以第一人称自拍视角为主，中途切换为桌面特写微距镜头，镜头运镜平稳自然，自拍阶段保持上半身取景，特写阶段精准聚焦产品细节
@@ -101,7 +99,6 @@ Shot 3:
   - 时长: 5.5sec - 7.5sec
   - 镜头类型: 设置问题
   - 画面: 女生将取下的头盔举到身前，对着镜头展示头盔内侧安装好的粉色硅胶内衬，面带柔和笑意看向镜头，画面顶部出现对应介绍字幕
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 4:
   - 时长: 7.5sec - 18.0sec
   - 镜头类型: 产品材质展示
@@ -116,12 +113,12 @@ Shot 6:
   - 时长: 22.0sec - 27.5sec
   - 镜头类型: 产品有效性
   - 画面: 女生再次戴上安装好内衬的卡通头盔，调整好下巴卡扣固定头盔，随后抬手将头盔从头顶取下，露出保持蓬松状态的黑长直发，伸手轻拨额前碎发展示头发没有被压变形的效果，全程保持柔和微笑，画面顶部同步出现对应体验介绍字幕
-  - 口播: Cảm ơn các bạn đã theo dõi. Các bạn hãy đăng ký kênh để ủng hộ kênh của mình nhé.
+  - 口播: Các bạn hãy đăng ký kênh để ủng hộ kênh của mình nhé.
 Shot 7:
   - 时长: 27.5sec - 34.0sec
   - 镜头类型: 博主亲测体验
   - 画面: 女生对着镜头俏皮地轻碰自己的脸颊，随后伸出一根手指指向头盔内侧的粉色硅胶内衬，着重展示产品细节，全程面带清甜笑意，眼神看向镜头完成最终的好物展示收尾，画面顶部同步出现趣味总结字幕
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn. Cái lót mũ còn không giữ được thì sao giữ được n-i-hà-các. Vợ ơi!
+  - 口播: Cái lót mũ còn không giữ được thì sao giữ được n-i-hà-các. Vợ ơi!
 [Background Sound]:
 - 无任何背景音乐，全程仅保留清晰的口语化越南语口播内容，无额外配乐或背景音效干扰语音清晰度
 [Transition / Editing]:
@@ -130,4 +127,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-automotive-924434](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-automotive-924434?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-automotive-924434)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-automotive-924434](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-automotive-924434?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-automotive-924434)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

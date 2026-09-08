@@ -1,6 +1,6 @@
 ---
 id: id-phones-554260
-title: "Handheld Demo — Phones & Electronics (Indonesia)"
+title: "(OP) Tripod Support Mini Holder U… — Handheld Demo (Indonesia · Phones & Electronics)"
 market: id
 category: phones-electronics
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675264215904554260
 creator: "@lagilagistore"
 published: 2026-08-18
 ---
-# Handheld Demo — Phones & Electronics (Indonesia)
+# (OP) Tripod Support Mini Holder U… — Handheld Demo (Indonesia · Phones & Electronics)
 **Weekly #1** · 🇮🇩 Indonesia · Phones & Electronics · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675264215904554260) by [@lagilagistore](https://www.tiktok.com/@lagilagistore). Format: **Handheld Demo** · 14s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Only 10 thousand rupiah, this mini tripod is super useful”
+**Opening line (translated from the video):** “Only 10 thousand rupiah, this mini tripod is super useful”
 
 **Key visuals:** Orange Desk · Indoor Plants · Smartphone Tripod · Black Smart Watch · Bluetooth Remote · White Vase · Black Art Vase
 
@@ -49,7 +48,7 @@ Shot 3:
   - Duration: 7.0sec - 9.5sec
   - Scene Type: Ease of Use Demonstration
   - Scene: A pair of hands spreads the tripod feet of the selfie stick lying flat on the desktop, quickly assembling it into a floor-standing tripod structure, and securely clamps the phone onto the holder at the top of the stand. The camera then cuts to a side view of the stand, showing its stable upright supporting state. The background remains the home desktop filled with green plants and decorative items. The hands performing the operation wear a black smartwatch. The camera slowly lifts upward from a low-angle close-up, completing the visual transition from the hand's assembly action to the full assembled stand product.
-  - Subject: ...lebih gampang. Semua HP masuk, jepitannya kuat...
+  - Subject: lebih gampang. Semua HP masuk, jepitannya kuat...
 Shot 4:
   - Duration: 9.5sec - 11.0sec
   - Scene Type: Product Design Highlight
@@ -89,7 +88,7 @@ Shot 3:
   - 时长: 7.0sec - 9.5sec
   - 镜头类型: 展示易用性
   - 画面: 一双手将平放桌面的自拍杆三脚架支脚撑开，快速组装成落地三角支架形态，将手机稳稳卡在支架顶部的夹位上，随后镜头给到支架侧面细节，展示支架整体稳定的直立支撑状态，背景依然是摆满绿植和装饰摆件的居家桌面，操作的手上佩戴黑色智能手表，镜头从低角度特写逐步轻微抬升，完成从手部组装动作到完整支架产品的画面过渡。
-  - 口播: ...lebih gampang. Semua HP masuk, jepitannya kuat...
+  - 口播: lebih gampang. Semua HP masuk, jepitannya kuat...
 Shot 4:
   - 时长: 9.5sec - 11.0sec
   - 镜头类型: 产品设计亮点
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-phones-554260](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-phones-554260?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-phones-554260)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-phones-554260](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-phones-554260?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-phones-554260)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

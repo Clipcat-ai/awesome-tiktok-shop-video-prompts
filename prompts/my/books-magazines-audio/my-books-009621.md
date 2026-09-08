@@ -1,6 +1,6 @@
 ---
 id: my-books-009621
-title: "BUKU SOLAT BESTSELLER - 13 RUKUN BESERTA BACAAN — Talking Head (Malaysia · Books, Magazines & Audio)"
+title: "BUKU SOLAT BESTSELLER - 13 RUKUN… — Talking Head (Malaysia · Books, Magazines & Audio)"
 market: my
 category: books-magazines-audio
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676383985966009621
 creator: "@hariznajmi2"
 published: 2026-08-21
 ---
-# BUKU SOLAT BESTSELLER - 13 RUKUN BESERTA BACAAN — Talking Head (Malaysia · Books, Magazines & Audio)
+# BUKU SOLAT BESTSELLER - 13 RUKUN… — Talking Head (Malaysia · Books, Magazines & Audio)
 **Weekly #1** · 🇲🇾 Malaysia · Books, Magazines & Audio · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676383985966009621) by [@hariznajmi2](https://www.tiktok.com/@hariznajmi2). Format: **Talking Head** · 26s · hook: **Curiosity Gap** · On-camera host · Discount
-**Opening line (from the video):** “Don't let your prayers be chaotic”
+**Opening line (translated from the video):** “Don't let your prayers be chaotic”
 
 **Pain point it attacks:** Chaotic prayer, don't know correct prayer methods
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-books-009621](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-books-009621?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-books-009621)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-books-009621](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-books-009621?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-books-009621)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

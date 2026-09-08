@@ -1,6 +1,6 @@
 ---
 id: de-luggage-940310
-title: "Men's Multi-functional Laptop Backpack — Handheld Demo (Germany · Luggage & Bags)"
+title: "Men's Multi-functional Laptop… — Handheld Demo (Germany · Luggage & Bags)"
 market: de
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675014128464940310
 creator: "@timko.de"
 published: 2026-08-17
 ---
-# Men's Multi-functional Laptop Backpack — Handheld Demo (Germany · Luggage & Bags)
+# Men's Multi-functional Laptop… — Handheld Demo (Germany · Luggage & Bags)
 **Weekly #1** · 🇩🇪 Germany · Luggage & Bags · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675014128464940310) by [@timko.de](https://www.tiktok.com/@timko.de). Format: **Handheld Demo** · 10s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Large backpack for school and daily use, with many compartments”
+**Opening line (translated from the video):** “Large backpack for school and daily use, with many compartments”
 
 **Key visuals:** Teaching Building · Backpack · Notebook · Book · Umbrella · Thermos · Walkway
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-luggage-940310](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-luggage-940310?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-luggage-940310)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-luggage-940310](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-luggage-940310?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-luggage-940310)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

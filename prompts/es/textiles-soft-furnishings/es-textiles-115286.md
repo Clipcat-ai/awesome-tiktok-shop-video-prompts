@@ -1,6 +1,6 @@
 ---
 id: es-textiles-115286
-title: "Solagua Estor de Bambú Enrollable para Ventana y Puerta — Handheld Demo (Spain · Textiles & Soft Furnishings)"
+title: "Solagua Estor de Bambú Enrollable… — Handheld Demo (Spain · Textiles & Soft Furnishings)"
 market: es
 category: textiles-soft-furnishings
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675276521619115286
 creator: "@solaguanavidad"
 published: 2026-08-24
 ---
-# Solagua Estor de Bambú Enrollable para Ventana y Puerta — Handheld Demo (Spain · Textiles & Soft Furnishings)
+# Solagua Estor de Bambú Enrollable… — Handheld Demo (Spain · Textiles & Soft Furnishings)
 **Weekly #1** · 🇪🇸 Spain · Textiles & Soft Furnishings · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675276521619115286) by [@solaguanavidad](https://www.tiktok.com/@solaguanavidad). Format: **Handheld Demo** · 15s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Stop enduring the heat, this is 100% natural bamboo”
+**Opening line (translated from the video):** “Stop enduring the heat, this is 100% natural bamboo”
 
 **Pain point it attacks:** Home suffers from heat
 
@@ -41,12 +40,12 @@ Shot 1:
   - Duration: 0.0sec - 5.5sec
   - Scene Type: Product material display
   - Scene: In the close-up shot, the fingertips of four fingers of a right hand are gently pressed against the surface of a light brown bamboo roller blind. The fingers slide slowly along the horizontal direction of the bamboo strips, carefully stroking every bamboo strip and the delicate woven fixing knots in between. Corresponding introduction subtitles appear sequentially on the screen, clearly showing the natural fine texture of the bamboo curtain and its solid weaving craftsmanship.
-  - Subject: Deja de pasar el calor con este store.  Es 100% bambú natural. Super resistente
+  - Subject: Deja de pasar el calor con este store. Es 100% bambú natural. Super resistente
 Shot 2:
   - Duration: 5.5sec - 11.5sec
   - Scene Type: Ease of use demonstration
   - Scene: The shot transitions naturally from the partial close-up of the bamboo curtain to the complete scene by the window. A hand pinches the adjustment drawstring under the bamboo curtain and pulls it upward at a constant speed. The bamboo curtain that was originally fully unfolded and hanging on the window surface rolls up neatly and stacks upward as the drawstring is pulled, gradually revealing the residential building landscape outside the window. The entire movement is steady and smooth, fully demonstrating the smooth operation process of the roller blind, with corresponding function description subtitles appearing synchronously on the screen.
-  - Subject: Tiene una durabilidad al máximo  Disponible en 14 ...y se hace 11 medidas...  ...tanto ancho como largo...  ...para adaptarse a cualquier ventana... y puerta, filtra la luz y crea un ambiente fresco y acogedor.
+  - Subject: Tiene una durabilidad al máximo Disponible en 14 ...y se hace 11 medidas... ...tanto ancho como largo... ...para adaptarse a cualquier ventana... y puerta, filtra la luz y crea un ambiente fresco y acogedor.
 Shot 3:
   - Duration: 11.5sec - 15.5sec
   - Scene Type: Usage scenario setup
@@ -71,12 +70,12 @@ Shot 1:
   - 时长: 0.0sec - 5.5sec
   - 镜头类型: 产品材质展示
   - 画面: 特写画面中一只右手的四根手指指腹轻贴在浅棕色竹制卷帘的表面，手指顺着竹条的横向方向缓慢滑动，仔细摩挲过每一根竹条以及中间编织固定的精致绳结部位，画面上依次出现对应的介绍字幕，清晰展现竹帘天然细腻的纹理与扎实的编织工艺。
-  - 口播: Deja de pasar el calor con este store.  Es 100% bambú natural. Super resistente
+  - 口播: Deja de pasar el calor con este store. Es 100% bambú natural. Super resistente
 Shot 2:
   - 时长: 5.5sec - 11.5sec
   - 镜头类型: 展示易用性
   - 画面: 画面从竹帘局部特写自然过渡到窗边完整场景，一只手捏住竹帘下方的调节拉绳，匀速向上拉动，原本完全展开垂在窗面的竹帘随着拉绳的牵动整齐地向上翻卷堆叠，逐步露出窗外的居民楼景观，动作全程平稳顺滑，完整演示卷帘的流畅操作过程，画面同步出现对应功能说明的字幕。
-  - 口播: Tiene una durabilidad al máximo  Disponible en 14 ...y se hace 11 medidas...  ...tanto ancho como largo...  ...para adaptarse a cualquier ventana... y puerta, filtra la luz y crea un ambiente fresco y acogedor.
+  - 口播: Tiene una durabilidad al máximo Disponible en 14 ...y se hace 11 medidas... ...tanto ancho como largo... ...para adaptarse a cualquier ventana... y puerta, filtra la luz y crea un ambiente fresco y acogedor.
 Shot 3:
   - 时长: 11.5sec - 15.5sec
   - 镜头类型: 设置使用场景
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-textiles-115286](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-textiles-115286?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-textiles-115286)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-textiles-115286](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-textiles-115286?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-textiles-115286)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

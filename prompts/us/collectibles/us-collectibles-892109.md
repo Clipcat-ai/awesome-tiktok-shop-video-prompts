@@ -1,6 +1,6 @@
 ---
 id: us-collectibles-892109
-title: "Lighted Burlap Pumpkin Halloween Wreath — Lifestyle Scene (United States · Collectibles)"
+title: "Lighted Burlap Pumpkin Halloween… — Lifestyle Scene (United States · Collectibles)"
 market: us
 category: collectibles
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668840992249892109
 creator: "@southern_bigfoot.71"
 published: 2026-07-31
 ---
-# Lighted Burlap Pumpkin Halloween Wreath — Lifestyle Scene (United States · Collectibles)
+# Lighted Burlap Pumpkin Halloween… — Lifestyle Scene (United States · Collectibles)
 **Weekly #1** · 🇺🇸 United States · Collectibles · week of 2026-08-03
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668840992249892109) by [@southern_bigfoot.71](https://www.tiktok.com/@southern_bigfoot.71). Format: **Lifestyle Scene** · 10s · hook: **POV Scenario** · No one on camera · No promo
-**Opening line (from the video):** “Bring fall magic to your front door”
+**Opening line (quoted from the video):** “Bring fall magic to your front door”
 
 **Key visuals:** Porch · Burlap Pumpkin Wreath · LED Lights · Maple Leaves · Pumpkin · Vintage Lantern · Chrysanthemum
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-collectibles-892109](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-collectibles-892109?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-collectibles-892109)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-collectibles-892109](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-collectibles-892109?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-collectibles-892109)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

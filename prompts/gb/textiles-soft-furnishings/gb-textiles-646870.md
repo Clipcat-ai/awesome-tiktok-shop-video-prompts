@@ -1,6 +1,6 @@
 ---
 id: gb-textiles-646870
-title: "Stripe Lines 40cm Extra Deep Fitted Sheet – Ultra-Soft Microfi — Talking Head (United Kingdom · Textiles & Soft Furnishings)"
+title: "Stripe Lines 40cm Extra Deep… — Talking Head (United Kingdom · Textiles & Soft Furnishings)"
 market: gb
 category: textiles-soft-furnishings
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672697528881646870
 creator: "@ygkccg1.3"
 published: 2026-08-11
 ---
-# Stripe Lines 40cm Extra Deep Fitted Sheet – Ultra-Soft Microfi — Talking Head (United Kingdom · Textiles & Soft Furnishings)
+# Stripe Lines 40cm Extra Deep… — Talking Head (United Kingdom · Textiles & Soft Furnishings)
 **Weekly #1** · 🇬🇧 United Kingdom · Textiles & Soft Furnishings · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672697528881646870) by [@ygkccg1.3](https://www.tiktok.com/@ygkccg1.3). Format: **Talking Head** · 15s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Struggling with sheets that slip off your mattress at 3 AM?”
+**Opening line (quoted from the video):** “Struggling with sheets that slip off your mattress at 3 AM?”
 
 **Pain point it attacks:** Sheets slip off mattress at 3 AM
 
@@ -61,7 +60,7 @@ Shot 5:
   - Duration: 11.5sec - 15.0sec
   - Scene Type: Emotional connection
   - Scene: The camera switches back to the full view of the bedroom. The woman sits sideways at the head of the bed, her back leaning gently against the gray striped pillow, with a contented smile on her face, her body relaxed and at ease, looking towards the camera. Then the camera slowly pulls back, framing the entire neatly made bed with the fitted sheet and the warm bedroom environment completely into the shot, presenting the cozy home atmosphere created by the bedding. Camerawork that slowly pulls back from a medium shot to a full wide shot.
-  - Subject: makes a huge difference. Soft fitted and made for everyday comfort. Thank you.
+  - Subject: makes a huge difference. Soft fitted and made for everyday comfort.
 [Background Sound]:
 - No background music, only a clear and soft human voice audio track is retained throughout, with no additional music or miscellaneous sound effects layered in. The overall atmosphere is quiet and focused, allowing the audience to fully concentrate on product details and explanatory content.
 [Transition / Editing]:
@@ -101,7 +100,7 @@ Shot 5:
   - 时长: 11.5sec - 15.0sec
   - 镜头类型: 情感连接
   - 画面: 镜头切换回卧室全景，女士侧身坐在床头位置，后背轻靠在灰色条纹枕头上，面带惬意的笑容，身体放松舒展，望向镜头，随后镜头缓缓向后拉远，将整张铺着整齐床笠的大床与温馨的卧室环境完整收纳进画面，呈现出床品营造出的舒适居家氛围。从近景缓慢拉远至全景的运镜。
-  - 口播: makes a huge difference. Soft fitted and made for everyday comfort. Thank you.
+  - 口播: makes a huge difference. Soft fitted and made for everyday comfort.
 [Background Sound]:
 - 无背景音乐，全程仅保留清晰柔和的人声声轨，无额外音乐或杂音效叠加，整体氛围安静专注，让观众充分聚焦产品细节与讲解内容。
 [Transition / Editing]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-textiles-646870](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-textiles-646870?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-textiles-646870)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-textiles-646870](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-textiles-646870?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-textiles-646870)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

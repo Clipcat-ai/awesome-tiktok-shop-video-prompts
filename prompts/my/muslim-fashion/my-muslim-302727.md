@@ -1,6 +1,6 @@
 ---
 id: my-muslim-302727
-title: "JASMINE MINI SPORT S/M/L - ORIGINAL COTTON — Promo Pitch (Malaysia · Muslim Fashion)"
+title: "JASMINE MINI SPORT S/M/L… — Promo Pitch (Malaysia · Muslim Fashion)"
 market: my
 category: muslim-fashion
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7600309881962302727
 creator: "@r44syidah"
 published: 2026-01-28
 ---
-# JASMINE MINI SPORT S/M/L - ORIGINAL COTTON — Promo Pitch (Malaysia · Muslim Fashion)
+# JASMINE MINI SPORT S/M/L… — Promo Pitch (Malaysia · Muslim Fashion)
 **Weekly #1** · 🇲🇾 Malaysia · Muslim Fashion · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7600309881962302727) by [@r44syidah](https://www.tiktok.com/@r44syidah). Format: **Promo Pitch** · 10s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “Jasmine tudung on promo, RM20 now RM11, grab now”
+**Opening line (translated from the video):** “Jasmine tudung on promo, RM20 now RM11, grab now”
 
 **Key visuals:** Office Ceiling Lamp · Wall-mounted Air Conditioner · Quartz Clock · Brown Tudung · Striped Long-sleeve Top · Office Chair · Price Tag
 
@@ -78,4 +77,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-muslim-302727](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-muslim-302727?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-muslim-302727)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-muslim-302727](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-muslim-302727?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-muslim-302727)
-🤖 **Driving an AI agent?** `clipcat prompt search "Muslim Fashion"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Muslim Fashion promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

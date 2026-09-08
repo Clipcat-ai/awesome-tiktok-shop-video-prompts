@@ -1,6 +1,6 @@
 ---
 id: it-shoes-027971
-title: "Men's Casual Letterd Print Non-slip Slides — Real Review (Italy · Shoes)"
+title: "Men's Casual Letterd Print… — Real Review (Italy · Shoes)"
 market: it
 category: shoes
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674854718535027971
 creator: "@jiaomao8"
 published: 2026-08-17
 ---
-# Men's Casual Letterd Print Non-slip Slides — Real Review (Italy · Shoes)
+# Men's Casual Letterd Print… — Real Review (Italy · Shoes)
 **Weekly #1** · 🇮🇹 Italy · Shoes · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674854718535027971) by [@jiaomao8](https://www.tiktok.com/@jiaomao8). Format: **Real Review** · 16s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A pair of black and white colorblock slides lie on beige tile, a bare foot slides in to put them on”
+**Opening line (translated from the video):** “A pair of black and white colorblock slides lie on beige tile, a bare foot slides in to put them on”
 
 **Key visuals:** Beige Tile Floor · Black White Slides · Bare Foot · Indoor Corridor · Living Room · Outdoor Terrace · Lawn · Palm Tree
 
@@ -44,7 +43,7 @@ Shot 2:
   - Duration: 3.5sec - 8.5sec
   - Scene Type: Product usage scenario
   - Scene: The man who has finished putting on the slippers turns around and starts walking from the corridor. The camera follows his back the whole time as he walks slowly along the light beige tiled corridor, passes through the passage with recessed ceiling lights, and enters the spacious living room, passing by the fireplace area along the way. His steps are steady and relaxed the entire time, and introduction subtitles related to product comfort appear synchronously at the bottom of the frame.
-  - Subject: meglio di quanto mi aspettassi, sono facilissime da indossare. il materiale è molto confortevole  le rende perfette e
+  - Subject: meglio di quanto mi aspettassi, sono facilissime da indossare. il materiale è molto confortevole le rende perfette e
 Shot 3:
   - Duration: 8.5sec - 11.5sec
   - Scene Type: Product versatility demonstration
@@ -84,7 +83,7 @@ Shot 2:
   - 时长: 3.5sec - 8.5sec
   - 镜头类型: 产品使用场景
   - 画面: 完成试穿的男性转身从走廊起步，镜头全程跟拍其背影，他沿着铺有浅米色瓷砖的走廊缓步向前，穿过带有嵌入式顶灯的通道，进入开阔的客厅空间，沿途经过壁炉区域，全程脚步平稳放松，画面底部同步浮现产品舒适度相关的介绍字幕。
-  - 口播: meglio di quanto mi aspettassi, sono facilissime da indossare. il materiale è molto confortevole  le rende perfette e
+  - 口播: meglio di quanto mi aspettassi, sono facilissime da indossare. il materiale è molto confortevole le rende perfette e
 Shot 3:
   - 时长: 8.5sec - 11.5sec
   - 镜头类型: 产品多功能性
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-shoes-027971](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-shoes-027971?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-shoes-027971)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-shoes-027971](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-shoes-027971?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-shoes-027971)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

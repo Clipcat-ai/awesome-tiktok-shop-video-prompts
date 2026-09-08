@@ -1,6 +1,6 @@
 ---
 id: id-kitchenware-487189
-title: "[COD] Botol Minum Wheat Straw/ Botol Minum Model Termos — Handheld Demo (Indonesia · Kitchenware)"
+title: "[COD] Botol Minum Wheat Straw… — Handheld Demo (Indonesia · Kitchenware)"
 market: id
 category: kitchenware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7653649525944487189
 creator: "@kiiiiyyyy0"
 published: 2026-06-21
 ---
-# [COD] Botol Minum Wheat Straw/ Botol Minum Model Termos — Handheld Demo (Indonesia · Kitchenware)
+# [COD] Botol Minum Wheat Straw… — Handheld Demo (Indonesia · Kitchenware)
 **Weekly #1** · 🇮🇩 Indonesia · Kitchenware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7653649525944487189) by [@kiiiiyyyy0](https://www.tiktok.com/@kiiiiyyyy0). Format: **Handheld Demo** · 10s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “This beautiful cup makes drinking water more comfortable”
+**Opening line (translated from the video):** “This beautiful cup makes drinking water more comfortable”
 
 **Key visuals:** Light Beige Desktop · Pink Thermos · Ceramic Cup · Canvas Tote Bag · Macaron Thermoses · Hot Water
 
@@ -57,7 +56,7 @@ Shot 4:
   - Subject: Stok terbatas, minumnya.
 Shot 5:
   - Duration: 8.0sec - 10.0sec
-  - Scene Type: Multi-style selection showcase (fashion category)
+  - Scene Type: Multi-style selection showcase
   - Scene: The background switches to a clean solid light blue background, and the tabletop becomes light pink. Three portable insulated tumblers in different macaron colorways are placed side by side: from left to right, mint green, pink, and light purple. A hand reaches in from the right side of the frame, with a finger gently tapping the pink insulated tumbler in the middle. A fixed full close-up shot fully displays the complete appearance of the three products.
   - Subject: Pilih sekarang juga.
 [Background Sound]:
@@ -97,7 +96,7 @@ Shot 4:
   - 口播: Stok terbatas, minumnya.
 Shot 5:
   - 时长: 8.0sec - 10.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 背景切换为干净的浅蓝色纯色背景，桌面变为浅粉色，三支不同马卡龙配色的便携保温杯并排摆放：从左到右依次为薄荷绿、粉色、浅紫色。一只手从画面右侧伸入，手指轻轻点向中间的粉色保温杯。固定全景特写镜头，完整展示三款产品全貌。
   - 口播: Pilih sekarang juga.
 [Background Sound]:
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-kitchenware-487189](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-kitchenware-487189?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-kitchenware-487189)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-kitchenware-487189](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-kitchenware-487189?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-kitchenware-487189)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

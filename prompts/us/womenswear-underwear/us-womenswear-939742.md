@@ -1,6 +1,6 @@
 ---
 id: us-womenswear-939742
-title: "Women's Plain Lace Patchwork Bow Decor Cami Top & Shorts PJ Se — OOTD Showcase (United States · Womenswear & Underwear)"
+title: "Women's Plain Lace Patchwork Bow… — OOTD Showcase (United States · Womenswear & Underwear)"
 market: us
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673680214097939742
 creator: "@lwnbmbqdo18"
 published: 2026-08-14
 ---
-# Women's Plain Lace Patchwork Bow Decor Cami Top & Shorts PJ Se — OOTD Showcase (United States · Womenswear & Underwear)
+# Women's Plain Lace Patchwork Bow… — OOTD Showcase (United States · Womenswear & Underwear)
 **Weekly #1** · 🇺🇸 United States · Womenswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673680214097939742) by [@lwnbmbqdo18](https://www.tiktok.com/@lwnbmbqdo18). Format: **OOTD Showcase** · 10s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Do you need a set like this? Adjustable straps”
+**Opening line (translated from the video):** “Do you need a set like this? Adjustable straps”
 
 **Key visuals:** Walk-in Closet · Marble Floor · Lace Cami Set · Low-heel Slippers · White Cabinet · Balcony · Green Plant
 
@@ -39,7 +38,7 @@ Shot 1:
   - Duration: 0.0sec - 3.5sec
   - Scene Type: Product material demonstration
   - Scene: Inside a walk-in closet, warm yellow recessed strip lights illuminate neatly hung clothes and displayed footwear all around. The floor is made of polished light-colored marble. A woman wearing a black lace camisole loungewear set stands at the center of the frame. She first lifts both hands to adjust the position of her straps, then gently lifts the hem of her top with both hands, then turns sideways to softly pull the edge of her shorts, showcasing the set's cut and lace details from all angles. She wears clear low-heel slippers on her feet.
-  - Subject: ¿Necesitas un conjunto como este?  Tirantes congelados.
+  - Subject: ¿Necesitas un conjunto como este? Tirantes congelados.
 Shot 2:
   - Duration: 3.5sec - 7.5sec
   - Scene Type: Product design highlight showcase
@@ -69,7 +68,7 @@ Shot 1:
   - 时长: 0.0sec - 3.5sec
   - 镜头类型: 产品材质展示
   - 画面: 步入式衣帽间内，暖黄色嵌入式灯带照亮四周整齐悬挂的衣物与陈列的鞋履，地面是光洁的浅色大理石，一位身着黑色蕾丝吊带家居套装的女士站立在画面中心。她先抬起双手调整肩带位置，随后双手轻轻提起上衣裙摆，再侧身轻拉短裤裤边，全方位展示套装的版型与蕾丝细节，脚底搭配透明低跟拖鞋。
-  - 口播: ¿Necesitas un conjunto como este?  Tirantes congelados.
+  - 口播: ¿Necesitas un conjunto como este? Tirantes congelados.
 Shot 2:
   - 时长: 3.5sec - 7.5sec
   - 镜头类型: 产品设计亮点
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-womenswear-939742](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-womenswear-939742?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-womenswear-939742)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-womenswear-939742](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-womenswear-939742?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-womenswear-939742)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

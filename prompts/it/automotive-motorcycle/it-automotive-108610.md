@@ -1,6 +1,6 @@
 ---
 id: it-automotive-108610
-title: "Car Steering Wheel Cover — Real Review (Italy · Automotive & Motorcycle)"
+title: "Car Steering Wheel Cover, Non-slip… — Real Review (Italy · Automotive & Motorcycle)"
 market: it
 category: automotive-motorcycle
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680241853115108610
 creator: "@il_sange_milano"
 published: 2026-08-31
 ---
-# Car Steering Wheel Cover — Real Review (Italy · Automotive & Motorcycle)
+# Car Steering Wheel Cover, Non-slip… — Real Review (Italy · Automotive & Motorcycle)
 **Weekly #1** · 🇮🇹 Italy · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680241853115108610) by [@il_sange_milano](https://www.tiktok.com/@il_sange_milano). Format: **Real Review** · 30s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “This old steering wheel is such a bummer”
+**Opening line (translated from the video):** “This old steering wheel is such a bummer”
 
 **Pain point it attacks:** Old steering wheel has bad usage experience
 
@@ -56,7 +55,7 @@ Shot 4:
   - Duration: 10.0sec - 13.0sec
   - Scene Type: Demonstrate product effectiveness
   - Scene: The creator firmly grips the fully installed steering wheel with red carbon fiber accents with both hands, imitates daily driving movements to turn the steering wheel back and forth in small ranges, showing the full non-slip grip of the steering wheel cover. The movements are natural and relaxed, the firm non-slip effect during gripping is clearly perceivable. A fixed medium shot from the driver's first-person perspective focuses on the hand movements turning the steering wheel.
-  - Subject: sembra un'altra  presa salto  zero schivolamento
+  - Subject: sembra un'altra presa salto zero schivolamento
 Shot 5:
   - Duration: 13.0sec - 17.0sec
   - Scene Type: Highlight product design features
@@ -106,7 +105,7 @@ Shot 4:
   - 时长: 10.0sec - 13.0sec
   - 镜头类型: 产品有效性
   - 画面: 博主双手牢牢握住安装完成后的带红色碳纤维装饰的方向盘，模仿日常驾驶的动作来回小幅转动方向盘，展示方向盘套饱满的防滑握感，动作自然舒展，能清晰感受到握持时的稳固不打滑效果，中景固定机位从驾驶者第一人称视角聚焦手部转方向盘的动作。
-  - 口播: sembra un'altra  presa salto  zero schivolamento
+  - 口播: sembra un'altra presa salto zero schivolamento
 Shot 5:
   - 时长: 13.0sec - 17.0sec
   - 镜头类型: 产品设计亮点
@@ -126,7 +125,7 @@ Shot 8:
   - 时长: 25.0sec - 28.0sec
   - 镜头类型: 限时优惠
   - 画面: 博主从近距离镜头向后撤步站直身体，伸出一根手指向下指向画面下方区域，引导观众查看下方链接选购，随后转身走向打开的驾驶座车门，准备坐回车内，中景跟拍机位跟随博主的后撤动作向后同步移动。
-  - 口播: Stanno sparendo dai magazzini.  Dai un'occhiata così. qui sotto per vedere se c'è il tuo colore
+  - 口播: Stanno sparendo dai magazzini. Dai un'occhiata così. qui sotto per vedere se c'è il tuo colore
 Shot 9:
   - 时长: 28.0sec - 30.0sec
   - 镜头类型: 下单流程指引
@@ -140,4 +139,4 @@ Shot 9:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-automotive-108610](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-automotive-108610?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-automotive-108610)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-automotive-108610](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-automotive-108610?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-automotive-108610)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

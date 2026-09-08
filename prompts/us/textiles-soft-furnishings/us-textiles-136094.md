@@ -1,6 +1,6 @@
 ---
 id: us-textiles-136094
-title: "VIPfree Cooling Memory Neck Pillow — Real Review (United States · Textiles & Soft Furnishings)"
+title: "VIPfree Cooling Memory Neck… — Real Review (United States · Textiles & Soft Furnishings)"
 market: us
 category: textiles-soft-furnishings
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7681118656822136094
 creator: "@ez_buys"
 published: 2026-09-03
 ---
-# VIPfree Cooling Memory Neck Pillow — Real Review (United States · Textiles & Soft Furnishings)
+# VIPfree Cooling Memory Neck… — Real Review (United States · Textiles & Soft Furnishings)
 **Weekly #1** · 🇺🇸 United States · Textiles & Soft Furnishings · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7681118656822136094) by [@ez_buys](https://www.tiktok.com/@ez_buys). Format: **Real Review** · 70s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Which is better, the Germanian pillow, the Japanese pillow, or the American pillow?”
+**Opening line (quoted from the video):** “Which is better, the Germanian pillow, the Japanese pillow, or the American pillow?”
 
 **Pain point it attacks:** Regular pillows lack support, causing neck discomfort, mouth breathing, numb hands
 
@@ -135,4 +134,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-textiles-136094](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-textiles-136094?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-textiles-136094)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-textiles-136094](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-textiles-136094?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-textiles-136094)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

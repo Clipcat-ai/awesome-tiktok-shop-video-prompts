@@ -1,6 +1,6 @@
 ---
 id: fr-tools-748118
-title: "Rabatt) MAWIRON marteau à clou sans fil – compatible avec batt — Real Review (France · Tools & Hardware)"
+title: "Rabatt) MAWIRON marteau à clou… — Real Review (France · Tools & Hardware)"
 market: fr
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679917081843748118
 creator: "@lwtoolbox"
 published: 2026-08-30
 ---
-# Rabatt) MAWIRON marteau à clou sans fil – compatible avec batt — Real Review (France · Tools & Hardware)
+# Rabatt) MAWIRON marteau à clou… — Real Review (France · Tools & Hardware)
 **Weekly #1** · 🇫🇷 France · Tools & Hardware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679917081843748118) by [@lwtoolbox](https://www.tiktok.com/@lwtoolbox). Format: **Real Review** · 40s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “No compressor needed, yet with 120% powerful performance”
+**Opening line (translated from the video):** “No compressor needed, yet with 120% powerful performance”
 
 **Pain point it attacks:** Traditional nailers need compressors, inconvenient to use
 
@@ -51,17 +50,17 @@ Shot 3:
   - Duration: 15.5sec - 23.5sec
   - Scene Type: Real Usage Test
   - Scene: The operator is in an indoor operation site, one hand holds down a long wood strip, the other grips the electric nail gun and aims it at the surface of the wood strip, continuously pulls the trigger to fire multiple nails, every nail is precisely embedded into the wood surface, the movements are coherent and smooth.
-  - Subject: du pain tendre au boulot dur. est parfaitement en place.  Autonomie révolutionnaire.
+  - Subject: du pain tendre au boulot dur. est parfaitement en place. Autonomie révolutionnaire.
 Shot 4:
   - Duration: 23.5sec - 32.5sec
   - Scene Type: Product Effectiveness
   - Scene: The operator places the wood strip on top of an old tire, continues to use the electric nail gun to fire at a harder hardwood strip, the nails are still quickly and precisely shot fully into the interior of the wood, a small amount of wood shavings and gravel are scattered on the ground in the background.
-  - Subject: Plus de 3000 clous sans interruption.  Certification. de sécurité TUV allemande testée jusqu'à 20 de Glancroix. pour un travail fiable même par temps de gel.
+  - Subject: Plus de 3000 clous sans interruption. Certification. de sécurité TUV allemande testée jusqu'à 20 de Glancroix. pour un travail fiable même par temps de gel.
 Shot 5:
   - Duration: 32.5sec - 40.5sec
   - Scene Type: Promotional Incentive
   - Scene: The operator is next to an outdoor white wall, positions a long wood strip vertically against the wall, holds the electric nail gun to aim sideways at the wood strip, continuously fires nails to secure the wood strip firmly to the wall, after finishing the work, raises a hand to gently pat the fixed wood strip to confirm its stability.
-  - Subject: Aujourd'hui, on annule le prix du compresseur tout en gardant la profitabilité. Maintenant à moitié prix.  C'est un pack d'accessoires incontournés. Cliquez ci-dessous et procurez-vous votre révolution industrielle. des ongles sans fil.
+  - Subject: Aujourd'hui, on annule le prix du compresseur tout en gardant la profitabilité. Maintenant à moitié prix. C'est un pack d'accessoires incontournés. Cliquez ci-dessous et procurez-vous votre révolution industrielle. des ongles sans fil.
 [Background Sound]:
 - No background music, only a clear, steady French product narration, paired with the crisp, short firing sounds of the tool at work, with no extra distracting ambient noise.
 [Transition / Editing]:
@@ -91,17 +90,17 @@ Shot 3:
   - 时长: 15.5sec - 23.5sec
   - 镜头类型: 真实使用测评
   - 画面: 操作者在室内操作场地，一只手扶住长木条，另一只手紧握电动钉枪对准木条表面，连续扣动扳机射出多枚钉子，每一枚钉子都精准嵌入木材表面，动作连贯丝滑。
-  - 口播: du pain tendre au boulot dur. est parfaitement en place.  Autonomie révolutionnaire.
+  - 口播: du pain tendre au boulot dur. est parfaitement en place. Autonomie révolutionnaire.
 Shot 4:
   - 时长: 23.5sec - 32.5sec
   - 镜头类型: 产品有效性
   - 画面: 操作者将木条垫在旧轮胎上，继续使用电动钉枪向硬度更高的硬木条射击，钉子依旧快速且精准地完全射入木材内部，背景地面散落着少量木屑与碎石。
-  - 口播: Plus de 3000 clous sans interruption.  Certification. de sécurité TUV allemande testée jusqu'à 20 de Glancroix. pour un travail fiable même par temps de gel.
+  - 口播: Plus de 3000 clous sans interruption. Certification. de sécurité TUV allemande testée jusqu'à 20 de Glancroix. pour un travail fiable même par temps de gel.
 Shot 5:
   - 时长: 32.5sec - 40.5sec
   - 镜头类型: 优惠激励
   - 画面: 操作者在户外白墙旁，将长木条垂直抵在墙面上定位，手持电动钉枪侧向瞄准木条，连续射出钉子将木条牢牢固定在墙面上，完成作业后抬手轻抚已固定好的木条确认稳固性。
-  - 口播: Aujourd'hui, on annule le prix du compresseur tout en gardant la profitabilité. Maintenant à moitié prix.  C'est un pack d'accessoires incontournés. Cliquez ci-dessous et procurez-vous votre révolution industrielle. des ongles sans fil.
+  - 口播: Aujourd'hui, on annule le prix du compresseur tout en gardant la profitabilité. Maintenant à moitié prix. C'est un pack d'accessoires incontournés. Cliquez ci-dessous et procurez-vous votre révolution industrielle. des ongles sans fil.
 [Background Sound]:
 - 无背景音乐，仅存在清晰沉稳的法语产品解说声，搭配工具工作时的清脆短促击发声，无额外嘈杂环境噪音干扰。
 [Transition / Editing]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-tools-748118](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-tools-748118?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-tools-748118)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-tools-748118](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-tools-748118?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-tools-748118)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

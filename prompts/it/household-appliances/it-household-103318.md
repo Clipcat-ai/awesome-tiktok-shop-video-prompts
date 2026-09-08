@@ -1,6 +1,6 @@
 ---
 id: it-household-103318
-title: "Sacchetti sottovuoto per abiti — Real Review (Italy · Household Appliances)"
+title: "Sacchetti sottovuoto per abiti… — Real Review (Italy · Household Appliances)"
 market: it
 category: household-appliances
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679866161974103318
 creator: "@home.smart43"
 published: 2026-08-30
 ---
-# Sacchetti sottovuoto per abiti — Real Review (Italy · Household Appliances)
+# Sacchetti sottovuoto per abiti… — Real Review (Italy · Household Appliances)
 **Weekly #1** · 🇮🇹 Italy · Household Appliances · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679866161974103318) by [@home.smart43](https://www.tiktok.com/@home.smart43). Format: **Real Review** · 18s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Say goodbye to oxidation and bulging bags”
+**Opening line (translated from the video):** “Say goodbye to oxidation and bulging bags”
 
 **Pain point it attacks:** Clothes oxidize and bags bulge taking up space
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-household-103318](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-household-103318?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-household-103318)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-household-103318](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-household-103318?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-household-103318)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

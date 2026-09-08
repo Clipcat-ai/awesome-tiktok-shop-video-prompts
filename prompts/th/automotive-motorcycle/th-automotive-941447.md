@@ -1,6 +1,6 @@
 ---
 id: th-automotive-941447
-title: "【1แถม1】ใหญ่กว่าทนกว่า ใส่ได้กับรถทุกรุ่น ทุกเบาะ ใหญ่แค่ไหนก็ใ — Handheld Demo (Thailand · Automotive & Motorcycle)"
+title: "【1แถม1】ใหญ่กว่าทนกว่า… — Handheld Demo (Thailand · Automotive & Motorcycle)"
 market: th
 category: automotive-motorcycle
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7633030590542941447
 creator: "@witsanuwat.chuenjai"
 published: 2026-04-26
 ---
-# 【1แถม1】ใหญ่กว่าทนกว่า ใส่ได้กับรถทุกรุ่น ทุกเบาะ ใหญ่แค่ไหนก็ใ — Handheld Demo (Thailand · Automotive & Motorcycle)
+# 【1แถม1】ใหญ่กว่าทนกว่า… — Handheld Demo (Thailand · Automotive & Motorcycle)
 **Weekly #1** · 🇹🇭 Thailand · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7633030590542941447) by [@witsanuwat.chuenjai](https://www.tiktok.com/@witsanuwat.chuenjai). Format: **Handheld Demo** · 8s · hook: **Result First** · On-camera host · Bundle deal
-**Opening line (from the video):** “This motorcycle seat cover is great, PU material, soft, durable, waterproof and easy to install”
+**Opening line (translated from the video):** “This motorcycle seat cover is great, PU material, soft, durable, waterproof and easy to install”
 
 **Pain point it attacks:** Motorcycle seat is easy to get dirty and worn
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-automotive-941447](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-automotive-941447?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-automotive-941447)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-automotive-941447](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-automotive-941447?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-automotive-941447)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

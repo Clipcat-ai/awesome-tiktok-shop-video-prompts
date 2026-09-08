@@ -1,6 +1,6 @@
 ---
 id: gb-menswear-949590
-title: "6 Pack Men's Cotton Vest Tank Tops – Soft Breathable Sleeveles — Handheld Demo (United Kingdom · Menswear & Underwear)"
+title: "6 Pack Men's Cotton Vest Tank Tops… — Handheld Demo (United Kingdom · Menswear & Underwear)"
 market: gb
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673514784007949590
 creator: "@kojfqehapj"
 published: 2026-08-13
 ---
-# 6 Pack Men's Cotton Vest Tank Tops – Soft Breathable Sleeveles — Handheld Demo (United Kingdom · Menswear & Underwear)
+# 6 Pack Men's Cotton Vest Tank Tops… — Handheld Demo (United Kingdom · Menswear & Underwear)
 **Weekly #1** · 🇬🇧 United Kingdom · Menswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673514784007949590) by [@kojfqehapj](https://www.tiktok.com/@kojfqehapj). Format: **Handheld Demo** · 15s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Wait, you get all six in that pack?”
+**Opening line (quoted from the video):** “Wait, you get all six in that pack?”
 
 **Pain point it attacks:** Need multiple vests for daily or gym use
 
@@ -44,7 +43,7 @@ Shot 1:
   - Subject: Wait, you get all six in that pack?
 Shot 2:
   - Duration: 1.5sec - 6.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The vendor stands in front of the stall hung with white tank tops, takes out the 6 neatly stacked white tank tops from the sealed bag one by one with both hands, and arranges them neatly on the wooden table in front of him with careful, neat movements, showing that every tank top is smooth and wrinkle-free.
   - Subject: Yeah, all six. Check this out. Six proper cotton vests, six fresh basics ready for everything.
 Shot 3:
@@ -84,7 +83,7 @@ Shot 1:
   - 口播: Wait, you get all six in that pack?
 Shot 2:
   - 时长: 1.5sec - 6.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 摊主站在挂满白色背心的摊位前，双手将封袋里堆叠整齐的6件白色背心逐一取出，整齐码放在面前的木质桌面上，动作细致利落，展示出每一件背心都平整无褶皱。
   - 口播: Yeah, all six. Check this out. Six proper cotton vests, six fresh basics ready for everything.
 Shot 3:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-menswear-949590](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-menswear-949590?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-menswear-949590)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-menswear-949590](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-menswear-949590?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-menswear-949590)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: mx-textiles-500628
-title: "Cobija Matrimonial Suave Polar Calientita Muchos Colores 180*2 — Handheld Demo (Mexico · Textiles & Soft Furnishings)"
+title: "Cobija Matrimonial Suave Polar… — Handheld Demo (Mexico · Textiles & Soft Furnishings)"
 market: mx
 category: textiles-soft-furnishings
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669312806134500628
 creator: "@zu_lov"
 published: 2026-08-02
 ---
-# Cobija Matrimonial Suave Polar Calientita Muchos Colores 180*2 — Handheld Demo (Mexico · Textiles & Soft Furnishings)
+# Cobija Matrimonial Suave Polar… — Handheld Demo (Mexico · Textiles & Soft Furnishings)
 **Weekly #1** · 🇲🇽 Mexico · Textiles & Soft Furnishings · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669312806134500628) by [@zu_lov](https://www.tiktok.com/@zu_lov). Format: **Handheld Demo** · 20s · hook: **Benefit First** · On-camera host · No promo
-**Opening line (from the video):** “Sister, have you bought your double blanket yet?”
+**Opening line (translated from the video):** “Sister, have you bought your double blanket yet?”
 
 **Pain point it attacks:** Double blanket is not soft or warm enough
 
@@ -41,12 +40,12 @@ Shot 1:
   - Duration: 0.0sec - 7.5sec
   - Scene Type: Product material display
   - Scene: The Latina live sales influencer holds the bundled plush blanket with pink, purple, blue and yellow gradient tie-dye, fully spreads the blanket open with both hands, and fully shows the large-area dreamy blended colors and fluffy soft overall look of the blanket to the camera. Then the camera moves in for a close-up of the blanket's plush texture details, with heart and starlight effects continuously dotted in the corners of the frame. The camera gradually moves from the medium shot of the person holding the blanket to the close-up of the blanket fabric, with the focus clearly falling on the blanket's texture.
-  - Subject: Amiga, ¿ya te pediste tu cobija mate? Abre espada  Fola
+  - Subject: Amiga, ¿ya te pediste tu cobija mate? Abre espada Fola
 Shot 2:
   - Duration: 7.5sec - 10.5sec
   - Scene Type: Product design highlights
   - Scene: The Latina live sales influencer holds both ends of the blanket and lifts it vertically high up, fully demonstrating the extra-large size of 1.8m × 2.1m, which can easily cover most of the background wall behind her, intuitively reflecting the large size of the blanket. The camera maintains a stable medium full shot, fully framing the full view of both the person and the entire blanket.
-  - Subject: Super calientita  Que mire un...
+  - Subject: Super calientita Que mire un...
 Shot 3:
   - Duration: 10.5sec - 16.5sec
   - Scene Type: Usage scenario setup
@@ -56,7 +55,7 @@ Shot 4:
   - Duration: 16.5sec - 20.5sec
   - Scene Type: Great value price
   - Scene: The frame cuts to the long-haired Latina influencer, who also spreads the same tie-dye blanket and wraps it around herself, smiling to show the camera the loose and comfortable state when the blanket wraps around the body. Finally, the camera gives a close-up of the blanket's edge near the face, showing the soft and skin-friendly effect when the fabric touches the skin. The camera transitions smoothly from a medium shot to a close-up, focusing on demonstrating the blanket's skin-friendly comfort.
-  - Subject: Arbito Naranja  Está en una gran variedad  De color Y a un super precio
+  - Subject: Arbito Naranja Está en una gran variedad De color Y a un super precio
 [Background Sound]:
 - No background music, pure human voice live sales narration with a fast speaking pace, enthusiastic tone, and a promotional order-pushing rhythm. There is no melodic or rhythmic soundtrack; the overall audio is dominated by the host's voice, highlighting product information and promotional lines to keep the audience's attention focused on the script content.
 [Transition / Editing]:
@@ -76,12 +75,12 @@ Shot 1:
   - 时长: 0.0sec - 7.5sec
   - 镜头类型: 产品材质展示
   - 画面: 拉丁裔带货女博主抱着成团的粉紫蓝黄渐变扎染毛绒毛毯，双手将毛毯完全展开，向镜头充分展示毛毯大面积的梦幻晕染色彩与蓬松柔软的整体观感，随后镜头拉近特写毛毯的毛绒肌理细节，画面角落持续点缀爱心与星光特效。镜头从人物抱毯的中景逐步推移至毛毯面料的特写，焦点清晰落在毛毯的纹理上。
-  - 口播: Amiga, ¿ya te pediste tu cobija mate? Abre espada  Fola
+  - 口播: Amiga, ¿ya te pediste tu cobija mate? Abre espada Fola
 Shot 2:
   - 时长: 7.5sec - 10.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 拉丁裔带货女博主握住毛毯的两端将其垂直高高举起，完整展示毛毯1.8米×2.1米的超大尺寸，能够轻松完全遮挡住身后的背景墙面大半区域，直观体现毛毯的宽大规格。镜头保持稳定的中全景镜头，完整容纳人物与整张毛毯的全貌。
-  - 口播: Super calientita  Que mire un...
+  - 口播: Super calientita Que mire un...
 Shot 3:
   - 时长: 10.5sec - 16.5sec
   - 镜头类型: 设置使用场景
@@ -91,7 +90,7 @@ Shot 4:
   - 时长: 16.5sec - 20.5sec
   - 镜头类型: 超值价格
   - 画面: 画面切换到拉丁裔长发女博主，同样将同款扎染毛毯展开裹在身上，笑着向镜头展示毛毯包裹身体时的宽松舒适状态，最后镜头给到毛毯领口靠近脸部的特写，展现面料贴肤时的柔软亲肤效果。镜头从中景平稳过渡到近景，聚焦展示毛毯贴肤的舒适感。
-  - 口播: Arbito Naranja  Está en una gran variedad  De color Y a un super precio
+  - 口播: Arbito Naranja Está en una gran variedad De color Y a un super precio
 [Background Sound]:
 - 没有背景音乐，为纯人声口播带货文案，语速较快、语气热情、带有促销催单的节奏感，无旋律、无节奏配乐，整体听感以主播声音为主导，突出产品信息和促销话术，让观众注意力集中在文案内容上。
 [Transition / Editing]:
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-textiles-500628](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-textiles-500628?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-textiles-500628)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-textiles-500628](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-textiles-500628?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-textiles-500628)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

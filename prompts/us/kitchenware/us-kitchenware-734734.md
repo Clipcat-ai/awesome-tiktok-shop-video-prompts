@@ -1,6 +1,6 @@
 ---
 id: us-kitchenware-734734
-title: "Food Grade Silicone Ice Ball Maker — Real Review (United States · Kitchenware)"
+title: "Food Grade Silicone Ice Ball Maker… — Real Review (United States · Kitchenware)"
 market: us
 category: kitchenware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668257873276734734
 creator: "@super_celebrity"
 published: 2026-07-30
 ---
-# Food Grade Silicone Ice Ball Maker — Real Review (United States · Kitchenware)
+# Food Grade Silicone Ice Ball Maker… — Real Review (United States · Kitchenware)
 **Weekly #1** · 🇺🇸 United States · Kitchenware · week of 2026-08-10
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668257873276734734) by [@super_celebrity](https://www.tiktok.com/@super_celebrity). Format: **Real Review** · 19s · hook: **Result First** · Multiple people · No promo
-**Opening line (from the video):** “I swear everyone who comes to my house wants this ice cube maker”
+**Opening line (quoted from the video):** “I swear everyone who comes to my house wants this ice cube maker”
 
 **Pain point it attacks:** Hands get dirty touching water or ice, freezer has odors
 
@@ -56,7 +55,7 @@ Shot 4:
   - Duration: 9.5sec - 13.5sec
   - Scene Type: Usability demonstration
   - Scene: The man in the black T-shirt and green shorts walks to the mini fridge, pulls open the fridge door to take out the frozen white and pink ice ball molds, aims the two molds at the transparent glass and the goblet on the tabletop respectively, gently shakes the molds, and the cups are quickly filled with round and plump ice balls.
-  - Subject: Squeeze and pour.  The ice balls come out easily.
+  - Subject: Squeeze and pour. The ice balls come out easily.
 Shot 5:
   - Duration: 13.5sec - 16.0sec
   - Scene Type: Product design highlight
@@ -66,7 +65,7 @@ Shot 6:
   - Duration: 16.0sec - 19.5sec
   - Scene Type: Product usage scenario
   - Scene: The man picks up a dark glass bottle, slowly pours brown alcoholic drink into the goblet, then picks up two lime slices and clips them on the rim of the two cups respectively as decoration. Finally, the man relaxedly sits cross-legged in the wicker leisure chair on the balcony, holds the two finished special drinks in both hands, turns his head to look at the sunlight outside the window, with a cozy and satisfied expression.
-  - Subject: A must-have for anyone who loves cold drinks in summer. Thank you.
+  - Subject: A must-have for anyone who loves cold drinks in summer.
 [Background Sound]:
 - No background music, only natural sound effects related to product operation: the crisp clinking sound of ice cubes being poured, the flowing sound of liquid being poured into a cup, paired with a light and smooth voiceover background for the product introduction, with a soft and comfortable rhythm that fits the soothing summer atmosphere.
 [Transition / Editing]:
@@ -101,7 +100,7 @@ Shot 4:
   - 时长: 9.5sec - 13.5sec
   - 镜头类型: 展示易用性
   - 画面: 黑T恤绿短裤的男子走到迷你冰箱旁，拉开冰箱门取出白色与粉色两款冻好的冰球模具，将两款模具分别对准桌面上的透明玻璃杯与高脚杯，轻轻摇晃模具，杯内很快就被圆润饱满的冰球填满。
-  - 口播: Squeeze and pour.  The ice balls come out easily.
+  - 口播: Squeeze and pour. The ice balls come out easily.
 Shot 5:
   - 时长: 13.5sec - 16.0sec
   - 镜头类型: 产品设计亮点
@@ -111,7 +110,7 @@ Shot 6:
   - 时长: 16.0sec - 19.5sec
   - 镜头类型: 产品使用场景
   - 画面: 男子拿起深色玻璃瓶，将棕色酒类缓缓倒入高脚杯中，随后拿起两片青柠片分别卡在两个杯子的杯沿做装饰。最后男子放松地盘腿窝进阳台的藤编休闲椅中，双手分别举着两杯做好的特调饮品，侧头望向窗外的阳光，神态惬意又满足。
-  - 口播: A must-have for anyone who loves cold drinks in summer. Thank you.
+  - 口播: A must-have for anyone who loves cold drinks in summer.
 [Background Sound]:
 - 无背景音乐，仅保留产品操作相关的自然音效：冰块倾倒的清脆碰撞声、液体倒入杯中的流动声，搭配轻快流畅的产品介绍旁白背景音，节奏轻柔舒适，契合夏日治愈氛围。
 [Transition / Editing]:
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-kitchenware-734734](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-kitchenware-734734?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-kitchenware-734734)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-kitchenware-734734](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-kitchenware-734734?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-kitchenware-734734)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

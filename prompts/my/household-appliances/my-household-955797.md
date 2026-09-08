@@ -1,6 +1,6 @@
 ---
 id: my-household-955797
-title: "Hulmers - Adjustable Cooling Fan 6 Inch Wireless Desk Fan Wall — Lifestyle Scene (Malaysia · Household Appliances)"
+title: "Hulmers - Adjustable Cooling Fan 6… — Lifestyle Scene (Malaysia · Household Appliances)"
 market: my
 category: household-appliances
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7658845296750955797
 creator: "@ceritabarang"
 published: 2026-07-05
 ---
-# Hulmers - Adjustable Cooling Fan 6 Inch Wireless Desk Fan Wall — Lifestyle Scene (Malaysia · Household Appliances)
+# Hulmers - Adjustable Cooling Fan 6… — Lifestyle Scene (Malaysia · Household Appliances)
 **Weekly #1** · 🇲🇾 Malaysia · Household Appliances · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7658845296750955797) by [@ceritabarang](https://www.tiktok.com/@ceritabarang). Format: **Lifestyle Scene** · 11s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “In warm home desk scene, hands open brand carton and take out white desk fan”
+**Opening beat:** “In warm home desk scene, hands open brand carton and take out white desk fan”
 
 **Key visuals:** Wooden Desk · Brand Carton · White Desk Fan · Adjustment Knob · Purple Ambient Light · Tissue · Coffee Cup · Breakfast Plate
 
@@ -39,32 +38,26 @@ Shot 1:
   - Duration: 0.0sec - 1.5sec
   - Scene Type: Unboxing
   - Scene: In the warm-lit home wooden desktop scene, the 'Hulrers' brand cardboard box printed with the fan product pattern is placed in the center of the frame. A pair of hands extends from both sides of the frame, fingers gently pinch the flip lid of the cardboard box and unfold it, then steadily take the white desktop fan wrapped in transparent plastic sealing film out of the cardboard box and place it on the tabletop, completing the unboxing action.
-  - Subject: Thank you.
 Shot 2:
   - Duration: 1.5sec - 3.0sec
   - Scene Type: Demonstrate product ease of use
   - Scene: The camera switches to a macro close-up perspective, focusing on the adjustment knob on the side of the white fan body. The fingertip of one hand extends out, gently pinches the knob and turns it slowly, the movement is soft and precise.
-  - Subject: you
 Shot 3:
   - Duration: 3.0sec - 5.5sec
   - Scene Type: Product usage scenario
   - Scene: The scene switches to a low-light home environment, the fan runs steadily on the tabletop, soft purple ambient light seeps out from the fan ring and the base, the light outlines the fan's rounded silhouette in the dark space, the brand logo at the center of the body is clearly visible.
-  - Subject: .
 Shot 4:
   - Duration: 5.5sec - 7.5sec
   - Scene Type: Demonstrate product effectiveness
   - Scene: The scene switches to a daily living room desktop bathed in natural light, the white fan runs facing the camera, the strong airflow keeps blowing the tissue placed on the tabletop next to the fan to flutter continuously, the frame clearly shows the fan's wind power effect, white mugs are placed on both sides of the tabletop, the background is a wall decorated with paintings and lush green plants.
-  - Subject: Thank you.
 Shot 5:
   - Duration: 7.5sec - 8.5sec
   - Scene Type: Product design highlights
   - Scene: The scene switches to a home office desktop, a laptop and a wireless mouse are placed on the tabletop. One hand grips the hidden handle on the top of the fan, easily lifting the entire unit off the tabletop, demonstrating the product's portable design for easy carrying.
-  - Subject: Bye.
 Shot 6:
   - Duration: 8.5sec - 10.0sec
   - Scene Type: Set usage scenario
   - Scene: The scene switches to a sunlit breakfast table by the window, the tabletop is covered with an orange and white checkered tablecloth, with a coffee cup and a plate holding croissants and grapes placed on it. The white fan is placed on the tablecloth and runs steadily, the natural green plants and light outside the window create a pleasant breakfast atmosphere.
-  - Subject: Thank you.
 Shot 7:
   - Duration: 10.0sec - 11.5sec
   - Scene Type: Scene-based lifestyle showcase
@@ -88,32 +81,26 @@ Shot 1:
   - 时长: 0.0sec - 1.5sec
   - 镜头类型: 开箱
   - 画面: 暖光居家木质桌面场景中，印有风扇产品图案的“Hulrers”品牌纸箱置于画面中央，一双手从画面两侧伸出，手指轻轻捏住纸箱的翻盖将其展开，随后将裹着透明塑封膜的白色桌面风扇从纸箱中平稳取出并放置在桌面上，完成开箱动作。
-  - 口播: Thank you.
 Shot 2:
   - 时长: 1.5sec - 3.0sec
   - 镜头类型: 展示产品易用性
   - 画面: 镜头切换为微距特写视角，聚焦白色风扇机身侧面的调节旋钮，一只手的指尖伸出，轻轻捏住旋钮缓缓转动，动作轻柔精准。
-  - 口播: you
 Shot 3:
   - 时长: 3.0sec - 5.5sec
   - 镜头类型: 产品使用场景
   - 画面: 场景切换至暗光居家环境，风扇在桌面上平稳运行，扇圈与底部透出柔和的紫色氛围灯光，光线在深色空间中勾勒出风扇的圆润轮廓，机身中心的品牌标识清晰可见。
-  - 口播: .
 Shot 4:
   - 时长: 5.5sec - 7.5sec
   - 镜头类型: 产品有效性
   - 画面: 场景切换至洒满自然光的日常客厅桌面，白色风扇正对镜头运行，强劲的气流将放置在风扇旁桌面上的纸巾吹得不断飘动，画面清晰展现风扇的风力效果，桌面两侧摆放着白色马克杯，背景是装饰有画作的墙面与茂盛绿植。
-  - 口播: Thank you.
 Shot 5:
   - 时长: 7.5sec - 8.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 场景切换至居家办公桌面，桌面上摆放着笔记本电脑与无线鼠标，一只手握住风扇顶部隐藏式的提手，轻松将整机从桌面上提起，展示产品便于提携的便携设计。
-  - 口播: Bye.
 Shot 6:
   - 时长: 8.5sec - 10.0sec
   - 镜头类型: 设置使用场景
   - 画面: 场景切换至临窗的阳光早餐桌面，桌面铺着橙白格纹餐布，摆放着咖啡杯、盛有可颂与葡萄的餐盘，白色风扇放置在餐布上平稳运行，窗外的自然绿植与光线营造出惬意的早餐氛围。
-  - 口播: Thank you.
 Shot 7:
   - 时长: 10.0sec - 11.5sec
   - 镜头类型: 场景化生活秀
@@ -126,4 +113,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-household-955797](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-household-955797?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-household-955797)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-household-955797](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-household-955797?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-household-955797)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

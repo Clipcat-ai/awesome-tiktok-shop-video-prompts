@@ -1,6 +1,6 @@
 ---
 id: jp-menswear-879560
-title: "新作 メンズストレッチパンツ スリムジョガーパンツ 吸汗速乾 軽量 ナイロンパンツ トレーニングウェア スポーツウェア カジ — Promo Pitch (Japan · Menswear & Underwear)"
+title: "新作 メンズストレッチパンツ… — Promo Pitch (Japan · Menswear & Underwear)"
 market: jp
 category: menswear-underwear
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673814314653879560
 creator: "@rina_lipg"
 published: 2026-08-14
 ---
-# 新作 メンズストレッチパンツ スリムジョガーパンツ 吸汗速乾 軽量 ナイロンパンツ トレーニングウェア スポーツウェア カジ — Promo Pitch (Japan · Menswear & Underwear)
+# 新作 メンズストレッチパンツ… — Promo Pitch (Japan · Menswear & Underwear)
 **Weekly #1** · 🇯🇵 Japan · Menswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673814314653879560) by [@rina_lipg](https://www.tiktok.com/@rina_lipg). Format: **Promo Pitch** · 16s · hook: **Benefit First** · Hands only · Discount
-**Opening line (from the video):** “This men's stretch pants is light and stretchy”
+**Opening line (translated from the video):** “This men's stretch pants is light and stretchy”
 
 **Key visuals:** Sportswear Store · Sora Peak Brand Stand · Men's Stretch Pants · Black Sneakers · Promotion Price Tag · Clothing Shelves · Folded Apparel
 
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-menswear-879560](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-menswear-879560?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-menswear-879560)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-menswear-879560](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-menswear-879560?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-menswear-879560)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

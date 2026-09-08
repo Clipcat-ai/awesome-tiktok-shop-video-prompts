@@ -1,6 +1,6 @@
 ---
 id: de-health-400992
-title: "WindBoss Cortisol-Inositol — Talking Head (Germany · Health)"
+title: "WindBoss Cortisol-Inositol, 2… — Talking Head (Germany · Health)"
 market: de
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670877003427400992
 creator: "@cortisolbalance1"
 published: 2026-08-06
 ---
-# WindBoss Cortisol-Inositol — Talking Head (Germany · Health)
+# WindBoss Cortisol-Inositol, 2… — Talking Head (Germany · Health)
 **Weekly #1** · 🇩🇪 Germany · Health · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670877003427400992) by [@cortisolbalance1](https://www.tiktok.com/@cortisolbalance1). Format: **Talking Head** · 59s · hook: **Pain Point** · On-camera host · Discount, Bundle deal
-**Opening line (from the video):** “If your nipples, chin, underwear, lower belly look like this, it could be high cortisol”
+**Opening line (translated from the video):** “If your nipples, chin, underwear, lower belly look like this, it could be high cortisol”
 
 **Pain point it attacks:** High cortisol causes abnormal physical changes
 
@@ -41,7 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 9.0sec
   - Scene Type: Highlight the pain point problem
   - Scene: A Black woman sits inside a moving car in daytime, facing the camera to share science popularization content. Following her gestures, a nipple diagram, a chin-pinching diagram, an underwear diagram, an abdomen diagram, and a cortisol dashboard diagram pop up in sequence. Her right index finger points upward first, then points to the left and right sides of the frame, before she raises her hand and waves it gently. English prompt text is consistently displayed at the top of the frame, with synchronized German subtitles at the bottom.
-  - Subject: Wenn deine Brustwarzen so aussehen, wenn dein Kinn so aussieht... wenn deine Unterwäsche so aussieht,  wenn dein Unterbauch so aussieht, Das könnte ein Anzeichen für einen hohen Cortisol-Spiegel sein.
+  - Subject: Wenn deine Brustwarzen so aussehen, wenn dein Kinn so aussieht... wenn deine Unterwäsche so aussieht, wenn dein Unterbauch so aussieht, Das könnte ein Anzeichen für einen hohen Cortisol-Spiegel sein.
 Shot 2:
   - Duration: 9.0sec - 25.5sec
   - Scene Type: Raise guiding questions
@@ -49,12 +48,12 @@ Shot 2:
   - Subject: Ich habe festgestellt, dass viele Frauen möglicherweise schon einmal Veränderungen ihres pH-Gleichgewichts Ja. sondern könnte möglicherweise mit einem erhöhten Cortisol-Schlossetz Spiegel zusammenhängen. Deshalb habe ich angefangen, mehr auf meinen
 Shot 3:
   - Duration: 25.5sec - 33.0sec
-  - Scene Type: Show core active ingredients (health category)
+  - Scene Type: Show core active ingredients
   - Scene: The camera switches to a bright indoor desk scene. A pair of hands holds a blue cortisol supplement bottle and a pink inositol supplement bottle respectively, placing the two products side by side directly in front of the camera. Then the right hand frees up, extends the index finger, and points to the ingredient text marked on the front of the blue bottle one by one, before rotating the bottle to show the details of the nutrition facts label on the back. Blurred product packaging boxes and desk green plants are visible in the background.
   - Subject: Ich empfehle diese Kombination auszutauschen. Ja. Jede Kapsel enthält eine wissenschaftlich abgestimmte Kombination.
 Shot 4:
   - Duration: 33.0sec - 39.0sec
-  - Scene Type: Show core active ingredients (health category)
+  - Scene Type: Show core active ingredients
   - Scene: The right hand holds the pink supplement bottle, with the index finger swiping across the ingredient label text on the front of the bottle one by one, then rotates the bottle to clearly show the full printed nutrition facts label content on the back of the bottle. The camera maintains a close-up follow shot of the hand movements.
   - Subject: hochwertiger Inhaltsstoffe, darunter Aschwaldschutz. Sie kann deinen Körper dabei unterstützen.
 Shot 5:
@@ -86,7 +85,7 @@ Shot 1:
   - 时长: 0.0sec - 9.0sec
   - 镜头类型: 点明痛点问题
   - 画面: 黑人女性坐在白天行驶的轿车内，面向镜头分享科普内容，随着她的手势依次弹出对应的乳头示意图、捏下巴示意图、内裤示意图、腹部示意图、皮质醇仪表盘示意图，她的右手食指先向上指，随后指向画面左侧、右侧，再抬手轻轻摆动。画面顶部始终显示英文提示文字，底部配有德语同步字幕。
-  - 口播: Wenn deine Brustwarzen so aussehen, wenn dein Kinn so aussieht... wenn deine Unterwäsche so aussieht,  wenn dein Unterbauch so aussieht, Das könnte ein Anzeichen für einen hohen Cortisol-Spiegel sein.
+  - 口播: Wenn deine Brustwarzen so aussehen, wenn dein Kinn so aussieht... wenn deine Unterwäsche so aussieht, wenn dein Unterbauch so aussieht, Das könnte ein Anzeichen für einen hohen Cortisol-Spiegel sein.
 Shot 2:
   - 时长: 9.0sec - 25.5sec
   - 镜头类型: 设置问题
@@ -94,12 +93,12 @@ Shot 2:
   - 口播: Ich habe festgestellt, dass viele Frauen möglicherweise schon einmal Veränderungen ihres pH-Gleichgewichts Ja. sondern könnte möglicherweise mit einem erhöhten Cortisol-Schlossetz Spiegel zusammenhängen. Deshalb habe ich angefangen, mehr auf meinen
 Shot 3:
   - 时长: 25.5sec - 33.0sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 镜头切换到明亮的室内桌面场景，一双手分别握住蓝色皮质醇保健品瓶与粉色肌醇保健品瓶，将两瓶产品并排展示在镜头正前方，随后腾出右手伸出食指，逐一指向蓝色瓶身正面标注的成分文字，接着转动瓶身展示背面的营养成分表细节。背景可以看到模糊的产品包装盒与桌面绿植。
   - 口播: Ich empfehle diese Kombination auszutauschen. Ja. Jede Kapsel enthält eine wissenschaftlich abgestimmte Kombination.
 Shot 4:
   - 时长: 33.0sec - 39.0sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 右手握住粉色保健品瓶，食指顺着瓶身正面的成分标注文字逐一划过，随后转动瓶身，清晰展示瓶身背面印刷的全部营养成分表内容，镜头保持近距离跟拍手部动作。
   - 口播: hochwertiger Inhaltsstoffe, darunter Aschwaldschutz. Sie kann deinen Körper dabei unterstützen.
 Shot 5:
@@ -116,7 +115,7 @@ Shot 7:
   - 时长: 49.5sec - 59.5sec
   - 镜头类型: 限时优惠
   - 画面: 镜头切回夜间暗光的车内场景，女性依旧穿着条纹上衣，手肘支撑在身前，面向镜头分享促销信息。画面上方弹出产品售价截图，截图上的优惠价格数字被红色圆圈圈出并搭配红色箭头标注，画面左下角弹出一个红色大箭头指向屏幕下方，配合她的讲解完成种草收尾。
-  - 口播: kostenlos dazu.  Du kannst bis zu 80 Euro sparen und zahlst am Ende weniger als 20. Euro. Wenn du das Produkt jetzt noch in deinem Warenkorb sehen kannst, ist es möglicherweise noch auf Lager.
+  - 口播: kostenlos dazu. Du kannst bis zu 80 Euro sparen und zahlst am Ende weniger als 20. Euro. Wenn du das Produkt jetzt noch in deinem Warenkorb sehen kannst, ist es möglicherweise noch auf Lager.
 [Background Sound]:
 - 非常欢快的TikTok背景音乐，流行电子风格、快节奏、音量中等偏高、带有轻快鼓点和合成器旋律，适合健康/女性护理类带货视频，营造积极、活力、略带种草氛围的听觉体验，风格类似TikTok viral health trend常用BGM，节奏感强，能快速抓住观众注意力，与视频中限时优惠、科学配方、身体信号提醒等信息形成情绪共振，增强转化冲动。
 [Transition / Editing]:
@@ -125,4 +124,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-health-400992](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-health-400992?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-health-400992)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-health-400992](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-health-400992?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-health-400992)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

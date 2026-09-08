@@ -19,9 +19,8 @@ published: 2026-07-28
 ---
 # 365 Hábitos Simples e Poderosos — Handheld Demo (Brazil · Books, Magazines & Audio)
 **Weekly #1** · 🇧🇷 Brazil · Books, Magazines & Audio · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667631697495657748) by [@avl_shopp](https://www.tiktok.com/@avl_shopp). Format: **Handheld Demo** · 15s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Get out of debt, build your emergency reserve”
+**Opening line (translated from the video):** “Get out of debt, build your emergency reserve”
 
 **Pain point it attacks:** Stuck in debt, lack emergency reserve
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-books-657748](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-books-657748?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-books-657748)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-books-657748](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-books-657748?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-books-657748)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

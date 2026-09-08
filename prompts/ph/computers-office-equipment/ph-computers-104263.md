@@ -1,6 +1,6 @@
 ---
 id: ph-computers-104263
-title: "YN 80 Sheets Cartoon Animal Sticky Notes Portable Memo Pads St — Handheld Demo (Philippines · Computers & Office Equipment)"
+title: "YN 80 Sheets Cartoon Animal Sticky… — Handheld Demo (Philippines · Computers & Office Equipment)"
 market: ph
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7657757583071104263
 creator: "@modecarry"
 published: 2026-07-02
 ---
-# YN 80 Sheets Cartoon Animal Sticky Notes Portable Memo Pads St — Handheld Demo (Philippines · Computers & Office Equipment)
+# YN 80 Sheets Cartoon Animal Sticky… — Handheld Demo (Philippines · Computers & Office Equipment)
 **Weekly #1** · 🇵🇭 Philippines · Computers & Office Equipment · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7657757583071104263) by [@modecarry](https://www.tiktok.com/@modecarry). Format: **Handheld Demo** · 15s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Carry these cute notes anywhere you go”
+**Opening line (quoted from the video):** “Carry these cute notes anywhere you go”
 
 **Pain point it attacks:** Can't find cute portable sticky notes
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-computers-104263](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-computers-104263?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-computers-104263)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-computers-104263](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-computers-104263?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-computers-104263)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

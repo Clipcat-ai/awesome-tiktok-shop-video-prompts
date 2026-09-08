@@ -1,6 +1,6 @@
 ---
 id: us-kitchenware-136526
-title: "Stainless Steel Deep Fryer Set - 5.12*4.72in 1-Person Mini Pot — Real Review (United States · Kitchenware)"
+title: "Stainless Steel Deep Fryer Set… — Real Review (United States · Kitchenware)"
 market: us
 category: kitchenware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669035464615136526
 creator: "@qzbjrkt7"
 published: 2026-08-01
 ---
-# Stainless Steel Deep Fryer Set - 5.12*4.72in 1-Person Mini Pot — Real Review (United States · Kitchenware)
+# Stainless Steel Deep Fryer Set… — Real Review (United States · Kitchenware)
 **Weekly #1** · 🇺🇸 United States · Kitchenware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669035464615136526) by [@qzbjrkt7](https://www.tiktok.com/@qzbjrkt7). Format: **Real Review** · 26s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “If you have a kitchen at home, you definitely need this deep fryer”
+**Opening line (quoted from the video):** “If you have a kitchen at home, you definitely need this deep fryer”
 
 **Pain point it attacks:** Regular frying pots splatter and waste oil
 
@@ -135,4 +134,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-kitchenware-136526](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-kitchenware-136526?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-kitchenware-136526)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-kitchenware-136526](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-kitchenware-136526?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-kitchenware-136526)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

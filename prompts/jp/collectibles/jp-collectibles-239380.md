@@ -1,6 +1,6 @@
 ---
 id: jp-collectibles-239380
-title: "Blooming 絞り出しおもちゃ 手作りDIY  ゆっくりとした反動でストレス解消になるおもちゃ — Real Review (Japan · Collectibles)"
+title: "Blooming 絞り出しおもちゃ… — Real Review (Japan · Collectibles)"
 market: jp
 category: collectibles
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677164319192239380
 creator: "@gh____088"
 published: 2026-09-01
 ---
-# Blooming 絞り出しおもちゃ 手作りDIY  ゆっくりとした反動でストレス解消になるおもちゃ — Real Review (Japan · Collectibles)
+# Blooming 絞り出しおもちゃ… — Real Review (Japan · Collectibles)
 **Weekly #1** · 🇯🇵 Japan · Collectibles · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677164319192239380) by [@gh____088](https://www.tiktok.com/@gh____088). Format: **Real Review** · 110s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “I'll introduce all my favorite squeeze toys from Blooming Japan”
+**Opening line (translated from the video):** “I'll introduce all my favorite squeeze toys from Blooming Japan”
 
 **Key visuals:** White Desk · Squeeze Toys · Plastic Packaging · Nail Art · Cream Roll Toy · Mango Ice Cream Toy · Strawberry Ice Cream Toy
 
@@ -57,7 +56,7 @@ Shot 4:
   - Subject: えっママンゴーとこっちがあの日後のアイスとブーブーこのなんだったっけ酸素アイストリームみたいなやつこれねもう市場最大重量級でございますもうね、バリバリぶったのでこのね、500グラムしかはい
 Shot 5:
   - Duration: 103.0sec - 111.0sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The creator picks up a macaron-colored sandwich shaped stress relief toy and gently squeezes it to show its delicate and cute shape, then places all toys back on the white desktop, rests both hands gently above the multiple stress relief toys on the desktop, and completes the final product summary sharing facing the camera. All five realistic food-shaped stress relief toys are neatly arranged on the white desktop again, and eye-catching Japanese subtitles recommending all the products finally appear on the screen.
   - Subject: はい、この酸素アイスクリームのブラインド版もブーブーこのサービス欠しで全部ねかなりお気に入りの商品になっております
 [Background Sound]:
@@ -97,7 +96,7 @@ Shot 4:
   - 口播: えっママンゴーとこっちがあの日後のアイスとブーブーこのなんだったっけ酸素アイストリームみたいなやつこれねもう市場最大重量級でございますもうね、バリバリぶったのでこのね、500グラムしかはい
 Shot 5:
   - 时长: 103.0sec - 111.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 博主拿起一款马卡龙色系的三明治造型解压玩具轻轻捏动展示其精致可爱的造型，随后将所有玩具放回白色桌面，双手轻轻放在桌面上多款解压玩具的上方，面向镜头完成最终的产品总结分享，所有五款仿真食物解压玩具重新整齐陈列在白色桌面，画面最终出现推荐全部产品的醒目日语字幕。
   - 口播: はい、この酸素アイスクリームのブラインド版もブーブーこのサービス欠しで全部ねかなりお気に入りの商品になっております
 [Background Sound]:
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-collectibles-239380](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-collectibles-239380?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-collectibles-239380)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-collectibles-239380](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-collectibles-239380?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-collectibles-239380)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

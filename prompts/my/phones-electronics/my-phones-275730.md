@@ -1,6 +1,6 @@
 ---
 id: my-phones-275730
-title: "Tag Spider-Man — Handheld Demo (Malaysia · Phones & Electronics)"
+title: "Tag Spider-Man, Serasi dengan… — Handheld Demo (Malaysia · Phones & Electronics)"
 market: my
 category: phones-electronics
 video_type: handheld-demo
@@ -17,9 +17,8 @@ source: https://www.tiktok.com/share/video/7670105870432275730
 creator: "@saudagarstoree"
 published: 2026-08-04
 ---
-# Tag Spider-Man — Handheld Demo (Malaysia · Phones & Electronics)
+# Tag Spider-Man, Serasi dengan… — Handheld Demo (Malaysia · Phones & Electronics)
 **Weekly #1** · 🇲🇾 Malaysia · Phones & Electronics · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670105870432275730) by [@saudagarstoree](https://www.tiktok.com/@saudagarstoree). Format: **Handheld Demo** · 10s · hook: **POV Scenario** · Hands only · No promo
 **Key visuals:** Car Interior · Spider-Man Phone Case · Gold Cuban Ring · Diamond Butterfly Bracelet · Diamond Watch · Black Matte Material · Red Spider Logo
 
@@ -86,4 +85,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-phones-275730](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-phones-275730?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-phones-275730)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-phones-275730](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-phones-275730?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-phones-275730)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: id-books-000466
-title: "Turos Pustaka Buku Islami Kitab Sirrul Asrar : Menemukan Hakik — Handheld Demo (Indonesia · Books, Magazines & Audio)"
+title: "Turos Pustaka Buku Islami Kitab… — Handheld Demo (Indonesia · Books, Magazines & Audio)"
 market: id
 category: books-magazines-audio
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672556521989000466
 creator: "@abihanifa.sh"
 published: 2026-08-10
 ---
-# Turos Pustaka Buku Islami Kitab Sirrul Asrar : Menemukan Hakik — Handheld Demo (Indonesia · Books, Magazines & Audio)
+# Turos Pustaka Buku Islami Kitab… — Handheld Demo (Indonesia · Books, Magazines & Audio)
 **Weekly #1** · 🇮🇩 Indonesia · Books, Magazines & Audio · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672556521989000466) by [@abihanifa.sh](https://www.tiktok.com/@abihanifa.sh). Format: **Handheld Demo** · 26s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Who am I? Have you known who you are?”
+**Opening line (translated from the video):** “Who am I? Have you known who you are?”
 
 **Pain point it attacks:** Not knowing the true self
 
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-books-000466](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-books-000466?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-books-000466)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-books-000466](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-books-000466?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-books-000466)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

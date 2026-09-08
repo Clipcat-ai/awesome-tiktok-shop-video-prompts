@@ -1,6 +1,6 @@
 ---
 id: br-household-316936
-title: "Kit Umidificador com Essências 20ML – PERFUME QUALQUER AMBIENT — Handheld Demo (Brazil · Household Appliances)"
+title: "Kit Umidificador com Essências… — Handheld Demo (Brazil · Household Appliances)"
 market: br
 category: household-appliances
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676503136764316936
 creator: "@jacquelinesilva647"
 published: 2026-08-21
 ---
-# Kit Umidificador com Essências 20ML – PERFUME QUALQUER AMBIENT — Handheld Demo (Brazil · Household Appliances)
+# Kit Umidificador com Essências… — Handheld Demo (Brazil · Household Appliances)
 **Weekly #1** · 🇧🇷 Brazil · Household Appliances · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676503136764316936) by [@jacquelinesilva647](https://www.tiktok.com/@jacquelinesilva647). Format: **Handheld Demo** · 10s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A nice aroma makes all the difference anywhere”
+**Opening line (translated from the video):** “A nice aroma makes all the difference anywhere”
 
 **Pain point it attacks:** Lack of nice aroma in the environment
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-household-316936](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-household-316936?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-household-316936)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-household-316936](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-household-316936?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-household-316936)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

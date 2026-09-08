@@ -19,9 +19,8 @@ published: 2026-08-15
 ---
 # Vitamin D3 4000iu + K2 — Promo Pitch (United Kingdom · Health)
 **Weekly #1** · 🇬🇧 United Kingdom · Health · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674287739730267424) by [@talesoftyrone](https://www.tiktok.com/@talesoftyrone). Format: **Promo Pitch** · 39s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “You're not fat. Your gut is just bloated.”
+**Opening line (quoted from the video):** “You're not fat. Your gut is just bloated.”
 
 **Pain point it attacks:** Bloated gut, high cortisol causes puffiness and tiredness
 
@@ -69,7 +68,7 @@ Shot 6:
   - Subject: And here's how you're going to get your cortisol levels down
 Shot 7:
   - Duration: 14.0sec - 17.0sec
-  - Scene Type: Core product ingredients (health category)
+  - Scene Type: Core product ingredients
   - Scene: Live-action shot: a hand holds a nutritional supplement packaging bag, the camera slowly pushes in to clearly show the printed 'nutrition geeks' brand logo, the product name Vitamin D3+K2, and text details including '4000iu D3 + 100μg K2 (MK-7)'. The hand holds up the product packaging bag to display the core information on the front, with the camera focusing closely on the text content of the package.
   - Subject: by taking vitamin D3 and K2 together.
 Shot 8:
@@ -124,7 +123,7 @@ Shot 6:
   - 口播: And here's how you're going to get your cortisol levels down
 Shot 7:
   - 时长: 14.0sec - 17.0sec
-  - 镜头类型: 产品核心成分（健康品类）
+  - 镜头类型: 产品核心成分
   - 画面: 实拍画面，一只手拿着营养补充剂的包装袋，镜头缓慢推近，清晰展示包装袋上印刷的“nutrition geeks”品牌标识、维生素D3+K2的产品名称，以及“4000iu D3 + 100μg K2 (MK-7)”等文字细节，手举着产品包装袋展示正面核心信息，镜头近距离聚焦包装文字内容。
   - 口播: by taking vitamin D3 and K2 together.
 Shot 8:
@@ -146,7 +145,7 @@ Shot 11:
   - 时长: 27.5sec - 39.9sec
   - 镜头类型: 限时优惠
   - 画面: 模拟手机电商平台的商品评价页面，页面上滚动展示多条五星好评的真实用户评价，画面中央始终悬浮着产品包装袋的主图，红色向下箭头标识不断指向下方的评价区域，页面自动缓慢向下滑动浏览更多评价，电商平台的商品评价界面，滚动展示用户的真实五星反馈，烘托产品热销的氛围。
-  - 口播: and there's 365 tablets in that one So it's going to last you a whole year. If that yellow box is still there, it means it's still in stock. so there's still a chance for you to get them.  So get them before... before they run out.
+  - 口播: and there's 365 tablets in that one So it's going to last you a whole year. If that yellow box is still there, it means it's still in stock. so there's still a chance for you to get them. So get them before... before they run out.
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量中等偏高、带有电子合成器和鼓点驱动的流行节奏，风格类似“Upbeat Pop Dance”或“Trendy Health & Wellness Vibe”，适配健康补剂类带货视频，营造积极、紧迫、激励消费的氛围，与视频中“限时抢购”“一年用量”“库存有限”等销售话术高度匹配。
 [Transition / Editing]:
@@ -155,4 +154,4 @@ Shot 11:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-health-267424](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-health-267424?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-health-267424)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-health-267424](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-health-267424?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-health-267424)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

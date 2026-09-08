@@ -1,6 +1,6 @@
 ---
 id: jp-books-709717
-title: "最新版 日本語能力試験JLPT N2 / 日語N2 真題/ JLPT Old Questions 【2016〜2025】 1 — Talking Head (Japan · Books, Magazines & Audio)"
+title: "最新版 日本語能力試験JLPT N2… — Talking Head (Japan · Books, Magazines & Audio)"
 market: jp
 category: books-magazines-audio
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679328581771709717
 creator: "@thomodachi89"
 published: 2026-08-29
 ---
-# 最新版 日本語能力試験JLPT N2 / 日語N2 真題/ JLPT Old Questions 【2016〜2025】 1 — Talking Head (Japan · Books, Magazines & Audio)
+# 最新版 日本語能力試験JLPT N2… — Talking Head (Japan · Books, Magazines & Audio)
 **Weekly #1** · 🇯🇵 Japan · Books, Magazines & Audio · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679328581771709717) by [@thomodachi89](https://www.tiktok.com/@thomodachi89). Format: **Talking Head** · 29s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “For those who watched my previous N2 Past Paper video but don't know how to buy the book through the link”
+**Opening line (quoted from the video):** “For those who watched my previous N2 Past Paper video but don't know how to buy the book through the link”
 
 **Pain point it attacks:** Don't know how to buy N2 past paper books via link
 
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-books-709717](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-books-709717?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-books-709717)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-books-709717](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-books-709717?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-books-709717)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

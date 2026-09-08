@@ -1,6 +1,6 @@
 ---
 id: mx-shoes-451669
-title: "Bailarinas Mary Jane con Tiras Elásticas Cruzadas Diseño Cómod — Handheld Demo (Mexico · Shoes)"
+title: "Bailarinas Mary Jane con Tiras… — Handheld Demo (Mexico · Shoes)"
 market: mx
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7666231432779451669
 creator: "@naff_shoes"
 published: 2026-07-24
 ---
-# Bailarinas Mary Jane con Tiras Elásticas Cruzadas Diseño Cómod — Handheld Demo (Mexico · Shoes)
+# Bailarinas Mary Jane con Tiras… — Handheld Demo (Mexico · Shoes)
 **Weekly #1** · 🇲🇽 Mexico · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7666231432779451669) by [@naff_shoes](https://www.tiktok.com/@naff_shoes). Format: **Handheld Demo** · 9s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “Look at this trendy Speedcat ballet shoe”
+**Opening line (quoted from the video):** “Look at this trendy Speedcat ballet shoe”
 
 **Key visuals:** Concrete Sidewalk · PUMA Ballet Shoes · Cross Straps · Black Pants · Ankle · Shoe Logo · Pink Shoes · Black Shoes
 
@@ -42,9 +41,9 @@ Shot 1:
   - Subject: Bye. Mira el Speedcat Ballet en su tendencia.
 Shot 2:
   - Duration: 3.0sec - 6.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The scene switches to another pair of full pink and white color-block PUMA ballet shoes. The creator maintains a natural standing posture, slightly shifts her feet to adjust position, the camera follows the movement to fully showcase the full pink suede material, white spliced areas and the delicate design of the matching color crisscross straps of this pair of shoes, with the rough gray concrete ground remaining as the background throughout.
-  - Subject: . The Encuentos in the Carrito Naranja is only 475.
+  - Subject: The Encuentos in the Carrito Naranja is only 475.
 Shot 3:
   - Duration: 6.5sec - 9.0sec
   - Scene Type: Limited-time offer
@@ -72,9 +71,9 @@ Shot 1:
   - 口播: Bye. Mira el Speedcat Ballet en su tendencia.
 Shot 2:
   - 时长: 3.0sec - 6.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面切换到另一双全粉白拼色的PUMA芭蕾鞋，出镜者保持自然站姿，微微挪动双脚调整位置，镜头跟随移动，完整展示这双鞋的全粉绒面材质、白色拼接区域和同色系交叉绑带的精致设计，背景始终是粗糙的灰色水泥地面。
-  - 口播: . The Encuentos in the Carrito Naranja is only 475.
+  - 口播: The Encuentos in the Carrito Naranja is only 475.
 Shot 3:
   - 时长: 6.5sec - 9.0sec
   - 镜头类型: 限时优惠
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-shoes-451669](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-shoes-451669?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-shoes-451669)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-shoes-451669](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-shoes-451669?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-shoes-451669)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

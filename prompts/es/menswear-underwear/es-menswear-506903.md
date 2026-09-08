@@ -1,6 +1,6 @@
 ---
 id: es-menswear-506903
-title: "Men's Solid-Color Durable Waterproof Tactical Work Pants Comfo — OOTD Showcase (Spain · Menswear & Underwear)"
+title: "Men's Solid-Color Durable… — OOTD Showcase (Spain · Menswear & Underwear)"
 market: es
 category: menswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678940729380506903
 creator: "@nysportswear9"
 published: 2026-08-31
 ---
-# Men's Solid-Color Durable Waterproof Tactical Work Pants Comfo — OOTD Showcase (Spain · Menswear & Underwear)
+# Men's Solid-Color Durable… — OOTD Showcase (Spain · Menswear & Underwear)
 **Weekly #1** · 🇪🇸 Spain · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678940729380506903) by [@nysportswear9](https://www.tiktok.com/@nysportswear9). Format: **OOTD Showcase** · 8s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Come on, Michael Boguto”
+**Opening line (quoted from the video):** “Come on, Michael Boguto”
 
 **Pain point it attacks:** Work pants lack elasticity and restrict movement
 
@@ -39,17 +38,17 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 3.5sec
-  - Scene Type: Multi-style selection showcase (fashion category)
+  - Scene Type: Multi-style selection showcase
   - Scene: A muscular man stands on the rail walkway, wearing a white shirt with rolled-up sleeves and a khaki workwear belt, paired with dark grey multi-pocket work pants and grey outdoor shoes. He first pulls both pant legs outward simultaneously with both hands to demonstrate the fabric's stretch and relaxed silhouette, then turns to a side profile, lifts one leg in a striding motion, and smoothly slips his hand into the side pocket of the work pants, all movements fluid and natural, with the open light rail platform and distant city skyline in the background.
   - Subject: Come on, Michael Boguto.
 Shot 2:
   - Duration: 3.5sec - 6.0sec
-  - Scene Type: Multi-style selection showcase (fashion category)
+  - Scene Type: Multi-style selection showcase
   - Scene: Scene shifts, the man changes into the identical multi-pocket work pants in solid black, still standing on the same section of rail walkway. He stands with legs apart in a half-squat position, rests both hands naturally on his thighs, and performs repeated small controlled squats in time with the music rhythm to demonstrate the full range of unrestricted movement the work pants allow even during large motions, with the parked light rail train visible in the far background.
   - Subject: I'm a nigga with a attitude, thanks nigga.
 Shot 3:
   - Duration: 6.0sec - 9.0sec
-  - Scene Type: Multi-style selection showcase (fashion category)
+  - Scene Type: Multi-style selection showcase
   - Scene: The man changes into the identical multi-pocket work pants in army green, returning to the center of the rail walkway. He once again grabs the outer sides of the left and right pant legs with each respective hand, pulls outward with force to clearly demonstrate the army green work pants' fabric elasticity and silhouette tolerance, with his lower body kept as the core focus of the frame throughout, for a perfectly stable and clear shot.
   - Subject: Yo, now don't give a fuck, I keep the gangsta, yo.
 [Background Sound]:
@@ -69,17 +68,17 @@ Shot 3:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 3.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 健硕的男性站在铁轨步道上，上身穿着挽起袖子的白色衬衫，搭配卡其色工装腰带，下身着深灰色多口袋工装裤，脚踩灰色户外鞋。他先是双手同时向两侧拉扯裤腿，展示裤子面料的弹力与宽松版型，随后转身侧身，抬起一条腿做出跨步动作，顺势将手插入工装裤的侧袋中，动作流畅自然，背景是开阔的轨道交通站台与远处城市轮廓。
   - 口播: Come on, Michael Boguto.
 Shot 2:
   - 时长: 3.5sec - 6.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 场景切换，男性换上纯黑色同款多口袋工装裤，依旧站在同一段铁轨步道上。他双腿分开呈半蹲姿态，双手自然搭在大腿处，跟随音乐节奏反复小幅蹲起，展示工装裤在大幅度动作下完全不紧绷的活动空间，背景远处可以看到停靠的轻轨列车。
   - 口播: I'm a nigga with a attitude, thanks nigga.
 Shot 3:
   - 时长: 6.0sec - 9.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 男性换上军绿色同款多口袋工装裤，站回铁轨步道中间位置。他再次双手分别抓住左右裤腿的外侧位置，向两侧发力拉扯，清晰展示军绿色工装裤的面料弹力与版型包容度，全程下半身处于画面核心区域，画面稳定清晰。
   - 口播: Yo, now don't give a fuck, I keep the gangsta, yo.
 [Background Sound]:
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-menswear-506903](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-menswear-506903?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-menswear-506903)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-menswear-506903](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-menswear-506903?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-menswear-506903)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: de-textiles-179104
-title: "Grandekor Verdunklungsrollo ohne Bohren Rollos für Fenster ohn — Handheld Demo (Germany · Textiles & Soft Furnishings)"
+title: "Grandekor Verdunklungsrollo ohne… — Handheld Demo (Germany · Textiles & Soft Furnishings)"
 market: de
 category: textiles-soft-furnishings
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680152977302179104
 creator: "@rickminds_"
 published: 2026-08-31
 ---
-# Grandekor Verdunklungsrollo ohne Bohren Rollos für Fenster ohn — Handheld Demo (Germany · Textiles & Soft Furnishings)
+# Grandekor Verdunklungsrollo ohne… — Handheld Demo (Germany · Textiles & Soft Furnishings)
 **Weekly #1** · 🇩🇪 Germany · Textiles & Soft Furnishings · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680152977302179104) by [@rickminds_](https://www.tiktok.com/@rickminds_). Format: **Handheld Demo** · 15s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Are you annoyed when neighbors peek in too?”
+**Opening line (translated from the video):** “Are you annoyed when neighbors peek in too?”
 
 **Pain point it attacks:** Neighbors peek into privacy
 
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 3.0sec - 6.5sec
   - Scene Type: Set up the usage scenario
   - Scene: The camera pulls back to show the full window scene. The hand pulls the roller blind's bead chain, gradually adjusting the blind downwards from its initial fully transparent, light-permeable state. As the blind lowers, the intensity of natural indoor light decreases steadily. Cartoon Rick stands to one side by the window, talking while spreading his palm to point at the window, with corresponding function description text captions popping up sequentially in the center of the frame.
-  - Subject: hast du sofort Privatsphäre.  Du kannst genau einstellen, wie viel Licht
+  - Subject: hast du sofort Privatsphäre. Du kannst genau einstellen, wie viel Licht
 Shot 3:
   - Duration: 6.5sec - 10.5sec
   - Scene Type: Showcase the product's material
@@ -86,7 +85,7 @@ Shot 2:
   - 时长: 3.0sec - 6.5sec
   - 镜头类型: 设置使用场景
   - 画面: 镜头拉远展示完整窗户场景，手拉动卷帘的珠链，从完全透光的初始状态逐步向下调节卷帘，随着卷帘位置下降，室内自然光强度逐渐降低，卡通瑞克站在窗边一侧，一边说话一边摊开手掌指向窗户，画面中间依次弹出对应功能描述字幕。
-  - 口播: hast du sofort Privatsphäre.  Du kannst genau einstellen, wie viel Licht
+  - 口播: hast du sofort Privatsphäre. Du kannst genau einstellen, wie viel Licht
 Shot 3:
   - 时长: 6.5sec - 10.5sec
   - 镜头类型: 产品材质展示
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-textiles-179104](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-textiles-179104?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-textiles-179104)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-textiles-179104](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-textiles-179104?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-textiles-179104)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: es-automotive-369889
-title: "CARSHARK Build Your Own 4 x 5L Car Care Bundle — Product Close-Up (Spain · Automotive & Motorcycle)"
+title: "CARSHARK Build Your Own 4 x 5L Car… — Product Close-Up (Spain · Automotive & Motorcycle)"
 market: es
 category: automotive-motorcycle
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675273188569369889
 creator: "@allpurposegoodshub"
 published: 2026-08-18
 ---
-# CARSHARK Build Your Own 4 x 5L Car Care Bundle — Product Close-Up (Spain · Automotive & Motorcycle)
+# CARSHARK Build Your Own 4 x 5L Car… — Product Close-Up (Spain · Automotive & Motorcycle)
 **Weekly #1** · 🇪🇸 Spain · Automotive & Motorcycle · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675273188569369889) by [@allpurposegoodshub](https://www.tiktok.com/@allpurposegoodshub). Format: **Product Close-Up** · 10s · hook: **Result First** · Hands only · Bundle deal
-**Opening line (from the video):** “This is what twenty litres of car care products looks like on your driveway”
+**Opening beat:** “This is what twenty litres of car care products looks like on your driveway”
 
 **Key visuals:** Brick Driveway · Wet Pavement · Car Care Bottles · Cardboard Box · Kraft Paper · Red Brick House · Gray Car
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-automotive-369889](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-automotive-369889?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-automotive-369889)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-automotive-369889](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-automotive-369889?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-automotive-369889)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

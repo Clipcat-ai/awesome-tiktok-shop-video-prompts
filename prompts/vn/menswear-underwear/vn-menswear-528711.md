@@ -1,6 +1,6 @@
 ---
 id: vn-menswear-528711
-title: "Quần Đùi Nam Thể Thao RUNNING - Chất Liệu Gió Thoáng Mát — Handheld Demo (Vietnam · Menswear & Underwear)"
+title: "Quần Đùi Nam Thể Thao RUNNING… — Handheld Demo (Vietnam · Menswear & Underwear)"
 market: vn
 category: menswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7647764988215528711
 creator: "@tieuthanhthanh68"
 published: 2026-06-05
 ---
-# Quần Đùi Nam Thể Thao RUNNING - Chất Liệu Gió Thoáng Mát — Handheld Demo (Vietnam · Menswear & Underwear)
+# Quần Đùi Nam Thể Thao RUNNING… — Handheld Demo (Vietnam · Menswear & Underwear)
 **Weekly #1** · 🇻🇳 Vietnam · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7647764988215528711) by [@tieuthanhthanh68](https://www.tiktok.com/@tieuthanhthanh68). Format: **Handheld Demo** · 21s · hook: **POV Scenario** · On-camera host · Discount
-**Opening line (from the video):** “Get five pairs of shorts at once to wear all week, convenient and practical”
+**Opening line (translated from the video):** “Get five pairs of shorts at once to wear all week, convenient and practical”
 
 **Pain point it attacks:** Trouble changing shorts daily, want to have more pairs for convenience
 
@@ -39,19 +38,19 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 7.5sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: In the bright exotic-style home space, a young woman stands next to a black freestanding clothes rack holding five pairs of athletic shorts in different colors, with her arm resting on the rack's crossbar. She first raises her hand to gently brush the dark gray shorts on the far left, then moves her palm across the fabric of the light gray, royal blue, army green, and solid black shorts in sequence. She looks at the camera with a soft smile the whole time, with the ethnic-pattern wall and colorful chandelier in the background clearly in frame. The camera stays at a fixed full shot position, steadily capturing the woman's full body and the entire clothes rack.
-  - Subject: Một lần lấy luôn 5 quần sót mặc cả tuần, vừa tiện Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - Subject: Một lần lấy luôn 5 quần sót mặc cả tuần, vừa tiện
 Shot 2:
   - Duration: 7.5sec - 14.0sec
   - Scene Type: Product material showcase
   - Scene: The camera pushes forward, transitioning from a medium full shot to a medium close-up. The woman turns her body slightly toward the rack, and continues to gently stroke the hems of the five pairs of shorts one by one, looking at the displayed shorts with soft, natural movements. The frame gradually focuses on the fabric texture of the shorts and the white brand logo plus the text 'RUNNING' printed on the leg of each pair. The camera moves forward at a constant speed, gradually cropping out excess background to focus on the interaction area between the woman's hands and the shorts.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Các bạn có thể nhớ like và share video này để ủng hộ kênh của chúng mình nhé.
+  - Subject: Các bạn có thể nhớ like và share video này để ủng hộ kênh của chúng mình nhé.
 Shot 3:
   - Duration: 14.0sec - 21.5sec
   - Scene Type: Highlight key promotional selling points
   - Scene: The woman moves out of the frame, leaving the five pairs of athletic shorts on the black freestanding rack fully visible to the camera. The camera continues to move slowly forward, giving sequential close-ups of the leg logos on the dark gray, light gray, royal blue, army green, and black shorts, clearly showing the fabric drape of the shorts, the side pocket details, and the sharpness of the printed logos, with the exotic home elements in the background blurred as a soft backdrop. The camera maintains its slow forward movement, finally stopping at a close-up position focused on the shorts' details.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Quần 5 màu giỏ hàng góc trái đang có ưu đãi. Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - Subject: Quần 5 màu giỏ hàng góc trái đang có ưu đãi.
 [Background Sound]:
 - No background music. This short video is a pure live-sales talking-head clip with no accompanying background music or sound effects. The overall style leans toward direct, practical promotion, ideal for quickly conveying information on short video platforms, with a tight pace and no musical embellishment.
 [Transition / Editing]:
@@ -69,19 +68,19 @@ Shot 3:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 7.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 明亮的异域风情家居空间里，年轻女生站在挂满五条不同颜色运动短裤的黑色落地衣架旁，手臂搭在横杆上，先抬手轻轻抚过最左侧的深灰色短裤，随后依次将手掌移向浅灰色、宝蓝色、军绿色、纯黑色的短裤面料，全程面带浅笑看向镜头，身后的民族风纹样墙面与彩色吊灯清晰入镜。相机保持固定全景机位，画面稳定呈现人物全身与完整衣架。
-  - 口播: Một lần lấy luôn 5 quần sót mặc cả tuần, vừa tiện Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - 口播: Một lần lấy luôn 5 quần sót mặc cả tuần, vừa tiện
 Shot 2:
   - 时长: 7.5sec - 14.0sec
   - 镜头类型: 产品材质展示
   - 画面: 镜头向前推进，从中全景过渡到中近景，女生身体微微侧向衣架，手掌继续沿着五条短裤的下摆依次轻抚，眼神看向陈列的短裤，动作轻柔自然，画面逐渐聚焦在短裤的面料质感与裤腿处印有的白色品牌标识和“RUNNING”字样上。相机匀速向前推进，画面逐渐压缩掉多余背景，聚焦人物手部与短裤的互动区域。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Các bạn có thể nhớ like và share video này để ủng hộ kênh của chúng mình nhé.
+  - 口播: Các bạn có thể nhớ like và share video này để ủng hộ kênh của chúng mình nhé.
 Shot 3:
   - 时长: 14.0sec - 21.5sec
   - 镜头类型: 促销卖点强推
   - 画面: 人物从画面中移出，黑色落地衣架上的五条运动短裤完整呈现在镜头前，镜头继续缓慢向前移动，逐次给到深灰、浅灰、宝蓝、军绿、黑色短裤的裤腿标识特写，清晰展示短裤的面料垂坠感、侧边口袋细节以及印花标识的清晰度，背景的异域家居元素作为虚化衬托。相机保持向前缓慢推进的轨迹，最终停留在短裤的细节特写机位。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn Quần 5 màu giỏ hàng góc trái đang có ưu đãi. Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
+  - 口播: Quần 5 màu giỏ hàng góc trái đang có ưu đãi.
 [Background Sound]:
 - 没有背景音乐，该短视频为纯口播带货视频，未搭配任何背景音乐或音效，整体风格偏向直接、实用型促销，适合在短视频平台快速传递信息，节奏紧凑，无音乐渲染。
 [Transition / Editing]:
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-menswear-528711](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-menswear-528711?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-menswear-528711)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-menswear-528711](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-menswear-528711?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-menswear-528711)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

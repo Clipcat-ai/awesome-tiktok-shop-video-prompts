@@ -1,6 +1,6 @@
 ---
 id: de-books-430176
-title: "Power / Die 48 Gesetze der Macht. Vollständige — Handheld Demo (Germany · Books, Magazines & Audio)"
+title: "Power / Die 48 Gesetze der Macht… — Handheld Demo (Germany · Books, Magazines & Audio)"
 market: de
 category: books-magazines-audio
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675744896795430176
 creator: "@hotfunny8514"
 published: 2026-08-19
 ---
-# Power / Die 48 Gesetze der Macht. Vollständige — Handheld Demo (Germany · Books, Magazines & Audio)
+# Power / Die 48 Gesetze der Macht… — Handheld Demo (Germany · Books, Magazines & Audio)
 **Weekly #1** · 🇩🇪 Germany · Books, Magazines & Audio · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675744896795430176) by [@hotfunny8514](https://www.tiktok.com/@hotfunny8514). Format: **Handheld Demo** · 10s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “This book is even banned in prison”
+**Opening line (translated from the video):** “This book is even banned in prison”
 
 **Key visuals:** Modern Living Room · Black Short-sleeve T-shirt · Red and Blue Book · Gold Lettering · White Desk · Dynamic Emoji Sticker · Red Circle Sticker
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-books-430176](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-books-430176?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-books-430176)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-books-430176](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-books-430176?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-books-430176)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

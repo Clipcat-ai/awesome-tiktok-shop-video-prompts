@@ -1,6 +1,6 @@
 ---
 id: es-health-106838
-title: "WindBoss Combo Multivitamínico de Soporte para Cortisol y Myo- — Promo Pitch (Spain · Health)"
+title: "WindBoss Combo Multivitamínico de… — Promo Pitch (Spain · Health)"
 market: es
 category: health
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7644428975351106838
 creator: "@bysimplytam"
 published: 2026-05-27
 ---
-# WindBoss Combo Multivitamínico de Soporte para Cortisol y Myo- — Promo Pitch (Spain · Health)
+# WindBoss Combo Multivitamínico de… — Promo Pitch (Spain · Health)
 **Weekly #1** · 🇪🇸 Spain · Health · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7644428975351106838) by [@bysimplytam](https://www.tiktok.com/@bysimplytam). Format: **Promo Pitch** · 51s · hook: **Pain Point** · On-camera host · Discount
-**Opening line (from the video):** “If you wake up like this, double chin, poor sleep, hair loss, stress”
+**Opening line (translated from the video):** “If you wake up like this, double chin, poor sleep, hair loss, stress”
 
 **Pain point it attacks:** Stress, poor sleep, double chin, hair loss and other health issues
 
@@ -79,12 +78,12 @@ Shot 8:
   - Subject: estrés y gastan un dineral en suplementos sin saber que necesitan este combo pueden tenerlo todo aquí tienes Magnes
 Shot 9:
   - Duration: 27.5sec - 31.0sec
-  - Scene Type: Show core ingredients (health category)
+  - Scene Type: Show core ingredients
   - Scene: The lady puts down the pink box, unwraps the outer packaging of the blue health supplement box, takes out a health supplement bottle with a blue body from inside the box, holds it up to the camera to show the details of the bottle body at close range
   - Subject: Aswagandha, Gaba, Rodiola.
 Shot 10:
   - Duration: 31.0sec - 34.5sec
-  - Scene Type: Show core ingredients (health category)
+  - Scene Type: Show core ingredients
   - Scene: The lady puts down the blue box, picks up the pink box, takes out a health supplement bottle with a purple-pink body from inside the box, holds it up to the camera and rotates it to show the packaging information on the bottle
   - Subject: vitamina B12, zinc
 [Background Sound]:
@@ -144,19 +143,19 @@ Shot 8:
   - 口播: estrés y gastan un dineral en suplementos sin saber que necesitan este combo pueden tenerlo todo aquí tienes Magnes
 Shot 9:
   - 时长: 27.5sec - 31.0sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 女士放下粉色包装盒，拆开蓝色保健品的外包装盒，从盒内取出一个蓝色瓶身的保健品瓶子，举到镜头前近距离展示瓶身细节
   - 口播: Aswagandha, Gaba, Rodiola.
 Shot 10:
   - 时长: 31.0sec - 34.5sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 女士放下蓝色包装盒，拿起粉色包装盒，从盒内取出一个紫粉色瓶身的保健品瓶子，举到镜头前转动展示瓶身的包装信息
   - 口播: vitamina B12, zinc
 Shot 11:
   - 时长: 34.5sec - 51.5sec
   - 镜头类型: 限时优惠
   - 画面: 女士双手分别握住蓝色、紫粉色的两瓶保健品，对着镜头来回晃动展示，随后将两瓶保健品一同举到镜头前方，遮挡住部分脸颊，特意将瓶身的产品文字标签对着镜头进行展示，脸上始终保持热情的推荐笑容
-  - 口播: ...y hay clientes súper buscados... ...que por separado pueden costarte... un dinerario. Pero ahora mismo no sé durante cuánto tiempo puedes tener Todos aquí en este combo con superpacios Si aún te sale por aquí el carrito de la manza es que todavía hay... quedan unidades y puedes aprovechar. Aprovecha para hacerte con tu cómoda bienestar.
+  - 口播: y hay clientes súper buscados... ...que por separado pueden costarte... un dinerario. Pero ahora mismo no sé durante cuánto tiempo puedes tener Todos aquí en este combo con superpacios Si aún te sale por aquí el carrito de la manza es que todavía hay... quedan unidades y puedes aprovechar. Aprovecha para hacerte con tu cómoda bienestar.
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子节拍和流行旋律，适合健康/保健品类带货视频，营造限时抢购加惊喜优惠的紧迫感与兴奋感，契合快速剪辑和高能量旁白节奏
 [Transition / Editing]:
@@ -165,4 +164,4 @@ Shot 11:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-health-106838](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-health-106838?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-health-106838)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-health-106838](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-health-106838?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-health-106838)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

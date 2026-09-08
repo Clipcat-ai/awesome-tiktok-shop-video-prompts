@@ -1,6 +1,6 @@
 ---
 id: mx-menswear-745109
-title: "HSUGO Sudadera con capucha — OOTD Showcase (Mexico · Menswear & Underwear)"
+title: "HSUGO Sudadera con capucha… — OOTD Showcase (Mexico · Menswear & Underwear)"
 market: mx
 category: menswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670807393386745109
 creator: "@amilys87"
 published: 2026-08-06
 ---
-# HSUGO Sudadera con capucha — OOTD Showcase (Mexico · Menswear & Underwear)
+# HSUGO Sudadera con capucha… — OOTD Showcase (Mexico · Menswear & Underwear)
 **Weekly #1** · 🇲🇽 Mexico · Menswear & Underwear · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670807393386745109) by [@amilys87](https://www.tiktok.com/@amilys87). Format: **OOTD Showcase** · 10s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A style inspired by urban energy, perfect for creating a relaxed and original look”
+**Opening line (translated from the video):** “A style inspired by urban energy, perfect for creating a relaxed and original look”
 
 **Key visuals:** Basketball Court · Metal Fence · High-rise Buildings · Orange Basketball · Bright Pink Hoodie · Cartoon Print · White Pants · Black Baseball Cap
 
@@ -44,7 +43,7 @@ Shot 2:
   - Duration: 3.0sec - 5.5sec
   - Scene Type: Outfit matching demonstration
   - Scene: The camera cuts to the character's front view. The boy stands in the center of the court, holding the orange basketball naturally with both hands in front of his waist and abdomen, facing the camera with a faint gentle smile. At this moment, the horizontal long cartoon print on the front of the hoodie and the text logo below are clearly displayed in the frame. The camera uses a fixed front position, keeping the image stable and clear to fully present the cut and print details of the hoodie's front.
-  - Subject: ...para crear un look relajado y original...
+  - Subject: para crear un look relajado y original...
 Shot 3:
   - Duration: 5.5sec - 8.0sec
   - Scene Type: Outfit matching demonstration
@@ -79,7 +78,7 @@ Shot 2:
   - 时长: 3.0sec - 5.5sec
   - 镜头类型: 穿搭搭配示范
   - 画面: 镜头切换至人物正面，男生站在球场中央，双手自然环抱住橙色篮球置于腰腹前方，面向镜头露出浅淡温和的笑意，此时卫衣正面的横向长条卡通印花与下方的文字标识清晰展示在画面中。镜头保持正面固定机位，画面稳定清晰，完整呈现卫衣正面的版型与印花细节。
-  - 口播: ...para crear un look relajado y original...
+  - 口播: para crear un look relajado y original...
 Shot 3:
   - 时长: 5.5sec - 8.0sec
   - 镜头类型: 穿搭搭配示范
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-menswear-745109](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-menswear-745109?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-menswear-745109)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-menswear-745109](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-menswear-745109?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-menswear-745109)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

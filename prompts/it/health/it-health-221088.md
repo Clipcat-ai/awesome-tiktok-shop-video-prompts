@@ -1,6 +1,6 @@
 ---
 id: it-health-221088
-title: "+1© PREMIUM CREATINE MONOHYDRATE — Handheld Demo (Italy · Health)"
+title: "+1© PREMIUM CREATINE MONOHYDRATE… — Handheld Demo (Italy · Health)"
 market: it
 category: health
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679838534278221088
 creator: "@tiktokshopby.m.t786"
 published: 2026-08-30
 ---
-# +1© PREMIUM CREATINE MONOHYDRATE — Handheld Demo (Italy · Health)
+# +1© PREMIUM CREATINE MONOHYDRATE… — Handheld Demo (Italy · Health)
 **Weekly #1** · 🇮🇹 Italy · Health · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679838534278221088) by [@tiktokshopby.m.t786](https://www.tiktok.com/@tiktokshopby.m.t786). Format: **Handheld Demo** · 20s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “No more creatine with unpleasant taste”
+**Opening line (translated from the video):** “No more creatine with unpleasant taste”
 
 **Pain point it attacks:** Creatine has unpleasant taste hard to drink
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-health-221088](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-health-221088?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-health-221088)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-health-221088](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-health-221088?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-health-221088)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

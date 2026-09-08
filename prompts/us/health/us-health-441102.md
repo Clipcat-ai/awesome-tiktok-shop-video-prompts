@@ -1,6 +1,6 @@
 ---
 id: us-health-441102
-title: "Toplux Magnesium Complex 8 Essential Magnesium Supplement — Talking Head (United States · Health)"
+title: "Toplux Magnesium Complex 8… — Talking Head (United States · Health)"
 market: us
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667396975880441102
 creator: "@musicperformance"
 published: 2026-07-28
 ---
-# Toplux Magnesium Complex 8 Essential Magnesium Supplement — Talking Head (United States · Health)
+# Toplux Magnesium Complex 8… — Talking Head (United States · Health)
 **Weekly #1** · 🇺🇸 United States · Health · week of 2026-08-03
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667396975880441102) by [@musicperformance](https://www.tiktok.com/@musicperformance). Format: **Talking Head** · 72s · hook: **Pain Point** · On-camera host · Discount
-**Opening line (from the video):** “If you look like this, your face is like a potato, and you have fat? It's not fat, it's high cortisol”
+**Opening line (translated from the video):** “If you look like this, your face is like a potato, and you have fat? It's not fat, it's high cortisol”
 
 **Pain point it attacks:** High cortisol causes body shape issues, poor sleep, low energy
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-health-441102](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-health-441102?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-health-441102)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-health-441102](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-health-441102?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-health-441102)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

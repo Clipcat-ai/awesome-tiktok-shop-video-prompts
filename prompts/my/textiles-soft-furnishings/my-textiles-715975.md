@@ -1,6 +1,6 @@
 ---
 id: my-textiles-715975
-title: "CottonX Valance Series Dua Lapis Double Layer Langsir bersama — Handheld Demo (Malaysia · Textiles & Soft Furnishings)"
+title: "CottonX Valance Series Dua Lapis… — Handheld Demo (Malaysia · Textiles & Soft Furnishings)"
 market: my
 category: textiles-soft-furnishings
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674879466681715975
 creator: "@phiasaphia"
 published: 2026-08-17
 ---
-# CottonX Valance Series Dua Lapis Double Layer Langsir bersama — Handheld Demo (Malaysia · Textiles & Soft Furnishings)
+# CottonX Valance Series Dua Lapis… — Handheld Demo (Malaysia · Textiles & Soft Furnishings)
 **Weekly #1** · 🇲🇾 Malaysia · Textiles & Soft Furnishings · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674879466681715975) by [@phiasaphia](https://www.tiktok.com/@phiasaphia). Format: **Handheld Demo** · 24s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Look at this, it's so beautiful, makes the house look upscale after installation”
+**Opening line (translated from the video):** “Look at this, it's so beautiful, makes the house look upscale after installation”
 
 **Key visuals:** Living Room Window · Dark Blue Curtain · Gold Embroidery · Tiled Floor · Potted Plant · Decorative Mat · Window Rod
 
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-textiles-715975](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-textiles-715975?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-textiles-715975)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-textiles-715975](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-textiles-715975?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-textiles-715975)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: it-sports-774422
-title: "Adjustable Hinge Knee Brace for Meniscus Tear — Real Review (Italy · Sports & Outdoor)"
+title: "Adjustable Hinge Knee Brace for… — Real Review (Italy · Sports & Outdoor)"
 market: it
 category: sports-outdoor
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674882156400774422
 creator: "@pinxingzhenzhichang"
 published: 2026-08-17
 ---
-# Adjustable Hinge Knee Brace for Meniscus Tear — Real Review (Italy · Sports & Outdoor)
+# Adjustable Hinge Knee Brace for… — Real Review (Italy · Sports & Outdoor)
 **Weekly #1** · 🇮🇹 Italy · Sports & Outdoor · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674882156400774422) by [@pinxingzhenzhichang](https://www.tiktok.com/@pinxingzhenzhichang). Format: **Real Review** · 15s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Does knee pain slow you down? No more!”
+**Opening line (translated from the video):** “Does knee pain slow you down? No more!”
 
 **Pain point it attacks:** Knee pain affects exercise
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-sports-774422](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-sports-774422?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-sports-774422)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-sports-774422](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-sports-774422?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-sports-774422)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: sg-computers-265621
-title: "Rawdah Collection — Handheld Demo (Singapore · Computers & Office Equipment)"
+title: "Rawdah Collection | 3-Pen Set… — Handheld Demo (Singapore · Computers & Office Equipment)"
 market: sg
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680821669518265621
 creator: "@shahayie85"
 published: 2026-09-02
 ---
-# Rawdah Collection — Handheld Demo (Singapore · Computers & Office Equipment)
+# Rawdah Collection | 3-Pen Set… — Handheld Demo (Singapore · Computers & Office Equipment)
 **Weekly #1** · 🇸🇬 Singapore · Computers & Office Equipment · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680821669518265621) by [@shahayie85](https://www.tiktok.com/@shahayie85). Format: **Handheld Demo** · 14s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “This Medina Collection is so beautiful, one set has six different designs”
+**Opening line (translated from the video):** “This Medina Collection is so beautiful, one set has six different designs”
 
 **Key visuals:** Patterned Ballpoint Pens · White Desk · White Cabinet · Books · Gift Bag · Writing Paper · Silver Necklace
 
@@ -42,7 +41,7 @@ Shot 1:
   - Subject: Eh cantiknya Medina Collection ni. Satu set dapat enam desain
 Shot 2:
   - Duration: 1.5sec - 3.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The camera switches to a close-up shot, sequentially focusing on six ballpoint pens with different exquisite patterns placed side by side on the tabletop. The camera pans slowly, clearly showing the unique pattern on each pen body, with rich frame details
   - Subject: berbeza. Nampak unik dan elegan nak bagi hadiah
 Shot 3:
@@ -91,7 +90,7 @@ Shot 1:
   - 口播: Eh cantiknya Medina Collection ni. Satu set dapat enam desain
 Shot 2:
   - 时长: 1.5sec - 3.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头切换为特写画面，依次聚焦桌面上并排摆放的六支带有不同精美花纹的圆珠笔，镜头缓慢平移，清晰展现每支笔笔身的独特纹样，画面细节丰富。
   - 口播: berbeza. Nampak unik dan elegan nak bagi hadiah
 Shot 3:
@@ -126,4 +125,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-computers-265621](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-computers-265621?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-computers-265621)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-computers-265621](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-computers-265621?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-computers-265621)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

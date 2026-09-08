@@ -1,6 +1,6 @@
 ---
 id: br-sports-039573
-title: "Kit Camisa Térmica com Balaclava Proteção UV 50+ — Handheld Demo (Brazil · Sports & Outdoor)"
+title: "Kit Camisa Térmica com Balaclava… — Handheld Demo (Brazil · Sports & Outdoor)"
 market: br
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667637933050039573
 creator: "@marcia.csilva"
 published: 2026-07-28
 ---
-# Kit Camisa Térmica com Balaclava Proteção UV 50+ — Handheld Demo (Brazil · Sports & Outdoor)
+# Kit Camisa Térmica com Balaclava… — Handheld Demo (Brazil · Sports & Outdoor)
 **Weekly #1** · 🇧🇷 Brazil · Sports & Outdoor · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667637933050039573) by [@marcia.csilva](https://www.tiktok.com/@marcia.csilva). Format: **Handheld Demo** · 21s · hook: **Pain Point** · Hands only · Discount
-**Opening line (from the video):** “If you work in the sun and come home with burned arms, neck and face”
+**Opening line (translated from the video):** “If you work in the sun and come home with burned arms, neck and face”
 
 **Pain point it attacks:** Skin gets sunburned after outdoor work
 
@@ -39,19 +38,19 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 1.5sec
-  - Scene Type: Display of multiple style options (fashion category)
+  - Scene Type: Display of multiple style options
   - Scene: From a full overhead wide shot, three long-sleeve sun-protective jackets with integrated hood designs are laid out side by side on the white bed, in black, navy blue, and gray respectively. Each jacket has the white 'FENIX' brand logo printed on the chest. A pair of hands slowly enters the frame from the bottom, making explanatory, gesturing motions toward the garments.
   - Subject: Se você trabalha no sol e chega em casa com os braços, pescoço
 Shot 2:
   - Duration: 1.5sec - 4.5sec
   - Scene Type: Product design highlights
   - Scene: The lens pushes in to focus on the black sun-protective jacket. One hand gently brushes across the fabric of the black jacket, then uses a fingertip to point to its built-in hood and face covering position, clearly demonstrating the special design that allows the hood to cover both the neck and face.
-  - Subject: e rosto queimando,  precisa ver isso.  Essa camisa térmica  protege sem pesar
+  - Subject: e rosto queimando, precisa ver isso. Essa camisa térmica protege sem pesar
 Shot 3:
   - Duration: 4.5sec - 7.0sec
-  - Scene Type: Display of multiple style options (fashion category)
+  - Scene Type: Display of multiple style options
   - Scene: The lens slowly pans to the right, moving across the black sun-protective jacket then the navy blue sun-protective jacket, finally stopping on the gray sun-protective jacket. Fingers lightly touch the body of each of the three differently colored jackets in turn, fully showing the full appearance and arrangement of all three products.
-  - Subject: e ainda vem com balaclava.  Com proteção UV50+, ela cobre
+  - Subject: e ainda vem com balaclava. Com proteção UV50+, ela cobre
 Shot 4:
   - Duration: 7.5sec - 14.5sec
   - Scene Type: Product material demonstration
@@ -61,7 +60,7 @@ Shot 5:
   - Duration: 15.0sec - 22.0sec
   - Scene Type: Limited-time promotional offer
   - Scene: The lens pulls back to the full wide shot. The hand sweeps across the three sun-protective jackets from left to right once more, with the fingertips pausing briefly on the body and hood of each garment. Finally, the hand makes a pointing gesture toward the camera on the right side of the frame to prompt viewers to place an order, as the lens slowly pulls further back to show the complete flat-lay presentation of all three products.
-  - Subject: protegido o dia inteiro com muito mais conforto. O kit está em promoção e o estoque é limitado.  Aproveite enquanto ainda tem. Clica no carrinho.
+  - Subject: protegido o dia inteiro com muito mais conforto. O kit está em promoção e o estoque é limitado. Aproveite enquanto ainda tem. Clica no carrinho.
 [Background Sound]:
 - Upbeat, highly rhythmic TikTok-style background music with a BPM of approximately 120-130, featuring light electronic drum beats and bright synthesizer melodies. The volume is moderately high, with a tight, driving rhythm that creates an atmosphere of urgency, great value, and practicality, matching the promotional tone of limited-time, limited-quantity flash sales, and perfectly suited for outdoor protective gear marketing scenarios.
 [Transition / Editing]:
@@ -79,19 +78,19 @@ Shot 5:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 1.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 全景俯拍视角下，三件带有头套设计的长袖防晒衣并排平铺在白色大床上，分别为黑色、藏青色与灰色，每件衣服胸口处都印有白色的“FENIX”品牌标识，一双手从画面下方缓缓伸出，对着衣物做出介绍的手势。
   - 口播: Se você trabalha no sol e chega em casa com os braços, pescoço
 Shot 2:
   - 时长: 1.5sec - 4.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 镜头向前推近聚焦黑色防晒衣，一只手轻轻抚过黑色防晒衣的衣身面料，随后用指尖指向其自带的头套面罩位置，清晰展示头套可覆盖颈部与面部的特殊设计。
-  - 口播: e rosto queimando,  precisa ver isso.  Essa camisa térmica  protege sem pesar
+  - 口播: e rosto queimando, precisa ver isso. Essa camisa térmica protege sem pesar
 Shot 3:
   - 时长: 4.5sec - 7.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头缓慢向右平移，从黑色防晒衣依次扫过藏青色防晒衣，最终停留在灰色防晒衣上，手指分别轻触三件不同颜色的防晒衣衣身，完整展示三款产品的全貌与摆放布局。
-  - 口播: e ainda vem com balaclava.  Com proteção UV50+, ela cobre
+  - 口播: e ainda vem com balaclava. Com proteção UV50+, ela cobre
 Shot 4:
   - 时长: 7.5sec - 14.5sec
   - 镜头类型: 产品材质展示
@@ -101,7 +100,7 @@ Shot 5:
   - 时长: 15.0sec - 22.0sec
   - 镜头类型: 限时优惠
   - 画面: 镜头拉回全景，手部再次从左到右依次扫过三件防晒衣，指尖在每款衣服的衣身与头套位置稍作停留，最后在画面右侧对着镜头做出指向暗示下单的手势，镜头慢慢拉远展现三件产品完整的平铺效果。
-  - 口播: protegido o dia inteiro com muito mais conforto. O kit está em promoção e o estoque é limitado.  Aproveite enquanto ainda tem. Clica no carrinho.
+  - 口播: protegido o dia inteiro com muito mais conforto. O kit está em promoção e o estoque é limitado. Aproveite enquanto ainda tem. Clica no carrinho.
 [Background Sound]:
 - 非常欢快、节奏感强的TikTok风格背景音乐，BPM约120-130，带有轻快的电子鼓点和明亮的合成器旋律，音量适中偏高，节奏紧凑且富有驱动力，营造出紧迫感、高性价比和实用价值的氛围，契合限时限量赶紧抢购的带货调性，适合户外防护装备类推广场景。
 [Transition / Editing]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-sports-039573](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-sports-039573?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-sports-039573)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-sports-039573](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-sports-039573?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-sports-039573)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

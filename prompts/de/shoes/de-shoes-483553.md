@@ -1,6 +1,6 @@
 ---
 id: de-shoes-483553
-title: "Stahlkappenschuhe für Herren — Real Review (Germany · Shoes)"
+title: "Stahlkappenschuhe für Herren… — Real Review (Germany · Shoes)"
 market: de
 category: shoes
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676013211241483553
 creator: "@christinakress0"
 published: 2026-08-20
 ---
-# Stahlkappenschuhe für Herren — Real Review (Germany · Shoes)
+# Stahlkappenschuhe für Herren… — Real Review (Germany · Shoes)
 **Weekly #1** · 🇩🇪 Germany · Shoes · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676013211241483553) by [@christinakress0](https://www.tiktok.com/@christinakress0). Format: **Real Review** · 16s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Tired of bulky work boots? These safety shoes combine a modern style”
+**Opening line (quoted from the video):** “Tired of bulky work boots? These safety shoes combine a modern style”
 
 **Pain point it attacks:** Work boots are bulky and lack sufficient protection
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-shoes-483553](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-shoes-483553?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-shoes-483553)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-shoes-483553](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-shoes-483553?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-shoes-483553)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

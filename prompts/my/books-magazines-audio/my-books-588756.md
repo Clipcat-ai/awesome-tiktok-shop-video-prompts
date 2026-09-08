@@ -1,6 +1,6 @@
 ---
 id: my-books-588756
-title: "Tadabbur Solat - Tutorial Khusyuk Solat — Talking Head (Malaysia · Books, Magazines & Audio)"
+title: "Tadabbur Solat - Tutorial Khusyuk… — Talking Head (Malaysia · Books, Magazines & Audio)"
 market: my
 category: books-magazines-audio
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673160974429588756
 creator: "@manusiamembaca"
 published: 2026-08-12
 ---
-# Tadabbur Solat - Tutorial Khusyuk Solat — Talking Head (Malaysia · Books, Magazines & Audio)
+# Tadabbur Solat - Tutorial Khusyuk… — Talking Head (Malaysia · Books, Magazines & Audio)
 **Weekly #1** · 🇲🇾 Malaysia · Books, Magazines & Audio · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673160974429588756) by [@manusiamembaca](https://www.tiktok.com/@manusiamembaca). Format: **Talking Head** · 37s · hook: **Pain Point** · Multiple people · No promo
-**Opening line (from the video):** “Do you know the abandoned obligatory prayers are forever our debt to Allah”
+**Opening line (translated from the video):** “Do you know the abandoned obligatory prayers are forever our debt to Allah”
 
 **Pain point it attacks:** Missing obligatory prayers becomes a debt to Allah
 
@@ -41,8 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 6.0sec
   - Scene Type: Pose the guiding question
   - Scene: From a high overhead perspective inside the mosque prayer hall, a long row of Muslim men stand neatly arranged on prayer rugs, performing synchronized forward-bowing prayer movements with perfectly uniform, orderly motions. The texture of the patterned floor tiles is clearly visible. Eye-catching religious warning subtitles with yellow backgrounds and black text pop up sequentially on the screen, then switch to explanatory text with a yellow-and-white color scheme. The camera maintains its high overhead angle, moving slowly and steadily downward to gradually draw closer to the praying crowd, with multiple Muslim men in plain traditional robes and prayer caps present in the scene.
-  - Subject: Tahu tak solat fardu yang ditinggalkan adalah sebuah
-Terima kasih kerana menonton!
+  - Subject: Tahu tak solat fardu yang ditinggalkan adalah sebuah Terima kasih kerana menonton!
 Shot 2:
   - Duration: 6.0sec - 9.5sec
   - Scene Type: Pose the guiding question
@@ -77,8 +75,7 @@ Shot 1:
   - 时长: 0.0sec - 6.0sec
   - 镜头类型: 设置问题
   - 画面: 高空俯视视角下，清真寺礼拜大殿内，一长排穆斯林男性整齐排列在礼拜毯上，同步完成俯身跪拜的动作，动作规整统一，地面拼花瓷砖纹理清晰可见，画面上依次弹出黄底黑字的醒目宗教警示字幕，随后字幕切换为黄白配色的说明文字，镜头保持高空俯瞰角度，缓慢平稳向下移动，逐步拉近与礼拜人群的距离，多位身着素色传统长袍、头戴礼拜帽的穆斯林男性在场。
-  - 口播: Tahu tak solat fardu yang ditinggalkan adalah sebuah
-Terima kasih kerana menonton!
+  - 口播: Tahu tak solat fardu yang ditinggalkan adalah sebuah Terima kasih kerana menonton!
 Shot 2:
   - 时长: 6.0sec - 9.5sec
   - 镜头类型: 设置问题
@@ -98,18 +95,12 @@ Shot 5:
   - 时长: 17.0sec - 30.0sec
   - 镜头类型: 产品介绍
   - 画面: 第一人称视角下，一只手握住书本侧边，在铺着米黄色毛绒桌面的书桌上连续翻动书页，书页上依次展示出马来语与阿拉伯语对照的宗教知识内容，书页边缘的彩色标注、示意图与二维码细节清晰，桌面角落摆放着一小盆仿真绿植，背景隐约可见其他书籍的书脊，书页翻动过程中画面同步弹出黄白配色的介绍字幕，镜头固定为桌面俯视第一人称视角，跟随手翻书的动作自然扫过每一页展示的内容。
-  - 口播: Terima kasih.
-Andai malu boleh sahaja rujuk buku berikutnya.
-Buku yang dia kini contohnya buku Tadapur Solat ni
-Buku ni bukan fokus tentang kadar solat je, tetap berkata.
-Tapi segala perihal tentang solat diajar dalam ni
+  - 口播: Terima kasih. Andai malu boleh sahaja rujuk buku berikutnya. Buku yang dia kini contohnya buku Tadapur Solat ni Buku ni bukan fokus tentang kadar solat je, tetap berkata. Tapi segala perihal tentang solat diajar dalam ni
 Shot 6:
   - 时长: 30.0sec - 37.5sec
   - 镜头类型: 展示产品热度
   - 画面: 手掌将书本合上放平在毛绒桌面上，随后将书立起展示完整浅蓝色封面，封面上印有清真寺建筑图案、阿拉伯语书名与“畅销50万册”的标识，镜头轻轻转动书籍，360度展示封面的装帧细节，画面顶部弹出红边白底的促销提示字幕，底部同步出现黄白配色的带货宣传字幕，镜头保持特写固定机位，跟随手的动作缓慢转动书籍，完整展示封面所有细节。
-  - 口播: Dan ribuan orang berjaya dibantu...
-Terima kasih kerana menonton!
-Bekuninskara.
+  - 口播: Dan ribuan orang berjaya dibantu... Terima kasih kerana menonton! Bekuninskara.
 [Background Sound]:
 - 无背景音乐，视频为纯人声朗读型内容，语速适中、语气平和带有劝导性质，整体氛围偏向教育劝善，适配安静聆听的场景。
 [Transition / Editing]:
@@ -118,4 +109,4 @@ Bekuninskara.
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-books-588756](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-books-588756?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-books-588756)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-books-588756](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-books-588756?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-books-588756)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

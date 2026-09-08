@@ -1,6 +1,6 @@
 ---
 id: th-womenswear-752725
-title: "ชุดนอนลายการ์ตูน ฟองน้ำในตัว แขนสั้น กางเกงสามส่วน S-5XL - ผู้ — Handheld Demo (Thailand · Womenswear & Underwear)"
+title: "ชุดนอนลายการ์ตูน ฟองน้ำในตัว… — Handheld Demo (Thailand · Womenswear & Underwear)"
 market: th
 category: womenswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677979640555752725
 creator: "@lookdd"
 published: 2026-08-25
 ---
-# ชุดนอนลายการ์ตูน ฟองน้ำในตัว แขนสั้น กางเกงสามส่วน S-5XL - ผู้ — Handheld Demo (Thailand · Womenswear & Underwear)
+# ชุดนอนลายการ์ตูน ฟองน้ำในตัว… — Handheld Demo (Thailand · Womenswear & Underwear)
 **Weekly #1** · 🇹🇭 Thailand · Womenswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677979640555752725) by [@lookdd](https://www.tiktok.com/@lookdd). Format: **Handheld Demo** · 19s · hook: **POV Scenario** · On-camera host · Discount
-**Opening line (from the video):** “Before finding this pajama set, I had to get up to throw trash and receive parcels every time”
+**Opening line (translated from the video):** “Before finding this pajama set, I had to get up to throw trash and receive parcels every time”
 
 **Pain point it attacks:** Wearing regular pajamas requires getting up to handle trivial matters
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-womenswear-752725](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-womenswear-752725?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-womenswear-752725)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-womenswear-752725](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-womenswear-752725?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-womenswear-752725)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: th-luggage-470229
-title: "กระเป๋าสะพายข้าง — Handheld Demo (Thailand · Luggage & Bags)"
+title: "กระเป๋าสะพายข้าง (ลดล้างสต็อก)ผ้าลู… — Handheld Demo (Thailand · Luggage & Bags)"
 market: th
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669498874041470229
 creator: "@sutitabokkaew4"
 published: 2026-08-03
 ---
-# กระเป๋าสะพายข้าง — Handheld Demo (Thailand · Luggage & Bags)
+# กระเป๋าสะพายข้าง (ลดล้างสต็อก)ผ้าลู… — Handheld Demo (Thailand · Luggage & Bags)
 **Weekly #1** · 🇹🇭 Thailand · Luggage & Bags · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669498874041470229) by [@sutitabokkaew4](https://www.tiktok.com/@sutitabokkaew4). Format: **Handheld Demo** · 19s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Found this bag and fell in love with it immediately”
+**Opening line (translated from the video):** “Found this bag and fell in love with it immediately”
 
 **Key visuals:** Light Wooden Round Table · Latte · Stacked Books · Daisy Glass Bottle · Beige Corduroy Bag · Metal Zipper · Smartphone · Folded Wallet
 
@@ -153,4 +152,4 @@ Shot 10:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-luggage-470229](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-luggage-470229?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-luggage-470229)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-luggage-470229](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-luggage-470229?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-luggage-470229)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

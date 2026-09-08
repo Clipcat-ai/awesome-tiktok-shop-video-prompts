@@ -1,6 +1,6 @@
 ---
 id: gb-furniture-675734
-title: "Hallway Coat Rack Shoe Storage 5 Tiers Metal Stand 8 Hooks She — Handheld Demo (United Kingdom · Furniture)"
+title: "Hallway Coat Rack Shoe Storage 5… — Handheld Demo (United Kingdom · Furniture)"
 market: gb
 category: furniture
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668242336710675734
 creator: "@nprec6e2b8"
 published: 2026-07-30
 ---
-# Hallway Coat Rack Shoe Storage 5 Tiers Metal Stand 8 Hooks She — Handheld Demo (United Kingdom · Furniture)
+# Hallway Coat Rack Shoe Storage 5… — Handheld Demo (United Kingdom · Furniture)
 **Weekly #1** · 🇬🇧 United Kingdom · Furniture · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668242336710675734) by [@nprec6e2b8](https://www.tiktok.com/@nprec6e2b8). Format: **Handheld Demo** · 10s · hook: **Pain Point** · Multiple people · No promo
-**Opening line (from the video):** “Messy hallway, this stand is perfect”
+**Opening line (quoted from the video):** “Messy hallway, this stand is perfect”
 
 **Pain point it attacks:** Messy hallway with no space for shoes and clothes
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-furniture-675734](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-furniture-675734?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-furniture-675734)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-furniture-675734](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-furniture-675734?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-furniture-675734)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: it-books-127201
-title: "Kit Patente Smart – Manuali digitali Quiz Patente + Anti Ansia — Product Close-Up (Italy · Books, Magazines & Audio)"
+title: "Kit Patente Smart – Manuali… — Product Close-Up (Italy · Books, Magazines & Audio)"
 market: it
 category: books-magazines-audio
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674746635817127201
 creator: "@ghizmoda"
 published: 2026-08-16
 ---
-# Kit Patente Smart – Manuali digitali Quiz Patente + Anti Ansia — Product Close-Up (Italy · Books, Magazines & Audio)
+# Kit Patente Smart – Manuali… — Product Close-Up (Italy · Books, Magazines & Audio)
 **Weekly #1** · 🇮🇹 Italy · Books, Magazines & Audio · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674746635817127201) by [@ghizmoda](https://www.tiktok.com/@ghizmoda). Format: **Product Close-Up** · 8s · hook: **Result First** · No one on camera · Discount
-**Opening line (from the video):** “Kit Patente Smart: digital manuals, driving test quizzes, anti-anxiety, 10% discount”
+**Opening beat:** “Kit Patente Smart: digital manuals, driving test quizzes, anti-anxiety, 10% discount”
 
 **Key visuals:** Michelangelo Sistine Chapel · Decorative Board · Italian EU Driver's License · Brown Kraft Paper Box · Glossy Floor · Black-White Vertical Lines
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-books-127201](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-books-127201?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-books-127201)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-books-127201](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-books-127201?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-books-127201)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

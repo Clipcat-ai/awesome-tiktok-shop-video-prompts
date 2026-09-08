@@ -1,6 +1,6 @@
 ---
 id: es-menswear-666529
-title: "UOMO Pack de 12 Unidades de Calzoncillos Bóxer para Hombre de — Promo Pitch (Spain · Menswear & Underwear)"
+title: "UOMO Pack de 12 Unidades de… — Promo Pitch (Spain · Menswear & Underwear)"
 market: es
 category: menswear-underwear
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677264206038666529
 creator: "@marb24shop"
 published: 2026-08-23
 ---
-# UOMO Pack de 12 Unidades de Calzoncillos Bóxer para Hombre de — Promo Pitch (Spain · Menswear & Underwear)
+# UOMO Pack de 12 Unidades de… — Promo Pitch (Spain · Menswear & Underwear)
 **Weekly #1** · 🇪🇸 Spain · Menswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677264206038666529) by [@marb24shop](https://www.tiktok.com/@marb24shop). Format: **Promo Pitch** · 10s · hook: **Result First** · On-camera host · Discount, Free gift
-**Opening line (from the video):** “The package has arrived! Look at these underwear, they are cotton!”
+**Opening line (translated from the video):** “The package has arrived! Look at these underwear, they are cotton!”
 
 **Key visuals:** White Background Wall · Light Workbench · UOMO Boxer Briefs · Transparent Plastic Package · Red Arrow · White Short-sleeved T-shirt · Dark Pants
 
@@ -37,7 +36,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 1.0sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The opening of the frame shows 12 pairs of men's boxer briefs laid out flat in 3 rows and 4 columns. The entire first row is black. The second row, from left to right, is deep navy, deep navy, deep navy, bright blue. The third row, from left to right, is light blue, light blue, dark gray, deep black. The word 'UOMO' is printed in white on the waistband of every pair of underwear, and the entire frame is clean and tidy.
 Shot 2:
   - Duration: 1.0sec - 3.0sec
@@ -48,10 +47,10 @@ Shot 3:
   - Duration: 3.0sec - 5.0sec
   - Scene Type: Highlight key promotional selling points
   - Scene: The host tears open the transparent packaging bag with his fingers, and pours all the underwear out of the bag onto the light-colored workbench in front of him. The different colored pairs of underwear lie spread flat on the table, and the host extends both hands to adjust the positions of the scattered underwear on the table with quick, nimble movements. The host faces the camera and delivers the corresponding live sales script.
-  - Subject: Están en oferta y con envío gratis  No se lo pierdan
+  - Subject: Están en oferta y con envío gratis No se lo pierdan
 Shot 4:
   - Duration: 5.0sec - 7.0sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The host picks up three pairs of underwear in deep navy, dark gray, and black respectively from the table, stacks them together, holds the waistband position with both hands, and faces the camera to show the different colors and waistband details of each pair of underwear one by one. A red arrow marker pointing to the product in the bottom left corner appears below the frame. The host faces the camera and delivers the corresponding live sales script.
   - Subject: ¡Vean los colores! ¡Negros, azul, gris! ¡Pidan ya! ¡Cóndenlos!
 Shot 5:
@@ -76,7 +75,7 @@ Shot 5:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 1.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面开篇展示平铺排列成三行四列的12条男士平角内裤，第一行全部为黑色，第二行从左至右依次是深藏青、深藏青、深藏青、亮蓝色，第三行从左至右依次是浅蓝色、浅蓝色、深灰色、深黑色，所有内裤腰带上均印有白色的“UOMO”字样，画面整体干净整洁。
 Shot 2:
   - 时长: 1.0sec - 3.0sec
@@ -87,10 +86,10 @@ Shot 3:
   - 时长: 3.0sec - 5.0sec
   - 镜头类型: 促销卖点强推
   - 画面: 主播用手指撕开透明包装袋，将所有内裤顺势从袋中倒在身前的浅色工作台上，不同颜色的内裤平摊在台面上，主播伸出双手调整台面散落的内裤位置，动作麻利。主播面向镜头开口说出对应口播内容。
-  - 口播: Están en oferta y con envío gratis  No se lo pierdan
+  - 口播: Están en oferta y con envío gratis No se lo pierdan
 Shot 4:
   - 时长: 5.0sec - 7.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 主播从台面上拿起三条颜色分别为深藏青、深灰、黑色的内裤，将内裤叠在一起用双手捏住腰头位置，朝向镜头依次展示每条内裤的不同颜色与腰带细节，镜头下方出现一个指向左下角商品的红色箭头标识。主播面向镜头开口说出对应口播内容。
   - 口播: ¡Vean los colores! ¡Negros, azul, gris! ¡Pidan ya! ¡Cóndenlos!
 Shot 5:
@@ -106,4 +105,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-menswear-666529](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-menswear-666529?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-menswear-666529)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-menswear-666529](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-menswear-666529?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-menswear-666529)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

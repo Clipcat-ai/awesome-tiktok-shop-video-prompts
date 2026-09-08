@@ -1,6 +1,6 @@
 ---
 id: it-computers-329888
-title: "MageGee Mini 60% Membrane Gaming Keyboard — Handheld Demo (Italy · Computers & Office Equipment)"
+title: "MageGee Mini 60% Membrane Gaming… — Handheld Demo (Italy · Computers & Office Equipment)"
 market: it
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679897723394329888
 creator: "@marisa_nicolosi_artist"
 published: 2026-08-30
 ---
-# MageGee Mini 60% Membrane Gaming Keyboard — Handheld Demo (Italy · Computers & Office Equipment)
+# MageGee Mini 60% Membrane Gaming… — Handheld Demo (Italy · Computers & Office Equipment)
 **Weekly #1** · 🇮🇹 Italy · Computers & Office Equipment · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679897723394329888) by [@marisa_nicolosi_artist](https://www.tiktok.com/@marisa_nicolosi_artist). Format: **Handheld Demo** · 22s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Show the RGB backlight of the light purple keyboard transitioning from purple to cyan to blue”
+**Opening beat:** “Show the RGB backlight of the light purple keyboard transitioning from purple to cyan to blue”
 
 **Key visuals:** Wooden Desk · RGB Keyboard · Old Black Keyboard · Keycaps · Laptop · White Manicure · Keyboard Cable · Promotional Poster
 
@@ -47,7 +46,6 @@ Shot 3:
   - Duration: 7.0sec - 9.5sec
   - Scene Type: Hands-on blogger test experience
   - Scene: The camera moves down to focus on the main key area below the keyboard. Three fingers with white manicures tap the B, N, M and other keys near the spacebar in sequence, clearly showcasing the tactile details of each keystroke and the smooth color transitions of the keyboard's lighting effects.
-  - Subject: Thank you.
 Shot 4:
   - Duration: 9.5sec - 12.0sec
   - Scene Type: Product usage scene
@@ -56,7 +54,6 @@ Shot 5:
   - Duration: 12.0sec - 15.5sec
   - Scene Type: Product design highlight showcase
   - Scene: The hand picks up the light purple keyboard cable from the edge of the keyboard, gently unfolds the cable and lays it across the palm, showing the camera the fine texture of the cable and its pale purple appearance that perfectly matches the keyboard's color scheme. The camera zooms in for a close-up shot of the cable resting in the palm.
-  - Subject: Thank you. Thank you. you
 Shot 6:
   - Duration: 15.5sec - 20.5sec
   - Scene Type: Close-up product shot
@@ -92,7 +89,6 @@ Shot 3:
   - 时长: 7.0sec - 9.5sec
   - 镜头类型: 博主亲测体验
   - 画面: 镜头下移，聚焦键盘下方的主按键区域，白色美甲的三根手指依次敲击空格附近的B、N、M等按键，清晰展示敲击的手感细节和键盘灯效的色彩过渡。
-  - 口播: Thank you.
 Shot 4:
   - 时长: 9.5sec - 12.0sec
   - 镜头类型: 产品使用场景
@@ -101,7 +97,6 @@ Shot 5:
   - 时长: 12.0sec - 15.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 手部从键盘边缘拿起浅紫色的键盘连接线，将线材轻轻展开摊在掌心，向镜头展示线材的细腻质感和与键盘配色统一的淡紫色外观，镜头对准掌心的线材特写拍摄。
-  - 口播: Thank you. Thank you. you
 Shot 6:
   - 时长: 15.5sec - 20.5sec
   - 镜头类型: 产品镜头特写
@@ -118,4 +113,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-computers-329888](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-computers-329888?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-computers-329888)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-computers-329888](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-computers-329888?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-computers-329888)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

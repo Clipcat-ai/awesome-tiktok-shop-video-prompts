@@ -1,6 +1,6 @@
 ---
 id: th-furniture-485332
-title: "ชั้นเอนกประสงค์ 5 ชั้น รหัส z780-5 — Product Close-Up (Thailand · Furniture)"
+title: "ชั้นเอนกประสงค์ 5 ชั้น รหัส z780-5… — Product Close-Up (Thailand · Furniture)"
 market: th
 category: furniture
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7640828202029485332
 creator: "@iwin.zar"
 published: 2026-05-17
 ---
-# ชั้นเอนกประสงค์ 5 ชั้น รหัส z780-5 — Product Close-Up (Thailand · Furniture)
+# ชั้นเอนกประสงค์ 5 ชั้น รหัส z780-5… — Product Close-Up (Thailand · Furniture)
 **Weekly #1** · 🇹🇭 Thailand · Furniture · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7640828202029485332) by [@iwin.zar](https://www.tiktok.com/@iwin.zar). Format: **Product Close-Up** · 26s · hook: **Result First** · No one on camera · No promo
-**Opening line (from the video):** “Show a large-capacity multi-layer storage cabinet with 80CM size info on top”
+**Opening line (translated from the video):** “Show a large-capacity multi-layer storage cabinet with 80CM size info on top”
 
 **Pain point it attacks:** Home items are messy and need storage
 
@@ -46,17 +45,17 @@ Shot 2:
   - Duration: 5.0sec - 9.5sec
   - Scene Type: Product design highlights
   - Scene: The camera circles from the right side of the storage cabinet to the left side of the cabinet, sweeping past the stacked parcels in the background and the black handbag hanging on the wall, then pulls back to the front of the storage cabinet, fully displaying the door layout on the left side of the cabinet and the overall multi-layer structure.
-  - Subject: Yo ya tengo que ver el video. ¿Qué es la CDI?  ¿Buedo hacer un choc? ¿A qué es la CDI?
+  - Subject: Yo ya tengo que ver el video. ¿Qué es la CDI? ¿Buedo hacer un choc? ¿A qué es la CDI?
 Shot 3:
   - Duration: 9.5sec - 17.0sec
   - Scene Type: Present pain point problem
   - Scene: The camera pans from the left side of the storage cabinet, sweeping across the transparent plastic packaging bags, product manuals, knives and other items on the floor, revealing the altar area with offerings and a Buddha statue ornament in the background. Then the camera returns to center, facing the front of the storage cabinet directly, clearly showing the overall height of the cabinet and its multi-layer door design.
-  - Subject: ¿Qué es lo que se llama? No te acercer.  Si demnye malu.
+  - Subject: ¿Qué es lo que se llama? No te acercer. Si demnye malu.
 Shot 4:
   - Duration: 17.0sec - 21.0sec
   - Scene Type: Situational lifestyle demonstration
   - Scene: The camera moves to the left of the storage cabinet, sweeping across the large amount of black packaged clothes stacked on the floor, revealing the cardboard boxes behind and the decorative hanging painting with a waterfall and floral pattern. The storage cabinet remains on one side of the frame throughout the process, guiding viewers to see the real cluttered home storage environment where the cabinet is placed.
-  - Subject: vídeo, chisel, no, decide, ¿dáma?  Yo chisel cháu, y lo hachima,  ho babushén,  ho hachirana,
+  - Subject: vídeo, chisel, no, decide, ¿dáma? Yo chisel cháu, y lo hachima, ho babushén, ho hachirana,
 Shot 5:
   - Duration: 21.0sec - 27.0sec
   - Scene Type: Product multi-functionality
@@ -86,17 +85,17 @@ Shot 2:
   - 时长: 5.0sec - 9.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 镜头从收纳柜右侧环绕移动到柜体左侧，扫过背景处堆放的包裹与挂在墙面上的黑色手提包，随后镜头重新拉回收纳柜柜体正面，完整展示柜体左侧的柜门布局与整体的多层结构。
-  - 口播: Yo ya tengo que ver el video. ¿Qué es la CDI?  ¿Buedo hacer un choc? ¿A qué es la CDI?
+  - 口播: Yo ya tengo que ver el video. ¿Qué es la CDI? ¿Buedo hacer un choc? ¿A qué es la CDI?
 Shot 3:
   - 时长: 9.5sec - 17.0sec
   - 镜头类型: 设置痛点问题
   - 画面: 镜头从收纳柜左侧平移扫过地面上的透明塑料包装袋、产品说明书与刀具等物品，背景露出摆放着供品、佛像摆件的供桌区域，随后镜头回正，正对收纳柜正面，清晰展示柜体的整体高度与多层柜门设计。
-  - 口播: ¿Qué es lo que se llama? No te acercer.  Si demnye malu.
+  - 口播: ¿Qué es lo que se llama? No te acercer. Si demnye malu.
 Shot 4:
   - 时长: 17.0sec - 21.0sec
   - 镜头类型: 场景化生活秀
   - 画面: 镜头向收纳柜左侧移动，扫过地面上堆放的大量黑色包装衣物，露出后方的纸箱与带有瀑布花卉图案的装饰挂画，过程中收纳柜始终保持在画面一侧，引导观众看到收纳柜所处的真实杂乱居家收纳环境。
-  - 口播: vídeo, chisel, no, decide, ¿dáma?  Yo chisel cháu, y lo hachima,  ho babushén,  ho hachirana,
+  - 口播: vídeo, chisel, no, decide, ¿dáma? Yo chisel cháu, y lo hachima, ho babushén, ho hachirana,
 Shot 5:
   - 时长: 21.0sec - 27.0sec
   - 镜头类型: 产品多功能性
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-furniture-485332](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-furniture-485332?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-furniture-485332)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-furniture-485332](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-furniture-485332?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-furniture-485332)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

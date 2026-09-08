@@ -1,6 +1,6 @@
 ---
 id: us-sports-256927
-title: "baleaf Summer Ankle Pants for Women's Lightweight Breathable B — Handheld Demo (United States · Sports & Outdoor)"
+title: "baleaf Summer Ankle Pants for… — Handheld Demo (United States · Sports & Outdoor)"
 market: us
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7645732288470256927
 creator: "@ootd_budget_0"
 published: 2026-05-30
 ---
-# baleaf Summer Ankle Pants for Women's Lightweight Breathable B — Handheld Demo (United States · Sports & Outdoor)
+# baleaf Summer Ankle Pants for… — Handheld Demo (United States · Sports & Outdoor)
 **Weekly #1** · 🇺🇸 United States · Sports & Outdoor · week of 2026-08-10
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7645732288470256927) by [@ootd_budget_0](https://www.tiktok.com/@ootd_budget_0). Format: **Handheld Demo** · 10s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “If you're not allowed to wear leggings to work anymore, this is the next best thing”
+**Opening line (quoted from the video):** “If you're not allowed to wear leggings to work anymore, this is the next best thing”
 
 **Pain point it attacks:** Wearing leggings to work is not allowed
 
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 2.0sec - 3.5sec
   - Scene Type: Product material demonstration
   - Scene: Keeping the wide shot camera position, the character pinches the two hip-side positions of the trousers with both hands respectively, gently pulls the trouser fabric outwards to intuitively show the high elasticity of the trouser fabric, then naturally releases her hands to let the fabric rebound and return to a flat state. The character pulls the fabric on both sides of the trouser body to fully demonstrate the fabric's elasticity, reflecting the loose and comfortable features of the trousers.
-  - Subject: an athletic pant that doubles as a work pant.  I love the flippant.
+  - Subject: an athletic pant that doubles as a work pant. I love the flippant.
 Shot 3:
   - Duration: 3.5sec - 4.5sec
   - Scene Type: Product design highlights
@@ -93,7 +92,7 @@ Shot 2:
   - 时长: 2.0sec - 3.5sec
   - 镜头类型: 产品材质展示
   - 画面: 保持全景机位，人物双手分别捏住裤装两侧胯部位置，向外侧轻轻拉扯展开裤身面料，直观展示裤装面料的高弹力属性，随后自然松手让面料回弹恢复平整。人物双手拉扯裤身两侧面料，大幅度展示面料弹力，体现裤装宽松舒适的特点。
-  - 口播: an athletic pant that doubles as a work pant.  I love the flippant.
+  - 口播: an athletic pant that doubles as a work pant. I love the flippant.
 Shot 3:
   - 时长: 3.5sec - 4.5sec
   - 镜头类型: 产品设计亮点
@@ -124,4 +123,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-sports-256927](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-sports-256927?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-sports-256927)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-sports-256927](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-sports-256927?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-sports-256927)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: my-fashion-153045
-title: "Chinese Four Holy Beasts Lucky Coin Commemorative Coin Azure D — Handheld Demo (Malaysia · Fashion Accessories)"
+title: "Chinese Four Holy Beasts Lucky… — Handheld Demo (Malaysia · Fashion Accessories)"
 market: my
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7663331277877153045
 creator: "@tualokuliuop"
 published: 2026-07-17
 ---
-# Chinese Four Holy Beasts Lucky Coin Commemorative Coin Azure D — Handheld Demo (Malaysia · Fashion Accessories)
+# Chinese Four Holy Beasts Lucky… — Handheld Demo (Malaysia · Fashion Accessories)
 **Weekly #1** · 🇲🇾 Malaysia · Fashion Accessories · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7663331277877153045) by [@tualokuliuop](https://www.tiktok.com/@tualokuliuop). Format: **Handheld Demo** · 33s · hook: **Curiosity Gap** · Hands only · No promo
-**Opening line (from the video):** “Many customers choose by preference, but actually you need to choose based on your Chinese zodiac”
+**Opening line (translated from the video):** “Many customers choose by preference, but actually you need to choose based on your Chinese zodiac”
 
 **Pain point it attacks:** Choosing the wrong feng shui commemorative coin
 
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-fashion-153045](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-fashion-153045?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-fashion-153045)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-fashion-153045](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-fashion-153045?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-fashion-153045)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

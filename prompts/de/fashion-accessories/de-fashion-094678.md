@@ -19,9 +19,8 @@ published: 2026-08-28
 ---
 # Cluster Glitter Kette — Handheld Demo (Germany · Fashion Accessories)
 **Weekly #1** · 🇩🇪 Germany · Fashion Accessories · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679117867589094678) by [@wagner.ttshop](https://www.tiktok.com/@wagner.ttshop). Format: **Handheld Demo** · 15s · hook: **Curiosity Gap** · Multiple people · Discount
-**Opening line (from the video):** “Stop if you are looking for jewelry that can create an evening look immediately”
+**Opening line (translated from the video):** “Stop if you are looking for jewelry that can create an evening look immediately”
 
 **Pain point it attacks:** Can't find jewelry to create delicate evening look quickly
 
@@ -56,12 +55,12 @@ Shot 4:
   - Duration: 8.5sec - 11.5sec
   - Scene Type: Lifestyle showcase in context
   - Scene: The camera focuses on the woman's shoulder, neck and upper chest area, closely demonstrating the finished wearing effect of the necklace. The double-layer chains have clear distinct layers, the sun pendant sits perfectly just below the collarbone, and the luster of the gold jewelry complements the smooth silky texture of the dark green satin gown, exuding elegance and luxury in every fine detail
-  - Subject: Oder merkt man, zu einem Kleid reicht ein guter Detail.  Kurz gesagt, elegant.
+  - Subject: Oder merkt man, zu einem Kleid reicht ein guter Detail. Kurz gesagt, elegant.
 Shot 5:
   - Duration: 11.5sec - 15.5sec
   - Scene Type: Checkout process guidance
   - Scene: The camera cuts back to the medium front shot of the male associate in the mall jewelry section. He once again holds the deep blue velvet tray with the double-layer gold necklace on it with both hands, gently extends the tray forward, faces the camera with a smile, shows the product to the audience in front of the camera to complete the product recommendation, and speaks to guide the audience to take action
-  - Subject: glinsend und leicht zu stylen. Lege ich zuerst in den Wärenkaus  und sichte ihr den Rabatt. Vielen Dank.
+  - Subject: glinsend und leicht zu stylen. Lege ich zuerst in den Wärenkaus und sichte ihr den Rabatt. Vielen Dank.
 [Background Sound]:
 - No background music. The video only retains a high-density, fast-paced German sales pitch that highlights product selling points and call-to-action prompts, with no extra soundtrack or redundant ambient noise
 [Transition / Editing]:
@@ -96,12 +95,12 @@ Shot 4:
   - 时长: 8.5sec - 11.5sec
   - 镜头类型: 场景化生活秀
   - 画面: 镜头聚焦在女士的肩颈与上胸区域，近距离展示佩戴完成后的项链效果，双层链条层次分明，太阳吊坠恰好落在锁骨下方，金饰的光泽与墨绿色缎面礼服的丝滑质感交相呼应，细节处尽显优雅奢华。
-  - 口播: Oder merkt man, zu einem Kleid reicht ein guter Detail.  Kurz gesagt, elegant.
+  - 口播: Oder merkt man, zu einem Kleid reicht ein guter Detail. Kurz gesagt, elegant.
 Shot 5:
   - 时长: 11.5sec - 15.5sec
   - 镜头类型: 下单流程指引
   - 画面: 镜头切回商场珠宝专区的男导购正面中景，他再次双手托举着盛有双层金项链的深蓝色丝绒托盘，将托盘微微向前递出，面带微笑面向镜头，向镜头前的观众展示产品并完成种草收尾，开口引导观众行动。
-  - 口播: glinsend und leicht zu stylen. Lege ich zuerst in den Wärenkaus  und sichte ihr den Rabatt. Vielen Dank.
+  - 口播: glinsend und leicht zu stylen. Lege ich zuerst in den Wärenkaus und sichte ihr den Rabatt. Vielen Dank.
 [Background Sound]:
 - 无背景音乐，视频仅保留高密度快节奏德语带货口播，突出产品卖点与行动引导，无额外配乐与多余环境音
 [Transition / Editing]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-fashion-094678](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-fashion-094678?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-fashion-094678)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-fashion-094678](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-fashion-094678?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-fashion-094678)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: jp-shoes-930113
-title: "Men's Fashion Casual Outdoor Slippers - Non-Slip & Lightweight — Promo Pitch (Japan · Shoes)"
+title: "Men's Fashion Casual Outdoor… — Promo Pitch (Japan · Shoes)"
 market: jp
 category: shoes
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670107007159930113
 creator: "@ono.rin6"
 published: 2026-08-04
 ---
-# Men's Fashion Casual Outdoor Slippers - Non-Slip & Lightweight — Promo Pitch (Japan · Shoes)
+# Men's Fashion Casual Outdoor… — Promo Pitch (Japan · Shoes)
 **Weekly #1** · 🇯🇵 Japan · Shoes · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670107007159930113) by [@ono.rin6](https://www.tiktok.com/@ono.rin6). Format: **Promo Pitch** · 16s · hook: **Urgency** · On-camera host · Discount
-**Opening line (from the video):** “Limited time sale! Lightweight EVA men's sandals”
+**Opening line (translated from the video):** “Limited time sale! Lightweight EVA men's sandals”
 
 **Pain point it attacks:** Easy to slip on wet floors
 
@@ -136,4 +135,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-shoes-930113](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-shoes-930113?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-shoes-930113)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-shoes-930113](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-shoes-930113?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-shoes-930113)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

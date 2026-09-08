@@ -1,6 +1,6 @@
 ---
 id: es-shoes-487170
-title: "Zapatos Crocs Crocs Classic Clog unisex — Handheld Demo (Spain · Shoes)"
+title: "Zapatos Crocs Crocs Classic Clog… — Handheld Demo (Spain · Shoes)"
 market: es
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679884409528487170
 creator: "@bysimplytam"
 published: 2026-08-30
 ---
-# Zapatos Crocs Crocs Classic Clog unisex — Handheld Demo (Spain · Shoes)
+# Zapatos Crocs Crocs Classic Clog… — Handheld Demo (Spain · Shoes)
 **Weekly #1** · 🇪🇸 Spain · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679884409528487170) by [@bysimplytam](https://www.tiktok.com/@bysimplytam). Format: **Handheld Demo** · 10s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Summer is slipping away, but don't stop wearing your Crocs”
+**Opening beat:** “Summer is slipping away, but don't stop wearing your Crocs”
 
 **Key visuals:** Crocs Clogs · Diamond Decorations · Non-slip Mat · Poolside Stone · Pebble Ground · Hand with Pink Polka Dot Nails · Sunlight Shadow
 
@@ -47,12 +46,10 @@ Shot 3:
   - Duration: 5.0sec - 7.5sec
   - Scene Type: Product material showcase
   - Scene: A hand with light pink polka dot manicure enters the frame, gently lifts the heel strap of the clog to show the engraved brand text on the strap, then the fingers glide softly along the strap, flip the clog over to display the breathable granular texture details on the shoe interior, the handwritten-style Spanish text still stays at the top of the frame.
-  - Subject: Bye.
 Shot 4:
   - Duration: 7.5sec - 11.0sec
   - Scene Type: Usage scenario setup
   - Scene: The shot switches to the perspective of two feet wearing the clogs stepping on a pebble-textured ground, 6 small reference thumbnails of clogs paired with white socks are overlaid in the middle of the frame, bold prominent black Spanish text 'Puedes usarlas todo el año, te las dejo en el carrito' is overlaid at the top of the frame, the camera slowly pans to the left to fully show all the decorative charm details on both shoes.
-  - Subject: Daddy's, yeah. Bye.
 [Background Sound]:
 - Very upbeat TikTok EDM-style background music, fast tempo around 128 BPM, loud volume with strong drum beats and synthesizer melodies, likely the viral short video hit 'Stop Drop and Roll'. The track includes 'da-da-da' vocal samples and 'Uh-uh-uh' shout segments, with a highly catchy distinct rhythm perfectly suited for fast-paced trendy footwear showcase footage.
 [Transition / Editing]:
@@ -80,12 +77,10 @@ Shot 3:
   - 时长: 5.0sec - 7.5sec
   - 镜头类型: 产品材质展示
   - 画面: 一只带着淡粉色波点美甲的手伸入画面，轻轻抬起洞洞鞋的后跟绑带，展示绑带上刻印的品牌字样，随后手指顺着绑带轻轻滑动，翻转洞洞鞋展示鞋内部的透气颗粒纹理细节，画面顶部仍保留手写风格西语文字。
-  - 口播: Bye.
 Shot 4:
   - 时长: 7.5sec - 11.0sec
   - 镜头类型: 设置使用场景
   - 画面: 画面切换到双脚穿着洞洞鞋踩在鹅卵石纹理地面的视角，画面中间叠加6小张洞洞鞋搭配白袜的穿搭参考小图，画面上方叠加黑色醒目西语文字“Puedes usarlas todo el año, te las dejo en el carrito”，镜头缓慢向左移动，完整展示两只鞋子上的所有装饰配件细节。
-  - 口播: Daddy's, yeah. Bye.
 [Background Sound]:
 - 非常欢快的TikTok电子舞曲风格背景音乐，快节奏约128BPM，音量较大，带有强烈鼓点和合成器旋律，疑似为短视频热曲《Stop Drop and Roll》，音乐中夹杂有“哒哒哒”人声采样和“Uh-uh-uh”呼喊段落，节奏感洗脑鲜明，适配潮流鞋品展示的快节奏画面。
 [Transition / Editing]:
@@ -94,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-shoes-487170](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-shoes-487170?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-shoes-487170)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-shoes-487170](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-shoes-487170?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-shoes-487170)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

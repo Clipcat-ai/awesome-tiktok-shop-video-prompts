@@ -1,6 +1,6 @@
 ---
 id: de-fashion-108054
-title: "OLEVS Herren Edelstahl Analoguhr  Chronograph wasserdichtes Qu — Product Close-Up (Germany · Fashion Accessories)"
+title: "OLEVS Herren Edelstahl Analoguhr… — Product Close-Up (Germany · Fashion Accessories)"
 market: de
 category: fashion-accessories
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680098742460108054
 creator: "@afzalmuhammad6177"
 published: 2026-08-31
 ---
-# OLEVS Herren Edelstahl Analoguhr  Chronograph wasserdichtes Qu — Product Close-Up (Germany · Fashion Accessories)
+# OLEVS Herren Edelstahl Analoguhr… — Product Close-Up (Germany · Fashion Accessories)
 **Weekly #1** · 🇩🇪 Germany · Fashion Accessories · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680098742460108054) by [@afzalmuhammad6177](https://www.tiktok.com/@afzalmuhammad6177). Format: **Product Close-Up** · 10s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Discover pure elegance with OLEVS watch”
+**Opening line (translated from the video):** “Discover pure elegance with OLEVS watch”
 
 **Key visuals:** OLEVS Watch Box · Blue Dial Watch · Gold Roman Numerals · Sapphire Crystal · Stainless Steel Case · Watch Movement · Brand Brochure
 
@@ -106,4 +105,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-fashion-108054](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-fashion-108054?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-fashion-108054)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-fashion-108054](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-fashion-108054?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-fashion-108054)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

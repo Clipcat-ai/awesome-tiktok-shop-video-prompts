@@ -1,6 +1,6 @@
 ---
 id: it-beauty-912982
-title: "[medicube Official] Triple Collagen Cream — Talking Head (Italy · Beauty & Personal Care)"
+title: "[medicube Official] Triple… — Talking Head (Italy · Beauty & Personal Care)"
 market: it
 category: beauty-personal-care
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676953079907912982
 creator: "@anappleaday187"
 published: 2026-08-22
 ---
-# [medicube Official] Triple Collagen Cream — Talking Head (Italy · Beauty & Personal Care)
+# [medicube Official] Triple… — Talking Head (Italy · Beauty & Personal Care)
 **Weekly #1** · 🇮🇹 Italy · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676953079907912982) by [@anappleaday187](https://www.tiktok.com/@anappleaday187). Format: **Talking Head** · 43s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “I've bought this cream three times and I can't get enough of it”
+**Opening line (quoted from the video):** “I've bought this cream three times and I can't get enough of it”
 
 **Key visuals:** Medicube Cream Jar · Frosted Glass · Pink Nail Polish · Bath Towel Rack · Washbasin · Green Towel · Skincare Products
 
@@ -78,4 +77,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-beauty-912982](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-beauty-912982?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-beauty-912982)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-beauty-912982](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-beauty-912982?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-beauty-912982)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

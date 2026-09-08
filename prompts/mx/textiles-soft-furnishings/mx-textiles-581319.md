@@ -1,6 +1,6 @@
 ---
 id: mx-textiles-581319
-title: "Al Donna Frazada Lisa Grande 200×230 cm — Promo Pitch (Mexico · Textiles & Soft Furnishings)"
+title: "Al Donna Frazada Lisa Grande… — Promo Pitch (Mexico · Textiles & Soft Furnishings)"
 market: mx
 category: textiles-soft-furnishings
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676774807345581319
 creator: "@mexicotienda"
 published: 2026-08-22
 ---
-# Al Donna Frazada Lisa Grande 200×230 cm — Promo Pitch (Mexico · Textiles & Soft Furnishings)
+# Al Donna Frazada Lisa Grande… — Promo Pitch (Mexico · Textiles & Soft Furnishings)
 **Weekly #1** · 🇲🇽 Mexico · Textiles & Soft Furnishings · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676774807345581319) by [@mexicotienda](https://www.tiktok.com/@mexicotienda). Format: **Promo Pitch** · 15s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “They finally arrived, look at all these colors we have ready to ship today”
+**Opening line (translated from the video):** “They finally arrived, look at all these colors we have ready to ship today”
 
 **Pain point it attacks:** Need warm and lightweight home blankets
 
@@ -39,12 +38,12 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 [Shots]
 Shot 1:
   - Duration: 0.0sec - 3.5sec
-  - Scene Type: Display multiple style options (fashion category)
+  - Scene Type: Display multiple style options
   - Scene: The shot starts at the teal rolled blankets stacked on wooden pallets, slowly moving horizontally along the warehouse pallet aisle to sweep across the entire space, sequentially showing neatly stacked rolled blankets in different colors including black, gray, pink, burgundy, dark brown and more. The background features the tall warehouse pillars and daylighting glass windows, no extra clutter appears in the frame, all goods are placed neatly and orderly.
   - Subject: Por fin llegaron, miren todos estos colores que tenemos listos para enviar hoy.
 Shot 2:
   - Duration: 3.5sec - 6.5sec
-  - Scene Type: Display multiple style options (fashion category)
+  - Scene Type: Display multiple style options
   - Scene: The scene switches to the warehouse shelf area, blankets of different colors are lifted up one by one to fully unfurl and stretch out in the air, the blanket fabric is fluffy and lightweight, naturally draping and swaying as it hangs in mid-air. Stacked express cartons on the shelves and the industrial steel frame structure of the warehouse are visible in the background.
   - Subject: mismo. Desde el verde turqueso hasta el rosa suave. Hay un tono perfecto.
 Shot 3:
@@ -79,12 +78,12 @@ Shot 5:
 [Shots]
 Shot 1:
   - 时长: 0.0sec - 3.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头从堆叠在木托盘上的蓝绿色卷装毛毯开始，沿着仓库内的托盘通道缓慢横向移动扫过全场，依次展示黑色、灰色、粉色、酒红色、深棕色等不同颜色整齐堆叠的卷装毛毯，背景是仓库的高大立柱与采光玻璃窗，画面中看不到多余杂物，货品摆放规整有序。
   - 口播: Por fin llegaron, miren todos estos colores que tenemos listos para enviar hoy.
 Shot 2:
   - 时长: 3.5sec - 6.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 场景切换到仓库货架区域，不同颜色的毛毯依次被拎起在空中完全舒展展开，毛毯面料蓬松轻盈，在空中自然垂落晃动，背景中可以看到货架上堆叠的快递纸箱与仓库的工业钢架结构。
   - 口播: mismo. Desde el verde turqueso hasta el rosa suave. Hay un tono perfecto.
 Shot 3:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-textiles-581319](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-textiles-581319?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-textiles-581319)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-textiles-581319](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-textiles-581319?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-textiles-581319)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

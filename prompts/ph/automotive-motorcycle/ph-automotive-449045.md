@@ -1,6 +1,6 @@
 ---
 id: ph-automotive-449045
-title: "2 Pcs T10 LED Bulb White W5W T10 Wedge  Interior Car Bulbs Rep — Real Review (Philippines · Automotive & Motorcycle)"
+title: "2 Pcs T10 LED Bulb White W5W T10… — Real Review (Philippines · Automotive & Motorcycle)"
 market: ph
 category: automotive-motorcycle
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7651383000428449045
 creator: "@ysraelgabriel"
 published: 2026-06-14
 ---
-# 2 Pcs T10 LED Bulb White W5W T10 Wedge  Interior Car Bulbs Rep — Real Review (Philippines · Automotive & Motorcycle)
+# 2 Pcs T10 LED Bulb White W5W T10… — Real Review (Philippines · Automotive & Motorcycle)
 **Weekly #1** · 🇵🇭 Philippines · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7651383000428449045) by [@ysraelgabriel](https://www.tiktok.com/@ysraelgabriel). Format: **Real Review** · 36s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Guys, let's change to an LED light”
+**Opening line (quoted from the video):** “Guys, let's change to an LED light”
 
 **Pain point it attacks:** Old halogen bulb has insufficient brightness
 
@@ -46,17 +45,17 @@ Shot 2:
   - Duration: 5.5sec - 11.5sec
   - Scene Type: Demonstrate ease of use
   - Scene: The person picks up a gray rag, gently wipes away the residual dust around the lamp base, then aligns a brand new bright white LED bulb with the socket and inserts it for installation. The LED bulb instantly emits bright white light, illuminating the paper towel covering the license plate in front. The camera is aimed at the license plate light installation area throughout the process, steadily capturing the coherent movements of wiping and installing the bulb.
-  - Subject: Lailid din nga pala, ilalabi natin mga bossing para matangin. stupid sasabat, baby.  At yung mga bossing gulay-white na
+  - Subject: Lailid din nga pala, ilalabi natin mga bossing para matangin. stupid sasabat, baby. At yung mga bossing gulay-white na
 Shot 3:
   - Duration: 11.5sec - 13.5sec
   - Scene Type: Highlight product design features
   - Scene: The person's hand holds a transparent sealed plastic ziplock bag with a white label printed with a QR code attached to it. The bag contains two identical LED license plate lights, and the person points at the bulbs inside the bag with their fingertips to show the details of the product accessories. The camera focuses on the hand and the packaging bag, showing the full appearance of the product at close range.
-  - Subject: We're going to buy soya.  Two pieces.
+  - Subject: We're going to buy soya. Two pieces.
 Shot 4:
   - Duration: 13.5sec - 24.0sec
   - Scene Type: Demonstrate ease of use
   - Scene: The person picks up the screwdriver again, aligns the lamp base with the installed LED light back to the slot for resetting, tightens all the fixing screws, then unscrews the lamp base again to confirm the powered-on lit state of the bulb, and the warm yellow light illuminates the license plate area. The camera maintains a close-up perspective, following the hand movements to focus on the operation details of screw tightening and lamp base resetting.
-  - Subject: Thank you. guys,  yung mga signal light,  mga bossing,  pero dahil parehas naman "I'm not going to be here, but I'm not going to be here, but I'm not going to be here." .
+  - Subject: Thank you. guys, yung mga signal light, mga bossing, pero dahil parehas naman "I'm not going to be here, but I'm not going to be here, but I'm not going to be here." .
 Shot 5:
   - Duration: 24.0sec - 28.5sec
   - Scene Type: Showcase product material
@@ -66,7 +65,7 @@ Shot 6:
   - Duration: 28.5sec - 33.0sec
   - Scene Type: Demonstrate product effectiveness
   - Scene: The workshop environment switches to a low-light environment. The LED license plate light at the rear of the motorcycle emits strong white light, completely illuminating the white paper towel on the front license plate. The camera turns to the rear side of the motorcycle, and the light from the LED light directly projects onto the workshop floor, forming a bright illuminated area. Multiple pairs of shoes placed on the floor and another motorcycle can also be seen in the background. The camera slowly pans from the rear of the motorcycle to the side of the body, fully showing the illumination range of the light on the ground.
-  - Subject: But of course, it's a little bit of a secret. Hey, I'm a trip.  I'm a LAD.  I'm a LAD.
+  - Subject: But of course, it's a little bit of a secret. Hey, I'm a trip. I'm a LAD. I'm a LAD.
 Shot 7:
   - Duration: 33.0sec - 36.0sec
   - Scene Type: Show product usage scenario
@@ -76,7 +75,6 @@ Shot 8:
   - Duration: 36.0sec - 37.0sec
   - Scene Type: Blogger's personal test experience
   - Scene: The frame is completely black, with no other operational actions.
-  - Subject: Bye.
 [Background Sound]:
 - No background music, only pure human voice narration. The content is a humorous, teasing Filipino-language funny sales pitch with a fast speaking pace and tight rhythm, paired with subtle mechanical sounds generated during minor motorcycle operations. The overall ambient sound is clean with no extra noise.
 [Transition / Editing]:
@@ -101,17 +99,17 @@ Shot 2:
   - 时长: 5.5sec - 11.5sec
   - 镜头类型: 展示易用性
   - 画面: 人物拿起一块灰色抹布，轻轻擦拭灯座周围的残留灰尘，随后将一枚全新的亮白色LED灯泡对准卡座插入安装，LED灯泡瞬间发出明亮的白光，照亮前方的牌照遮挡纸巾。镜头全程对准牌照灯安装区域，稳定捕捉擦拭与安装灯泡的连贯动作。
-  - 口播: Lailid din nga pala, ilalabi natin mga bossing para matangin. stupid sasabat, baby.  At yung mga bossing gulay-white na
+  - 口播: Lailid din nga pala, ilalabi natin mga bossing para matangin. stupid sasabat, baby. At yung mga bossing gulay-white na
 Shot 3:
   - 时长: 11.5sec - 13.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 人物的手举着一个透明密封塑料自封袋，袋子上贴有带二维码的白色标签，袋子里装有两枚同款LED车牌灯，人物用指尖指着袋内的灯泡，展示产品配件细节。镜头聚焦在手部与包装袋上，近距离展示商品全貌。
-  - 口播: We're going to buy soya.  Two pieces.
+  - 口播: We're going to buy soya. Two pieces.
 Shot 4:
   - 时长: 13.5sec - 24.0sec
   - 镜头类型: 展示易用性
   - 画面: 人物再次拿起螺丝刀，将安装好LED灯的灯座重新对准卡槽复位，拧紧所有固定螺丝，随后再次拧开灯座，确认灯泡通电点亮的状态，暖黄色的光线照亮牌照区域。镜头保持特写视角，跟随手部动作聚焦螺丝紧固与灯座复位的操作细节。
-  - 口播: Thank you. guys,  yung mga signal light,  mga bossing,  pero dahil parehas naman "I'm not going to be here, but I'm not going to be here, but I'm not going to be here." .
+  - 口播: Thank you. guys, yung mga signal light, mga bossing, pero dahil parehas naman "I'm not going to be here, but I'm not going to be here, but I'm not going to be here." .
 Shot 5:
   - 时长: 24.0sec - 28.5sec
   - 镜头类型: 产品材质展示
@@ -121,7 +119,7 @@ Shot 6:
   - 时长: 28.5sec - 33.0sec
   - 镜头类型: 产品有效性
   - 画面: 车间环境切换为暗光环境，摩托车尾部的LED车牌灯发出强烈的白光，将前方牌照上的白色纸巾完全照亮，镜头转向摩托车侧后方，LED灯的光线直接投射到车间地面上，形成一片明亮的照明区域，背景里还能看到地面摆放的多双鞋子与另一辆摩托车。镜头从摩托车尾部缓缓平移转向车身侧面，完整展示灯光在地面的照射范围。
-  - 口播: But of course, it's a little bit of a secret. Hey, I'm a trip.  I'm a LAD.  I'm a LAD.
+  - 口播: But of course, it's a little bit of a secret. Hey, I'm a trip. I'm a LAD. I'm a LAD.
 Shot 7:
   - 时长: 33.0sec - 36.0sec
   - 镜头类型: 产品使用场景
@@ -131,7 +129,6 @@ Shot 8:
   - 时长: 36.0sec - 37.0sec
   - 镜头类型: 博主亲测体验
   - 画面: 画面完全变黑，无其余操作动作。
-  - 口播: Bye.
 [Background Sound]:
 - 无背景音乐，为纯人声旁白，内容是带有幽默调侃语气的菲律宾语搞笑带货段子，语速较快节奏紧凑，搭配少量摩托车操作时产生的细微机械声响，整体环境音干净无多余杂音。
 [Transition / Editing]:
@@ -140,4 +137,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-automotive-449045](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-automotive-449045?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-automotive-449045)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-automotive-449045](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-automotive-449045?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-automotive-449045)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

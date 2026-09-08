@@ -1,6 +1,6 @@
 ---
 id: my-phones-074005
-title: "【 FREE BAG 】80000mAh 120w Super Fast Charging PD20W Built in 4 — Handheld Demo (Malaysia · Phones & Electronics)"
+title: "【 FREE BAG 】80000mAh 120w Super… — Handheld Demo (Malaysia · Phones & Electronics)"
 market: my
 category: phones-electronics
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678955884592074005
 creator: "@smallyellowmy"
 published: 2026-08-28
 ---
-# 【 FREE BAG 】80000mAh 120w Super Fast Charging PD20W Built in 4 — Handheld Demo (Malaysia · Phones & Electronics)
+# 【 FREE BAG 】80000mAh 120w Super… — Handheld Demo (Malaysia · Phones & Electronics)
 **Weekly #1** · 🇲🇾 Malaysia · Phones & Electronics · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678955884592074005) by [@smallyellowmy](https://www.tiktok.com/@smallyellowmy). Format: **Handheld Demo** · 6s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “The power bank shows 100% power with 120W FAST CHARGING on it”
+**Opening line (quoted from the video):** “The power bank shows 100% power with 120W FAST CHARGING on it”
 
 **Key visuals:** Car Interior · Circular Air Outlet · Power Bank · Gift Box · Storage Bag · Digital Display · Drinking Water
 
@@ -84,4 +83,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-phones-074005](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-phones-074005?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-phones-074005)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-phones-074005](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-phones-074005?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-phones-074005)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

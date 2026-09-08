@@ -1,6 +1,6 @@
 ---
 id: us-beauty-405005
-title: "【FREE SHIPPING】SHEGLAM Camera On Smooth and Blur Primer Settin — Real Review (United States · Beauty & Personal Care)"
+title: "【FREE SHIPPING】SHEGLAM Camera On… — Real Review (United States · Beauty & Personal Care)"
 market: us
 category: beauty-personal-care
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679521148572405005
 creator: "@duhparis"
 published: 2026-08-29
 ---
-# 【FREE SHIPPING】SHEGLAM Camera On Smooth and Blur Primer Settin — Real Review (United States · Beauty & Personal Care)
+# 【FREE SHIPPING】SHEGLAM Camera On… — Real Review (United States · Beauty & Personal Care)
 **Weekly #1** · 🇺🇸 United States · Beauty & Personal Care · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679521148572405005) by [@duhparis](https://www.tiktok.com/@duhparis). Format: **Real Review** · 59s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “I know you see that. Look at this shine in these pores. I just applied the primer and they instantly look blitz and almost invisible”
+**Opening line (quoted from the video):** “I know you see that. Look at this shine in these pores. I just applied the primer and they instantly look blitz and almost invisible”
 
 **Pain point it attacks:** Oily skin with large pores and cakey makeup
 
@@ -110,4 +109,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-beauty-405005](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-beauty-405005?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-beauty-405005)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-beauty-405005](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-beauty-405005?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-beauty-405005)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

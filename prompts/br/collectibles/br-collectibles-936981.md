@@ -1,6 +1,6 @@
 ---
 id: br-collectibles-936981
-title: "Spider noir sentado para estante pc gamer setup — Product Close-Up (Brazil · Collectibles)"
+title: "Spider noir sentado para estante… — Product Close-Up (Brazil · Collectibles)"
 market: br
 category: collectibles
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7655698162404936981
 creator: "@alissonsd22"
 published: 2026-06-26
 ---
-# Spider noir sentado para estante pc gamer setup — Product Close-Up (Brazil · Collectibles)
+# Spider noir sentado para estante… — Product Close-Up (Brazil · Collectibles)
 **Weekly #1** · 🇧🇷 Brazil · Collectibles · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7655698162404936981) by [@alissonsd22](https://www.tiktok.com/@alissonsd22). Format: **Product Close-Up** · 17s · hook: **Result First** · No one on camera · No promo
-**Opening line (from the video):** “The video starts with all black then slowly shows the full Spider Noir figure”
+**Opening beat:** “The video starts with all black then slowly shows the full Spider Noir figure”
 
 **Key visuals:** Spider Noir Figure · RGB Case Fan · Fluid Screen · Vintage Street Lamp · Wet Pavement · Neon Sign · Wanted Poster · Leather Coat
 
@@ -114,4 +113,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-collectibles-936981](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-collectibles-936981?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-collectibles-936981)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-collectibles-936981](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-collectibles-936981?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-collectibles-936981)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

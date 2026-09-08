@@ -1,6 +1,6 @@
 ---
 id: jp-computers-435719
-title: "MIYOU 卓上押し型・捏ねて楽しめる卓上置物、超柔らかいシリコン素材、ゆっくり戻る弾性でストレス解消、ハンドメイド・DIY — Unboxing POV (Japan · Computers & Office Equipment)"
+title: "MIYOU 卓上押し型・捏ねて楽しめる卓… — Unboxing POV (Japan · Computers & Office Equipment)"
 market: jp
 category: computers-office-equipment
 video_type: unboxing-pov
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680892899772435719
 creator: "@yuzukosyo_sen"
 published: 2026-09-02
 ---
-# MIYOU 卓上押し型・捏ねて楽しめる卓上置物、超柔らかいシリコン素材、ゆっくり戻る弾性でストレス解消、ハンドメイド・DIY — Unboxing POV (Japan · Computers & Office Equipment)
+# MIYOU 卓上押し型・捏ねて楽しめる卓… — Unboxing POV (Japan · Computers & Office Equipment)
 **Weekly #1** · 🇯🇵 Japan · Computers & Office Equipment · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680892899772435719) by [@yuzukosyo_sen](https://www.tiktok.com/@yuzukosyo_sen). Format: **Unboxing POV** · 88s · hook: **Benefit First** · Hands only · No promo
-**Opening line (from the video):** “The quality at this price is amazing”
+**Opening line (translated from the video):** “The quality at this price is amazing”
 
 **Key visuals:** Squeeze Toy · Transparent Plastic Bag · White Express Box · Metal Bead Chain · Anime Tag · Sticker · Home Desk · Storage Shelf
 
@@ -47,7 +46,7 @@ Shot 2:
   - Subject: 安くてクオリティが高いと お腹のみゆうさん開封していくよ
 Shot 3:
   - Duration: 9.0sec - 16.0sec
-  - Scene Type: Display of multiple style options (fashion category)
+  - Scene Type: Display of multiple style options
   - Scene: A product information selection graphic showing different firmness variants of the MiYou series squishy toys pops up at the top of the frame. One hand gestures below the frame, then a red arrow marks the high-adhesion variant selected for this unboxing
   - Subject: こんな感じで硬さを選べるんだけど はい 他が抵抗なのに
 Shot 4:
@@ -74,7 +73,7 @@ Shot 8:
   - Duration: 83.0sec - 89.0sec
   - Scene Type: Order process guidance
   - Scene: Both hands squeeze the fully decorated squishy toy firmly through the plastic bag again, demonstrating the strong adhesion of the sticker while showing that the toy still maintains its fluffy stress-relieving texture
-  - Subject: めっちゃ良い おすすめです。左下から購入できる ご視聴ありがとうございました。
+  - Subject: めっちゃ良い おすすめです。左下から購入できる
 [Background Sound]:
 - Light, lively pop electronic style background music with a brisk tempo of around 120 BPM, featuring soft synthesizer melodies and drum beats that create a relaxed, cheerful atmosphere full of the surprise of unboxing. The volume is moderately high without overpowering the human voice, making it a popular product-promoting BGM that combines Japanese cute aesthetic and upbeat rhythm. The entire video is accompanied by the soft rustling sound of squeezing the squishy toy, enhancing the stress-relieving, healing vibe that makes viewers eager to get the product
 [Transition / Editing]:
@@ -102,7 +101,7 @@ Shot 2:
   - 口播: 安くてクオリティが高いと お腹のみゆうさん開封していくよ
 Shot 3:
   - 时长: 9.0sec - 16.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面上方弹出MiYou系列捏捏玩具不同硬度款式的商品信息选品图，一只手在画面下方比划，随后用红色箭头标注出本次开箱选中的高粘着力款式
   - 口播: こんな感じで硬さを選べるんだけど はい 他が抵抗なのに
 Shot 4:
@@ -129,7 +128,7 @@ Shot 8:
   - 时长: 83.0sec - 89.0sec
   - 镜头类型: 下单流程指引
   - 画面: 双手再次隔着包装袋用力揉捏装饰完成的捏捏玩具，展示贴纸附着的牢固度，同时呈现玩具依旧保持绵软的解压质感
-  - 口播: めっちゃ良い おすすめです。左下から購入できる ご視聴ありがとうございました。
+  - 口播: めっちゃ良い おすすめです。左下から購入できる
 [Background Sound]:
 - 轻快活泼的流行电子风格背景音乐，节奏明快约120 BPM，带有轻盈的合成器旋律和鼓点，营造出轻松愉悦、带开箱惊喜感的氛围，音量适中偏高不压人声，是日系萌系+轻快节奏的热门带货BGM，搭配全程伴随捏捏玩具发出的软质揉捏沙沙声，强化解压治愈的种草氛围
 [Transition / Editing]:
@@ -138,4 +137,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-computers-435719](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-computers-435719?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-computers-435719)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-computers-435719](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-computers-435719?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-computers-435719)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment unboxing pov"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

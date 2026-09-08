@@ -1,6 +1,6 @@
 ---
 id: th-luggage-170644
-title: "ถุงกระสอบ กันน้ำกันฉีกขาด ย้ายบ้าน ส่งด่วน มี4ขนาด ใหญ่กว่าทั่ — Handheld Demo (Thailand · Luggage & Bags)"
+title: "ถุงกระสอบ กันน้ำกันฉีกขาด ย้ายบ้าน… — Handheld Demo (Thailand · Luggage & Bags)"
 market: th
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7660739540474170644
 creator: "@kae818"
 published: 2026-07-10
 ---
-# ถุงกระสอบ กันน้ำกันฉีกขาด ย้ายบ้าน ส่งด่วน มี4ขนาด ใหญ่กว่าทั่ — Handheld Demo (Thailand · Luggage & Bags)
+# ถุงกระสอบ กันน้ำกันฉีกขาด ย้ายบ้าน… — Handheld Demo (Thailand · Luggage & Bags)
 **Weekly #1** · 🇹🇭 Thailand · Luggage & Bags · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7660739540474170644) by [@kae818](https://www.tiktok.com/@kae818). Format: **Handheld Demo** · 8s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “Market sells for 100 each, this one is only 16 baht”
+**Opening line (translated from the video):** “Market sells for 100 each, this one is only 16 baht”
 
 **Pain point it attacks:** Need large durable bags for moving items
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-luggage-170644](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-luggage-170644?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-luggage-170644)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-luggage-170644](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-luggage-170644?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-luggage-170644)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

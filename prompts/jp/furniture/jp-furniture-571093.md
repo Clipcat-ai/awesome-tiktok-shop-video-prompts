@@ -1,6 +1,6 @@
 ---
 id: jp-furniture-571093
-title: "Inflatable Lazy Boy Sofa — Promo Pitch (Japan · Furniture)"
+title: "Inflatable Lazy Boy Sofa, Ball… — Promo Pitch (Japan · Furniture)"
 market: jp
 category: furniture
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677821649873571093
 creator: "@j_fujiwara28"
 published: 2026-08-25
 ---
-# Inflatable Lazy Boy Sofa — Promo Pitch (Japan · Furniture)
+# Inflatable Lazy Boy Sofa, Ball… — Promo Pitch (Japan · Furniture)
 **Weekly #1** · 🇯🇵 Japan · Furniture · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677821649873571093) by [@j_fujiwara28](https://www.tiktok.com/@j_fujiwara28). Format: **Promo Pitch** · 10s · hook: **Urgency** · On-camera host · Discount, Coupon
-**Opening line (from the video):** “The special price campaign ends today”
+**Opening line (translated from the video):** “The special price campaign ends today”
 
 **Pain point it attacks:** Want to buy cost-effective outdoor leisure furniture
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-furniture-571093](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-furniture-571093?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-furniture-571093)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-furniture-571093](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-furniture-571093?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-furniture-571093)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

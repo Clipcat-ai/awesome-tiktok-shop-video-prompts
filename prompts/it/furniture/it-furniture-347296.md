@@ -1,6 +1,6 @@
 ---
 id: it-furniture-347296
-title: "Consolle Tribesigns — Lifestyle Scene (Italy · Furniture)"
+title: "Consolle Tribesigns, tavolo… — Lifestyle Scene (Italy · Furniture)"
 market: it
 category: furniture
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680074177906347296
 creator: "@15emanuela"
 published: 2026-08-31
 ---
-# Consolle Tribesigns — Lifestyle Scene (Italy · Furniture)
+# Consolle Tribesigns, tavolo… — Lifestyle Scene (Italy · Furniture)
 **Weekly #1** · 🇮🇹 Italy · Furniture · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680074177906347296) by [@15emanuela](https://www.tiktok.com/@15emanuela). Format: **Lifestyle Scene** · 19s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A blonde lady in a black evening dress stands in a luxury room, hand on a marble side cabinet with gold frame”
+**Opening line (translated from the video):** “A blonde lady in a black evening dress stands in a luxury room, hand on a marble side cabinet with gold frame”
 
 **Key visuals:** Luxury Home Space · Black Evening Dress · Gold Frame Side Cabinet · Marble Countertop · Green Plant · Vintage Ornament · Metal Table Lamp · Wooden Floor
 
@@ -42,7 +41,7 @@ Shot 1:
   - Subject: Console e Tri-Basis, tavolo industriale per divani e indipendenti.
 Shot 2:
   - Duration: 4.5sec - 9.5sec
-  - Scene Type: Display multiple style options (fashion category)
+  - Scene Type: Display multiple style options
   - Scene: The footage quickly cuts to show multiple side cabinet products of different styles, sequentially presenting a side cabinet with black iron frame and wooden countertop, a side cabinet with golden frame and white marble countertop, and multi-layer shelf side cabinets with different ring-shaped iron designs. Each side cabinet is placed in a matching home scenario, with decorative items such as green plants, table lamps and vintage ornaments arranged on the countertop.
   - Subject: 4 livelli. Pavolo d'ingresso con base circostante.
 Shot 3:
@@ -77,7 +76,7 @@ Shot 1:
   - 口播: Console e Tri-Basis, tavolo industriale per divani e indipendenti.
 Shot 2:
   - 时长: 4.5sec - 9.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面快速切换展示多款不同风格的边柜产品，依次呈现黑铁艺搭配木质台面的边柜、金色框架搭配白色大理石台面的边柜、不同环形铁艺设计的多层层板边柜，每款边柜都摆放在适配的居家场景中，台面上摆放着绿植、台灯、复古摆件等装饰物品。
   - 口播: 4 livelli. Pavolo d'ingresso con base circostante.
 Shot 3:
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-furniture-347296](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-furniture-347296?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-furniture-347296)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-furniture-347296](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-furniture-347296?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-furniture-347296)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

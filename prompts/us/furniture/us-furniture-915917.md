@@ -1,6 +1,6 @@
 ---
 id: us-furniture-915917
-title: "12\"14\" Twin Full Queen King Size Mattress in a Box Hybrid Spri — Real Review (United States · Furniture)"
+title: "12\"14\" Twin Full Queen King Size… — Real Review (United States · Furniture)"
 market: us
 category: furniture
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7637732949797915917
 creator: "@serenitasleep"
 published: 2026-05-09
 ---
-# 12"14" Twin Full Queen King Size Mattress in a Box Hybrid Spri — Real Review (United States · Furniture)
+# 12"14" Twin Full Queen King Size… — Real Review (United States · Furniture)
 **Weekly #1** · 🇺🇸 United States · Furniture · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7637732949797915917) by [@serenitasleep](https://www.tiktok.com/@serenitasleep). Format: **Real Review** · 15s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “I'm so sorry, but the internet found out about our high-tech”
+**Opening line (quoted from the video):** “I'm so sorry, but the internet found out about our high-tech”
 
 **Pain point it attacks:** Disturbed by partner's movement, mattress edge lacks support
 
@@ -51,7 +50,6 @@ Shot 3:
   - Duration: 10.5sec - 12.5sec
   - Scene Type: Product effectiveness demonstration
   - Scene: The camera cuts back to a partial view of the top surface of the mattress. A clear glass of still water sits steadily on the mattress surface near the edge, with the water completely calm and no ripples at all. The demonstrator's hand enters the frame from the right, then lifts and exits the frame. The camera shifts slightly upward to adjust the composition, clearly capturing the stable state of the stationary water glass.
-  - Subject: Thank you.
 Shot 4:
   - Duration: 12.5sec - 15.5sec
   - Scene Type: Promotional selling point highlight
@@ -86,7 +84,6 @@ Shot 3:
   - 时长: 10.5sec - 12.5sec
   - 镜头类型: 产品有效性
   - 画面: 镜头切回床垫顶面局部，一杯透明的清水平稳放置在床垫表面靠近侧边的位置，水面完全平静没有一丝晃动，演示者的手从画面右侧伸入，随后抬手消失出画面。镜头轻微上移调整构图，清晰捕捉水杯静置的稳定状态。
-  - 口播: Thank you.
 Shot 4:
   - 时长: 12.5sec - 15.5sec
   - 镜头类型: 促销卖点强推
@@ -100,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-furniture-915917](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-furniture-915917?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-furniture-915917)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-furniture-915917](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-furniture-915917?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-furniture-915917)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

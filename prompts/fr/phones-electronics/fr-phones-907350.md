@@ -1,6 +1,6 @@
 ---
 id: fr-phones-907350
-title: "Anker Powerbank — Handheld Demo (France · Phones & Electronics)"
+title: "Anker Powerbank, 25.000mAh… — Handheld Demo (France · Phones & Electronics)"
 market: fr
 category: phones-electronics
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676664996603907350
 creator: "@buzzfakten"
 published: 2026-08-22
 ---
-# Anker Powerbank — Handheld Demo (France · Phones & Electronics)
+# Anker Powerbank, 25.000mAh… — Handheld Demo (France · Phones & Electronics)
 **Weekly #1** · 🇫🇷 France · Phones & Electronics · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676664996603907350) by [@buzzfakten](https://www.tiktok.com/@buzzfakten). Format: **Handheld Demo** · 10s · hook: **Urgency** · On-camera host · Discount
-**Opening line (from the video):** “Friends, pay attention! Today is the last day for this great deal”
+**Opening line (translated from the video):** “Friends, pay attention! Today is the last day for this great deal”
 
 **Pain point it attacks:** Trouble charging multiple devices, power bank insufficient capacity
 
@@ -31,7 +30,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 ```text
 [Style]: Realistic e-commerce product recommendation style, with bright and clear image quality, focusing on highlighting product details and the character's approachability, creating an immersive in-store product discovery experience.
 [Environment]: A bright and tidy physical digital product retail store. The background features well-arranged multi-layer open shelves, on which power bank products of the same series and brand packaging boxes are neatly displayed. The store is equipped with soft recessed blue ambient light strips, making the entire space modern, fresh, and full of the refined atmosphere of a tech retail store.
-[Tone & Pacing]: Lively and friendly Douyin shopping guide style, with a bright, smooth rhythm. The camera moves forward naturally, the pace of highlighting the core selling points of the product is emphasized, and the product recommendation vibe is very strong.
+[Tone & Pacing]: Lively and friendly TikTok shopping guide style, with a bright, smooth rhythm. The camera moves forward naturally, the pace of highlighting the core selling points of the product is emphasized, and the product recommendation vibe is very strong.
 [Camera]: Starts with a standing medium shot, then the camera slowly pushes forward, gradually transitioning to a close-up shot of the product. The entire camera movement is smooth and stable, ensuring the image stays sharply focused.
 [Lighting]: Bright overhead lighting covering the entire store, paired with linear ambient fill lights on the shelf panels. The light is even and soft, fully illuminating the character's facial expressions and the appearance details of the power bank, with no harsh shadows, resulting in a clear and clean image.
 [Character]: A 25-30 year old Caucasian woman with smooth, naturally glowing skin, light golden natural curly hair, soft defined facial features, and a sheer daily work makeup look. She has a well-proportioned figure, wears a soft off-white knit sweater paired with slim-fit black trousers, and a small brand logo brooch pinned to the sweater collar. She has a bright, enthusiastic, professional smile, natural and poised movements, and a vibrant, infectious demeanor.
@@ -56,7 +55,7 @@ Shot 2:
 ```text
 [Style]: 写实电商好物推荐风，画面质感明亮通透，重点突出产品细节与人物的亲和力，打造沉浸式线下门店种草体验。
 [Environment]: 明亮整洁的数码产品线下门店，背景是错落有致的多层开放式货架，货架上整齐陈列着同系列移动电源产品与品牌包装盒，店内配备柔和的嵌入式蓝色氛围灯带，整体空间现代清爽，充满科技零售门店的精致氛围。
-[Tone & Pacing]: 活泼亲切的抖音导购风格，节奏明快流畅，镜头推进自然，重点突出产品核心卖点的展示节奏，种草感十足。
+[Tone & Pacing]: 活泼亲切的TikTok导购风格，节奏明快流畅，镜头推进自然，重点突出产品核心卖点的展示节奏，种草感十足。
 [Camera]: 以站立中景起幅，随后镜头缓慢向前推近，逐步过渡至产品特写画面，镜头运动全程顺滑稳定，保证画面清晰聚焦。
 [Lighting]: 门店全域明亮的顶光照明搭配货架层板的线性氛围补光，光线均匀柔和，充分照亮人物面部神态与移动电源的外观细节，无生硬阴影，画面通透干净。
 [Character]: 25-30岁白人女性，皮肤通透细腻有自然光泽，浅金色自然卷发，立体柔和五官，清透日常通勤妆，身形匀称，穿米白色软糯针织毛衣搭配黑色修身长裤，毛衣领口别着品牌标识小胸针，笑容满面热情专业，动作自然大方，情绪饱满有感染力。
@@ -80,4 +79,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [fr-phones-907350](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/fr-phones-907350?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-phones-907350)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[fr-phones-907350](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/fr-phones-907350?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=fr-phones-907350)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

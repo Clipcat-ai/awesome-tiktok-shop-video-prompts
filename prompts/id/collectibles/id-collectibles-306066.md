@@ -1,6 +1,6 @@
 ---
 id: id-collectibles-306066
-title: "Topi Sports Olahraga Aquatic Renang Ukuran Dewasa Anti Panas S — Handheld Demo (Indonesia · Collectibles)"
+title: "Topi Sports Olahraga Aquatic… — Handheld Demo (Indonesia · Collectibles)"
 market: id
 category: collectibles
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7577684766934306066
 creator: "@rini56928"
 published: 2025-11-28
 ---
-# Topi Sports Olahraga Aquatic Renang Ukuran Dewasa Anti Panas S — Handheld Demo (Indonesia · Collectibles)
+# Topi Sports Olahraga Aquatic… — Handheld Demo (Indonesia · Collectibles)
 **Weekly #1** · 🇮🇩 Indonesia · Collectibles · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7577684766934306066) by [@rini56928](https://www.tiktok.com/@rini56928). Format: **Handheld Demo** · 15s · hook: **Result First** · Hands only · Discount
-**Opening line (from the video):** “A navy sports baseball cap rests quietly on a white display table”
+**Opening beat:** “A navy sports baseball cap rests quietly on a white display table”
 
 **Key visuals:** Baseball Cap · Display Table · Hat Shelves · Light Blue Background · Rice Field · Coconut Tree · Sunny Sky
 
@@ -51,7 +50,6 @@ Shot 4:
   - Duration: 12.5sec - 15.5sec
   - Scene Type: Product close-up shot
   - Scene: The frame cuts back to the display stand in the indoor hat store, the hand steadily places the navy blue sports baseball cap back on the white display stand again, adjusts the placement angle to make the front details of the hat fully face the camera, the background remains the neatly arranged hat shelves, completing the final detailed showcase of the product.
-  - Subject: Thank you.
 [Background Sound]:
 - Very upbeat TikTok background music in electronic dance style, fast tempo of around 128 BPM, relatively loud volume, with strong drum beats and synthesizer melodies, perfectly suited for showcasing trendy sports accessories, the overall dynamic vibe fits the product promotion and recommendation atmosphere
 [Transition / Editing]:
@@ -83,7 +81,6 @@ Shot 4:
   - 时长: 12.5sec - 15.5sec
   - 镜头类型: 产品镜头特写
   - 画面: 画面切回室内帽子陈列店的展台，那只手再次将藏蓝色运动帽平稳放回白色展台上，调整摆放角度，让帽子的正面细节完整朝向镜头，背景依然是整齐陈列帽子的货架，完成商品的最终细节展示。
-  - 口播: Thank you.
 [Background Sound]:
 - 非常欢快的TikTok背景音乐，电子舞曲风格、快节奏约128 BPM、音量较大、带有强烈鼓点和合成器旋律，适配潮流运动配饰展示，整体动感适配带货种草氛围
 [Transition / Editing]:
@@ -92,4 +89,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-collectibles-306066](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-collectibles-306066?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-collectibles-306066)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-collectibles-306066](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-collectibles-306066?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-collectibles-306066)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

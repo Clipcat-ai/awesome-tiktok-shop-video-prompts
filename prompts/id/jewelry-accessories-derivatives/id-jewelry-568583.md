@@ -1,6 +1,6 @@
 ---
 id: id-jewelry-568583
-title: "Lore Jewellery - Cincin Moissanite Lapis Emas Putih 18K - Elyz — Product Close-Up (Indonesia · Jewelry Accessories & Derivatives)"
+title: "Lore Jewellery - Cincin Moissanite… — Product Close-Up (Indonesia · Jewelry Accessories & Derivatives)"
 market: id
 category: jewelry-accessories-derivatives
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680013648768568583
 creator: "@r45yashop"
 published: 2026-08-31
 ---
-# Lore Jewellery - Cincin Moissanite Lapis Emas Putih 18K - Elyz — Product Close-Up (Indonesia · Jewelry Accessories & Derivatives)
+# Lore Jewellery - Cincin Moissanite… — Product Close-Up (Indonesia · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇮🇩 Indonesia · Jewelry Accessories & Derivatives · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680013648768568583) by [@r45yashop](https://www.tiktok.com/@r45yashop). Format: **Product Close-Up** · 29s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Want a luxury diamond ring but worry about the high price”
+**Opening line (translated from the video):** “Want a luxury diamond ring but worry about the high price”
 
 **Pain point it attacks:** Want luxury diamond ring but worry about high price
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-jewelry-568583](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-jewelry-568583?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-jewelry-568583)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-jewelry-568583](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-jewelry-568583?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-jewelry-568583)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: de-beauty-524961
-title: "[medicube Offizieller Shop] Zero Pore Mitesser-Schlamm-Maske — Talking Head (Germany · Beauty & Personal Care)"
+title: "[medicube Offizieller Shop] Zero… — Talking Head (Germany · Beauty & Personal Care)"
 market: de
 category: beauty-personal-care
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672350575706524961
 creator: "@skelett87"
 published: 2026-08-10
 ---
-# [medicube Offizieller Shop] Zero Pore Mitesser-Schlamm-Maske — Talking Head (Germany · Beauty & Personal Care)
+# [medicube Offizieller Shop] Zero… — Talking Head (Germany · Beauty & Personal Care)
 **Weekly #1** · 🇩🇪 Germany · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672350575706524961) by [@skelett87](https://www.tiktok.com/@skelett87). Format: **Talking Head** · 39s · hook: **Pain Point** · No one on camera · No promo
-**Opening line (from the video):** “If your nose looks like this, don't squeeze blackheads like this”
+**Opening line (translated from the video):** “If your nose looks like this, don't squeeze blackheads like this”
 
 **Pain point it attacks:** Squeezing blackheads incorrectly leaves sebum in pores
 
@@ -59,7 +58,7 @@ Shot 4:
   - Subject: Das ist ein bisschen was.
 Shot 5:
   - Duration: 13.0sec - 15.5sec
-  - Scene Type: Show core active ingredients (health category)
+  - Scene Type: Show core active ingredients
   - Scene: The cartoon skeleton character stands in front of the light blue background. Three glowing particle spheres, colored green, purple, and blue respectively, slowly rise and rotate from his chest area, then fly toward the character's face and are absorbed by the mask on his nose, demonstrating the process of the ingredients acting on the skin. The camera follows the movement trajectory of the glowing particles, focusing on the flow path of the particles from the chest to the face
   - Subject: Tonerde drin. Plus AHA, BHA und PHA.
 Shot 6:
@@ -109,7 +108,7 @@ Shot 4:
   - 口播: Das ist ein bisschen was.
 Shot 5:
   - 时长: 13.0sec - 15.5sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 卡通骨骼角色站在浅蓝背景前，胸口位置三颗分别为绿、紫、蓝的发光粒子球缓缓升起旋转，随后粒子飞向角色面部被鼻头上的面膜吸收，演示成分作用于皮肤的过程，镜头跟随发光粒子的运动轨迹移动，聚焦粒子从胸口到面部的流动路径
   - 口播: Tonerde drin. Plus AHA, BHA und PHA.
 Shot 6:
@@ -150,4 +149,4 @@ Shot 11:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-beauty-524961](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-beauty-524961?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-beauty-524961)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-beauty-524961](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-beauty-524961?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-beauty-524961)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: mx-womenswear-727124
-title: "Women's Solid Color Wide Leg Pants — Handheld Demo (Mexico · Womenswear & Underwear)"
+title: "Women's Solid Color Wide Leg… — Handheld Demo (Mexico · Womenswear & Underwear)"
 market: mx
 category: womenswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675591940091727124
 creator: "@taocollection_"
 published: 2026-08-19
 ---
-# Women's Solid Color Wide Leg Pants — Handheld Demo (Mexico · Womenswear & Underwear)
+# Women's Solid Color Wide Leg… — Handheld Demo (Mexico · Womenswear & Underwear)
 **Weekly #1** · 🇲🇽 Mexico · Womenswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675591940091727124) by [@taocollection_](https://www.tiktok.com/@taocollection_). Format: **Handheld Demo** · 28s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “I regret not reading reviews before buying these pants”
+**Opening line (translated from the video):** “I regret not reading reviews before buying these pants”
 
 **Pain point it attacks:** Buying pants without reading reviews leads to pitfalls
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-womenswear-727124](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-womenswear-727124?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-womenswear-727124)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-womenswear-727124](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-womenswear-727124?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-womenswear-727124)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

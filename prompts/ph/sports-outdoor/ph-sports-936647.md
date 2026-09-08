@@ -1,6 +1,6 @@
 ---
 id: ph-sports-936647
-title: "[4PCS]Women's boxer cotton underwear — Handheld Demo (Philippines · Sports & Outdoor)"
+title: "[4PCS]Women's boxer cotton… — Handheld Demo (Philippines · Sports & Outdoor)"
 market: ph
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668933667841936647
 creator: "@mareniemallorca27"
 published: 2026-08-01
 ---
-# [4PCS]Women's boxer cotton underwear — Handheld Demo (Philippines · Sports & Outdoor)
+# [4PCS]Women's boxer cotton… — Handheld Demo (Philippines · Sports & Outdoor)
 **Weekly #1** · 🇵🇭 Philippines · Sports & Outdoor · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668933667841936647) by [@mareniemallorca27](https://www.tiktok.com/@mareniemallorca27). Format: **Handheld Demo** · 11s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “4 pcs boxer shorts for women, affordable and high quality”
+**Opening line (translated from the video):** “4 pcs boxer shorts for women, affordable and high quality”
 
 **Pain point it attacks:** Not specified
 
@@ -31,7 +30,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 ```text
 [Style]: Simple, realistic home good display style, with a clean frame free of redundant elements, natural and authentic color reproduction, and the entire video centered on showcasing product details to highlight the material and design advantages of women's boxer shorts.
 [Environment]: A smooth, clean light beige home desktop with even light covering the entire surface. There are no extra clutter on the table, only four pairs of women's boxer shorts to be displayed arranged neatly, creating a fresh and tidy home good sharing scene.
-[Tone & Pacing]: Douyin UGC home good sharing style, relaxed and bright, with a tight and orderly pace. Each pair of shorts gets equal display time, the camera movement is smooth and natural, and the entire video focuses on product details to let viewers understand the product features clearly and intuitively.
+[Tone & Pacing]: TikTok UGC home good sharing style, relaxed and bright, with a tight and orderly pace. Each pair of shorts gets equal display time, the camera movement is smooth and natural, and the entire video focuses on product details to let viewers understand the product features clearly and intuitively.
 [Camera]: First-person top-down fixed shooting perspective, aimed at the desktop area where the shorts are laid flat throughout the whole process, paired with slight lens movement to clearly capture every detail of the hands pulling and smoothing the shorts, fully presenting the cut and fabric condition of the boxer shorts.
 [Lighting]: Even, soft indoor top natural light with no obvious harsh shadows, spreading evenly over the light beige desktop and the short fabric, accurately restoring the true colors of the shorts and the delicate fabric texture.
 [Character]: A pair of hands belonging to an East Asian young woman aged 20-30 appear on screen, with smooth, delicate hand skin, neatly trimmed nails with natural light pink manicure, and slender, well-proportioned arm lines. The movements are neat and gentle, carrying the friendly vibe of a home good sharing creator.
@@ -59,7 +58,7 @@ Shot 4:
   - Subject: ПОДПИШИСЬ!
 Shot 5:
   - Duration: 10.0sec - 12.0sec
-  - Scene Type: Demonstration of multiple style options (fashion category)
+  - Scene Type: Demonstration of multiple style options
   - Scene: Both hands adjust all four pairs of shorts to a neat and orderly display state, then finally move out of the frame. The camera freezes on the shot of the four fully laid flat, neatly arranged women's boxer shorts, the text '4 pcs boxer shorts for women' remains in the center of the frame, fully presenting the complete look of the entire product set.
 [Background Sound]:
 - Upbeat TikTok-style Russian pop electronic dance track with a brisk rhythm and EDM elements, medium-high volume, catchy melody, distinct drum beats, and a playful, sweet female vocal performance. It fits the lively sharing atmosphere of a product marketing short video, enhancing the video's sense of rhythm and user immersion.
@@ -70,7 +69,7 @@ Shot 5:
 ```text
 [Style]: 简洁写实的家居好物展示风，画面干净无冗余元素，色彩还原自然真实，全程以产品细节展示为核心，突出女式平角短裤的材质与款式优势。
 [Environment]: 平整干净的浅米色居家桌面，光线均匀铺满整个台面，桌面无多余杂物，仅有序陈列四条待展示的女式平角短裤，营造出清爽整洁的居家好物分享场景。
-[Tone & Pacing]: 抖音好物分享UGC风格，轻松明快，节奏紧凑有序，每款短裤的展示时长分配均衡，运镜流畅自然，全程聚焦产品细节，让观众清晰直观地了解产品特点。
+[Tone & Pacing]: TikTok好物分享UGC风格，轻松明快，节奏紧凑有序，每款短裤的展示时长分配均衡，运镜流畅自然，全程聚焦产品细节，让观众清晰直观地了解产品特点。
 [Camera]: 第一人称俯视固定拍摄视角，全程对准平铺短裤的桌面区域，搭配轻微的镜头移动，清晰捕捉手部拉扯、抚平短裤的每一个动作细节，完整呈现短裤的版型与面料状态。
 [Lighting]: 均匀柔和的室内顶光自然光，光线没有明显的生硬阴影，均匀洒在浅米色桌面和短裤面料上，精准还原短裤的真实色彩与细腻的面料纹理。
 [Character]: 东亚20-30岁青年女性的一双手出镜，手部皮肤细腻光滑，指甲修剪整齐带有自然淡粉美甲，手臂线条纤细匀称，动作利落温柔，自带居家好物分享的亲和质感。
@@ -98,7 +97,7 @@ Shot 4:
   - 口播: ПОДПИШИСЬ!
 Shot 5:
   - 时长: 10.0sec - 12.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 双手将四条短裤统一调整至整齐有序的陈列状态，最后从画面中移出，镜头定格在四条完整平铺、排列规整的女式平角短裤画面上，画面中间依然保留“4 pcs boxer shorts for women”的文字，完整呈现整套产品的全貌。
 [Background Sound]:
 - 欢快的TikTok风格俄语流行电子舞曲，节奏轻快带电子舞曲元素，音量中等偏高，旋律抓耳、鼓点清晰，带有俏皮甜腻的女声演唱，适配带货短视频的活泼分享氛围，强化视频节奏感与用户沉浸感。
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-sports-936647](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-sports-936647?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-sports-936647)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-sports-936647](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-sports-936647?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-sports-936647)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

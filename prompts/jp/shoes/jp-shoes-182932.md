@@ -1,6 +1,6 @@
 ---
 id: jp-shoes-182932
-title: "バランスケアスリッパ おしゃれ 洗える スリッパ 体幹 はくだけ ルームシューズ 健康スリッパ かわいい 室内 美脚 姿勢 — Handheld Demo (Japan · Shoes)"
+title: "バランスケアスリッパ おしゃれ… — Handheld Demo (Japan · Shoes)"
 market: jp
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676457504314182932
 creator: "@hana.diet40kg"
 published: 2026-08-21
 ---
-# バランスケアスリッパ おしゃれ 洗える スリッパ 体幹 はくだけ ルームシューズ 健康スリッパ かわいい 室内 美脚 姿勢 — Handheld Demo (Japan · Shoes)
+# バランスケアスリッパ おしゃれ… — Handheld Demo (Japan · Shoes)
 **Weekly #1** · 🇯🇵 Japan · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676457504314182932) by [@hana.diet40kg](https://www.tiktok.com/@hana.diet40kg). Format: **Handheld Demo** · 24s · hook: **Result First** · On-camera host · Discount, Coupon
-**Opening line (from the video):** “This is a viral slipper! Go check the discount coupon”
+**Opening line (translated from the video):** “This is a viral slipper! Go check the discount coupon”
 
 **Pain point it attacks:** Poor posture, foot edema, bad balance
 
@@ -81,7 +80,6 @@ Shot 9:
   - Duration: 17.0sec - 19.0sec
   - Scene Type: Demonstrate ease of use
   - Scene: First-person close-up of the hands. A pair of hands pulls the entire toe-simulating component out of the slipper body. The component can be easily pinched in the hand, demonstrating its soft, detachable and easy-to-clean design feature. The camera stays close to the hand movements, fully presenting the entire process of removing the component.
-  - Subject: ご視聴ありがとうございました。
 [Background Sound]:
 - Very upbeat TikTok-style background music with a brisk, lively rhythm, moderately high volume, electronic drum beats and playful synth melodies, featuring a Japanese cute + trendy fast-paced style. The overall atmosphere is relaxed with a hint of excitement, perfectly matching the urgency of limited-time offers and flash sales.
 [Transition / Editing]:
@@ -141,7 +139,6 @@ Shot 9:
   - 时长: 17.0sec - 19.0sec
   - 镜头类型: 展示易用性
   - 画面: 第一人称手部特写，一双手将拖鞋上的模拟脚趾部件整个从鞋身中取出，部件可以被轻松捏在手中，展示其可拆卸、方便清洗的柔软设计特性，镜头近距离对准手部动作，完整呈现取出部件的全过程。
-  - 口播: ご視聴ありがとうございました。
 Shot 10:
   - 时长: 19.0sec - 20.0sec
   - 镜头类型: 展示易用性
@@ -162,4 +159,4 @@ Shot 12:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-shoes-182932](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-shoes-182932?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-shoes-182932)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-shoes-182932](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-shoes-182932?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-shoes-182932)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

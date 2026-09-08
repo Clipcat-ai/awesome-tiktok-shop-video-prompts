@@ -1,6 +1,6 @@
 ---
 id: es-books-567574
-title: "[Ofertas de hoy] Te lo mereces Recetas tradicionales olvidadas — Promo Pitch (Spain · Books, Magazines & Audio)"
+title: "[Ofertas de hoy] Te lo mereces… — Promo Pitch (Spain · Books, Magazines & Audio)"
 market: es
 category: books-magazines-audio
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674671384848567574
 creator: "@soy.surf"
 published: 2026-08-16
 ---
-# [Ofertas de hoy] Te lo mereces Recetas tradicionales olvidadas — Promo Pitch (Spain · Books, Magazines & Audio)
+# [Ofertas de hoy] Te lo mereces… — Promo Pitch (Spain · Books, Magazines & Audio)
 **Weekly #1** · 🇪🇸 Spain · Books, Magazines & Audio · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674671384848567574) by [@soy.surf](https://www.tiktok.com/@soy.surf). Format: **Promo Pitch** · 43s · hook: **Curiosity Gap** · Hands only · Discount
-**Opening line (from the video):** “Boiling garlic with angry anthropomorphic characters shout, saying results will surprise you”
+**Opening line (translated from the video):** “Boiling garlic with angry anthropomorphic characters shout, saying results will surprise you”
 
 **Pain point it attacks:** Can't find forgotten traditional folk health remedies
 
@@ -29,7 +28,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 
 ## Prompt (English)
 ```text
-[Style]: Douyin product sales style, combining playful anthropomorphic cartoon animation with real book displays, presenting product information in a relaxed and intuitive way, creating a daily life vibe of sharing great finds.
+[Style]: TikTok product sales style, combining playful anthropomorphic cartoon animation with real book displays, presenting product information in a relaxed and intuitive way, creating a daily life vibe of sharing great finds.
 [Environment]: The opening scene is a warm kitchen with a retro texture, where condiment jars, woven placemats and green plants are arranged scatteredly on the wooden shelf in the background, and the light is warm and cozy; then the scene switches to an outdoor glass tabletop, where sunlight filters through the glass casting golden light and shadows, with clear reflections on the tabletop, making the overall environment bright and comfortable.
 [Tone & Pacing]: The overall rhythm is lively and smooth. The opening uses fun animation to quickly grab the audience's attention, then the camera slowly focuses on the details of the book, matching the natural rhythm of fingers flipping the pages. The pace slows down appropriately when showing the cover and purchase guidance at the end, guiding the audience to complete the viewing action.
 [Camera]: The opening uses a fixed full-shot to show the playful animation of garlic being boiled on the stove, then switches to a first-person close-up perspective, shooting the book pages and the action of fingers flipping the pages at close range. The camera moves slowly following the direction the fingers point, accurately focusing on the text and images on the page, maintaining a stable and smooth shooting effect.
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 7.5sec - 9.5sec
   - Scene Type: Product design highlights
   - Scene: The camera switches to the outdoor glass tabletop, showing the categorized index inner page of the book. An adult's right index finger rests steadily on the page number marked 198. The page is arranged with jar patterns simulating the shelves of a herbal shop, and each jar is marked with its corresponding number and name.
-  - Subject: Déjanos mostrarte  A ver, mira, por aquí está, página 102
+  - Subject: Déjanos mostrarte A ver, mira, por aquí está, página 102
 Shot 3:
   - Duration: 9.5sec - 18.5sec
   - Scene Type: Ingredient analysis
@@ -61,7 +60,7 @@ Shot 5:
   - Duration: 23.0sec - 28.5sec
   - Scene Type: Product design highlights
   - Scene: The finger flips the page back to the categorized index page full of patterns simulating herbal shop shelves. The fingertip slowly glides over the numbered 'medicine jar' patterns, fully demonstrating the creative layout design of the entire book that resembles the shelves of a real herbal shop.
-  - Subject: Me encanta este libro porque es como tener ...una repisa real de una arbolatería...  ...sólo tienes que buscar lo que te ocurra...
+  - Subject: Me encanta este libro porque es como tener ...una repisa real de una arbolatería... ...sólo tienes que buscar lo que te ocurra...
 Shot 6:
   - Duration: 28.5sec - 34.0sec
   - Scene Type: Build suspense
@@ -79,7 +78,7 @@ Shot 7:
 ```
 ## 提示词（中文）
 ```text
-[Style]: 抖音带货风格，融合趣味拟人卡通动画与真实书籍展示，用轻松直观的方式呈现产品信息，营造出生活化的好物分享氛围。
+[Style]: TikTok带货风格，融合趣味拟人卡通动画与真实书籍展示，用轻松直观的方式呈现产品信息，营造出生活化的好物分享氛围。
 [Environment]: 开篇是充满复古质感的温馨厨房场景，背景木质搁板上错落摆放着调料罐、编织餐布与绿植，光线暖融融的；随后切换到户外玻璃桌面旁，阳光透过玻璃洒下带金色光影，桌面倒影清晰，整体环境明亮舒适。
 [Tone & Pacing]: 整体节奏明快流畅，开篇用趣味动画迅速抓住观众注意力，随后镜头慢慢聚焦书籍细节，配合手指翻动书页的自然节奏，最后展示封面与购买引导时适当放慢节奏，引导观众完成观看动作。
 [Camera]: 开篇采用固定全景镜头展示灶台煮大蒜的趣味动画，随后切换到第一人称特写视角，近距离拍摄书籍页面与手指翻动书页的动作，镜头跟随手指的指向缓缓移动，精准聚焦页面上的文字与图片，保持稳定流畅的拍摄效果。
@@ -96,7 +95,7 @@ Shot 2:
   - 时长: 7.5sec - 9.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 镜头切换到户外玻璃桌面，展示书籍的分类索引内页，一只成年人的右手食指稳稳点在页码标注198的位置，页面上排列着模拟草药铺货架的罐子图案，每个罐子旁都标注着对应的编号与名称。
-  - 口播: Déjanos mostrarte  A ver, mira, por aquí está, página 102
+  - 口播: Déjanos mostrarte A ver, mira, por aquí está, página 102
 Shot 3:
   - 时长: 9.5sec - 18.5sec
   - 镜头类型: 成分解析
@@ -111,7 +110,7 @@ Shot 5:
   - 时长: 23.0sec - 28.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 手指把书页翻回全页模拟草药铺货架图案的分类索引页，指尖在印有编号的“药罐”图案上慢慢划过，完整展示出全书如同真实草药铺货架般的创意排版设计。
-  - 口播: Me encanta este libro porque es como tener ...una repisa real de una arbolatería...  ...sólo tienes que buscar lo que te ocurra...
+  - 口播: Me encanta este libro porque es como tener ...una repisa real de una arbolatería... ...sólo tienes que buscar lo que te ocurra...
 Shot 6:
   - 时长: 28.5sec - 34.0sec
   - 镜头类型: 制造悬念
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-books-567574](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-books-567574?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-books-567574)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-books-567574](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-books-567574?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-books-567574)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

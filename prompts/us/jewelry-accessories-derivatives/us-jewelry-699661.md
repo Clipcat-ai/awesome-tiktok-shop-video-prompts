@@ -1,6 +1,6 @@
 ---
 id: us-jewelry-699661
-title: "Men's Cool Stainless Steel Customized Initial Fashion Necklace — Product Close-Up (United States · Jewelry Accessories & Derivatives)"
+title: "Men's Cool Stainless Steel… — Product Close-Up (United States · Jewelry Accessories & Derivatives)"
 market: us
 category: jewelry-accessories-derivatives
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667030296960699661
 creator: "@joycejewelry09"
 published: 2026-07-27
 ---
-# Men's Cool Stainless Steel Customized Initial Fashion Necklace — Product Close-Up (United States · Jewelry Accessories & Derivatives)
+# Men's Cool Stainless Steel… — Product Close-Up (United States · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇺🇸 United States · Jewelry Accessories & Derivatives · week of 2026-08-10
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667030296960699661) by [@joycejewelry09](https://www.tiktok.com/@joycejewelry09). Format: **Product Close-Up** · 10s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “I carry my longing for him on my chest”
+**Opening beat:** “I carry my longing for him on my chest”
 
 **Key visuals:** Black Acrylic Countertop · Silver Necklace · Glass Cup · Microfiber Cloth · White Male · Black T-shirt · Water
 
@@ -98,4 +97,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-jewelry-699661](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-jewelry-699661?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-jewelry-699661)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-jewelry-699661](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-jewelry-699661?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-jewelry-699661)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: jp-fashion-846933
-title: "Fashion Street Style Vintage Baseball Cap with Embroidered Let — Handheld Demo (Japan · Fashion Accessories)"
+title: "Fashion Street Style Vintage… — Handheld Demo (Japan · Fashion Accessories)"
 market: jp
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7663400514603846933
 creator: "@lacemonde07"
 published: 2026-07-17
 ---
-# Fashion Street Style Vintage Baseball Cap with Embroidered Let — Handheld Demo (Japan · Fashion Accessories)
+# Fashion Street Style Vintage… — Handheld Demo (Japan · Fashion Accessories)
 **Weekly #1** · 🇯🇵 Japan · Fashion Accessories · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7663400514603846933) by [@lacemonde07](https://www.tiktok.com/@lacemonde07). Format: **Handheld Demo** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “This distressed look is perfect for my style”
+**Opening line (translated from the video):** “This distressed look is perfect for my style”
 
 **Key visuals:** Baseball Cap · Embroidered Letter · Distressed Fabric · Denim Jacket · Windbreaker · Forest Trail · White Book
 
@@ -52,7 +51,7 @@ Shot 3:
   - Subject: 気出しかった 私の実用性も抜群5色アルト
 Shot 4:
   - Duration: 9.5sec - 12.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: Returning to the solid studio background, the girl keeps her denim jacket outfit, with the black baseball cap on her head. She raises a beige baseball cap of the same style with her right hand, displaying the two caps side by side in turn to intuitively show the audience the difference between the two colorways. The camera stably captures the full view of the character and the two caps throughout the shot.
   - Subject: 私のコーデも楽しく気になる色は?
 Shot 5:
@@ -92,7 +91,7 @@ Shot 3:
   - 口播: 気出しかった 私の実用性も抜群5色アルト
 Shot 4:
   - 时长: 9.5sec - 12.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 回到纯色影棚背景，女生依旧穿着牛仔外套造型，头上戴着黑色棒球帽，右手举起一顶同款式的米色棒球帽，将两顶帽子放在身侧依次展示，向观众直观呈现两种不同配色的款式区别，镜头全程稳定捕捉人物与两顶帽子的完整画面。
   - 口播: 私のコーデも楽しく気になる色は?
 Shot 5:
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-fashion-846933](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-fashion-846933?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-fashion-846933)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-fashion-846933](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-fashion-846933?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-fashion-846933)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

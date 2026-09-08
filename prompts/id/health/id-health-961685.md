@@ -1,6 +1,6 @@
 ---
 id: id-health-961685
-title: "Kapsul Herbal Gurah Pernapasan Lega BPOM Halal — Talking Head (Indonesia · Health)"
+title: "Kapsul Herbal Gurah Pernapasan… — Talking Head (Indonesia · Health)"
 market: id
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7613213836274961685
 creator: "@saqof.store"
 published: 2026-03-04
 ---
-# Kapsul Herbal Gurah Pernapasan Lega BPOM Halal — Talking Head (Indonesia · Health)
+# Kapsul Herbal Gurah Pernapasan… — Talking Head (Indonesia · Health)
 **Weekly #1** · 🇮🇩 Indonesia · Health · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7613213836274961685) by [@saqof.store](https://www.tiktok.com/@saqof.store). Format: **Talking Head** · 46s · hook: **Pain Point** · On-camera host · Discount
-**Opening line (from the video):** “Do you know how to get rid of the phlegm accumulated in your respiratory tract?”
+**Opening line (translated from the video):** “Do you know how to get rid of the phlegm accumulated in your respiratory tract?”
 
 **Pain point it attacks:** Phlegm accumulates in respiratory tract and is hard to expel, causing sore throat
 
@@ -41,12 +40,12 @@ Shot 1:
   - Duration: 0.0sec - 19.0sec
   - Scene Type: Highlight the pain point problem
   - Scene: The host sits in front of a black professional microphone, in a relaxed and proper posture, facing the camera to share common daily troubles related to respiratory health. He occasionally makes small, gentle hand gestures to assist his expression during the process, with natural and vivid facial expressions. Red title text briefly pops up in the center of the frame, then yellow Indonesian subtitles appear synchronously at the bottom of the screen. The stable medium close-up composition is maintained throughout the shot
-  - Subject: Udah tau belum cara ngeluarin dahak yang menumpuk di saluranmu? penapasan yang bikin tenggorokan nggak enak tiap ...dan susah banget keluarnya.  Ada cara simpel... ...dan alami buat bersihin saluran nafas dari lendir... namanya metode gurah.  Tapi tenang, ini bukan di TT. Sekarang metode gurah hadir dalam bentuk kapsul
+  - Subject: Udah tau belum cara ngeluarin dahak yang menumpuk di saluranmu? penapasan yang bikin tenggorokan nggak enak tiap ...dan susah banget keluarnya. Ada cara simpel... ...dan alami buat bersihin saluran nafas dari lendir... namanya metode gurah. Tapi tenang, ini bukan di TT. Sekarang metode gurah hadir dalam bentuk kapsul
 Shot 2:
   - Duration: 19.0sec - 47.0sec
   - Scene Type: Show the product while holding it
   - Scene: The host takes out a box of herbal capsule product from in front of him, gently holds both sides of the product box with both hands, steadily lifts the product next to the microphone facing the camera, and frontally displays the brand logo and turmeric herbal pattern on the product packaging. He keeps his hand posture stable while speaking, so that viewers can clearly see the product appearance. Yellow Indonesian subtitles keep appearing at the bottom of the screen, and the camera position remains stable throughout the shot
-  - Subject: Betul, lebih praktis.  Klik dulu deh keranjang kuning di kiri bawah. Ini dia kapsul herbal gurah. Bersihkan saluran penapasan.  Bantu bersihkan lendir. ...dan dahak dari hidung, tenggorokan, hingga paru-paru... Dulu gura harus ditetes.  Sekarang-kadang cukup diminum. Tanpa Tanaman herbalnya tetap sama  Tapi dikemas monopaknya Tinggal minum bisa kapan aja dimana aja. praktis dan tetap ampuh. Yuk klik ranjang kuning sekarang Terima kasih. dan bangga buatan Indonesia.
+  - Subject: Betul, lebih praktis. Klik dulu deh keranjang kuning di kiri bawah. Ini dia kapsul herbal gurah. Bersihkan saluran penapasan. Bantu bersihkan lendir. ...dan dahak dari hidung, tenggorokan, hingga paru-paru... Dulu gura harus ditetes. Sekarang-kadang cukup diminum. Tanpa Tanaman herbalnya tetap sama Tapi dikemas monopaknya Tinggal minum bisa kapan aja dimana aja. praktis dan tetap ampuh. Yuk klik ranjang kuning sekarang Terima kasih. dan bangga buatan Indonesia.
 [Background Sound]:
 - No background music at all; only the natural human voice captured by the microphone is retained throughout the whole video. The speech is clear and steady, with no extra ambient noise, creating a genuine and professional sharing atmosphere
 [Transition / Editing]:
@@ -66,12 +65,12 @@ Shot 1:
   - 时长: 0.0sec - 19.0sec
   - 镜头类型: 点明痛点问题
   - 画面: 主播坐在黑色专业麦克风前，姿态放松端正，正对着镜头分享呼吸健康相关的日常困扰，过程中偶尔抬起手做出小幅的手势辅助表达，手部动作幅度轻柔，表情自然生动。画面中间曾短暂弹出红色标题文字，之后画面下方同步出现黄色的印尼语字幕，全程保持稳定的中近景构图。
-  - 口播: Udah tau belum cara ngeluarin dahak yang menumpuk di saluranmu? penapasan yang bikin tenggorokan nggak enak tiap ...dan susah banget keluarnya.  Ada cara simpel... ...dan alami buat bersihin saluran nafas dari lendir... namanya metode gurah.  Tapi tenang, ini bukan di TT. Sekarang metode gurah hadir dalam bentuk kapsul
+  - 口播: Udah tau belum cara ngeluarin dahak yang menumpuk di saluranmu? penapasan yang bikin tenggorokan nggak enak tiap ...dan susah banget keluarnya. Ada cara simpel... ...dan alami buat bersihin saluran nafas dari lendir... namanya metode gurah. Tapi tenang, ini bukan di TT. Sekarang metode gurah hadir dalam bentuk kapsul
 Shot 2:
   - 时长: 19.0sec - 47.0sec
   - 镜头类型: 手持商品展示
   - 画面: 主播从身前取出一盒草本胶囊产品，双手轻轻托住包装盒两侧，将产品平稳地举到麦克风旁面向镜头，正面展示产品包装盒上的品牌标识和姜黄草本图案，说话的同时保持手部姿势稳定，方便观众清晰看清产品外观。画面下方持续出现黄色的印尼语字幕，全程保持机位稳定。
-  - 口播: Betul, lebih praktis.  Klik dulu deh keranjang kuning di kiri bawah. Ini dia kapsul herbal gurah. Bersihkan saluran penapasan.  Bantu bersihkan lendir. ...dan dahak dari hidung, tenggorokan, hingga paru-paru... Dulu gura harus ditetes.  Sekarang-kadang cukup diminum. Tanpa Tanaman herbalnya tetap sama  Tapi dikemas monopaknya Tinggal minum bisa kapan aja dimana aja. praktis dan tetap ampuh. Yuk klik ranjang kuning sekarang Terima kasih. dan bangga buatan Indonesia.
+  - 口播: Betul, lebih praktis. Klik dulu deh keranjang kuning di kiri bawah. Ini dia kapsul herbal gurah. Bersihkan saluran penapasan. Bantu bersihkan lendir. ...dan dahak dari hidung, tenggorokan, hingga paru-paru... Dulu gura harus ditetes. Sekarang-kadang cukup diminum. Tanpa Tanaman herbalnya tetap sama Tapi dikemas monopaknya Tinggal minum bisa kapan aja dimana aja. praktis dan tetap ampuh. Yuk klik ranjang kuning sekarang Terima kasih. dan bangga buatan Indonesia.
 [Background Sound]:
 - 无背景音乐，全程保留麦克风收音的自然人声，语音清晰沉稳，无多余环境杂音，营造真实专业的分享氛围
 [Transition / Editing]:
@@ -80,4 +79,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-health-961685](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-health-961685?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-health-961685)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-health-961685](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-health-961685?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-health-961685)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

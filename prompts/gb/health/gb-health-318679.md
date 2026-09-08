@@ -1,6 +1,6 @@
 ---
 id: gb-health-318679
-title: "Supreme CBD Gummy — Promo Pitch (United Kingdom · Health)"
+title: "Supreme CBD Gummy (4800mg), Super… — Promo Pitch (United Kingdom · Health)"
 market: gb
 category: health
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7631493534201318679
 creator: "@moviesreaction3"
 published: 2026-04-22
 ---
-# Supreme CBD Gummy — Promo Pitch (United Kingdom · Health)
+# Supreme CBD Gummy (4800mg), Super… — Promo Pitch (United Kingdom · Health)
 **Weekly #1** · 🇬🇧 United Kingdom · Health · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7631493534201318679) by [@moviesreaction3](https://www.tiktok.com/@moviesreaction3). Format: **Promo Pitch** · 7s · hook: **Benefit First** · On-camera host · Discount, Free gift
-**Opening line (from the video):** “TikTok's price right now is definitely a win for your wallet”
+**Opening line (quoted from the video):** “TikTok's price right now is definitely a win for your wallet”
 
 **Pain point it attacks:** Bought at a higher price before, afraid of missing deals
 
@@ -80,4 +79,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-health-318679](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-health-318679?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-health-318679)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-health-318679](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-health-318679?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-health-318679)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

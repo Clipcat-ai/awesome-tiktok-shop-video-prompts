@@ -1,6 +1,6 @@
 ---
 id: id-furniture-173328
-title: "LEMARI PLASTIK TABITHA STORIA LEMARI PAKAIAN KUNCI KACA PUTIH — Talking Head (Indonesia · Furniture)"
+title: "LEMARI PLASTIK TABITHA STORIA… — Talking Head (Indonesia · Furniture)"
 market: id
 category: furniture
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7652174614944173328
 creator: "@ggmajujaya"
 published: 2026-06-17
 ---
-# LEMARI PLASTIK TABITHA STORIA LEMARI PAKAIAN KUNCI KACA PUTIH — Talking Head (Indonesia · Furniture)
+# LEMARI PLASTIK TABITHA STORIA… — Talking Head (Indonesia · Furniture)
 **Weekly #1** · 🇮🇩 Indonesia · Furniture · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7652174614944173328) by [@ggmajujaya](https://www.tiktok.com/@ggmajujaya). Format: **Talking Head** · 8s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “Look at this new wardrobe, it has modern design, large capacity and mirror”
+**Opening line (translated from the video):** “Look at this new wardrobe, it has modern design, large capacity and mirror”
 
 **Pain point it attacks:** Insufficient home storage space
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-furniture-173328](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-furniture-173328?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-furniture-173328)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-furniture-173328](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-furniture-173328?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-furniture-173328)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

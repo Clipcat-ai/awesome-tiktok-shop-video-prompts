@@ -1,6 +1,6 @@
 ---
 id: br-phones-533202
-title: "2026 NFC Mais Recente SmartwatchRelógio inteligente Série lWO — Promo Pitch (Brazil · Phones & Electronics)"
+title: "2026 NFC Mais Recente… — Promo Pitch (Brazil · Phones & Electronics)"
 market: br
 category: phones-electronics
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7671699840417533202
 creator: "@sobrerodasbrofc"
 published: 2026-08-08
 ---
-# 2026 NFC Mais Recente SmartwatchRelógio inteligente Série lWO — Promo Pitch (Brazil · Phones & Electronics)
+# 2026 NFC Mais Recente… — Promo Pitch (Brazil · Phones & Electronics)
 **Weekly #1** · 🇧🇷 Brazil · Phones & Electronics · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671699840417533202) by [@sobrerodasbrofc](https://www.tiktok.com/@sobrerodasbrofc). Format: **Promo Pitch** · 18s · hook: **Result First** · Hands only · Discount
-**Opening line (from the video):** “Production doesn't stop, selling very well, come grab your smartwatch”
+**Opening line (translated from the video):** “Production doesn't stop, selling very well, come grab your smartwatch”
 
 **Pain point it attacks:** Can't find cost-effective smartwatch
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-phones-533202](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-phones-533202?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-phones-533202)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-phones-533202](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-phones-533202?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-phones-533202)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

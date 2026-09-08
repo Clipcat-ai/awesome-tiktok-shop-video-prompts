@@ -1,6 +1,6 @@
 ---
 id: de-menswear-782285
-title: "Y2K High - Street Religious - Themed Tee With 'We Are Creation — OOTD Showcase (Germany · Menswear & Underwear)"
+title: "Y2K High - Street Religious… — OOTD Showcase (Germany · Menswear & Underwear)"
 market: de
 category: menswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676886076941782285
 creator: "@feegopod05"
 published: 2026-08-22
 ---
-# Y2K High - Street Religious - Themed Tee With 'We Are Creation — OOTD Showcase (Germany · Menswear & Underwear)
+# Y2K High - Street Religious… — OOTD Showcase (Germany · Menswear & Underwear)
 **Weekly #1** · 🇩🇪 Germany · Menswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676886076941782285) by [@feegopod05](https://www.tiktok.com/@feegopod05). Format: **OOTD Showcase** · 15s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A tough white man in white T-shirt and black pants turns in attic to show outfit”
+**Opening beat:** “A tough white man in white T-shirt and black pants turns in attic to show outfit”
 
 **Key visuals:** Attic · White T-shirt · Black Wide-leg Pants · Chain Cross Print · Natural Light · Glass Railing · Synthetic Music
 
@@ -98,4 +97,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-menswear-782285](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-menswear-782285?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-menswear-782285)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-menswear-782285](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-menswear-782285?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-menswear-782285)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

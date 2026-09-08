@@ -1,6 +1,6 @@
 ---
 id: mx-collectibles-297170
-title: "Lona Impresa 1x1 Personalizada Publicidad — Handheld Demo (Mexico · Collectibles)"
+title: "Lona Impresa 1x1 Personalizada… — Handheld Demo (Mexico · Collectibles)"
 market: mx
 category: collectibles
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678190915529297170
 creator: "@gissviews"
 published: 2026-08-26
 ---
-# Lona Impresa 1x1 Personalizada Publicidad — Handheld Demo (Mexico · Collectibles)
+# Lona Impresa 1x1 Personalizada… — Handheld Demo (Mexico · Collectibles)
 **Weekly #1** · 🇲🇽 Mexico · Collectibles · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678190915529297170) by [@gissviews](https://www.tiktok.com/@gissviews). Format: **Handheld Demo** · 51s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “If you want to order a custom banner online, I recommend this one I found on TikTok Shop”
+**Opening line (translated from the video):** “If you want to order a custom banner online, I recommend this one I found on TikTok Shop”
 
 **Key visuals:** Pink Textured Wall · Custom Canvas Banner · White Packaging · Brand Logos · Light Tile Floor · Orange Cart Icon · Neon Shopping Bag Pattern
 
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-collectibles-297170](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-collectibles-297170?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-collectibles-297170)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-collectibles-297170](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-collectibles-297170?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-collectibles-297170)
-🤖 **Driving an AI agent?** `clipcat prompt search "Collectibles"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Collectibles handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

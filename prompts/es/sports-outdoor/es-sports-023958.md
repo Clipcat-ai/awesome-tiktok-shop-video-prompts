@@ -1,6 +1,6 @@
 ---
 id: es-sports-023958
-title: "Women's Seamless Yoga Pants — Handheld Demo (Spain · Sports & Outdoor)"
+title: "Women's Seamless Yoga Pants… — Handheld Demo (Spain · Sports & Outdoor)"
 market: es
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679869164110023958
 creator: "@favoritosdevega"
 published: 2026-08-30
 ---
-# Women's Seamless Yoga Pants — Handheld Demo (Spain · Sports & Outdoor)
+# Women's Seamless Yoga Pants… — Handheld Demo (Spain · Sports & Outdoor)
 **Weekly #1** · 🇪🇸 Spain · Sports & Outdoor · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679869164110023958) by [@favoritosdevega](https://www.tiktok.com/@favoritosdevega). Format: **Handheld Demo** · 15s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Are you still looking for the perfect training leggings without spending a fortune”
+**Opening line (translated from the video):** “Are you still looking for the perfect training leggings without spending a fortune”
 
 **Pain point it attacks:** Can't find suitable training leggings without spending much
 
@@ -51,8 +50,7 @@ Shot 3:
   - Duration: 8.0sec - 11.5sec
   - Scene Type: Product design highlights
   - Scene: The creator turns back to face the camera, uses her fingers to pinch the high waistband of the leggings, gently pulls it up and then releases it to demonstrate the comfortable elasticity of the waistband that does not dig into the belly. She then naturally lowers her hands and adjusts her standing posture to let the camera fully present the smooth, figure-hugging lines from the waist and abdomen down to the thighs.
-  - Subject: La tela es súper suave de la tela
-de secado rápido y la cintura moldea increíble sin apretar nada...
+  - Subject: La tela es súper suave de la tela de secado rápido y la cintura moldea increíble sin apretar nada...
 Shot 4:
   - Duration: 11.5sec - 15.0sec
   - Scene Type: Checkout process guidance
@@ -92,8 +90,7 @@ Shot 3:
   - 时长: 8.0sec - 11.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 博主转回正面面向镜头，双手手指捏住leggings的高腰腰头，轻轻向上提拉又松开，展示腰头不勒肚子的舒适弹力，随后自然收回双手，调整站姿让镜头完整呈现腰腹到大腿的流畅修身线条。
-  - 口播: La tela es súper suave de la tela
-de secado rápido y la cintura moldea increíble sin apretar nada...
+  - 口播: La tela es súper suave de la tela de secado rápido y la cintura moldea increíble sin apretar nada...
 Shot 4:
   - 时长: 11.5sec - 15.0sec
   - 镜头类型: 下单流程指引
@@ -112,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-sports-023958](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-sports-023958?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-sports-023958)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-sports-023958](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-sports-023958?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-sports-023958)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

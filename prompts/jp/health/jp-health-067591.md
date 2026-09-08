@@ -19,9 +19,8 @@ published: 2026-08-23
 ---
 # Ankle Band（アンクルバンド）半透明 — Real Review (Japan · Health)
 **Weekly #1** · 🇯🇵 Japan · Health · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677218654836067591) by [@oyabin315](https://www.tiktok.com/@oyabin315). Format: **Real Review** · 28s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “I've used it for 2 months, it's safe when walking, my metabolism improved”
+**Opening line (translated from the video):** “I've used it for 2 months, it's safe when walking, my metabolism improved”
 
 **Key visuals:** Ankle Band · Wooden Floor · Black Pants · Foot Skin · Indoor Light · Japanese Text
 
@@ -39,27 +38,22 @@ Shot 1:
   - Duration: 0.0sec - 4.5sec
   - Scene Type: Product usage scene
   - Scene: Low-angle camera aimed at the character's bare feet standing on the wood grain floor. A black foot ring is worn on the right ankle, then the character slowly lifts the left foot and puts the foot ring with a transparent section onto the left ankle. The character alternately lifts each foot and rotates the ankles to show the wearing state of the foot rings, with corresponding Japanese explanatory text overlaid on the screen.
-  - Subject: アンクルバンド2ヶ月懸賞生活
-正直予想会でした。起きてる時、安心。
+  - Subject: アンクルバンド2ヶ月懸賞生活 正直予想会でした。起きてる時、安心。
 Shot 2:
   - Duration: 4.5sec - 11.5sec
   - Scene Type: Product effectiveness
   - Scene: The character continues to alternately lift both feet and walks slowly in place, showing the active state of both feet wearing different colored foot rings from multiple front and side angles. The camera slightly adjusts the frame position following the foot movements, while Japanese text introducing usage scenarios and physical changes is displayed on the screen at the same time.
-  - Subject: フルバット装着して生活して私の体重は
-新人代謝が良くなり健康的に変化
+  - Subject: フルバット装着して生活して私の体重は 新人代謝が良くなり健康的に変化
 Shot 3:
   - Duration: 11.5sec - 19.5sec
   - Scene Type: Product effectiveness
   - Scene: The character stands with both feet side by side on the floor, alternately lifting one heel and flipping the ankle backward, clearly showing the full shape of the foot ring at the heel position and its wearing fit. Japanese text explaining the principle of how the product improves physical state is overlaid on the screen.
-  - Subject: 感性的腰痛が日に日に和らいで楽に
-なり、姿勢もシュット!これはアクロバンドで
+  - Subject: 感性的腰痛が日に日に和らいで楽に なり、姿勢もシュット!これはアクロバンドで
 Shot 4:
   - Duration: 19.5sec - 27.0sec
   - Scene Type: Ease of use demonstration
   - Scene: The character squats on the floor with one knee bent, picks up a transparent foot ring in hand, slips the foot ring over the top of the foot, then pulls both ends of the foot ring backward to adjust it to the correct wearing position that fits the arch and ankle. The character uses both hands to repeatedly adjust the edges of the foot ring to ensure it is worn smoothly and snugly, while Japanese text explaining the product's mechanism of action is displayed on the screen.
-  - Subject: 足の裏のアーチを正しく形成することで、ぜひ、
-肩甲斐筋肉が正しく連動して動いてるから
-代謝が良くなる体づくりをサポートを
+  - Subject: 足の裏のアーチを正しく形成することで、ぜひ、 肩甲斐筋肉が正しく連動して動いてるから 代謝が良くなる体づくりをサポートを
 Shot 5:
   - Duration: 27.0sec - 28.5sec
   - Scene Type: Order process guidance
@@ -84,27 +78,22 @@ Shot 1:
   - 时长: 0.0sec - 4.5sec
   - 镜头类型: 产品使用场景
   - 画面: 低机位镜头对准人物的双脚，人物赤脚站立在原木色地板上，右脚脚踝佩戴黑色足环，随后人物缓慢抬起左脚，将带有透明部分的足环佩戴在左脚脚踝处，双脚交替抬脚、转动脚踝展示足环的穿戴状态，画面上叠加对应的日文说明文字。
-  - 口播: アンクルバンド2ヶ月懸賞生活
-正直予想会でした。起きてる時、安心。
+  - 口播: アンクルバンド2ヶ月懸賞生活 正直予想会でした。起きてる時、安心。
 Shot 2:
   - 时长: 4.5sec - 11.5sec
   - 镜头类型: 产品有效性
   - 画面: 人物继续交替抬起双脚，缓慢原地行走，从正面、侧面多角度展示双脚佩戴不同颜色足环后的活动状态，镜头跟随脚部移动轻微调整画面位置，画面同步展示介绍使用场景与身体变化的日文文字。
-  - 口播: フルバット装着して生活して私の体重は
-新人代謝が良くなり健康的に変化
+  - 口播: フルバット装着して生活して私の体重は 新人代謝が良くなり健康的に変化
 Shot 3:
   - 时长: 11.5sec - 19.5sec
   - 镜头类型: 产品有效性
   - 画面: 人物双脚并排站立在地板上，交替抬起单侧脚后跟，向后翻转脚踝，清晰展示足环在脚后跟位置的完整形态与佩戴贴合度，画面上叠加说明产品改善身体状态原理的日文文字。
-  - 口播: 感性的腰痛が日に日に和らいで楽に
-なり、姿勢もシュット!これはアクロバンドで
+  - 口播: 感性的腰痛が日に日に和らいで楽に なり、姿勢もシュット!これはアクロバンドで
 Shot 4:
   - 时长: 19.5sec - 27.0sec
   - 镜头类型: 展示易用性
   - 画面: 人物单脚屈膝蹲坐在地板上，手中拿起一只透明足环，将足环从脚面位置套入，随后向后拉拽足环两端，将足环调整至贴合足弓与脚踝的正确佩戴位置，双手反复调整足环边缘确保穿戴平整服帖，画面同步展示讲解产品作用机制的日文文字。
-  - 口播: 足の裏のアーチを正しく形成することで、ぜひ、
-肩甲斐筋肉が正しく連動して動いてるから
-代謝が良くなる体づくりをサポートを
+  - 口播: 足の裏のアーチを正しく形成することで、ぜひ、 肩甲斐筋肉が正しく連動して動いてるから 代謝が良くなる体づくりをサポートを
 Shot 5:
   - 时长: 27.0sec - 28.5sec
   - 镜头类型: 下单流程指引
@@ -118,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-health-067591](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-health-067591?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-health-067591)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-health-067591](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-health-067591?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-health-067591)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

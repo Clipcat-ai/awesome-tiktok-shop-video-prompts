@@ -1,6 +1,6 @@
 ---
 id: us-shoes-585037
-title: "Men’s steel-toe sports shoes — Handheld Demo (United States · Shoes)"
+title: "Men’s steel-toe sports shoes… — Handheld Demo (United States · Shoes)"
 market: us
 category: shoes
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7650346627143585037
 creator: "@davicitomg"
 published: 2026-06-12
 ---
-# Men’s steel-toe sports shoes — Handheld Demo (United States · Shoes)
+# Men’s steel-toe sports shoes… — Handheld Demo (United States · Shoes)
 **Weekly #1** · 🇺🇸 United States · Shoes · week of 2026-08-10
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7650346627143585037) by [@davicitomg](https://www.tiktok.com/@davicitomg). Format: **Handheld Demo** · 15s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Need heavy-duty protection without the weight?”
+**Opening line (quoted from the video):** “Need heavy-duty protection without the weight?”
 
 **Pain point it attacks:** Work shoes are heavy, not breathable, hard to balance protection and comfort
 
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-shoes-585037](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-shoes-585037?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-shoes-585037)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-shoes-585037](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-shoes-585037?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-shoes-585037)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

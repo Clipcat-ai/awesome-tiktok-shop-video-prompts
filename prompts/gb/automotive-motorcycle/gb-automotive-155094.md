@@ -1,6 +1,6 @@
 ---
 id: gb-automotive-155094
-title: "Zinc Alloy Car Keychain — Handheld Demo (United Kingdom · Automotive & Motorcycle)"
+title: "Zinc Alloy Car Keychain, Upgraded… — Handheld Demo (United Kingdom · Automotive & Motorcycle)"
 market: gb
 category: automotive-motorcycle
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679272717845155094
 creator: "@aimeewongen"
 published: 2026-08-29
 ---
-# Zinc Alloy Car Keychain — Handheld Demo (United Kingdom · Automotive & Motorcycle)
+# Zinc Alloy Car Keychain, Upgraded… — Handheld Demo (United Kingdom · Automotive & Motorcycle)
 **Weekly #1** · 🇬🇧 United Kingdom · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679272717845155094) by [@aimeewongen](https://www.tiktok.com/@aimeewongen). Format: **Handheld Demo** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “Do not lose your car keys again. You need to upgrade your daily carry”
+**Opening line (quoted from the video):** “Do not lose your car keys again. You need to upgrade your daily carry”
 
 **Pain point it attacks:** Car keys are easy to lose
 
@@ -51,7 +50,7 @@ Shot 3:
   - Duration: 10.5sec - 15.5sec
   - Scene Type: Promotional selling point highlight
   - Scene: The camera cuts back to a full-view shot of the bright living room, the person stands in the center of the frame, naturally waving the keychain in front of their body with their right hand, then briefly lifts their hand to hold the keychain up in front of the camera again for demonstration. The person faces the camera the entire time while performing product sharing actions in a relaxed, natural state, appearing as a half-body shot, finishing the sharing segment while demonstrating the product, conveying a strong willingness to recommend this great item.
-  - Subject: keys incredibly simple. It is universally compatible and super stylish.  Get yours today right here. Okay.
+  - Subject: keys incredibly simple. It is universally compatible and super stylish. Get yours today right here. Okay.
 [Background Sound]:
 - Extremely upbeat TikTok-style background music with a light, lively rhythm (approximately 120-130 BPM), moderately high volume, a pop beat driven by electronic synthesizers and drum hits, a catchy, energetic melody perfectly suited to modern lifestyle product promotion videos, creating an atmosphere of 'easily solving daily troubles + fashionable upgrades', an original track in the style of 'Upbeat Lifestyle Vibe' or 'Key to Your Day' that highlights the product's practicality and trendiness.
 [Transition / Editing]:
@@ -81,7 +80,7 @@ Shot 3:
   - 时长: 10.5sec - 15.5sec
   - 镜头类型: 促销卖点强推
   - 画面: 镜头切回明亮客厅的全景视角，人物站在画面中心，右手握着钥匙扣在身前自然挥动，随后短暂抬手再次将钥匙扣举到镜头前展示，全程面向镜头做产品分享动作，状态放松自然，人物半身出镜，边展示产品边对着镜头完成分享收尾，传递出强烈的好物安利意愿。
-  - 口播: keys incredibly simple. It is universally compatible and super stylish.  Get yours today right here. Okay.
+  - 口播: keys incredibly simple. It is universally compatible and super stylish. Get yours today right here. Okay.
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼（约120-130 BPM），音量适中偏高，带有电子合成器和鼓点驱动的流行节奏，旋律抓耳、充满活力，适合现代生活类带货视频，营造“轻松解决日常烦恼+时尚升级”的氛围，属于类似“Upbeat Lifestyle Vibe”或“Key to Your Day”风格的原创曲目，突出产品实用性和潮流感。
 [Transition / Editing]:
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-automotive-155094](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-automotive-155094?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-automotive-155094)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-automotive-155094](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-automotive-155094?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-automotive-155094)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

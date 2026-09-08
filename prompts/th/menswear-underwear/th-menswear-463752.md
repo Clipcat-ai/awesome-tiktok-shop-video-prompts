@@ -1,6 +1,6 @@
 ---
 id: th-menswear-463752
-title: "ออกแบบรู้สึกหลวม ๆ สบาย ๆ POLO เสื้อด้านบน 2026 ผ้าฝ้ายใหม่ฤดู — Product Close-Up (Thailand · Menswear & Underwear)"
+title: "ออกแบบรู้สึกหลวม ๆ สบาย ๆ POLO… — Product Close-Up (Thailand · Menswear & Underwear)"
 market: th
 category: menswear-underwear
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7676074692406463752
 creator: "@benyanit_22"
 published: 2026-08-20
 ---
-# ออกแบบรู้สึกหลวม ๆ สบาย ๆ POLO เสื้อด้านบน 2026 ผ้าฝ้ายใหม่ฤดู — Product Close-Up (Thailand · Menswear & Underwear)
+# ออกแบบรู้สึกหลวม ๆ สบาย ๆ POLO… — Product Close-Up (Thailand · Menswear & Underwear)
 **Weekly #1** · 🇹🇭 Thailand · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7676074692406463752) by [@benyanit_22](https://www.tiktok.com/@benyanit_22). Format: **Product Close-Up** · 10s · hook: **Result First** · No one on camera · Discount
-**Opening line (from the video):** “Crocodile Polo shirt, priced at 29”
+**Opening line (translated from the video):** “Crocodile Polo shirt, priced at 29”
 
 **Key visuals:** Gift Box · Polo Shirt · Crocodile Logo · Marble Countertop · Green Plant · Brand Tote Bag · Pen
 
@@ -47,7 +46,7 @@ Shot 2:
   - Subject: ในราคาที่ทุกคนกดที่ตะก้า
 Shot 3:
   - Duration: 5.0sec - 7.0sec
-  - Scene Type: Showcase of multiple style options (fashion category)
+  - Scene Type: Showcase of multiple style options
   - Scene: The frame cuts to a navy blue Polo shirt laid flat on the marble countertop by the window, several lush green foliage potted plants are placed by the window in the background. The camera slowly pushes in to focus on the Crocodile brand logo and text print on the chest of the shirt, the Thai promotional text 'กดที่ตระกร้าด่วน' appears at the bottom of the frame.
   - Subject: ในราคาที่ทุกคนกดที่ตะก้า
 Shot 4:
@@ -82,7 +81,7 @@ Shot 2:
   - 口播: ในราคาที่ทุกคนกดที่ตะก้า
 Shot 3:
   - 时长: 5.0sec - 7.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面切换到铺放在窗边大理石桌面上的藏青色Polo衫，背景窗边摆放着几盆翠绿的观叶植物，镜头逐步推进，聚焦衣身胸口处的鳄鱼品牌标识与文字印花，画面底部出现泰文促销文字“กดที่ตระกร้าด่วน”。
   - 口播: ในราคาที่ทุกคนกดที่ตะก้า
 Shot 4:
@@ -98,4 +97,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-menswear-463752](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-menswear-463752?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-menswear-463752)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-menswear-463752](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-menswear-463752?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-menswear-463752)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

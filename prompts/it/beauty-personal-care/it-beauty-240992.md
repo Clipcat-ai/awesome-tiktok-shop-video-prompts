@@ -1,6 +1,6 @@
 ---
 id: it-beauty-240992
-title: "Tokyo 100 ml Ambrato Orientale Scia Ipnotica e Potere Varriale — Handheld Demo (Italy · Beauty & Personal Care)"
+title: "Tokyo 100 ml Ambrato Orientale… — Handheld Demo (Italy · Beauty & Personal Care)"
 market: it
 category: beauty-personal-care
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679872853319240992
 creator: "@shoppable.italia"
 published: 2026-08-30
 ---
-# Tokyo 100 ml Ambrato Orientale Scia Ipnotica e Potere Varriale — Handheld Demo (Italy · Beauty & Personal Care)
+# Tokyo 100 ml Ambrato Orientale… — Handheld Demo (Italy · Beauty & Personal Care)
 **Weekly #1** · 🇮🇹 Italy · Beauty & Personal Care · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679872853319240992) by [@shoppable.italia](https://www.tiktok.com/@shoppable.italia). Format: **Handheld Demo** · 26s · hook: **Benefit First** · Hands only · No promo
-**Opening line (from the video):** “Do you know Varriale's Tokyo perfume?”
+**Opening line (translated from the video):** “Do you know Varriale's Tokyo perfume?”
 
 **Key visuals:** Perfume Bottle · Golden Cap · Red Box · Woven Table · Balcony Railing · White Flowers · Vanilla Sprigs
 
@@ -47,7 +46,7 @@ Shot 2:
   - Subject: composizione Tokyo, sfettiata a legno
 Shot 3:
   - Duration: 8.0sec - 10.0sec
-  - Scene Type: Core ingredient display (health category)
+  - Scene Type: Core ingredient display
   - Scene: The scene switches to a creative atmospheric close-up, showing dynamic visuals of white flowers, brown vanilla branches, saffron filaments and amber liquid splashing and merging, intuitively presenting the core fragrance ingredients and the rich, intense scent character of the perfume. On-screen text appears: 'TI PREPARA PER'.
   - Subject: Grazie a tutti.
 Shot 4:
@@ -74,7 +73,7 @@ Shot 6:
 ```text
 [Style]: 实景好物特写风格，画面通透明亮，色彩饱和度高，突出香水瓶通透的玻璃质感与暖黄色香氛液体的精致观感，兼具户外自然光的松弛感与电商种草内容的专业表现力。
 [Environment]: 阳光充足的户外阳台露台，深灰色编织质感的户外小桌上摆放着香氛产品，背景是铁艺阳台栏杆、远处的居民住宅楼与绿植，开阔无遮挡，明媚的秋日暖阳笼罩整个场景。
-[Tone & Pacing]: 地道的抖音海外好物分享风格，热情活泼、感染力强，节奏张弛有度，运镜平稳流畅，通过清晰的产品展示强化香氛的优质属性。
+[Tone & Pacing]: 地道的TikTok海外好物分享风格，热情活泼、感染力强，节奏张弛有度，运镜平稳流畅，通过清晰的产品展示强化香氛的优质属性。
 [Camera]: 以静态固定机位为基础，搭配近距离微距镜头、向前推近的推镜、缓慢环绕香氛的摇镜，镜头移动平稳，全程聚焦香水瓶与包装盒的细节，无多余晃动，画面质感干净高级。
 [Lighting]: 午后明媚的自然日光从侧方倾洒而下，在透明香水瓶上折射出亮闪闪的光影效果，照亮瓶身的红色标签与黄色香氛液体，整体光线充足柔和，没有生硬的阴影，营造出温暖治愈的氛围感。
 [Character]: 无完整出镜人物，仅露出一只肤色均匀、指尖干净的人手，用于辅助展示香氛产品。
@@ -92,7 +91,7 @@ Shot 2:
   - 口播: composizione Tokyo, sfettiata a legno
 Shot 3:
   - 时长: 8.0sec - 10.0sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 画面切换至创意氛围感特写，展示白色花朵、棕色香草枝、藏红花花丝与琥珀色液体飞溅融合的动态视觉画面，直观呈现香氛的核心香料元素与热烈的气味特质。画面配有文字“TI PREPARA PER”。
   - 口播: Grazie a tutti.
 Shot 4:
@@ -113,9 +112,9 @@ Shot 6:
 [Background Sound]:
 - 无任何背景音乐或音效，整体节奏由说话者语速和语气自然掌控。
 [Transition / Editing]:
-- 采用流畅的场景跳转剪辑，从实景产品展示自然过渡到创意香料画面，再切换到香调信息图示，最后回归实景产品收尾，转镜丝滑不生硬，全程保持画面明亮统一的视觉风格，贴合抖音电商短视频的节奏特点。
+- 采用流畅的场景跳转剪辑，从实景产品展示自然过渡到创意香料画面，再切换到香调信息图示，最后回归实景产品收尾，转镜丝滑不生硬，全程保持画面明亮统一的视觉风格，贴合TikTok电商短视频的节奏特点。
 ```
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-beauty-240992](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-beauty-240992?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-beauty-240992)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-beauty-240992](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-beauty-240992?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-beauty-240992)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

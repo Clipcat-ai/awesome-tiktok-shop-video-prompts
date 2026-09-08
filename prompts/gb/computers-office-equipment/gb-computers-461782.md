@@ -1,6 +1,6 @@
 ---
 id: gb-computers-461782
-title: "Hardcover Spiral Notebook with Removable Dividers Tabs — Handheld Demo (United Kingdom · Computers & Office Equipment)"
+title: "Hardcover Spiral Notebook with… — Handheld Demo (United Kingdom · Computers & Office Equipment)"
 market: gb
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7637922851613461782
 creator: "@blaze_ink_uk"
 published: 2026-05-09
 ---
-# Hardcover Spiral Notebook with Removable Dividers Tabs — Handheld Demo (United Kingdom · Computers & Office Equipment)
+# Hardcover Spiral Notebook with… — Handheld Demo (United Kingdom · Computers & Office Equipment)
 **Weekly #1** · 🇬🇧 United Kingdom · Computers & Office Equipment · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7637922851613461782) by [@blaze_ink_uk](https://www.tiktok.com/@blaze_ink_uk). Format: **Handheld Demo** · 15s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Stop carrying a million messy notebooks”
+**Opening line (quoted from the video):** “Stop carrying a million messy notebooks”
 
 **Pain point it attacks:** Carrying a pile of messy notebooks
 
@@ -59,7 +58,7 @@ Shot 4:
   - Subject: Plus, it lays perfectly flat.
 Shot 5:
   - Duration: 12.5sec - 15.5sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The camera pulls back to show the full panoramic view of the desk. Three spiral notebooks from the same series with different covers in purple, pink, and black are placed side by side on the desk. The hands retract from both sides and exit the frame. Promotional text gradually floats up at the top of the frame, and a shopping cart-style shopping guide banner pops up at the bottom, fully displaying the diverse color options and consistent premium texture of the entire product line.
   - Subject: Upgrade your note-taking today!
 [Background Sound]:
@@ -99,7 +98,7 @@ Shot 4:
   - 口播: Plus, it lays perfectly flat.
 Shot 5:
   - 时长: 12.5sec - 15.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头拉远呈现桌面全景，桌面上并排摆放着紫色、粉色、黑色三款不同封面的同系列线圈笔记本，手部从两侧收回离开画面，画面上方逐步浮出宣传文字，底部弹出购物车样式的购物引导横幅，完整展示全系列产品的多样配色与统一质感。
   - 口播: Upgrade your note-taking today!
 [Background Sound]:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-computers-461782](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-computers-461782?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-computers-461782)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-computers-461782](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-computers-461782?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-computers-461782)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

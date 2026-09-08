@@ -1,6 +1,6 @@
 ---
 id: mx-health-270677
-title: "Probióticos 60 Mil Millones + 16 Enzimas Digestivas con Jengib — Talking Head (Mexico · Health)"
+title: "Probióticos 60 Mil Millones + 16… — Talking Head (Mexico · Health)"
 market: mx
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675167223287270677
 creator: "@marcecyroch"
 published: 2026-08-18
 ---
-# Probióticos 60 Mil Millones + 16 Enzimas Digestivas con Jengib — Talking Head (Mexico · Health)
+# Probióticos 60 Mil Millones + 16… — Talking Head (Mexico · Health)
 **Weekly #1** · 🇲🇽 Mexico · Health · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675167223287270677) by [@marcecyroch](https://www.tiktok.com/@marcecyroch). Format: **Talking Head** · 45s · hook: **Pain Point** · On-camera host · Discount
-**Opening line (from the video):** “Do you feel bloated or have slow digestion after eating?”
+**Opening line (translated from the video):** “Do you feel bloated or have slow digestion after eating?”
 
 **Pain point it attacks:** Bloated or slow digestion after eating
 
@@ -59,7 +58,7 @@ Shot 4:
   - Subject: Si buscas apoyo para la digestión, estas enzimas digestivas
 Shot 5:
   - Duration: 18.0sec - 27.0sec
-  - Scene Type: Show core ingredients (health category)
+  - Scene Type: Show core ingredients
   - Scene: The woman takes out the blue-and-white bottled product from the blue packaging box, holds the bottle with both hands and repeatedly rotates it to adjust the angle, fully facing the front of the bottle towards the camera for display. Yellow subtitles introducing the product's ingredients pop up on the frame in sync. Finally she brings the product close to the camera to further show the details of the bottle, as she speaks to introduce the product while demonstrating
   - Subject: El proceso de descomponer los alimentos de la salud y de la salud. y complementar tu rutina. Si lo que buscas es cuidar el equilibrio de tu microbiota intestinal, Gracias.
 Shot 6:
@@ -69,7 +68,7 @@ Shot 6:
   - Subject: Aquí tienes dos fórmulas que se complementan súper Bien. Gracias.
 Shot 7:
   - Duration: 31.0sec - 41.5sec
-  - Scene Type: Show core ingredients (health category)
+  - Scene Type: Show core ingredients
   - Scene: The woman pours out one light-colored capsule from one of the bottles, gently pinches the capsule between her thumb and index finger, holds it up in front of the camera and rotates it slowly to show the full appearance details of the capsule from all angles. All movements stay steady and clear, as she speaks to explain while demonstrating
   - Subject: Y además esta presentación incluye jengibre y menta. Así que si te identificaste con lo que te conté, ve al cacopilio. ¿Tú eres un perrito naranja porque ahorita tienes descuentazo?
 Shot 8:
@@ -114,7 +113,7 @@ Shot 4:
   - 口播: Si buscas apoyo para la digestión, estas enzimas digestivas
 Shot 5:
   - 时长: 18.0sec - 27.0sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 人物从蓝色包装盒中取出蓝白配色的瓶装产品，双手握住瓶身反复转动调整角度，将瓶身正面完全朝向镜头展示，画面同步弹出介绍产品成分的黄色字幕，最后将产品凑近镜头，进一步展示瓶身细节，人物边展示边开口介绍
   - 口播: El proceso de descomponer los alimentos de la salud y de la salud. y complementar tu rutina. Si lo que buscas es cuidar el equilibrio de tu microbiota intestinal, Gracias.
 Shot 6:
@@ -124,7 +123,7 @@ Shot 6:
   - 口播: Aquí tienes dos fórmulas que se complementan súper Bien. Gracias.
 Shot 7:
   - 时长: 31.0sec - 41.5sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 人物从其中一个瓶子中倒出一粒浅色胶囊，用拇指和食指轻轻捏住胶囊，举到镜头前方缓慢转动，全方位展示胶囊的外观细节，全程保持动作平稳清晰，人物边展示边开口讲解
   - 口播: Y además esta presentación incluye jengibre y menta. Así que si te identificaste con lo que te conté, ve al cacopilio. ¿Tú eres un perrito naranja porque ahorita tienes descuentazo?
 Shot 8:
@@ -140,4 +139,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-health-270677](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-health-270677?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-health-270677)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-health-270677](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-health-270677?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-health-270677)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: id-automotive-401170
-title: "LOWKOS Injector Cleaner 60ml Pembersih Sistem Bahan Bakar & Ru — Real Review (Indonesia · Automotive & Motorcycle)"
+title: "LOWKOS Injector Cleaner 60ml… — Real Review (Indonesia · Automotive & Motorcycle)"
 market: id
 category: automotive-motorcycle
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7656446571512401170
 creator: "@ahmdmhr7"
 published: 2026-06-28
 ---
-# LOWKOS Injector Cleaner 60ml Pembersih Sistem Bahan Bakar & Ru — Real Review (Indonesia · Automotive & Motorcycle)
+# LOWKOS Injector Cleaner 60ml… — Real Review (Indonesia · Automotive & Motorcycle)
 **Weekly #1** · 🇮🇩 Indonesia · Automotive & Motorcycle · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7656446571512401170) by [@ahmdmhr7](https://www.tiktok.com/@ahmdmhr7). Format: **Real Review** · 29s · hook: **Result First** · On-camera host · Discount
-**Opening line (from the video):** “After putting this liquid into the fuel tank, warm up and use it”
+**Opening line (translated from the video):** “After putting this liquid into the fuel tank, warm up and use it”
 
 **Pain point it attacks:** Motorcycle injector carbon deposits hard to clean
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-automotive-401170](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-automotive-401170?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-automotive-401170)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-automotive-401170](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-automotive-401170?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-automotive-401170)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: th-furniture-616533
-title: "[ ชื้อ1แถม1 ] เก้าอี้พับ เก้าอี้ เก้าอี้สนาม เก้าอี้ปิกนิก เก้ — Promo Pitch (Thailand · Furniture)"
+title: "[ ชื้อ1แถม1 ] เก้าอี้พับ เก้าอี้… — Promo Pitch (Thailand · Furniture)"
 market: th
 category: furniture
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7611324260027616533
 creator: "@user615307273281"
 published: 2026-02-26
 ---
-# [ ชื้อ1แถม1 ] เก้าอี้พับ เก้าอี้ เก้าอี้สนาม เก้าอี้ปิกนิก เก้ — Promo Pitch (Thailand · Furniture)
+# [ ชื้อ1แถม1 ] เก้าอี้พับ เก้าอี้… — Promo Pitch (Thailand · Furniture)
 **Weekly #1** · 🇹🇭 Thailand · Furniture · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7611324260027616533) by [@user615307273281](https://www.tiktok.com/@user615307273281). Format: **Promo Pitch** · 6s · hook: **Urgency** · On-camera host · Bundle deal, Discount
-**Opening line (from the video):** “Today's promotion is super strong, buy two get one free, each under 100”
+**Opening line (translated from the video):** “Today's promotion is super strong, buy two get one free, each under 100”
 
 **Pain point it attacks:** Camping chairs are expensive, budget limited
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-furniture-616533](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-furniture-616533?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-furniture-616533)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-furniture-616533](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-furniture-616533?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-furniture-616533)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: it-textiles-046038
-title: "Coprimaterasso trapuntato di qualità alberghiera — Lifestyle Scene (Italy · Textiles & Soft Furnishings)"
+title: "Coprimaterasso trapuntato di… — Lifestyle Scene (Italy · Textiles & Soft Furnishings)"
 market: it
 category: textiles-soft-furnishings
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677300195197046038
 creator: "@ms.home.collection"
 published: 2026-08-23
 ---
-# Coprimaterasso trapuntato di qualità alberghiera — Lifestyle Scene (Italy · Textiles & Soft Furnishings)
+# Coprimaterasso trapuntato di… — Lifestyle Scene (Italy · Textiles & Soft Furnishings)
 **Weekly #1** · 🇮🇹 Italy · Textiles & Soft Furnishings · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677300195197046038) by [@ms.home.collection](https://www.tiktok.com/@ms.home.collection). Format: **Lifestyle Scene** · 10s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Don't make this mistake on your bed, discover the secret”
+**Opening line (translated from the video):** “Don't make this mistake on your bed, discover the secret”
 
 **Pain point it attacks:** Easy-to-ignore mistakes on bed affect sleep
 
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [it-textiles-046038](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/it-textiles-046038?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-textiles-046038)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[it-textiles-046038](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/it-textiles-046038?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=it-textiles-046038)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

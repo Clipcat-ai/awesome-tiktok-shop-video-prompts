@@ -1,6 +1,6 @@
 ---
 id: sg-health-896660
-title: "OXYENERGY Joint Repair 60 capsules/bottle — Talking Head (Singapore · Health)"
+title: "OXYENERGY Joint Repair 60… — Talking Head (Singapore · Health)"
 market: sg
 category: health
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669280573482896660
 creator: "@leftfootguy"
 published: 2026-08-03
 ---
-# OXYENERGY Joint Repair 60 capsules/bottle — Talking Head (Singapore · Health)
+# OXYENERGY Joint Repair 60… — Talking Head (Singapore · Health)
 **Weekly #1** · 🇸🇬 Singapore · Health · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669280573482896660) by [@leftfootguy](https://www.tiktok.com/@leftfootguy). Format: **Talking Head** · 121s · hook: **Pain Point** · No one on camera · No promo
-**Opening line (from the video):** “That click your knee makes when you stand up”
+**Opening line (quoted from the video):** “That click your knee makes when you stand up”
 
 **Pain point it attacks:** Knee makes clicking sound and feels stiff when moving
 
@@ -119,7 +118,7 @@ Shot 7:
   - 口播: It's the slow loss of that cushioning and the protection around the your joints getting thinner over time. Because this doesn't happen overnight, it builds quietly for years. And by the time you feel it, it's already been going on. for a while.
 Shot 8:
   - 时长: 44.5sec - 54.5sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 切换到偏写实的3D风格膝关节科普动画，关节位置被光束照亮，背景是实验室台面与模拟人体运动轨迹的动画线条，随后展示氨基葡萄糖、软骨素等分子的抽象动态造型，分子在关节上方环绕融合，镜头从局部关节细节逐步拉远，展示完整的实验室背景与分子动态，无真人出镜。
   - 口播: Here's what most people don't know though: there's a The combination that's been clinically studied for decades, specifically for joint cushioning and mobility, glucosamine, chondroitin and MSM.
 Shot 9:
@@ -144,7 +143,7 @@ Shot 12:
   - 口播: products on the market are under dosed, which means that you're paying for something that can't actually do the job.
 Shot 13:
   - 时长: 89.0sec - 122.0sec
-  - 镜头类型: 展示核心成分（健康品类）
+  - 镜头类型: 展示核心成分
   - 画面: 实景拍摄第一人称视角，一只成年人的手全程持OXYENERGY品牌关节修复胶囊瓶身，反复转动瓶身，依次清晰展示正面品牌名、产品名、侧面成分表（标注1800mg氨基葡萄糖等有效含量）、背面认证标识与60粒装信息，全方位呈现产品所有外观细节，手持轻微自然晃动，缓慢转动瓶身，镜头始终清晰对焦瓶身文字与图案，仅露出一只成年人的手。
   - 口播: You need one that is properly dosed, high quality quality and third-party tested to only when I'm recommend is drawing repair by OxyEnergy. It contains 1800 mg of glucose. glucosamine, 1800 mg of mL. SM and 210 mg of chrome. Droitin. Halal certified properly dose from a brand that you can trust. better, feel less stiff, and stay active longer and live. this link right in the video they're running a flash deal right now but the stock is running low so don't miss out on this one.
 [Background Sound]:
@@ -155,4 +154,4 @@ Shot 13:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-health-896660](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-health-896660?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-health-896660)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-health-896660](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-health-896660?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-health-896660)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

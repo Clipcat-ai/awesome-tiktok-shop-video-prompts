@@ -1,6 +1,6 @@
 ---
 id: de-furniture-309782
-title: "Real Review — Furniture (Germany)"
+title: "(Fell)SYMINO Sofa Gaming Stuhl… — Real Review (Germany · Furniture)"
 market: de
 category: furniture
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679279975660309782
 creator: "@symino_gm"
 published: 2026-08-29
 ---
-# Real Review — Furniture (Germany)
+# (Fell)SYMINO Sofa Gaming Stuhl… — Real Review (Germany · Furniture)
 **Weekly #1** · 🇩🇪 Germany · Furniture · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679279975660309782) by [@symino_gm](https://www.tiktok.com/@symino_gm). Format: **Real Review** · 10s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “A tired man drags his feet slowly forward in the living room”
+**Opening line (quoted from the video):** “A tired man drags his feet slowly forward in the living room”
 
 **Pain point it attacks:** Lack of comfortable seating to relax after tiredness
 
@@ -41,7 +40,6 @@ Shot 1:
   - Duration: 0.0sec - 2.0sec
   - Scene Type: Highlight the pain point
   - Scene: 20-25 year old young Caucasian man wearing a plain white short-sleeve T-shirt, dark grey cuffed athletic sweatpants and black home cotton socks, looking completely exhausted with drooping eyelids, dragging heavy steps slowly forward across the empty living room while letting out a deep sigh, fully showing his worn-out state. A full shot camera tracks the character and moves slowly forward with him.
-  - Subject: Thank you.
 Shot 2:
   - Duration: 2.0sec - 4.0sec
   - Scene Type: Present the problem solution
@@ -80,7 +78,6 @@ Shot 1:
   - 时长: 0.0sec - 2.0sec
   - 镜头类型: 点明痛点问题
   - 画面: 20-25岁白人青年男士身着纯白色短袖T恤与深灰色束脚运动长裤，搭配黑色居家棉袜，满脸疲惫、眼皮耷拉，拖着沉重的步伐在空荡的客厅里缓慢向前走，嘴里发出深深的叹气声，尽显劳累状态，全景机位跟随人物向前缓缓移动。
-  - 口播: Thank you.
 Shot 2:
   - 时长: 2.0sec - 4.0sec
   - 镜头类型: 设置问题
@@ -108,4 +105,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-furniture-309782](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-furniture-309782?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-furniture-309782)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-furniture-309782](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-furniture-309782?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-furniture-309782)
-🤖 **Driving an AI agent?** `clipcat prompt search "Furniture"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Furniture real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

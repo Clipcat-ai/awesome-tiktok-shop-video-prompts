@@ -1,6 +1,6 @@
 ---
 id: id-books-653650
-title: "Buku Anak / Belajar Membaca Menulis Berhitung / Super Pintar C — Promo Pitch (Indonesia · Books, Magazines & Audio)"
+title: "Buku Anak / Belajar Membaca… — Promo Pitch (Indonesia · Books, Magazines & Audio)"
 market: id
 category: books-magazines-audio
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675127987607653650
 creator: "@tokomuffa"
 published: 2026-08-17
 ---
-# Buku Anak / Belajar Membaca Menulis Berhitung / Super Pintar C — Promo Pitch (Indonesia · Books, Magazines & Audio)
+# Buku Anak / Belajar Membaca… — Promo Pitch (Indonesia · Books, Magazines & Audio)
 **Weekly #1** · 🇮🇩 Indonesia · Books, Magazines & Audio · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675127987607653650) by [@tokomuffa](https://www.tiktok.com/@tokomuffa). Format: **Promo Pitch** · 10s · hook: **Urgency** · On-camera host · Discount
-**Opening line (from the video):** “Crazy sale!”
+**Opening line (translated from the video):** “Crazy sale!”
 
 **Pain point it attacks:** Children's exercise books are expensive
 
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 1.0sec - 2.5sec
   - Scene Type: Product Design Highlights
   - Scene: The shot cuts to a close-up of the white tabletop, where a children's exercise book with a cartoon child illustration on the cover and a title in colorful stylized text lies flat on the table. A prominent stylized text slogan with a dollar sign sticker pops up on the screen, clearly showing the design details of the book cover.
-  - Subject: Cuma 10 ribu.  10 ribu aja.
+  - Subject: Cuma 10 ribu. 10 ribu aja.
 Shot 3:
   - Duration: 2.5sec - 3.5sec
   - Scene Type: Product Versatility
@@ -101,7 +100,7 @@ Shot 2:
   - 时长: 1.0sec - 2.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 镜头切换到白色桌面的特写画面，一本封面印着卡通孩童插画、彩色艺术字体书名的儿童练习册平放在桌面上，画面弹出带有美元符号贴纸的醒目艺术字标语，清晰展示书籍封面的设计细节。
-  - 口播: Cuma 10 ribu.  10 ribu aja.
+  - 口播: Cuma 10 ribu. 10 ribu aja.
 Shot 3:
   - 时长: 2.5sec - 3.5sec
   - 镜头类型: 产品多功能性
@@ -140,4 +139,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-books-653650](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-books-653650?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-books-653650)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-books-653650](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-books-653650?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-books-653650)
-🤖 **Driving an AI agent?** `clipcat prompt search "Books, Magazines & Audio"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Books, Magazines & Audio promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

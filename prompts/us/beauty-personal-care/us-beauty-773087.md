@@ -1,6 +1,6 @@
 ---
 id: us-beauty-773087
-title: "The Body Refining Combo - Brightening Body Wash 8fl oz — Real Review (United States · Beauty & Personal Care)"
+title: "The Body Refining Combo… — Real Review (United States · Beauty & Personal Care)"
 market: us
 category: beauty-personal-care
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672427606045773087
 creator: "@teaandtruecrimewithbella"
 published: 2026-08-10
 ---
-# The Body Refining Combo - Brightening Body Wash 8fl oz — Real Review (United States · Beauty & Personal Care)
+# The Body Refining Combo… — Real Review (United States · Beauty & Personal Care)
 **Weekly #1** · 🇺🇸 United States · Beauty & Personal Care · week of 2026-08-10
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672427606045773087) by [@teaandtruecrimewithbella](https://www.tiktok.com/@teaandtruecrimewithbella). Format: **Real Review** · 68s · hook: **Pain Point** · On-camera host · Discount, Bundle deal
-**Opening line (from the video):** “It's so ridiculous, it doesn't make any sense at all”
+**Opening line (quoted from the video):** “It's so ridiculous, it doesn't make any sense at all”
 
 **Pain point it attacks:** Uneven skin tone, small bumps on neck
 
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [us-beauty-773087](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/us-beauty-773087?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-beauty-773087)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[us-beauty-773087](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/us-beauty-773087?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=us-beauty-773087)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

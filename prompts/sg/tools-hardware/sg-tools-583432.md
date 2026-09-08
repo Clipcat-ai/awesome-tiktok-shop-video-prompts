@@ -1,6 +1,6 @@
 ---
 id: sg-tools-583432
-title: "SG READY STOCK Wall Hole Repair Sealant Sealing Glue Household — Real Review (Singapore · Tools & Hardware)"
+title: "SG READY STOCK Wall Hole Repair… — Real Review (Singapore · Tools & Hardware)"
 market: sg
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672334723032583432
 creator: "@tianzhen16"
 published: 2026-08-10
 ---
-# SG READY STOCK Wall Hole Repair Sealant Sealing Glue Household — Real Review (Singapore · Tools & Hardware)
+# SG READY STOCK Wall Hole Repair… — Real Review (Singapore · Tools & Hardware)
 **Weekly #1** · 🇸🇬 Singapore · Tools & Hardware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672334723032583432) by [@tianzhen16](https://www.tiktok.com/@tianzhen16). Format: **Real Review** · 15s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “I ordered a box of these because there are always little gaps around the home”
+**Opening line (quoted from the video):** “I ordered a box of these because there are always little gaps around the home”
 
 **Pain point it attacks:** There are various small gaps in the home
 
@@ -130,4 +129,4 @@ Shot 7:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-tools-583432](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-tools-583432?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-tools-583432)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-tools-583432](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-tools-583432?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-tools-583432)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

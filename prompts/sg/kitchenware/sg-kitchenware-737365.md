@@ -1,6 +1,6 @@
 ---
 id: sg-kitchenware-737365
-title: "[SNUGSG SIGNATURE] 01ST PREMIUM AUTOMATIC SELF STIRRING MUG RE — Handheld Demo (Singapore · Kitchenware)"
+title: "[SNUGSG SIGNATURE] 01ST PREMIUM… — Handheld Demo (Singapore · Kitchenware)"
 market: sg
 category: kitchenware
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674979703131737365
 creator: "@ovc27m"
 published: 2026-08-17
 ---
-# [SNUGSG SIGNATURE] 01ST PREMIUM AUTOMATIC SELF STIRRING MUG RE — Handheld Demo (Singapore · Kitchenware)
+# [SNUGSG SIGNATURE] 01ST PREMIUM… — Handheld Demo (Singapore · Kitchenware)
 **Weekly #1** · 🇸🇬 Singapore · Kitchenware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674979703131737365) by [@ovc27m](https://www.tiktok.com/@ovc27m). Format: **Handheld Demo** · 22s · hook: **Benefit First** · Hands only · Discount
-**Opening line (from the video):** “Lazy people can easily stir coffee with this auto stirring mug”
+**Opening line (quoted from the video):** “Lazy people can easily stir coffee with this auto stirring mug”
 
 **Pain point it attacks:** Manual coffee stirring is troublesome and laborious
 
@@ -51,7 +50,7 @@ Shot 3:
   - Duration: 4.0sec - 10.0sec
   - Scene Type: Product effectiveness demonstration
   - Scene: The camera switches to first-person perspective, pouring brown coffee powder into the open coffee mug, then injecting hot water. After pressing the button, the liquid inside the mug rotates rapidly to form a deep vortex, intuitively showing the complete process of the coffee powder being fully stirred and dissolved.
-  - Subject: and hot water.  Press the button.
+  - Subject: and hot water. Press the button.
 Shot 4:
   - Duration: 10.0sec - 14.0sec
   - Scene Type: Product usage scenarios
@@ -66,7 +65,7 @@ Shot 6:
   - Duration: 19.0sec - 22.5sec
   - Scene Type: Product usage scenarios
   - Scene: The hand holds the handle and slowly lifts the mug filled with frothy coffee from the tabletop, revealing the product brand logo at the bottom of the mug. The background is blurred to highlight the product itself, completing the full display of this automatic stirring coffee mug at the end.
-  - Subject: with magnetic stirrer.  Perfect Bye.
+  - Subject: with magnetic stirrer. Perfect
 [Background Sound]:
 - Upbeat TikTok-style background music with a brisk, lively rhythm, moderately high volume, electronic drum beats and playful synthesizer melodies. It is ideal for lifestyle and lazy gadget product promotion videos, creating a relaxed, comforting and slightly humorous atmosphere that perfectly matches the tone of the 'lazy coffee mug' product. The music style is similar to the BGM commonly used in short videos themed 'small daily joys' or 'home essential goods', which can quickly grab the attention of young users, reinforce the impression that the product is 'convenient, smart and cute', and is paired with clear stirring sounds of coffee liquid to enhance the pleasant feeling of recommending a great item.
 [Transition / Editing]:
@@ -96,7 +95,7 @@ Shot 3:
   - 时长: 4.0sec - 10.0sec
   - 镜头类型: 产品有效性
   - 画面: 镜头切换为第一人称视角，向敞口的咖啡杯内部倒入棕褐色咖啡粉，随即注入热水，按下按键后杯内液体快速旋转形成深邃的漩涡，直观呈现咖啡粉被充分搅拌溶解的完整过程。
-  - 口播: and hot water.  Press the button.
+  - 口播: and hot water. Press the button.
 Shot 4:
   - 时长: 10.0sec - 14.0sec
   - 镜头类型: 产品使用场景
@@ -111,7 +110,7 @@ Shot 6:
   - 时长: 19.0sec - 22.5sec
   - 镜头类型: 产品使用场景
   - 画面: 手部握住把手将盛有绵密泡沫咖啡的杯子从桌面缓缓提起，展示出杯身底部的产品品牌标识，背景虚化凸显产品本身，收尾完成对这款自动搅拌咖啡杯的完整展示。
-  - 口播: with magnetic stirrer.  Perfect Bye.
+  - 口播: with magnetic stirrer. Perfect
 [Background Sound]:
 - 非常欢快的TikTok风格背景音乐，节奏轻快活泼、音量适中偏高、带有电子鼓点和俏皮合成器旋律，适合生活化、懒人神器类带货视频，营造轻松、治愈、带点小幽默的氛围，与“懒人咖啡杯”产品调性高度契合，音乐风格类似“生活小确幸”或“居家好物”类短视频常用BGM，能快速吸引年轻用户注意力，增强产品“省事、智能、可爱”的印象，搭配清晰的咖啡液体搅动声烘托推荐好物的愉悦感。
 [Transition / Editing]:
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-kitchenware-737365](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-kitchenware-737365?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-kitchenware-737365)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-kitchenware-737365](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-kitchenware-737365?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-kitchenware-737365)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

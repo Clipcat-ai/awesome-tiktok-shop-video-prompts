@@ -1,6 +1,6 @@
 ---
 id: sg-fashion-323154
-title: "Fashion Earrings — Product Close-Up (Singapore · Fashion Accessories)"
+title: "Fashion Earrings, Luxurious… — Product Close-Up (Singapore · Fashion Accessories)"
 market: sg
 category: fashion-accessories
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673512018787323154
 creator: "@pretios_santa"
 published: 2026-08-13
 ---
-# Fashion Earrings — Product Close-Up (Singapore · Fashion Accessories)
+# Fashion Earrings, Luxurious… — Product Close-Up (Singapore · Fashion Accessories)
 **Weekly #1** · 🇸🇬 Singapore · Fashion Accessories · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673512018787323154) by [@pretios_santa](https://www.tiktok.com/@pretios_santa). Format: **Product Close-Up** · 31s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “A green downward arrow is displayed at the bottom left of the light warm beige soft light background”
+**Opening beat:** “A green downward arrow is displayed at the bottom left of the light warm beige soft light background”
 
 **Pain point it attacks:** No clear user pain point
 
@@ -160,4 +159,4 @@ Shot 13:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-fashion-323154](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-fashion-323154?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-fashion-323154)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-fashion-323154](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-fashion-323154?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-fashion-323154)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

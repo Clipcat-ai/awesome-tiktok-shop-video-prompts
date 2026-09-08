@@ -1,6 +1,6 @@
 ---
 id: es-phones-060630
-title: "Anti-Spy Privacy Phone Screen Protector — Real Review (Spain · Phones & Electronics)"
+title: "Anti-Spy Privacy Phone Screen… — Real Review (Spain · Phones & Electronics)"
 market: es
 category: phones-electronics
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674584308153060630
 creator: "@magiazucar"
 published: 2026-08-17
 ---
-# Anti-Spy Privacy Phone Screen Protector — Real Review (Spain · Phones & Electronics)
+# Anti-Spy Privacy Phone Screen… — Real Review (Spain · Phones & Electronics)
 **Weekly #1** · 🇪🇸 Spain · Phones & Electronics · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674584308153060630) by [@magiazucar](https://www.tiktok.com/@magiazucar). Format: **Real Review** · 14s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Tired of people peeking at your phone on the commute or in the office?”
+**Opening line (translated from the video):** “Tired of people peeking at your phone on the commute or in the office?”
 
 **Pain point it attacks:** Phone being peeked at by others in public
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-phones-060630](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-phones-060630?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-phones-060630)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-phones-060630](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-phones-060630?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-phones-060630)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

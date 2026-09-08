@@ -1,6 +1,6 @@
 ---
 id: br-tools-366101
-title: "Motos serra Elétrica Brushless 6 Polegadas 72V Portátil para P — Real Review (Brazil · Tools & Hardware)"
+title: "Motos serra Elétrica Brushless 6… — Real Review (Brazil · Tools & Hardware)"
 market: br
 category: tools-hardware
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7675127404796366101
 creator: "@sixzshop"
 published: 2026-08-17
 ---
-# Motos serra Elétrica Brushless 6 Polegadas 72V Portátil para P — Real Review (Brazil · Tools & Hardware)
+# Motos serra Elétrica Brushless 6… — Real Review (Brazil · Tools & Hardware)
 **Weekly #1** · 🇧🇷 Brazil · Tools & Hardware · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7675127404796366101) by [@sixzshop](https://www.tiktok.com/@sixzshop). Format: **Real Review** · 31s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Never cut branches by hand again”
+**Opening line (quoted from the video):** “Never cut branches by hand again”
 
 **Pain point it attacks:** Cutting branches by hand is tiring and troublesome
 
@@ -46,7 +45,7 @@ Shot 2:
   - Duration: 2.5sec - 8.5sec
   - Scene Type: Interactive story demonstration
   - Scene: The hostess walks into the backyard from the right side of the frame holding a yellow and black mini chainsaw, and easily saws through an apple-laden branch of the apple tree with one hand, the branch falls to the ground. The male host on the other side of the adjacent fence immediately steps forward, excitedly gesturing and talking to the hostess. Then the hostess bends down to pick up the freshly cut branch, and hands the branch with its apples over the fence to the male host, who reaches out to catch it. The German Shepherd stays by the hostess's side the whole time, alertly watching the surroundings. The Portuguese text at the top of the frame remains displayed
-  - Subject: Why are you cutting my tree?  My property.
+  - Subject: Why are you cutting my tree? My property.
 Shot 3:
   - Duration: 8.5sec - 11.5sec
   - Scene Type: Demonstrate product versatility
@@ -66,7 +65,7 @@ Shot 6:
   - Duration: 24.0sec - 32.0sec
   - Scene Type: Showcase ease of use
   - Scene: The hostess sits on the paved backyard steps, with an open black hard-shell toolbox beside her, the mini chainsaw, two spare batteries, a charging cable and an instruction manual are neatly stored inside the box. The hostess picks up the chainsaw and the batteries one after another to show to the camera, clicks the battery into the chainsaw body to complete assembly, and smiles as she demonstrates the portability of the tool to the camera. The Portuguese text at the top of the frame remains on screen until the end of the video
-  - Subject: It's time, it's just put the battery and use it. Want to facilitate your work at the air free?  Comment! Quero que te envie o link.
+  - Subject: It's time, it's just put the battery and use it. Want to facilitate your work at the air free? Comment! Quero que te envie o link.
 [Background Sound]:
 - Upbeat, highly rhythmic TikTok-style instrumental music with electronic drum beats and a bright, playful synth melody, at a moderately high volume, with a tempo of 120-130 BPM. It is a typical trending e-commerce promotional track, entirely lyric-free and rhythm-driven, perfectly matching the atmosphere of sales messaging that encourages impulse purchases.
 [Transition / Editing]:
@@ -91,7 +90,7 @@ Shot 2:
   - 时长: 2.5sec - 8.5sec
   - 镜头类型: 互动剧情演绎
   - 画面: 女主人手持黄黑配色的迷你链锯从画面右侧走入庭院，抬手轻松锯断苹果树的一根带果树枝，树枝掉落地面。隔壁围栏处的男主人立刻上前激动地伸手比划着与女主人交流，随后女主人弯腰捡起刚锯下的树枝，抬手将树枝连同上面的苹果一起递还给围栏另一侧的男主人，男主人抬手接住树枝。牧羊犬全程站在女主人身旁，警惕地留意着周围动静。画面顶部的葡语字幕持续显示。
-  - 口播: Why are you cutting my tree?  My property.
+  - 口播: Why are you cutting my tree? My property.
 Shot 3:
   - 时长: 8.5sec - 11.5sec
   - 镜头类型: 产品多功能性
@@ -111,7 +110,7 @@ Shot 6:
   - 时长: 24.0sec - 32.0sec
   - 镜头类型: 展示易用性
   - 画面: 女主人坐在庭院的步道台阶上，身旁放着打开的黑色硬质工具箱，箱内整齐收纳着迷你链锯、两块备用电池、充电线与说明书。女主人先后拿起链锯与电池展示给镜头，将电池卡入链锯机身完成组装，笑着向镜头展示这款工具的便携性。画面顶部的葡语字幕直至视频结束。
-  - 口播: It's time, it's just put the battery and use it. Want to facilitate your work at the air free?  Comment! Quero que te envie o link.
+  - 口播: It's time, it's just put the battery and use it. Want to facilitate your work at the air free? Comment! Quero que te envie o link.
 [Background Sound]:
 - 非常欢快、节奏感强的TikTok风格纯音乐，带有电子鼓点和轻快的合成器旋律，音量中等偏高，节奏约120-130 BPM，属于典型电商带货热曲，无歌词纯节奏驱动，契合促销话术强化下单冲动的氛围。
 [Transition / Editing]:
@@ -120,4 +119,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-tools-366101](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-tools-366101?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-tools-366101)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-tools-366101](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-tools-366101?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-tools-366101)
-🤖 **Driving an AI agent?** `clipcat prompt search "Tools & Hardware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Tools & Hardware real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

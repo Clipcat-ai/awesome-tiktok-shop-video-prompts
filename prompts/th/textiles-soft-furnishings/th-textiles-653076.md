@@ -1,6 +1,6 @@
 ---
 id: th-textiles-653076
-title: "พรมทางเข้าบ้านลายการ์ตูนน่ารัก ซึมซับได้ดีและนุ่มเมื่อสัมผัส ล — Lifestyle Scene (Thailand · Textiles & Soft Furnishings)"
+title: "พรมทางเข้าบ้านลายการ์ตูนน่ารัก… — Lifestyle Scene (Thailand · Textiles & Soft Furnishings)"
 market: th
 category: textiles-soft-furnishings
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7654179563416653076
 creator: "@snowii2499"
 published: 2026-06-22
 ---
-# พรมทางเข้าบ้านลายการ์ตูนน่ารัก ซึมซับได้ดีและนุ่มเมื่อสัมผัส ล — Lifestyle Scene (Thailand · Textiles & Soft Furnishings)
+# พรมทางเข้าบ้านลายการ์ตูนน่ารัก… — Lifestyle Scene (Thailand · Textiles & Soft Furnishings)
 **Weekly #1** · 🇹🇭 Thailand · Textiles & Soft Furnishings · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7654179563416653076) by [@snowii2499](https://www.tiktok.com/@snowii2499). Format: **Lifestyle Scene** · 8s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Change the look of your home with this dust-catching mat”
+**Opening line (translated from the video):** “Change the look of your home with this dust-catching mat”
 
 **Key visuals:** Plush Mat · Cartoon Cookie Pattern · Marble Tile · Glass Shower Partition · Gray Metal Shower Head · Light Wood Shelf · White Slippers
 
@@ -78,4 +77,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-textiles-653076](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-textiles-653076?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-textiles-653076)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-textiles-653076](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-textiles-653076?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-textiles-653076)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

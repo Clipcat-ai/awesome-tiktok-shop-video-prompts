@@ -1,6 +1,6 @@
 ---
 id: id-fashion-388114
-title: "【COD】Kacamata Pelindung Anti Debu Anti Serbuk Sari Transparan — Talking Head (Indonesia · Fashion Accessories)"
+title: "【COD】Kacamata Pelindung Anti… — Talking Head (Indonesia · Fashion Accessories)"
 market: id
 category: fashion-accessories
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7663181577060388114
 creator: "@velvibe.id"
 published: 2026-07-17
 ---
-# 【COD】Kacamata Pelindung Anti Debu Anti Serbuk Sari Transparan — Talking Head (Indonesia · Fashion Accessories)
+# 【COD】Kacamata Pelindung Anti… — Talking Head (Indonesia · Fashion Accessories)
 **Weekly #1** · 🇮🇩 Indonesia · Fashion Accessories · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7663181577060388114) by [@velvibe.id](https://www.tiktok.com/@velvibe.id). Format: **Talking Head** · 10s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Riding a motorcycle without these goggles is like fried dough without chili, missing something and you'll regret it”
+**Opening line (translated from the video):** “Riding a motorcycle without these goggles is like fried dough without chili, missing something and you'll regret it”
 
 **Pain point it attacks:** Riding motorcycle without goggles will make you regret
 
@@ -41,7 +40,7 @@ Shot 1:
   - Duration: 0.0sec - 4.5sec
   - Scene Type: On-camera introduction
   - Scene: Young woman wearing clear-frame safety goggles, first gently rests a hand on the side of her face, then naturally lowers her hand. Her body sways slightly as she speaks, her head turns gently from side to side, she looks at the camera with a soft smile, and the background is a blurred light gray indoor space with circular ambient lights.
-  - Subject: Naik motor tanpa kacamata itu seperti gorengan tanpa cabai. Ada yang kurang dan bikin nyesel.  Pakai kacamata pelindung
+  - Subject: Naik motor tanpa kacamata itu seperti gorengan tanpa cabai. Ada yang kurang dan bikin nyesel. Pakai kacamata pelindung
 Shot 2:
   - Duration: 4.5sec - 10.0sec
   - Scene Type: Product usage scenario
@@ -66,7 +65,7 @@ Shot 1:
   - 时长: 0.0sec - 4.5sec
   - 镜头类型: 口播介绍
   - 画面: 年轻女性戴着透明框护目镜，起初用手轻托着自己的侧脸，随后自然放下手，身体随表达轻微晃动，头部小幅左右转动，面带柔和笑容看向镜头，背景是模糊的浅灰室内空间与圆形氛围灯。
-  - 口播: Naik motor tanpa kacamata itu seperti gorengan tanpa cabai. Ada yang kurang dan bikin nyesel.  Pakai kacamata pelindung
+  - 口播: Naik motor tanpa kacamata itu seperti gorengan tanpa cabai. Ada yang kurang dan bikin nyesel. Pakai kacamata pelindung
 Shot 2:
   - 时长: 4.5sec - 10.0sec
   - 镜头类型: 产品使用场景
@@ -80,4 +79,4 @@ Shot 2:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-fashion-388114](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-fashion-388114?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-fashion-388114)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-fashion-388114](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-fashion-388114?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-fashion-388114)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: jp-menswear-088341
-title: "Men's Regular Fit Short Sleeve Pajama Two-piece Set — OOTD Showcase (Japan · Menswear & Underwear)"
+title: "Men's Regular Fit Short Sleeve… — OOTD Showcase (Japan · Menswear & Underwear)"
 market: jp
 category: menswear-underwear
 video_type: ootd
@@ -17,9 +17,8 @@ source: https://www.tiktok.com/share/video/7671943411536088341
 creator: "@hnin.ei.hlaing846"
 published: 2026-08-09
 ---
-# Men's Regular Fit Short Sleeve Pajama Two-piece Set — OOTD Showcase (Japan · Menswear & Underwear)
+# Men's Regular Fit Short Sleeve… — OOTD Showcase (Japan · Menswear & Underwear)
 **Weekly #1** · 🇯🇵 Japan · Menswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7671943411536088341) by [@hnin.ei.hlaing846](https://www.tiktok.com/@hnin.ei.hlaing846). Format: **OOTD Showcase** · 29s · hook: **POV Scenario** · Hands only · No promo
 **Key visuals:** White Short-sleeve Shirt · White Shorts · Dark Stripe Pattern · Wooden Hanger · Indoor Floor · Wood Sliding Door · Hand
 
@@ -39,7 +38,7 @@ Shot 1:
   - Scene: A pair of hands holds a black hanger, on which hangs a white short-sleeve collared shirt with raised horizontal stripe subtle patterns. The hands gently rotate the hanger, showing the overall cut and the subtle pattern appearance of the shirt from different angles. The background is a light-colored wall with a wooden frame, and a pink text label with black outline is overlaid at the top of the frame. The camera maintains a fixed eye-level angle, moves slightly in sync with the rotation of the hanger, keeps the entire shirt in clear focus throughout, and only shows the two arms holding the clothing, with no other body parts visible.
 Shot 2:
   - Duration: 4.0sec - 7.0sec
-  - Scene Type: Showcase multiple style options (fashion category)
+  - Scene Type: Showcase multiple style options
   - Scene: The hand holding the hanger does not let go, while the other hand holds the matching white subtle-pattern shorts on a thin metal hanger, lifts the shorts below the shirt, and aligns them with the shirt to fully display the matching effect of the complete top and bottom set. The camera stays focused on both clothing pieces the entire time. The camera remains stable, moves slightly downward to let the shorts fully enter the frame, ensuring both the top and bottom pieces are clearly presented, with the two hands holding the hangers visible and no other body parts in view.
 Shot 3:
   - Duration: 7.0sec - 15.5sec
@@ -74,7 +73,7 @@ Shot 1:
   - 画面: 一双手握着黑色衣架，衣架上挂着一件带有立体横条纹暗纹的白色短袖翻领衬衫，双手轻轻转动衣架，从不同角度展示衬衫的整体版型与暗纹外观，背景是带有木框的浅色墙面，画面顶部叠加粉色带黑边的文字标识。镜头保持固定平视角度，随衣架的转动同步轻微跟随移动，全程清晰对焦衬衫整体，仅露出展示衣物的一双手臂，无其他身体部位出镜。
 Shot 2:
   - 时长: 4.0sec - 7.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 握着衣架的手没有松开，另一只手拿着带有细金属衣架的同系列白色暗纹短裤，将短裤举到衬衫下方，和衬衫对齐摆放，完整展示整套上下装的搭配效果，镜头全程对准两套衣物。镜头保持稳定，微微向下移动，让短裤完整进入画面，确保上下装都清晰呈现在画面中，露出持衣架的双手，其余身体部位未出镜。
 Shot 3:
   - 时长: 7.0sec - 15.5sec
@@ -96,4 +95,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-menswear-088341](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-menswear-088341?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-menswear-088341)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-menswear-088341](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-menswear-088341?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-menswear-088341)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

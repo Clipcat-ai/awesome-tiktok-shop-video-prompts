@@ -1,6 +1,6 @@
 ---
 id: ph-household-680597
-title: "【COD】Refrigerator Rack Ref Stand with Wheels Heavyduty Washing — Handheld Demo (Philippines · Household Appliances)"
+title: "【COD】Refrigerator Rack Ref Stand… — Handheld Demo (Philippines · Household Appliances)"
 market: ph
 category: household-appliances
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673011910106680597
 creator: "@minhopickx"
 published: 2026-08-13
 ---
-# 【COD】Refrigerator Rack Ref Stand with Wheels Heavyduty Washing — Handheld Demo (Philippines · Household Appliances)
+# 【COD】Refrigerator Rack Ref Stand… — Handheld Demo (Philippines · Household Appliances)
 **Weekly #1** · 🇵🇭 Philippines · Household Appliances · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673011910106680597) by [@minhopickx](https://www.tiktok.com/@minhopickx). Format: **Handheld Demo** · 10s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “Is it hard to move the refrigerator or washing machine?”
+**Opening line (translated from the video):** “Is it hard to move the refrigerator or washing machine?”
 
 **Pain point it attacks:** Refrigerator or washing machine is hard to move
 
@@ -41,12 +40,12 @@ Shot 1:
   - Duration: 0.0sec - 1.5sec
   - Scene Type: Set up the usage scenario
   - Scene: Full shot showing a white front-loading washing machine placed on a wheeled mobile stand, with a tastefully decorated modern living room in the background. Corresponding text subtitles pop up on the screen, the camera slowly pans forward to focus on the stand area under the washing machine, clearly showing the basic appearance structure of the stand equipped with blue rollers.
-  - Subject: Mahirap ilipat ang ref o washing machine,  heavy duty stand na magkakasap,
+  - Subject: Mahirap ilipat ang ref o washing machine, heavy duty stand na magkakasap,
 Shot 2:
   - Duration: 1.5sec - 2.5sec
   - Scene Type: Product design highlights
   - Scene: The camera switches to a low-angle close-up, aiming at the blue double-layer rollers on the stand from a short distance. The rollers rotate slowly, corresponding selling point text subtitles pop up on the screen, focusing on demonstrating the blue dual-wheel universal rollers with metal brake clips, clearly presenting the detailed structure of the 360-degree rotatable rollers.
-  - Subject: may 360 degree wheels,  adjustable feet,  at matibay na footwork.
+  - Subject: may 360 degree wheels, adjustable feet, at matibay na footwork.
 Shot 3:
   - Duration: 2.5sec - 4.5sec
   - Scene Type: Show ease of use
@@ -55,7 +54,7 @@ Shot 4:
   - Duration: 4.5sec - 8.0sec
   - Scene Type: Demonstrate product effectiveness
   - Scene: The camera pulls back to a medium shot. The young man in black top and black pants bends forward, holds the body of the white washing machine with both hands, and pushes the washing machine mounted on the stand steadily and slowly to slide across the glossy tile floor. After stopping halfway, he reaches out to gently support the bottom of the washing machine to confirm its position. Text subtitles that assist in showing the product advantages pop up on the screen, intuitively reflecting that the stand makes moving home appliances labor-saving and convenient.
-  - Subject: mas madali ang paglilinis at pag-aayos.  Click mo na yung basket
+  - Subject: mas madali ang paglilinis at pag-aayos. Click mo na yung basket
 Shot 5:
   - Duration: 8.0sec - 10.0sec
   - Scene Type: Checkout process guidance
@@ -80,12 +79,12 @@ Shot 1:
   - 时长: 0.0sec - 1.5sec
   - 镜头类型: 设置使用场景
   - 画面: 全景展示放置在带轮移动支架上的白色滚筒洗衣机，背景是布置精致的现代客厅，画面弹出对应文字字幕，镜头缓慢向前平移，聚焦到洗衣机底部的支架区域，清晰展示支架搭载蓝色滚轮的基础外观结构。
-  - 口播: Mahirap ilipat ang ref o washing machine,  heavy duty stand na magkakasap,
+  - 口播: Mahirap ilipat ang ref o washing machine, heavy duty stand na magkakasap,
 Shot 2:
   - 时长: 1.5sec - 2.5sec
   - 镜头类型: 产品设计亮点
   - 画面: 镜头切换为低角度特写，近距离对准支架上的蓝色双层滚轮，滚轮缓缓转动，画面上弹出对应卖点文字字幕，着重展示带有金属刹车卡扣的蓝色双轮万向滚轮，清晰呈现360度旋转滚轮的细节结构。
-  - 口播: may 360 degree wheels,  adjustable feet,  at matibay na footwork.
+  - 口播: may 360 degree wheels, adjustable feet, at matibay na footwork.
 Shot 3:
   - 时长: 2.5sec - 4.5sec
   - 镜头类型: 展示易用性
@@ -94,7 +93,7 @@ Shot 4:
   - 时长: 4.5sec - 8.0sec
   - 镜头类型: 产品有效性
   - 画面: 镜头拉远为中景，身着黑衣黑裤的年轻男性弯腰前倾，双手扶住白色洗衣机的机身，平稳缓慢地推动搭载支架的洗衣机在光亮的瓷砖地面上滑行，中途停下后伸手轻扶洗衣机底部确认位置，画面上弹出辅助展示产品优势的文字字幕，直观体现支架让家电移动变得省力便捷的效果。
-  - 口播: mas madali ang paglilinis at pag-aayos.  Click mo na yung basket
+  - 口播: mas madali ang paglilinis at pag-aayos. Click mo na yung basket
 Shot 5:
   - 时长: 8.0sec - 10.0sec
   - 镜头类型: 下单流程指引
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [ph-household-680597](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/ph-household-680597?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-household-680597)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[ph-household-680597](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/ph-household-680597?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=ph-household-680597)
-🤖 **Driving an AI agent?** `clipcat prompt search "Household Appliances"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Household Appliances handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

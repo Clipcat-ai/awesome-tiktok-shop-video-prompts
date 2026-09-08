@@ -1,6 +1,6 @@
 ---
 id: vn-jewelry-990152
-title: "Sét Trang Sức Ngọc Trai Nhân Tạo 3 Món Dây Chuyền Vòng Tay Hoa — Handheld Demo (Vietnam · Jewelry Accessories & Derivatives)"
+title: "Sét Trang Sức Ngọc Trai Nhân Tạo 3… — Handheld Demo (Vietnam · Jewelry Accessories & Derivatives)"
 market: vn
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7646400414685990152
 creator: "@nguynthu7971"
 published: 2026-06-01
 ---
-# Sét Trang Sức Ngọc Trai Nhân Tạo 3 Món Dây Chuyền Vòng Tay Hoa — Handheld Demo (Vietnam · Jewelry Accessories & Derivatives)
+# Sét Trang Sức Ngọc Trai Nhân Tạo 3… — Handheld Demo (Vietnam · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇻🇳 Vietnam · Jewelry Accessories & Derivatives · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7646400414685990152) by [@nguynthu7971](https://www.tiktok.com/@nguynthu7971). Format: **Handheld Demo** · 8s · hook: **Identity** · On-camera host · No promo
-**Opening line (from the video):** “Subscribe to Ghiền Mì Gõ channel to not miss exciting videos”
+**Opening line (translated from the video):** “Subscribe to Ghiền Mì Gõ channel to not miss exciting videos”
 
 **Key visuals:** Ring Light · Pearl Jewelry Set · Jewelry Box · White Floral Arrangement · Beige Wall · Warm Light · Black Top
 
@@ -39,17 +38,14 @@ Shot 1:
   - Duration: 0.0sec - 1.0sec
   - Scene Type: Handheld product display
   - Scene: An elegant middle-aged East Asian woman smiles at the camera, steadily holding an open jewelry box in her left hand. The inner lining of the jewelry box is bright yellow velvet, with a complete set of pearl jewelry neatly displayed inside. She raises her right hand, fingers gently touching the pearl below the right earring to show the wearing effect of the earring, then slowly moves her right hand downward with soft natural movements. The camera focuses on the interactive details of the character's face and hands, and the translucent luster of the pearls is clearly presented under the light.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - Duration: 1.0sec - 4.0sec
   - Scene Type: Product material display
   - Scene: She keeps her gentle smile, moves her right hand to her neck, fingertips gently pinching the two large pearl pendants hanging down from the bottom of the necklace, clearly showing the unique design of the necklace pendant to the camera. Her mouth opens and closes naturally as she introduces, her expression is focused and amiable. The camera always stays focused on the necklace area, highlighting the full, round texture of the pearls.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 3:
   - Duration: 4.0sec - 8.0sec
   - Scene Type: Handheld product display
   - Scene: She gently places her right hand on the edge of the jewelry box, her palm resting softly on the rim of the box, fingertips pointing toward the pearl jewelry displayed inside the box, fully showing the complete set of pearl jewelry inside the jewelry box to the camera. She maintains a dignified and elegant posture the whole time, with a warm and charming smile, presenting both the wearing effect of the jewelry and the jewelry displayed inside the box to the camera.
-  - Subject: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
 - No background music, only clear and friendly Vietnamese voiceover narration, no extra noisy background interference. The voice is warm and natural, serving as the core audio content for the product introduction.
 [Transition / Editing]:
@@ -69,17 +65,14 @@ Shot 1:
   - 时长: 0.0sec - 1.0sec
   - 镜头类型: 手持商品展示
   - 画面: 一位优雅的中年东亚女性面对镜头微笑，左手稳稳托着打开的珠宝盒，珠宝盒内衬是明黄色绒布，里面整齐陈列着全套珍珠首饰。她抬起右手，手指轻轻触碰右侧耳饰下方的珍珠，展示出耳饰的佩戴效果，随后缓缓将右手下移，动作轻柔自然，镜头聚焦人物面部与手部的互动细节，珍珠莹润的光泽在灯光下清晰呈现。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 2:
   - 时长: 1.0sec - 4.0sec
   - 镜头类型: 产品材质展示
   - 画面: 她继续保持温婉的笑容，将右手移动到颈部，指尖轻轻捏住项链下方垂坠的两颗大珍珠吊坠，向镜头清晰展示项链吊坠的独特设计，嘴巴伴随介绍自然开合，神态专注又亲和，镜头始终聚焦项链区域，突出珍珠的饱满圆润质感。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 Shot 3:
   - 时长: 4.0sec - 8.0sec
   - 镜头类型: 手持商品展示
   - 画面: 她将右手轻柔放置在珠宝盒的边缘，掌心轻轻搭在珠宝盒的盒沿，指尖朝向盒内陈列的珍珠首饰，向镜头完整展示珠宝盒内的全套珍珠首饰，全程保持端庄优雅的姿态，笑容亲切动人，将首饰佩戴效果与盒内陈列的首饰一同呈现给镜头。
-  - 口播: Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn
 [Background Sound]:
 - 没有背景音乐，仅存在清晰亲切的越南语旁白人声，无额外嘈杂背景音干扰，人声温润自然，作为商品介绍的核心听觉内容。
 [Transition / Editing]:
@@ -88,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-jewelry-990152](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-jewelry-990152?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-jewelry-990152)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-jewelry-990152](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-jewelry-990152?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-jewelry-990152)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

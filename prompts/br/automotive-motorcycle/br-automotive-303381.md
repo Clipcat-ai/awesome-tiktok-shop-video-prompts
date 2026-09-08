@@ -1,6 +1,6 @@
 ---
 id: br-automotive-303381
-title: "Esguicho Mangueira Ducha 6 Formas Jato Bico Alta Pressão Com A — Real Review (Brazil · Automotive & Motorcycle)"
+title: "Esguicho Mangueira Ducha 6 Formas… — Real Review (Brazil · Automotive & Motorcycle)"
 market: br
 category: automotive-motorcycle
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7668270385200303381
 creator: "@user615554108246"
 published: 2026-07-30
 ---
-# Esguicho Mangueira Ducha 6 Formas Jato Bico Alta Pressão Com A — Real Review (Brazil · Automotive & Motorcycle)
+# Esguicho Mangueira Ducha 6 Formas… — Real Review (Brazil · Automotive & Motorcycle)
 **Weekly #1** · 🇧🇷 Brazil · Automotive & Motorcycle · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7668270385200303381) by [@user615554108246](https://www.tiktok.com/@user615554108246). Format: **Real Review** · 15s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “Guys, I don't know who set this price, but it's incredibly cheap”
+**Opening line (translated from the video):** “Guys, I don't know who set this price, but it's incredibly cheap”
 
 **Pain point it attacks:** Car wash tools are expensive and have single function
 
@@ -56,7 +55,7 @@ Shot 4:
   - Duration: 12.5sec - 15.5sec
   - Scene Type: Limited Time Offer
   - Scene: The scene shifts to a sunlit private residential courtyard. The influencer leans sideways against the hood of their family car, holding the car wash spray gun high in one hand and sharing enthusiastically towards the camera, then points towards the lower part of the screen. A prominent cartoon shopping cart graphic pops up at the bottom of the frame, guiding viewers to place their orders immediately
-  - Subject: Vamos ver no carrito, sério.  Porque acaba rápido e não volta.  Tá na oferta, corre.
+  - Subject: Vamos ver no carrito, sério. Porque acaba rápido e não volta. Tá na oferta, corre.
 Shot 5:
   - Duration: 15.5sec - 20.1sec
   - Scene Type: Order Process Guide
@@ -96,7 +95,7 @@ Shot 4:
   - 时长: 12.5sec - 15.5sec
   - 镜头类型: 限时优惠
   - 画面: 场景切换至阳光明媚的私家住宅庭院，博主侧身倚靠在自家轿车的引擎盖上，手中高举着洗车喷枪，对着镜头激情分享，随后手指向画面下方位置，画面底部弹出醒目的卡通购物车图形，引导观众下单抢购。
-  - 口播: Vamos ver no carrito, sério.  Porque acaba rápido e não volta.  Tá na oferta, corre.
+  - 口播: Vamos ver no carrito, sério. Porque acaba rápido e não volta. Tá na oferta, corre.
 Shot 5:
   - 时长: 15.5sec - 20.1sec
   - 镜头类型: 下单流程指引
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-automotive-303381](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-automotive-303381?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-automotive-303381)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-automotive-303381](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-automotive-303381?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-automotive-303381)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

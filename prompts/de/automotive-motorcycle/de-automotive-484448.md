@@ -1,6 +1,6 @@
 ---
 id: de-automotive-484448
-title: "RCB D5/ PRO Elektroroller — Handheld Demo (Germany · Automotive & Motorcycle)"
+title: "RCB D5/ PRO Elektroroller… — Handheld Demo (Germany · Automotive & Motorcycle)"
 market: de
 category: automotive-motorcycle
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7653227371851484448
 creator: "@davidoff1323"
 published: 2026-06-19
 ---
-# RCB D5/ PRO Elektroroller — Handheld Demo (Germany · Automotive & Motorcycle)
+# RCB D5/ PRO Elektroroller… — Handheld Demo (Germany · Automotive & Motorcycle)
 **Weekly #1** · 🇩🇪 Germany · Automotive & Motorcycle · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7653227371851484448) by [@davidoff1323](https://www.tiktok.com/@davidoff1323). Format: **Handheld Demo** · 8s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “This is the ultimate e-scooter, with great range”
+**Opening line (translated from the video):** “This is the ultimate e-scooter, with great range”
 
 **Key visuals:** E-Scooter · Colorful Splash Patterns · Digital Dashboard · Battery Module · Motor Animation · Speed Bump · Car Trunk
 
@@ -89,7 +88,7 @@ Shot 2:
   - 口播: 500 Watt Power. Sicher bei Nacht?
 Shot 3:
   - 时长: 3.5sec - 5.5sec
-  - 镜头类型: 产品核心成分（健康品类）
+  - 镜头类型: 产品核心成分
   - 画面: 深色科技背景中，镜头特写电动滑板车后轮电机的内部结构动画，电机内部的铜线圈与转轴清晰呈现，蓝黄双色动态光环围绕电机匀速旋转，画面上下方弹出醒目的红色功率字幕，画面顶部弹出字幕。
 Shot 4:
   - 时长: 5.5sec - 7.0sec
@@ -112,4 +111,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-automotive-484448](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-automotive-484448?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-automotive-484448)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-automotive-484448](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-automotive-484448?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-automotive-484448)
-🤖 **Driving an AI agent?** `clipcat prompt search "Automotive & Motorcycle"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Automotive & Motorcycle handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

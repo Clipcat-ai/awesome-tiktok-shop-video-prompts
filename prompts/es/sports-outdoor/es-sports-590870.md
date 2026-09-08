@@ -1,6 +1,6 @@
 ---
 id: es-sports-590870
-title: "Plus Size Letter Print Hoodie & Sweatpants Set — Handheld Demo (Spain · Sports & Outdoor)"
+title: "Plus Size Letter Print Hoodie &… — Handheld Demo (Spain · Sports & Outdoor)"
 market: es
 category: sports-outdoor
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674443296772590870
 creator: "@sarayklk06"
 published: 2026-08-24
 ---
-# Plus Size Letter Print Hoodie & Sweatpants Set — Handheld Demo (Spain · Sports & Outdoor)
+# Plus Size Letter Print Hoodie &… — Handheld Demo (Spain · Sports & Outdoor)
 **Weekly #1** · 🇪🇸 Spain · Sports & Outdoor · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674443296772590870) by [@sarayklk06](https://www.tiktok.com/@sarayklk06). Format: **Handheld Demo** · 10s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Are you looking for a comfortable loose set for cold days?”
+**Opening line (translated from the video):** “Are you looking for a comfortable loose set for cold days?”
 
 **Pain point it attacks:** Can't find comfortable loose plus-size sets in cold weather
 
@@ -51,7 +50,7 @@ Shot 3:
   - Duration: 7.0sec - 9.5sec
   - Scene Type: Usage scenario setup
   - Scene: The man slowly turns around from facing away, walks back to the center of the frame facing the camera again, then spreads his arms to enthusiastically show the full silhouette of the entire outfit to the camera. White Spanish text pops up at the bottom of the frame: '(Talla grande • Cómodo) • Sudadera + pantalón', while the white curved arrow effect in the bottom left remains displayed.
-  - Subject: para estar cómodo y vestir casual.  Ideal para otoño e invierno.
+  - Subject: para estar cómodo y vestir casual. Ideal para otoño e invierno.
 Shot 4:
   - Duration: 8.7sec - 9.8sec
   - Scene Type: Checkout process guidance
@@ -86,7 +85,7 @@ Shot 3:
   - 时长: 7.0sec - 9.5sec
   - 镜头类型: 设置使用场景
   - 画面: 男士从背面缓缓转身，重新面向镜头走回画面中心，随后张开双臂，热情地向镜头展示整套穿搭的完整版型，画面底部同步弹出白色西班牙语文字标注：“(Talla grande • Cómodo) • Sudadera + pantalón”，同时左下角的白色弧形箭头特效保持显示。
-  - 口播: para estar cómodo y vestir casual.  Ideal para otoño e invierno.
+  - 口播: para estar cómodo y vestir casual. Ideal para otoño e invierno.
 Shot 4:
   - 时长: 8.7sec - 9.8sec
   - 镜头类型: 下单流程指引
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-sports-590870](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-sports-590870?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-sports-590870)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-sports-590870](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-sports-590870?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-sports-590870)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: id-health-993345
-title: "Coolvita Calcium Chewable New Zealand Milk Flavor - Suplemen K — Promo Pitch (Indonesia · Health)"
+title: "Coolvita Calcium Chewable New… — Promo Pitch (Indonesia · Health)"
 market: id
 category: health
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670569647803993345
 creator: "@coolvita.id"
 published: 2026-08-05
 ---
-# Coolvita Calcium Chewable New Zealand Milk Flavor - Suplemen K — Promo Pitch (Indonesia · Health)
+# Coolvita Calcium Chewable New… — Promo Pitch (Indonesia · Health)
 **Weekly #1** · 🇮🇩 Indonesia · Health · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670569647803993345) by [@coolvita.id](https://www.tiktok.com/@coolvita.id). Format: **Promo Pitch** · 15s · hook: **Curiosity Gap** · Hands only · No promo
-**Opening line (from the video):** “Want to be as tall as a model? Support your height with enough calcium daily”
+**Opening beat:** “Want to be as tall as a model? Support your height with enough calcium daily”
 
 **Pain point it attacks:** Insufficient daily calcium intake affects height growth
 
@@ -43,11 +42,11 @@ Shot 1:
   - Scene: Set against a rainy anime illustration background with fine raindrops falling, two male anime characters stand in the frame: the character on the left has long deep purple curly hair, wears black-rimmed glasses, a black leather jacket and ripped black pants, holds a black umbrella in his right hand, and naturally tucks his left hand into his pants pocket. The character on the right has short silver-white curly hair, wears a red and black plaid shirt layered over a hoodie and blue jeans, with both hands tucked into his pants pockets. The two smile and make eye contact with each other. Corresponding product patterns and incremental descriptive text for different age groups are overlaid at their respective positions on the frame, with a small line of product description text along the bottom edge. The entire shot is captured with a fixed camera, keeping the frame stable and motionless.
 Shot 2:
   - Duration: 3.5sec - 7.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The scene switches to a real home kitchen environment, with a gray marble-patterned mat on the countertop, and potted green plants next to the sink and kitchen utensils visible in the background. A hand wearing clothing with light gray striped cuffs enters the frame from below, steadily holding two pink children's calcium supplement drink boxes printed with 'Toy Story' patterns, and clearly presents the products on the marble countertop. Colorful confetti effects then float across the frame, while eye-catching red promotional text pops up at the top and bottom of the screen. The hand gently rotates the products to show the cartoon pattern details on the packaging boxes from multiple angles. The shot uses a first-person handheld close-up perspective with slight natural camera shake.
 Shot 3:
   - Duration: 7.5sec - 11.0sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The pink product boxes move out of the frame, and a hand holding a blue product box printed with a Buzz Lightyear pattern enters the frame, fully presenting the blue box in front of the camera. The hand slowly rotates the product to clearly display the patterns and text information on both the front and back of the packaging box. The red selection prompt text remains at the top of the frame, and the radiating discount promotional text continues at the bottom. The camera moves slowly to follow the product's rotation and adjust focus, keeping the product always at the visual center of the frame.
 Shot 4:
   - Duration: 11.0sec - 14.0sec
@@ -78,11 +77,11 @@ Shot 1:
   - 画面: 以雨天动漫插画为背景，细密雨丝飘落，画面中站立着两位动漫男性人物：左侧人物留深紫红色长卷发、佩戴黑框眼镜，身着黑色皮夹克搭配破洞黑裤，右手撑着一把黑色雨伞，左手自然插在裤袋中；右侧人物拥有银白色短卷发，身穿红黑格纹衬衫搭配连帽卫衣与蓝色牛仔裤，双手插在裤袋里，两人相视微笑对视。画面中各自对应位置叠加了对应年龄段的产品图案与增量说明文字，底部边缘有一行产品说明小字。全程固定机位拍摄，画面稳定无移动。
 Shot 2:
   - 时长: 3.5sec - 7.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 场景切换到真实居家厨房环境，台面铺有灰色大理石纹理台垫，背景可见水槽边的绿植盆栽与厨房用具。一只身着浅灰色条纹袖口衣物的手从画面下方伸入，稳稳握持着两盒印有《玩具总动员》图案的粉色儿童补钙饮品盒，将产品清晰展示在大理石台面上。随后画面中飘起五彩缤纷的彩色纸屑特效，同时画面上下方弹出红色醒目促销文字。手部轻微转动产品，多角度展示包装盒上的卡通图案细节，镜头为第一人称手持特写视角，有轻微自然晃动。
 Shot 3:
   - 时长: 7.5sec - 11.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面中粉色产品盒从画面中移出，一只手拿着印有巴斯光年图案的蓝色产品盒伸入画面，将蓝色盒子完整展示在镜头前，手部缓慢转动产品，清晰呈现包装盒正反两面的图案与文字信息。画面顶部保留红色选择提示文字，底部延续放射状折扣促销文字。镜头随产品转动缓慢移动对焦，保持产品始终处于画面视觉中心。
 Shot 4:
   - 时长: 11.0sec - 14.0sec
@@ -100,4 +99,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [id-health-993345](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/id-health-993345?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-health-993345)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[id-health-993345](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/id-health-993345?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=id-health-993345)
-🤖 **Driving an AI agent?** `clipcat prompt search "Health"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Health promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

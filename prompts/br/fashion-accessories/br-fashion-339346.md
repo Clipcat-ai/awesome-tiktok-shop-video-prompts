@@ -1,6 +1,6 @@
 ---
 id: br-fashion-339346
-title: "Corrente Masculina Cordão Grumet 3x1 Banhado a Ouro 18k 70cm D — Handheld Demo (Brazil · Fashion Accessories)"
+title: "Corrente Masculina Cordão Grumet… — Handheld Demo (Brazil · Fashion Accessories)"
 market: br
 category: fashion-accessories
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7643618545934339346
 creator: "@salmosdasalmas"
 published: 2026-05-25
 ---
-# Corrente Masculina Cordão Grumet 3x1 Banhado a Ouro 18k 70cm D — Handheld Demo (Brazil · Fashion Accessories)
+# Corrente Masculina Cordão Grumet… — Handheld Demo (Brazil · Fashion Accessories)
 **Weekly #1** · 🇧🇷 Brazil · Fashion Accessories · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7643618545934339346) by [@salmosdasalmas](https://www.tiktok.com/@salmosdasalmas). Format: **Handheld Demo** · 66s · hook: **Curiosity Gap** · On-camera host · No promo
-**Opening line (from the video):** “Don't skip this video. If you are a man of God and want to carry Christ's cross every day, pay close attention”
+**Opening line (translated from the video):** “Don't skip this video. If you are a man of God and want to carry Christ's cross every day, pay close attention”
 
 **Pain point it attacks:** Men who are easily forgotten their faith by the world
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-fashion-339346](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-fashion-339346?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-fashion-339346)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-fashion-339346](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-fashion-339346?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-fashion-339346)
-🤖 **Driving an AI agent?** `clipcat prompt search "Fashion Accessories"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Fashion Accessories handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

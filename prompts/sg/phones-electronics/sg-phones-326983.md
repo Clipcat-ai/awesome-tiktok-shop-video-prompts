@@ -1,6 +1,6 @@
 ---
 id: sg-phones-326983
-title: "Gaming Mech TWS earbuds with a warship design — Real Review (Singapore · Phones & Electronics)"
+title: "Gaming Mech TWS earbuds with a… — Real Review (Singapore · Phones & Electronics)"
 market: sg
 category: phones-electronics
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7644858732295326983
 creator: "@prime.ai.3c.mart"
 published: 2026-05-28
 ---
-# Gaming Mech TWS earbuds with a warship design — Real Review (Singapore · Phones & Electronics)
+# Gaming Mech TWS earbuds with a… — Real Review (Singapore · Phones & Electronics)
 **Weekly #1** · 🇸🇬 Singapore · Phones & Electronics · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7644858732295326983) by [@prime.ai.3c.mart](https://www.tiktok.com/@prime.ai.3c.mart). Format: **Real Review** · 15s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “New customers get a discount for only S$0.01”
+**Opening line (quoted from the video):** “New customers get a discount for only S$0.01”
 
 **Pain point it attacks:** Gaming headphones have high latency and poor noise reduction
 
@@ -83,7 +82,7 @@ Shot 9:
   - Scene: The character holds a game controller with both hands, facing the esports monitor and playing a shooting game. The screen displays a clear in-game battle scene, with the game crosshair in the bottom right corner of the frame aimed at an enemy character, demonstrating the low-latency gaming usage scenario of pinpointing audio cues to locate opponents.
 Shot 10:
   - Duration: 13.5sec - 15.5sec
-  - Scene Type: Multi-style selection showcase (fashion category)
+  - Scene Type: Multi-style selection showcase
   - Scene: Four mecha-style earbud charging cases in different colorways: orange, green, red, and black, are neatly arranged on the esports desk. Some of the lids are open to reveal the earbuds inside, and the battery level display screens on all products are lit up with different numbers. Paired with the esports equipment in the background, the full product line is completely displayed.
 [Background Sound]:
 - This short video segment uses only voiceover narration, with no background music or sound effects included. The narration consists of e-commerce promotional copy, delivered at a fast pace with an enthusiastic tone, designed to guide users to click and purchase, with no accompanying soundtrack or ambient sound effects.
@@ -146,7 +145,7 @@ Shot 9:
   - 画面: 人物双手握着游戏手柄，正对着电竞显示器玩射击类游戏，屏幕中显示清晰的游戏对战画面，画面右下角的游戏准星对准敌方角色，展示低延迟游戏听音辨位的使用场景。
 Shot 10:
   - 时长: 13.5sec - 15.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 电竞桌面上整齐排列着橙、绿、红、黑四款不同配色的机甲风耳机充电仓，部分仓盖打开露出内部耳机，所有产品的电量显示屏都亮着不同数字，搭配背景电竞设备，完整展示全系列产品阵容。
 [Background Sound]:
 - 该短视频片段为纯语音旁白，未包含任何背景音乐或音效。旁白内容为电商促销话术，语速较快、语气热情，旨在引导用户点击购买，无配乐或环境音效伴随。
@@ -156,4 +155,4 @@ Shot 10:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-phones-326983](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-phones-326983?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-phones-326983)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-phones-326983](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-phones-326983?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-phones-326983)
-🤖 **Driving an AI agent?** `clipcat prompt search "Phones & Electronics"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Phones & Electronics real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

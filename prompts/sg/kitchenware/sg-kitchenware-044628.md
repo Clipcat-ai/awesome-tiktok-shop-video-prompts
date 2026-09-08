@@ -1,6 +1,6 @@
 ---
 id: sg-kitchenware-044628
-title: "ecowin 25CM Granite Non Stick Egg Pan Pancake Pan Induction Cr — Lifestyle Scene (Singapore · Kitchenware)"
+title: "ecowin 25CM Granite Non Stick Egg… — Lifestyle Scene (Singapore · Kitchenware)"
 market: sg
 category: kitchenware
 video_type: lifestyle-scene
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674835241827044628
 creator: "@ecowinofficial_sg"
 published: 2026-08-17
 ---
-# ecowin 25CM Granite Non Stick Egg Pan Pancake Pan Induction Cr — Lifestyle Scene (Singapore · Kitchenware)
+# ecowin 25CM Granite Non Stick Egg… — Lifestyle Scene (Singapore · Kitchenware)
 **Weekly #1** · 🇸🇬 Singapore · Kitchenware · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674835241827044628) by [@ecowinofficial_sg](https://www.tiktok.com/@ecowinofficial_sg). Format: **Lifestyle Scene** · 15s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Panoramic view of bright open kitchen, woman standing at counter with back to camera”
+**Opening line (translated from the video):** “Panoramic view of bright open kitchen, woman standing at counter with back to camera”
 
 **Key visuals:** Open Kitchen · Non Stick Pan · Raspberry Bowl · Wooden Fruit Plate · Pancake · Powdered Sugar · Gas Stove · Kitchen Cabinet
 
@@ -116,4 +115,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-kitchenware-044628](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-kitchenware-044628?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-kitchenware-044628)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-kitchenware-044628](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-kitchenware-044628?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-kitchenware-044628)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware lifestyle scene"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

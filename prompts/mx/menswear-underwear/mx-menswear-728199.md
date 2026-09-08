@@ -1,6 +1,6 @@
 ---
 id: mx-menswear-728199
-title: "Camiseta cómoda para hombre Alo — OOTD Showcase (Mexico · Menswear & Underwear)"
+title: "Camiseta cómoda para hombre Alo… — OOTD Showcase (Mexico · Menswear & Underwear)"
 market: mx
 category: menswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7679043414322728199
 creator: "@batflux2"
 published: 2026-08-28
 ---
-# Camiseta cómoda para hombre Alo — OOTD Showcase (Mexico · Menswear & Underwear)
+# Camiseta cómoda para hombre Alo… — OOTD Showcase (Mexico · Menswear & Underwear)
 **Weekly #1** · 🇲🇽 Mexico · Menswear & Underwear · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7679043414322728199) by [@batflux2](https://www.tiktok.com/@batflux2). Format: **OOTD Showcase** · 9s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “A man stands in a bedroom with vintage records and posters, holding four pink short-sleeved T-shirts”
+**Opening beat:** “A man stands in a bedroom with vintage records and posters, holding four pink short-sleeved T-shirts”
 
 **Key visuals:** Vintage Records · Trendy Posters · Pink Short-sleeved T-shirt · Black Sports Shorts · Silver Bracelet · Bed · Wall · Door Frame
 
@@ -106,4 +105,4 @@ Shot 6:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [mx-menswear-728199](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/mx-menswear-728199?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-menswear-728199)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[mx-menswear-728199](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/mx-menswear-728199?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=mx-menswear-728199)
-🤖 **Driving an AI agent?** `clipcat prompt search "Menswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Menswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

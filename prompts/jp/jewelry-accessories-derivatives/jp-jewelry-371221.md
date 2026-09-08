@@ -1,6 +1,6 @@
 ---
 id: jp-jewelry-371221
-title: "Natural Crystal Multicolor Tiger Eye Beaded Bracelet — Handheld Demo (Japan · Jewelry Accessories & Derivatives)"
+title: "Natural Crystal Multicolor Tiger… — Handheld Demo (Japan · Jewelry Accessories & Derivatives)"
 market: jp
 category: jewelry-accessories-derivatives
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7670117254956371221
 creator: "@brilliant_healing88"
 published: 2026-08-04
 ---
-# Natural Crystal Multicolor Tiger Eye Beaded Bracelet — Handheld Demo (Japan · Jewelry Accessories & Derivatives)
+# Natural Crystal Multicolor Tiger… — Handheld Demo (Japan · Jewelry Accessories & Derivatives)
 **Weekly #1** · 🇯🇵 Japan · Jewelry Accessories & Derivatives · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7670117254956371221) by [@brilliant_healing88](https://www.tiktok.com/@brilliant_healing88). Format: **Handheld Demo** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “If you want to attract money and wealth, natural crystal...”
+**Opening line (translated from the video):** “If you want to attract money and wealth, natural crystal...”
 
 **Key visuals:** Warm Beige Soft Background · Tiger Eye Bracelets · Black T-shirt · Fern Plant · Black Tabletop · Colorful Beads · Studio Lighting
 
@@ -47,7 +46,7 @@ Shot 2:
   - Subject: クリスタルで幸運を招くこれ
 Shot 3:
   - Duration: 5.5sec - 9.5sec
-  - Scene Type: Display of multiple style options (fashion category)
+  - Scene Type: Display of multiple style options
   - Scene: The background switches to pure black. The woman lifts her right hand wearing a dazzling multi-colored round bead bracelet, naturally bringing her wrist next to her cheek, and slightly rotates her wrist to show the bright, rich colors of the bracelet, keeping a sweet smile on her lips the whole time. Japanese subtitles 'everyone wants it' and 'suitable for all genders' appear sequentially at the bottom of the frame. The camera focuses on the wrist from a close-up perspective, with precise focus fixed on the colorful beads of the bracelet.
   - Subject: みんな欲しがってるみたい男女兼用
 Shot 4:
@@ -87,7 +86,7 @@ Shot 2:
   - 口播: クリスタルで幸運を招くこれ
 Shot 3:
   - 时长: 5.5sec - 9.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面背景切换为纯黑色，女性抬起佩戴着炫彩多色圆珠手链的右手，将手腕自然抬至脸颊旁，手腕微微转动展示手链鲜亮丰富的色彩，嘴角始终保持甜美的笑容，画面底部依次出现大家都想要、男女都适用的日文字幕。镜头以近景视角聚焦手腕，对焦精准定格在手链的彩色珠子上。
   - 口播: みんな欲しがってるみたい男女兼用
 Shot 4:
@@ -108,4 +107,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-jewelry-371221](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-jewelry-371221?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-jewelry-371221)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-jewelry-371221](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-jewelry-371221?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-jewelry-371221)
-🤖 **Driving an AI agent?** `clipcat prompt search "Jewelry Accessories & Derivatives"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Jewelry Accessories & Derivatives handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

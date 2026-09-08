@@ -1,6 +1,6 @@
 ---
 id: th-womenswear-122068
-title: "เสื้อกั๊กผ้าลูกไม้เข้ารูปสำหรับผู้หญิงคุณภาพสูง เหมาะสำหรับฤดู — Handheld Demo (Thailand · Womenswear & Underwear)"
+title: "เสื้อกั๊กผ้าลูกไม้เข้ารูปสำหรับผู้ห… — Handheld Demo (Thailand · Womenswear & Underwear)"
 market: th
 category: womenswear-underwear
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7666060046073122068
 creator: "@newy2024"
 published: 2026-07-24
 ---
-# เสื้อกั๊กผ้าลูกไม้เข้ารูปสำหรับผู้หญิงคุณภาพสูง เหมาะสำหรับฤดู — Handheld Demo (Thailand · Womenswear & Underwear)
+# เสื้อกั๊กผ้าลูกไม้เข้ารูปสำหรับผู้ห… — Handheld Demo (Thailand · Womenswear & Underwear)
 **Weekly #1** · 🇹🇭 Thailand · Womenswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7666060046073122068) by [@newy2024](https://www.tiktok.com/@newy2024). Format: **Handheld Demo** · 10s · hook: **Benefit First** · On-camera host · Discount
-**Opening line (from the video):** “Look at this lace camisole, it's so beautiful”
+**Opening line (translated from the video):** “Look at this lace camisole, it's so beautiful”
 
 **Pain point it attacks:** Can't find nice and comfortable summer lace camisole
 
@@ -31,7 +30,7 @@ Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.co
 ```text
 [Style]: A daily-life realistic short video for home goods sharing, with soft and warm color tones, natural and delicate texture presentation of skin and clothing, full of approachability and a sense of personal sharing.
 [Environment]: A well-lit exquisite home makeup room, with a light brown wall with louver design visible in the background, a white dressing table with makeup brushes placed on it next to the wall, fresh green potted plants and minimalist white ceramic flower pots arranged in the corner. The overall environment is clean and tidy, with a warm and cozy atmosphere.
-[Tone & Pacing]: Authentic Douyin UGC product sharing style, with a friendly, enthusiastic and infectious tone, brisk and natural pace. Every action is precisely aimed at showing the advantages of the clothing, and the camera switches smoothly and seamlessly.
+[Tone & Pacing]: Authentic TikTok UGC product sharing style, with a friendly, enthusiastic and infectious tone, brisk and natural pace. Every action is precisely aimed at showing the advantages of the clothing, and the camera switches smoothly and seamlessly.
 [Camera]: Mainly uses a fixed front eye-level camera position, paired with a small forward push-in camera movement. The lens always focuses on the model's upper body and the displayed clothing, the picture is stable, clear and free of unnecessary shaking.
 [Lighting]: Soft and even indoor diffused light pours down from the front, evenly illuminating the character's face and clothing, with no harsh shadows, perfectly highlighting the delicate texture of the white lace camisole and the model's bright, glowing skin.
 [Character]: A 25-30 year old East Asian woman, with delicate, translucent skin with natural healthy glow, a soft oval face paired with dark brown natural long wavy hair, relaxed eyebrows and eyes, a sheer no-makeup makeup look, a well-proportioned and graceful figure. She wears a white sleeveless lace camisole with delicate lace trim paired with simple black bottoms, layered with multiple thin gold necklaces, with a sweet and friendly temperament, and a bright, healing smile throughout the whole process.
@@ -66,7 +65,7 @@ Shot 4:
 ```text
 [Style]: 生活化写实风的居家好物分享短视频，画面色调柔和温暖，皮肤与衣物的质感呈现自然细腻，充满亲和力与分享感。
 [Environment]: 光线充足的精致居家化妆间，背景可见带百叶设计的浅棕色墙面，一旁摆放着铺有化妆刷的白色梳妆台，角落布置有清新的绿植盆栽与简约风白瓷花盆，整体环境干净整洁、氛围温馨舒适。
-[Tone & Pacing]: 地道的抖音UGC好物分享风格，语调亲切热情充满感染力，节奏轻快自然，每一个动作都精准指向展示衣物的优势，镜头切换流畅丝滑。
+[Tone & Pacing]: 地道的TikTokUGC好物分享风格，语调亲切热情充满感染力，节奏轻快自然，每一个动作都精准指向展示衣物的优势，镜头切换流畅丝滑。
 [Camera]: 采用正面平视的固定机位为主，搭配小幅度的向前推进运镜，镜头始终聚焦在模特上半身与展示的衣物上，画面稳定清晰无多余晃动。
 [Lighting]: 柔和均匀的室内柔光从正面倾洒下来，均匀打亮人物面部与衣物，没有生硬的阴影，完美凸显白色蕾丝背心的精致纹理与模特透亮的肌肤状态。
 [Character]: 25-30岁东亚女性，肌肤细腻通透有自然健康光泽，线条柔和的鹅蛋脸搭配深棕色自然大波浪长卷发，眉眼舒展，清透伪素颜淡妆，身形匀称舒展，身着带精致蕾丝花边的白色无袖蕾丝背心搭配简约黑色下装，叠戴多层细款金色项链，气质甜美亲切，全程面带灿烂治愈的笑容。
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-womenswear-122068](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-womenswear-122068?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-womenswear-122068)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-womenswear-122068](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-womenswear-122068?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-womenswear-122068)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

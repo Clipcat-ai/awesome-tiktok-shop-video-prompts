@@ -1,6 +1,6 @@
 ---
 id: jp-luggage-431253
-title: "化粧ポーチ 小物入れ メイクポーチ ポーチ 自立 立てて収納 スクエア 便利 トラベル 旅行 可愛い プレゼント コンパクト — Promo Pitch (Japan · Luggage & Bags)"
+title: "化粧ポーチ 小物入れ メイクポーチ… — Promo Pitch (Japan · Luggage & Bags)"
 market: jp
 category: luggage-bags
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7669302874706431253
 creator: "@maina.diet"
 published: 2026-08-02
 ---
-# 化粧ポーチ 小物入れ メイクポーチ ポーチ 自立 立てて収納 スクエア 便利 トラベル 旅行 可愛い プレゼント コンパクト — Promo Pitch (Japan · Luggage & Bags)
+# 化粧ポーチ 小物入れ メイクポーチ… — Promo Pitch (Japan · Luggage & Bags)
 **Weekly #1** · 🇯🇵 Japan · Luggage & Bags · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7669302874706431253) by [@maina.diet](https://www.tiktok.com/@maina.diet). Format: **Promo Pitch** · 28s · hook: **Result First** · Hands only · Discount
-**Opening line (from the video):** “This super popular compact self-standing pouch, you can buy it for 1 yen now”
+**Opening line (translated from the video):** “This super popular compact self-standing pouch, you can buy it for 1 yen now”
 
 **Pain point it attacks:** Pouches tip over, messy storage, poor water resistance
 
@@ -174,7 +173,7 @@ Shot 13:
   - 口播: 水は汚れに強いしガジェットケースとしても強い
 Shot 14:
   - 时长: 21.5sec - 22.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面以叠加卡片的形式展示化妆包全系列的8种不同配色，每个配色下方标注对应的日文色号名称，卡片右下角还配有同色系内衬的细节展示小图，背景依旧是之前摆放美妆产品的白色平面，画面弹出日文字幕“カラバリも豊富だから”。
   - 口播: お気に入りがきっと
 Shot 15:
@@ -200,4 +199,4 @@ Shot 17:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [jp-luggage-431253](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/jp-luggage-431253?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-luggage-431253)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[jp-luggage-431253](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/jp-luggage-431253?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=jp-luggage-431253)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

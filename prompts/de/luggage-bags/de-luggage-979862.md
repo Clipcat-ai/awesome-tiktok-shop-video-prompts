@@ -1,6 +1,6 @@
 ---
 id: de-luggage-979862
-title: "VALLSERO Reisekoffer Sets 5 Piece mit TSA Lock Hardside Suitca — Handheld Demo (Germany · Luggage & Bags)"
+title: "VALLSERO Reisekoffer Sets 5 Piece… — Handheld Demo (Germany · Luggage & Bags)"
 market: de
 category: luggage-bags
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677303153078979862
 creator: "@mohammad19778"
 published: 2026-08-23
 ---
-# VALLSERO Reisekoffer Sets 5 Piece mit TSA Lock Hardside Suitca — Handheld Demo (Germany · Luggage & Bags)
+# VALLSERO Reisekoffer Sets 5 Piece… — Handheld Demo (Germany · Luggage & Bags)
 **Weekly #1** · 🇩🇪 Germany · Luggage & Bags · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677303153078979862) by [@mohammad19778](https://www.tiktok.com/@mohammad19778). Format: **Handheld Demo** · 38s · hook: **Result First** · Hands only · No promo
-**Opening line (from the video):** “Three silver striped suitcases of different sizes stand neatly on the wooden floor”
+**Opening line (quoted from the video):** “Three silver striped suitcases of different sizes stand neatly on the wooden floor”
 
 **Key visuals:** Silver Suitcase · Wooden Floor · Wheels · Zipper · Storage Bag · Washing Bag · Travel Bag
 
@@ -39,7 +38,6 @@ Shot 1:
   - Duration: 0.0sec - 3.5sec
   - Scene Type: Product Versatility
   - Scene: The frame starts with a pure black background, then transitions naturally to the indoor wood floor scene, three silver-gray suitcases of different sizes with vertical stripes stand fully upright on the ground, the camera slowly zooms in to clearly show the overall appearance of the neatly arranged suitcases.
-  - Subject: Bye.
 Shot 2:
   - Duration: 3.5sec - 10.5sec
   - Scene Type: Ease of Use Demonstration
@@ -72,7 +70,7 @@ Shot 7:
   - Subject: Oh man, Shintayn, weise in Tasche. it on... Thank you. Kleiner for... Okay.
 Shot 8:
   - Duration: 35.0sec - 38.5sec
-  - Scene Type: Multi-Style Selection Demonstration (Fashion Category)
+  - Scene Type: Multi-Style Selection Demonstration
   - Scene: The frame switches to a fixed perspective, the three silver-gray suitcases of different sizes stand neatly side by side on the wood floor, with the light brown tile wall and white radiator in the background. The camera holds this frame, fully showing the full appearance and layered visual effect of the three suitcases.
   - Subject: Pete smells strong.
 [Background Sound]:
@@ -94,7 +92,6 @@ Shot 1:
   - 时长: 0.0sec - 3.5sec
   - 镜头类型: 产品多功能性
   - 画面: 画面初始为纯黑色背景，随后自然转场到室内木地板场景中，三个不同尺寸的银灰色竖条纹行李箱完整立放于地面之上，镜头缓缓拉近，清晰展现行李箱整齐排列的整体外观。
-  - 口播: Bye.
 Shot 2:
   - 时长: 3.5sec - 10.5sec
   - 镜头类型: 展示易用性
@@ -127,7 +124,7 @@ Shot 7:
   - 口播: Oh man, Shintayn, weise in Tasche. it on... Thank you. Kleiner for... Okay.
 Shot 8:
   - 时长: 35.0sec - 38.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 画面切换为固定视角，三只不同尺寸的银灰色行李箱整齐并排立放在木地板上，背景是浅棕色瓷砖墙面与白色暖气片，镜头定格在这一画面，完整展示三只行李箱的全貌与层次感。
   - 口播: Pete smells strong.
 [Background Sound]:
@@ -138,4 +135,4 @@ Shot 8:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [de-luggage-979862](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/de-luggage-979862?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-luggage-979862)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[de-luggage-979862](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/de-luggage-979862?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=de-luggage-979862)
-🤖 **Driving an AI agent?** `clipcat prompt search "Luggage & Bags"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Luggage & Bags handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: sg-beauty-378324
-title: "SENSODYNE Toothbrush Multi Care — Handheld Demo (Singapore · Beauty & Personal Care)"
+title: "SENSODYNE Toothbrush Multi Care… — Handheld Demo (Singapore · Beauty & Personal Care)"
 market: sg
 category: beauty-personal-care
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7658225416821378324
 creator: "@maxine_lloyd"
 published: 2026-07-03
 ---
-# SENSODYNE Toothbrush Multi Care — Handheld Demo (Singapore · Beauty & Personal Care)
+# SENSODYNE Toothbrush Multi Care… — Handheld Demo (Singapore · Beauty & Personal Care)
 **Weekly #1** · 🇸🇬 Singapore · Beauty & Personal Care · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7658225416821378324) by [@maxine_lloyd](https://www.tiktok.com/@maxine_lloyd). Format: **Handheld Demo** · 15s · hook: **Result First** · On-camera host · No promo
-**Opening line (from the video):** “This Sensodyne 3-pack sensitive bristle toothbrush set is insane”
+**Opening line (quoted from the video):** “This Sensodyne 3-pack sensitive bristle toothbrush set is insane”
 
 **Pain point it attacks:** Sensitive teeth and gums fear irritation
 
@@ -56,7 +55,7 @@ Shot 4:
   - Duration: 12.5sec - 15.5sec
   - Scene Type: Promotional selling point strong recommendation
   - Scene: The girl holds the full 3-pack toothbrush package in front of her again, standing in front of the bathroom vanity. She supports the bottom of the package with one hand, and makes a downward-pointing call-to-action gesture with the other, recommending the purchase to the camera with a bright smile, finishing the product recommendation closing.
-  - Subject: and teeth suffers.  Grab your Sensodyne Sensitive Soft Toothbrush 3-Pack now. Bye.
+  - Subject: and teeth suffers. Grab your Sensodyne Sensitive Soft Toothbrush 3-Pack now.
 [Background Sound]:
 - No background music at all, only clear and natural spoken sharing voice is retained throughout the whole video. The human voice is crisp and bright, full of the energetic sharing vibe of TikTok recommendation videos
 [Transition / Editing]:
@@ -91,7 +90,7 @@ Shot 4:
   - 时长: 12.5sec - 15.5sec
   - 镜头类型: 促销卖点强推
   - 画面: 女生重新将完整的三支装牙刷包装抱在身前，站在浴室的洗漱台前，一只手托住包装底部，另一只手做出指向下方的号召手势，面带灿烂笑容向镜头发出购买推荐，完成种草收尾。
-  - 口播: and teeth suffers.  Grab your Sensodyne Sensitive Soft Toothbrush 3-Pack now. Bye.
+  - 口播: and teeth suffers. Grab your Sensodyne Sensitive Soft Toothbrush 3-Pack now.
 [Background Sound]:
 - 没有背景音乐，全程仅保留清晰自然的口语分享人声，人声清脆明亮，充满TikTok种草视频的活力分享感
 [Transition / Editing]:
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-beauty-378324](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-beauty-378324?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-beauty-378324)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-beauty-378324](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-beauty-378324?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-beauty-378324)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

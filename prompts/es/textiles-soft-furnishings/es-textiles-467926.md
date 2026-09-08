@@ -1,6 +1,6 @@
 ---
 id: es-textiles-467926
-title: "Solagua Estor de Bambú Enrollable para Ventana y Puerta — Handheld Demo (Spain · Textiles & Soft Furnishings)"
+title: "Solagua Estor de Bambú Enrollable… — Handheld Demo (Spain · Textiles & Soft Furnishings)"
 market: es
 category: textiles-soft-furnishings
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673456739261467926
 creator: "@solaguanavidad"
 published: 2026-08-18
 ---
-# Solagua Estor de Bambú Enrollable para Ventana y Puerta — Handheld Demo (Spain · Textiles & Soft Furnishings)
+# Solagua Estor de Bambú Enrollable… — Handheld Demo (Spain · Textiles & Soft Furnishings)
 **Weekly #1** · 🇪🇸 Spain · Textiles & Soft Furnishings · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673456739261467926) by [@solaguanavidad](https://www.tiktok.com/@solaguanavidad). Format: **Handheld Demo** · 15s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Do you want to change your home's look with little money? This blind will help you”
+**Opening line (translated from the video):** “Do you want to change your home's look with little money? This blind will help you”
 
 **Pain point it attacks:** Want to refresh home with limited budget
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [es-textiles-467926](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/es-textiles-467926?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-textiles-467926)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[es-textiles-467926](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/es-textiles-467926?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=es-textiles-467926)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

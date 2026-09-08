@@ -1,6 +1,6 @@
 ---
 id: gb-sports-047318
-title: "2pcs/4pcs Hotel Collection Deep Sleep Pillow - Neck Support No — Promo Pitch (United Kingdom · Sports & Outdoor)"
+title: "2pcs/4pcs Hotel Collection Deep… — Promo Pitch (United Kingdom · Sports & Outdoor)"
 market: gb
 category: sports-outdoor
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7667828856841047318
 creator: "@handbooktky"
 published: 2026-07-29
 ---
-# 2pcs/4pcs Hotel Collection Deep Sleep Pillow - Neck Support No — Promo Pitch (United Kingdom · Sports & Outdoor)
+# 2pcs/4pcs Hotel Collection Deep… — Promo Pitch (United Kingdom · Sports & Outdoor)
 **Weekly #1** · 🇬🇧 United Kingdom · Sports & Outdoor · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7667828856841047318) by [@handbooktky](https://www.tiktok.com/@handbooktky). Format: **Promo Pitch** · 10s · hook: **Result First** · On-camera host · Bundle deal
-**Opening line (from the video):** “Not one, not two, not three, but two”
+**Opening line (quoted from the video):** “Not one, not two, not three, but two”
 
 **Pain point it attacks:** Pillows collapse easily and lack support
 
@@ -90,4 +89,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-sports-047318](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-sports-047318?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-sports-047318)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-sports-047318](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-sports-047318?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-sports-047318)
-🤖 **Driving an AI agent?** `clipcat prompt search "Sports & Outdoor"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Sports & Outdoor promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

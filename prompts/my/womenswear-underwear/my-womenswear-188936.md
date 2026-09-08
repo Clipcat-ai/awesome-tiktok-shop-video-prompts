@@ -1,6 +1,6 @@
 ---
 id: my-womenswear-188936
-title: "TS29 Pandashop Korean Women's Striped Loose Long Sleeve T-shir — OOTD Showcase (Malaysia · Womenswear & Underwear)"
+title: "TS29 Pandashop Korean Women's… — OOTD Showcase (Malaysia · Womenswear & Underwear)"
 market: my
 category: womenswear-underwear
 video_type: ootd
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7601536673612188936
 creator: "@_nhmyuki"
 published: 2026-01-31
 ---
-# TS29 Pandashop Korean Women's Striped Loose Long Sleeve T-shir — OOTD Showcase (Malaysia · Womenswear & Underwear)
+# TS29 Pandashop Korean Women's… — OOTD Showcase (Malaysia · Womenswear & Underwear)
 **Weekly #1** · 🇲🇾 Malaysia · Womenswear & Underwear · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7601536673612188936) by [@_nhmyuki](https://www.tiktok.com/@_nhmyuki). Format: **OOTD Showcase** · 15s · hook: **POV Scenario** · On-camera host · No promo
-**Opening line (from the video):** “Asian female blogger in blue and beige striped long-sleeve T-shirt takes selfie in front of full-length mirror”
+**Opening beat:** “Asian female blogger in blue and beige striped long-sleeve T-shirt takes selfie in front of full-length mirror”
 
 **Key visuals:** Full-length Mirror · Striped Long-sleeve T-shirt · Wide-leg Jeans · Sneakers · Muslim Headscarf · Light Gray Wall · Light Wood Floor
 
@@ -82,4 +81,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-womenswear-188936](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-womenswear-188936?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-womenswear-188936)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-womenswear-188936](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-womenswear-188936?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-womenswear-188936)
-🤖 **Driving an AI agent?** `clipcat prompt search "Womenswear & Underwear"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Womenswear & Underwear ootd showcase"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

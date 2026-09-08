@@ -1,6 +1,6 @@
 ---
 id: sg-textiles-964178
-title: "【SG READY STOCK 】 Solid Colour Fitted Bedsheet With Pillow Cas — Product Close-Up (Singapore · Textiles & Soft Furnishings)"
+title: "【SG READY STOCK 】 Solid Colour… — Product Close-Up (Singapore · Textiles & Soft Furnishings)"
 market: sg
 category: textiles-soft-furnishings
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7677978679363964178
 creator: "@mrbaldeeman"
 published: 2026-08-26
 ---
-# 【SG READY STOCK 】 Solid Colour Fitted Bedsheet With Pillow Cas — Product Close-Up (Singapore · Textiles & Soft Furnishings)
+# 【SG READY STOCK 】 Solid Colour… — Product Close-Up (Singapore · Textiles & Soft Furnishings)
 **Weekly #1** · 🇸🇬 Singapore · Textiles & Soft Furnishings · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7677978679363964178) by [@mrbaldeeman](https://www.tiktok.com/@mrbaldeeman). Format: **Product Close-Up** · 10s · hook: **Result First** · No one on camera · No promo
-**Opening line (from the video):** “Change your bedsheet, change the whole look of your bedroom”
+**Opening line (quoted from the video):** “Change your bedsheet, change the whole look of your bedroom”
 
 **Key visuals:** Luxury Bedroom · King Size Bed · Solid Color Bedding · Abstract Wall Painting · Vintage Table Lamp · White Nightstand · Brown Curtains · Geometric Carpet
 
@@ -42,7 +41,7 @@ Shot 1:
   - Subject: Studies show you need to change your bedsheet every week.
 Shot 2:
   - Duration: 2.5sec - 7.5sec
-  - Scene Type: Display multiple style options (fashion category)
+  - Scene Type: Display multiple style options
   - Scene: The camera stays in the fixed medium full shot position, the bedding color switches smoothly in sequence, transitioning to show different solid-color styles including haze blue, light pink, pure white, wine red, grass green, light purple and more. Every bedding set remains laid flat and stretched out, the colors of the bed pillows, bed sheet and duvet cover change synchronously and uniformly, and the corresponding blue narration text updates synchronously at the bottom of the frame, intuitively demonstrating the rich color selection of the bedding
   - Subject: Vera Cotton, smooth to touch, fade, shrink, stain and wrinkle resistant. 9 solid colors. Pick your color and grab your color.
 Shot 3:
@@ -72,7 +71,7 @@ Shot 1:
   - 口播: Studies show you need to change your bedsheet every week.
 Shot 2:
   - 时长: 2.5sec - 7.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头保持中全景机位不动，床品颜色依次顺滑切换，依次过渡呈现雾霾蓝色、浅粉色、纯白色、酒红色、草绿色、浅紫色等不同纯色款式，每一款床品都保持平整舒展的铺陈状态，床体的枕头、床单、被套颜色同步统一变化，画面底部同步更新对应的蓝色解说文字，直观展示床品的丰富色彩选择。
   - 口播: Vera Cotton, smooth to touch, fade, shrink, stain and wrinkle resistant. 9 solid colors. Pick your color and grab your color.
 Shot 3:
@@ -88,4 +87,4 @@ Shot 3:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [sg-textiles-964178](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/sg-textiles-964178?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-textiles-964178)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[sg-textiles-964178](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/sg-textiles-964178?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=sg-textiles-964178)
-🤖 **Driving an AI agent?** `clipcat prompt search "Textiles & Soft Furnishings"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Textiles & Soft Furnishings product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

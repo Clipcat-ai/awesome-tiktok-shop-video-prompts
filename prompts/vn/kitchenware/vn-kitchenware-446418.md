@@ -1,6 +1,6 @@
 ---
 id: vn-kitchenware-446418
-title: "Dao Gọt Vỏ Đa Năng Nhà Bếp 3 Trong 1 Thép Không Gỉ — Product Close-Up (Vietnam · Kitchenware)"
+title: "Dao Gọt Vỏ Đa Năng Nhà Bếp 3 Trong… — Product Close-Up (Vietnam · Kitchenware)"
 market: vn
 category: kitchenware
 video_type: product-closeup
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7674126665869446418
 creator: "@fashion83868888"
 published: 2026-08-15
 ---
-# Dao Gọt Vỏ Đa Năng Nhà Bếp 3 Trong 1 Thép Không Gỉ — Product Close-Up (Vietnam · Kitchenware)
+# Dao Gọt Vỏ Đa Năng Nhà Bếp 3 Trong… — Product Close-Up (Vietnam · Kitchenware)
 **Weekly #1** · 🇻🇳 Vietnam · Kitchenware · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7674126665869446418) by [@fashion83868888](https://www.tiktok.com/@fashion83868888). Format: **Product Close-Up** · 25s · hook: **POV Scenario** · Hands only · No promo
-**Opening line (from the video):** “Hands hold a multi-functional knife to cut carrots, thin shreds stack into a flower shape”
+**Opening beat:** “Hands hold a multi-functional knife to cut carrots, thin shreds stack into a flower shape”
 
 **Key visuals:** Black Slate Cutting Board · Stainless Steel Knife · Carrot · Daylily Shoot · Onion · Ginger · Red Bell Pepper
 
@@ -98,4 +97,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [vn-kitchenware-446418](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/vn-kitchenware-446418?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-kitchenware-446418)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[vn-kitchenware-446418](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/vn-kitchenware-446418?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=vn-kitchenware-446418)
-🤖 **Driving an AI agent?** `clipcat prompt search "Kitchenware"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Kitchenware product close-up"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

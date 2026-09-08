@@ -1,6 +1,6 @@
 ---
 id: gb-shoes-955734
-title: "SHUSHUBLISS Women Suede Slippers Adjustable Slip-On Clogs Cozy — Promo Pitch (United Kingdom · Shoes)"
+title: "SHUSHUBLISS Women Suede Slippers… — Promo Pitch (United Kingdom · Shoes)"
 market: gb
 category: shoes
 video_type: promo-pitch
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7680824464807955734
 creator: "@mrstudio039"
 published: 2026-09-02
 ---
-# SHUSHUBLISS Women Suede Slippers Adjustable Slip-On Clogs Cozy — Promo Pitch (United Kingdom · Shoes)
+# SHUSHUBLISS Women Suede Slippers… — Promo Pitch (United Kingdom · Shoes)
 **Weekly #1** · 🇬🇧 United Kingdom · Shoes · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7680824464807955734) by [@mrstudio039](https://www.tiktok.com/@mrstudio039). Format: **Promo Pitch** · 7s · hook: **Urgency** · On-camera host · Discount
-**Opening line (from the video):** “This shoe is on sale on TikTok now, stock is almost gone, price will rise soon, don't wait”
+**Opening line (quoted from the video):** “This shoe is on sale on TikTok now, stock is almost gone, price will rise soon, don't wait”
 
 **Pain point it attacks:** Fear of price rise or stock shortage when buying fleece slippers
 
@@ -70,4 +69,4 @@ Shot 1:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-shoes-955734](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-shoes-955734?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-shoes-955734)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-shoes-955734](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-shoes-955734?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-shoes-955734)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes promo pitch"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

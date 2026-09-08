@@ -1,6 +1,6 @@
 ---
 id: my-beauty-850002
-title: "IPAL Luminous Lipstick Dewy Shine Ultra — Talking Head (Malaysia · Beauty & Personal Care)"
+title: "IPAL Luminous Lipstick Dewy Shine… — Talking Head (Malaysia · Beauty & Personal Care)"
 market: my
 category: beauty-personal-care
 video_type: talking-head
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7678171163771850002
 creator: "@mahaniob"
 published: 2026-08-26
 ---
-# IPAL Luminous Lipstick Dewy Shine Ultra — Talking Head (Malaysia · Beauty & Personal Care)
+# IPAL Luminous Lipstick Dewy Shine… — Talking Head (Malaysia · Beauty & Personal Care)
 **Weekly #1** · 🇲🇾 Malaysia · Beauty & Personal Care · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7678171163771850002) by [@mahaniob](https://www.tiktok.com/@mahaniob). Format: **Talking Head** · 16s · hook: **Pain Point** · On-camera host · No promo
-**Opening line (from the video):** “When you reach fifty, red lipstick is no longer suitable”
+**Opening line (translated from the video):** “When you reach fifty, red lipstick is no longer suitable”
 
 **Pain point it attacks:** Mature women unsuitable for red lipstick
 
@@ -44,7 +43,7 @@ Shot 1:
   - Subject: Bila masuk lima puluhan, dah tak sesuai pakai lipstik merah
 Shot 2:
   - Duration: 4.0sec - 7.5sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The camera pulls back slightly, the shot switches from showing her hand applying lipstick to revealing her full upper body above the shoulders. She lowers the hand holding the lipstick, naturally starts speaking to share with the camera, and moves her head gently and slightly as she talks. The warm home lighting effect in the background is clearly visible, creating a warm and relaxed atmosphere.
   - Subject: Kod 0. ni nampak manis dan fresh. Kalau nak warna sikit
 Shot 3:
@@ -79,7 +78,7 @@ Shot 1:
   - 口播: Bila masuk lima puluhan, dah tak sesuai pakai lipstik merah
 Shot 2:
   - 时长: 4.0sec - 7.5sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头轻微向后拉远，人物从展示手部涂口红的动作切换为露出完整的肩部以上上半身，她放下握口红的手，自然地对着镜头开口分享，头部伴随着口语讲述微微轻轻摆动，背景里的居家暖光灯效清晰可见，氛围温馨松弛。
   - 口播: Kod 0. ni nampak manis dan fresh. Kalau nak warna sikit
 Shot 3:
@@ -100,4 +99,4 @@ Shot 4:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [my-beauty-850002](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/my-beauty-850002?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-beauty-850002)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[my-beauty-850002](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/my-beauty-850002?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=my-beauty-850002)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care talking head"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

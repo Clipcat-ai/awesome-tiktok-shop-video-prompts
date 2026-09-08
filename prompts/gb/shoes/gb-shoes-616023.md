@@ -1,6 +1,6 @@
 ---
 id: gb-shoes-616023
-title: "2pcs/4pcs/12pcs Self-Adhesive Shoe Repair Kit — Real Review (United Kingdom · Shoes)"
+title: "2pcs/4pcs/12pcs Self-Adhesive Shoe… — Real Review (United Kingdom · Shoes)"
 market: gb
 category: shoes
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7672964584323616023
 creator: "@happystore.uk"
 published: 2026-08-12
 ---
-# 2pcs/4pcs/12pcs Self-Adhesive Shoe Repair Kit — Real Review (United Kingdom · Shoes)
+# 2pcs/4pcs/12pcs Self-Adhesive Shoe… — Real Review (United Kingdom · Shoes)
 **Weekly #1** · 🇬🇧 United Kingdom · Shoes · week of 2026-08-24
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7672964584323616023) by [@happystore.uk](https://www.tiktok.com/@happystore.uk). Format: **Real Review** · 15s · hook: **Pain Point** · Hands only · No promo
-**Opening line (from the video):** “Are worn trainers causing blisters?”
+**Opening line (quoted from the video):** “Are worn trainers causing blisters?”
 
 **Pain point it attacks:** Worn trainers rub feet and cause blisters
 
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [gb-shoes-616023](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-shoes-616023?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-shoes-616023)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[gb-shoes-616023](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-shoes-616023?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=gb-shoes-616023)
-🤖 **Driving an AI agent?** `clipcat prompt search "Shoes"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Shoes real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

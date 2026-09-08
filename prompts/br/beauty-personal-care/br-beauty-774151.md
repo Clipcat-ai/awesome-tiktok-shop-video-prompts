@@ -1,6 +1,6 @@
 ---
 id: br-beauty-774151
-title: "Escova De Banho Silicone Massageadora Esfoliante Corporal Para — Real Review (Brazil · Beauty & Personal Care)"
+title: "Escova De Banho Silicone… — Real Review (Brazil · Beauty & Personal Care)"
 market: br
 category: beauty-personal-care
 video_type: real-review
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7673917013076774151
 creator: "@bxdh666"
 published: 2026-08-14
 ---
-# Escova De Banho Silicone Massageadora Esfoliante Corporal Para — Real Review (Brazil · Beauty & Personal Care)
+# Escova De Banho Silicone… — Real Review (Brazil · Beauty & Personal Care)
 **Weekly #1** · 🇧🇷 Brazil · Beauty & Personal Care · week of 2026-08-17
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7673917013076774151) by [@bxdh666](https://www.tiktok.com/@bxdh666). Format: **Real Review** · 35s · hook: **Skit Conflict** · Multiple people · Discount
-**Opening line (from the video):** “Can't you see I'm busy?”
+**Opening line (translated from the video):** “Can't you see I'm busy?”
 
 **Pain point it attacks:** Hard to clean back, regular towels slip easily
 
@@ -46,10 +45,7 @@ Shot 2:
   - Duration: 3.0sec - 10.5sec
   - Scene Type: Product usage demonstration
   - Scene: The woman sets the shovel aside, takes out a long blue silicone back scrubber from beside her, squeezes body wash onto it, then leans over to grip both ends of the scrubber and rub it back and forth repeatedly across the man's back. White foam slowly spreads down the man's back, completely covering the exposed Jesus tattoo pattern. The camera pushes in slightly to focus on the scrubbing area on the man's back.
-  - Subject: agora
-Eu só tô tentando te ajudar.
-Obrigado.
-Obrigado.
+  - Subject: agora Eu só tô tentando te ajudar. Obrigado. Obrigado.
 Shot 3:
   - Duration: 10.5sec - 15.0sec
   - Scene Type: Product effectiveness demonstration
@@ -68,8 +64,7 @@ Shot 6:
   - Duration: 19.5sec - 24.0sec
   - Scene Type: Product design highlights
   - Scene: The man places one foot on a gray plastic stool, first rubbing the top of his foot back and forth with the blue back scrubber until the foot surface is soon covered in grayish-white grime, then rinsing the foot clean with water. Next, he moves his foot to a black plastic stool, presses his bare foot onto the blue back scrubber placed on the stool surface, and moves his foot back and forth to clean the sole. A low-angle medium close-up shot captures the entire foot cleaning process.
-  - Subject: Esse esfregão de costas de silicone azul tem um design de dupla face
-estralongo com alças antiderrapantes.
+  - Subject: Esse esfregão de costas de silicone azul tem um design de dupla face estralongo com alças antiderrapantes.
 Shot 7:
   - Duration: 24.0sec - 27.0sec
   - Scene Type: Ease of use demonstration
@@ -99,10 +94,7 @@ Shot 2:
   - 时长: 3.0sec - 10.5sec
   - 镜头类型: 演示产品使用
   - 画面: 女子将铁锹放到一旁，从身侧拿出一条蓝色长条形硅胶搓背条，挤上沐浴液后，俯身握住搓背条两端，在男子的背部上来回反复搓动，白色泡沫顺着男子的背部纹身缓缓向下延展，完整覆盖住原本露出的耶稣纹身图案。机位微微推进，聚焦到男子背部的搓洗区域。
-  - 口播: agora
-Eu só tô tentando te ajudar.
-Obrigado.
-Obrigado.
+  - 口播: agora Eu só tô tentando te ajudar. Obrigado. Obrigado.
 Shot 3:
   - 时长: 10.5sec - 15.0sec
   - 镜头类型: 产品有效性
@@ -121,8 +113,7 @@ Shot 6:
   - 时长: 19.5sec - 24.0sec
   - 镜头类型: 产品设计亮点
   - 画面: 男子将一只脚踩在灰色塑料凳上，先用蓝色搓背条来回搓动脚面，脚面很快沾满了灰白色污垢，随后用水流将脚面冲洗干净；接着男子把脚移到黑色塑料凳上，光脚踩住放在凳面的蓝色搓背条，来回移动脚掌清洁脚底。低角度近景拍摄脚部清洁的完整过程。
-  - 口播: Esse esfregão de costas de silicone azul tem um design de dupla face
-estralongo com alças antiderrapantes.
+  - 口播: Esse esfregão de costas de silicone azul tem um design de dupla face estralongo com alças antiderrapantes.
 Shot 7:
   - 时长: 24.0sec - 27.0sec
   - 镜头类型: 展示易用性
@@ -137,7 +128,7 @@ Shot 9:
   - 时长: 30.5sec - 34.0sec
   - 镜头类型: 优惠激励
   - 画面: 男子转过身面对镜头，赤裸着上半身露出清晰的腹肌线条，他双手握住蓝色搓背条在腹部上来回搓动，腹部浮出大片白色泡沫，随后水流冲过腹部，将泡沫完全冲洗干净。中景镜头拍摄腹部搓洗与冲水画面。
-  - 口播: e use novamente.  Faz o seu pedido agora,  através do link no vídeo,
+  - 口播: e use novamente. Faz o seu pedido agora, através do link no vídeo,
 Shot 10:
   - 时长: 34.0sec - 36.0sec
   - 镜头类型: 超值价格
@@ -151,4 +142,4 @@ Shot 10:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [br-beauty-774151](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/br-beauty-774151?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-beauty-774151)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[br-beauty-774151](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/br-beauty-774151?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=br-beauty-774151)
-🤖 **Driving an AI agent?** `clipcat prompt search "Beauty & Personal Care"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Beauty & Personal Care real review"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)

@@ -1,6 +1,6 @@
 ---
 id: th-computers-894727
-title: "สมุดบันทึกรายรับรายจ่าย สมุดรายรับรายจ่าย ขนาด A5 หน้าปกสีสด ม — Handheld Demo (Thailand · Computers & Office Equipment)"
+title: "สมุดบันทึกรายรับรายจ่าย… — Handheld Demo (Thailand · Computers & Office Equipment)"
 market: th
 category: computers-office-equipment
 video_type: handheld-demo
@@ -17,11 +17,10 @@ source: https://www.tiktok.com/share/video/7650166333144894727
 creator: "@meecommerce249"
 published: 2026-06-11
 ---
-# สมุดบันทึกรายรับรายจ่าย สมุดรายรับรายจ่าย ขนาด A5 หน้าปกสีสด ม — Handheld Demo (Thailand · Computers & Office Equipment)
+# สมุดบันทึกรายรับรายจ่าย… — Handheld Demo (Thailand · Computers & Office Equipment)
 **Weekly #1** · 🇹🇭 Thailand · Computers & Office Equipment · week of 2026-08-31
-
 Reverse-engineered from [a real TikTok Shop selling video](https://www.tiktok.com/share/video/7650166333144894727) by [@meecommerce249](https://www.tiktok.com/@meecommerce249). Format: **Handheld Demo** · 30s · hook: **Pain Point** · Hands only · Discount
-**Opening line (from the video):** “I get income almost every day, but by the end of the month I don't know where the money went”
+**Opening line (translated from the video):** “I get income almost every day, but by the end of the month I don't know where the money went”
 
 **Pain point it attacks:** Don't know where money goes at month end, can't manage income and expenses
 
@@ -54,7 +53,7 @@ Shot 3:
   - Subject: มีช่องวันที่ รายการ มีช่องวันที่
 Shot 4:
   - Duration: 17.0sec - 24.0sec
-  - Scene Type: Show multiple style options (fashion category)
+  - Scene Type: Show multiple style options
   - Scene: The camera slowly moves backward, revealing the same style of income and expense account books neatly arranged on the desktop in five macaron colors: green, purple, yellow, blue, and pink. The camera slowly pans from left to right, showing the colorful cover of each book and the uniform Thai title text printed on the cover one by one. The artificial leafy plant in the lower right corner slightly enters the frame to embellish the picture.
   - Subject: ราคาแค่หลักสิติ แต่ช่วยให้วางแผนการเงินดีดีคือ
 Shot 5:
@@ -94,7 +93,7 @@ Shot 3:
   - 口播: มีช่องวันที่ รายการ มีช่องวันที่
 Shot 4:
   - 时长: 17.0sec - 24.0sec
-  - 镜头类型: 展示多款式选择（时尚品类）
+  - 镜头类型: 展示多款式选择
   - 画面: 镜头缓缓后移，桌面上整齐排列着绿、紫、黄、蓝、粉五种马卡龙配色的同款收支记账本，镜头从左到右缓慢平移，逐一展示每本账本的彩色封面与封面上印刷的统一泰文标题字样，右下角的仿真叶片绿植微微入镜点缀画面。
   - 口播: ราคาแค่หลักสิติ แต่ช่วยให้วางแผนการเงินดีดีคือ
 Shot 5:
@@ -110,4 +109,4 @@ Shot 5:
 ---
 ▶️ **Shoot this with your own product** — open it in Clipcat and hit Replicate: [th-computers-894727](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/th-computers-894727?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-computers-894727)
 ▶️ **用这条提示词拍你自己的产品** — 在 Clipcat 打开并一键复刻：[th-computers-894727](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/th-computers-894727?utm_source=github&utm_medium=repo&utm_campaign=prompt-library&utm_content=th-computers-894727)
-🤖 **Driving an AI agent?** `clipcat prompt search "Computers & Office Equipment"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+🤖 **Driving an AI agent?** `clipcat prompt search --query "Computers & Office Equipment handheld demo"` — see [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
