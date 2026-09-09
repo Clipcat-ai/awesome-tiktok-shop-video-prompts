@@ -5,11 +5,30 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
+[![视频库](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E5%BA%93-10%2C648%2B-101419)](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)
+[![市场](https://img.shields.io/badge/%E5%B8%82%E5%9C%BA-15-101419)](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)
+[![品类](https://img.shields.io/badge/%E5%93%81%E7%B1%BB-30-101419)](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)
+[![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-%E6%AF%8F%E6%97%A5-1a8800)](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)
+
 **English → [README.md](./README.md)**
 
-**647 条从真实 TikTok Shop 带货视频反推出来的提示词** —— 每一条都是它所在市场 × 品类当周的榜首。不是人手编的提示词：每条都是对一个真正卖出货的视频的逐镜头还原，原视频链接就附在旁边，可以自己核对。
+<p align="center">
+  <a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/clipcat-prompt-library-zh.png" alt="Clipcat · AI 带货视频与提示词库" width="900"></a>
+</p>
+
+**从真实 TikTok Shop 带货视频反推出来的提示词** —— 每一条都是它所在市场 × 品类当周的榜首。不是人手编的提示词：每条都是对一个真正卖出货的视频的逐镜头还原，原视频链接就附在旁边，可以自己核对。
+
+本仓库是 [Clipcat AI 带货视频与提示词库](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)里可读、可 diff 的那一层 —— 底库有 **10,648+ 条爆款 AI 带货视频，覆盖 15 个市场、30 个品类，每天更新**。在这里读提示词，去那边检索、筛选、一键复刻。
 
 > 🤖 想让你的 AI agent 直接检索这个库、针对**你自己的产品**产出一条能开拍的提示词？ 👉 [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+
+---
+
+## 它是怎么来的
+
+<p align="center">
+  <a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/how-it-works-zh.png" alt="卖爆的视频 → 背后的提示词 → 换成你的产品" width="900"></a>
+</p>
 
 ---
 
@@ -24,10 +43,13 @@
 
 我们不转发视频、封面、商品图和销售数据。见 [NOTICE.md](./NOTICE.md)。
 
-> **这是一份快照。** 共 647 条，取自截至 **2026-08-31** 的周榜。
-> 底库每周都在涨，[完整库在 clipcat.ai 上可检索](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)；本仓库按批次刷新，不是实时同步。
-
 ### 一条长什么样
+
+<p align="center">
+  <a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/prompt-detail-zh.png" alt="同一条在 clipcat.ai 上：完整提示词、结构化标签、一键复刻" width="880"></a>
+</p>
+
+<p align="center"><sub>下面这条<a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library">在 clipcat.ai 上的样子</a> —— 同一份提示词，外加原视频和一键复刻。</sub></p>
 
 <details open>
 <summary><b>Cordless Tyre Inflator Air… — Real Review (United Kingdom · Tools & Hardware)</b> — <code>gb-tools-463382</code></summary>
@@ -44,7 +66,7 @@ Shot 1:
 …
 ```
 
-[看完整条目 →](./prompts/gb/tools-hardware/gb-tools-463382.md) · [看原视频 →](https://www.tiktok.com/share/video/7614465584268463382)
+[看完整条目 →](./prompts/gb/tools-hardware/gb-tools-463382.md) · [看原视频 →](https://www.tiktok.com/share/video/7614465584268463382) · [在 clipcat.ai 一键复刻 →](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)
 
 </details>
 
@@ -66,60 +88,70 @@ Shot 1:
 
 ---
 
-### 按市场浏览
+## 浏览整个库
 
-| 市场 | 条数 | 市场 | 条数 |
+<p align="center">
+  <a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/library-coverage-zh.png" alt="Clipcat 库覆盖的全部市场与品类，附实时视频数" width="880"></a>
+</p>
+
+下面的数字是 [Clipcat 库](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)里的实时总量 —— 点任意一行即可看视频、抄它背后的提示词。同步到本仓库的条目放在 `prompts/<市场>/<品类>/` 下。
+
+### 按市场
+
+| 市场 | 视频数 | 市场 | 视频数 |
 | --- | ---: | --- | ---: |
-| [🇸🇬 新加坡](./prompts/sg) | 52 | [🇬🇧 英国](./prompts/gb) | 44 |
-| [🇺🇸 美国](./prompts/us) | 51 | [🇯🇵 日本](./prompts/jp) | 44 |
-| [🇧🇷 巴西](./prompts/br) | 50 | [🇻🇳 越南](./prompts/vn) | 42 |
-| [🇲🇾 马来西亚](./prompts/my) | 48 | [🇪🇸 西班牙](./prompts/es) | 37 |
-| [🇵🇭 菲律宾](./prompts/ph) | 48 | [🇩🇪 德国](./prompts/de) | 35 |
-| [🇮🇩 印度尼西亚](./prompts/id) | 46 | [🇮🇹 意大利](./prompts/it) | 31 |
-| [🇲🇽 墨西哥](./prompts/mx) | 46 | [🇫🇷 法国](./prompts/fr) | 27 |
-| [🇹🇭 泰国](./prompts/th) | 46 |  |  |
+| [🇺🇸 美国](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-us?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 3,245 | [🇻🇳 越南](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-vn?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 557 |
+| [🇸🇬 新加坡](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-sg?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 680 | [🇹🇭 泰国](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-th?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 531 |
+| [🇧🇷 巴西](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-br?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 641 | [🇬🇧 英国](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-gb?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 513 |
+| [🇲🇾 马来西亚](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-my?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 632 | [🇮🇹 意大利](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-it?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 405 |
+| [🇯🇵 日本](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-jp?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 629 | [🇩🇪 德国](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-de?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 381 |
+| [🇲🇽 墨西哥](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-mx?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 611 | [🇪🇸 西班牙](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-es?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 318 |
+| [🇵🇭 菲律宾](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-ph?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 601 | [🇫🇷 法国](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-fr?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 316 |
+| [🇮🇩 印度尼西亚](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/country-id?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 588 |  |  |
 
-### 按品类浏览
+### 按品类
 
-| 品类 | 条数 | 品类 | 条数 |
+| 品类 | 视频数 | 品类 | 视频数 |
 | --- | ---: | --- | ---: |
-| [鞋靴](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-shoes?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 29 | [工具与五金](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-tools--hardware?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 24 |
-| [女装与内衣](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-womenswear--underwear?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 29 | [时尚配饰](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-fashion-accessories?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 23 |
-| [健康保健](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-health?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 28 | [食品与饮料](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-food--beverages?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 23 |
-| [美妆与个护](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-beauty--personal-care?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 26 | [家具](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-furniture?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 23 |
-| [居家用品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-home-supplies?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 26 | [厨房用品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-kitchenware?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 23 |
-| [男装与内衣](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-menswear--underwear?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 26 | [图书音像](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-books-magazines--audio?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 22 |
-| [玩具与爱好](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-toys--hobbies?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 26 | [手机与数码](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-phones--electronics?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 22 |
-| [汽车与摩托](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-automotive--motorcycle?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 25 | [运动与户外](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-sports--outdoor?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 22 |
-| [家装建材](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-home-improvement?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 25 | [母婴用品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-baby--maternity?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 21 |
-| [家用电器](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-household-appliances?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 25 | [收藏品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-collectibles?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 20 |
-| [电脑与办公](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-computers--office-equipment?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 24 | [童装](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-kids-fashion?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 16 |
-| [珠宝首饰](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-jewelry-accessories--derivatives?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 24 | [穆斯林时尚](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-muslim-fashion?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 10 |
-| [箱包](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-luggage--bags?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 24 | [二手](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-pre-owned?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 9 |
-| [宠物用品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-pet-supplies?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 24 | [预订与代金券](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-bookings--vouchers?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 2 |
-| [纺织与软装](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-textiles--soft-furnishings?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 24 | [虚拟商品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-virtual-products?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 2 |
+| [工具与五金](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-tools--hardware?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 454 | [宠物用品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-pet-supplies?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 403 |
+| [汽车与摩托](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-automotive--motorcycle?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 444 | [家用电器](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-household-appliances?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 400 |
+| [家具](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-furniture?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 439 | [电脑与办公](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-computers--office-equipment?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 393 |
+| [纺织与软装](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-textiles--soft-furnishings?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 438 | [手机与数码](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-phones--electronics?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 384 |
+| [女装与内衣](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-womenswear--underwear?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 434 | [食品与饮料](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-food--beverages?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 384 |
+| [时尚配饰](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-fashion-accessories?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 431 | [美妆与个护](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-beauty--personal-care?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 370 |
+| [鞋靴](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-shoes?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 428 | [珠宝首饰](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-jewelry-accessories--derivatives?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 356 |
+| [男装与内衣](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-menswear--underwear?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 425 | [健康保健](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-health?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 355 |
+| [运动与户外](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-sports--outdoor?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 424 | [图书音像](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-books-magazines--audio?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 336 |
+| [箱包](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-luggage--bags?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 424 | [童装](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-kids-fashion?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 314 |
+| [厨房用品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-kitchenware?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 423 | [收藏品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-collectibles?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 285 |
+| [家装建材](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-home-improvement?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 420 | [穆斯林时尚](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-muslim-fashion?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 121 |
+| [母婴用品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-baby--maternity?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 407 | [虚拟商品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-virtual-products?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 84 |
+| [玩具与爱好](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-toys--hobbies?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 406 | [二手](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-pre-owned?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 54 |
+| [居家用品](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-home-supplies?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 406 | [预订与代金券](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/cat-bookings--vouchers?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 6 |
 
-### 按视频形态浏览
+### 按视频形态
 
-| 形态 | 条数 | 形态 | 条数 |
+| 形态 | 视频数 | 形态 | 视频数 |
 | --- | ---: | --- | ---: |
-| [手持商品展示](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-handheld-demo?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 245 | [OOTD穿搭展示](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-ootd?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 37 |
-| [真实使用测评](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-real-review?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 107 | [互动剧情演绎](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-story-skit?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 12 |
-| [促销卖点强推](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-promo-pitch?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 80 | [品牌短TVC](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-brand-tvc?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 7 |
-| [口播介绍](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-talking-head?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 53 | [第一人称开箱](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-unboxing-pov?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 4 |
-| [场景化生活秀](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-lifestyle-scene?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 53 | [多品横向对比](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-product-compare?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 2 |
-| [产品镜头特写](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-product-closeup?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 45 | [ASMR感官沉浸](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-asmr?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 2 |
+| [手持商品展示](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-handheld-demo?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 4,437 | [口播介绍](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-talking-head?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 615 |
+| [真实使用测评](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-real-review?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 1,466 | [互动剧情演绎](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-story-skit?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 243 |
+| [促销卖点强推](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-promo-pitch?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 1,297 | [第一人称开箱](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-unboxing-pov?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 124 |
+| [场景化生活秀](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-lifestyle-scene?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 860 | [品牌短TVC](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-brand-tvc?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 73 |
+| [产品镜头特写](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-product-closeup?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 774 | [ASMR感官沉浸](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-asmr?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 26 |
+| [OOTD穿搭展示](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-ootd?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 689 | [多品横向对比](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/browse/type-product-compare?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) | 9 |
 
-### 按开场钩子浏览
+### 按开场钩子
 
-| 钩子 | 条数 | 钩子 | 条数 |
+本仓库这些条目的开场分布 —— 每种钩子具体怎么用，见[钩子分类](./docs/hook-taxonomy.md#opening-hooks)。
+
+| 钩子 | 占比 | 钩子 | 占比 |
 | --- | ---: | --- | ---: |
-| [结果先行](./docs/hook-taxonomy.md#opening-hooks) | 197 | [剧情冲突](./docs/hook-taxonomy.md#opening-hooks) | 12 |
-| [场景代入](./docs/hook-taxonomy.md#opening-hooks) | 159 | [反常识反差](./docs/hook-taxonomy.md#opening-hooks) | 9 |
-| [痛点直击](./docs/hook-taxonomy.md#opening-hooks) | 120 | [身份认同](./docs/hook-taxonomy.md#opening-hooks) | 8 |
-| [利益直给](./docs/hook-taxonomy.md#opening-hooks) | 59 | [效果对比](./docs/hook-taxonomy.md#opening-hooks) | 3 |
-| [悬念好奇](./docs/hook-taxonomy.md#opening-hooks) | 56 | [沉浸感官](./docs/hook-taxonomy.md#opening-hooks) | 2 |
-| [促销紧迫感](./docs/hook-taxonomy.md#opening-hooks) | 22 |  |  |
+| [结果先行](./docs/hook-taxonomy.md#opening-hooks) | 30% | [剧情冲突](./docs/hook-taxonomy.md#opening-hooks) | 2% |
+| [场景代入](./docs/hook-taxonomy.md#opening-hooks) | 25% | [反常识反差](./docs/hook-taxonomy.md#opening-hooks) | 1% |
+| [痛点直击](./docs/hook-taxonomy.md#opening-hooks) | 19% | [身份认同](./docs/hook-taxonomy.md#opening-hooks) | 1% |
+| [利益直给](./docs/hook-taxonomy.md#opening-hooks) | 9% | [效果对比](./docs/hook-taxonomy.md#opening-hooks) | <1% |
+| [悬念好奇](./docs/hook-taxonomy.md#opening-hooks) | 9% | [沉浸感官](./docs/hook-taxonomy.md#opening-hooks) | <1% |
+| [促销紧迫感](./docs/hook-taxonomy.md#opening-hooks) | 3% |  |  |
 
 ---
 
