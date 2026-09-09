@@ -16,18 +16,18 @@
   <a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/clipcat-prompt-library-zh.png" alt="Clipcat · AI 带货视频与提示词库" width="900"></a>
 </p>
 
-**从真实 TikTok Shop 带货视频反推出来的提示词** —— 每一条都是它所在市场 × 品类当周的榜首。不是人手编的提示词：每条都是对一个真正卖出货的视频的逐镜头还原，原视频链接就附在旁边，可以自己核对。
+**这些提示词是从真实的 TikTok Shop 带货视频反推出来的。** 每条对应一个视频，这个视频当周在它所在的市场和品类里销量排第一。提示词不是人手编的，是照着原视频逐个镜头还原的，每条都附了原视频链接，可以自己对照。
 
-本仓库是 [Clipcat AI 带货视频与提示词库](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)里可读、可 diff 的那一层 —— 底库有 **10,648+ 条爆款 AI 带货视频，覆盖 15 个市场、30 个品类，每天更新**。在这里读提示词，去那边检索、筛选、一键复刻。
+本仓库把 [Clipcat 视频与提示词库](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) 里的一部分整理成了 Markdown 文件，可以直接在 GitHub 上看、用 grep 搜、fork 之后自己改。完整的库在 clipcat.ai 上：**10,648+ 条视频，覆盖 15 个市场、30 个品类，每天更新**，可以搜索、筛选，也可以传自己的产品图直接生成整条视频。
 
-> 🤖 想让你的 AI agent 直接检索这个库、针对**你自己的产品**产出一条能开拍的提示词？ 👉 [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
+> 🤖 想让 AI agent 检索这个库，针对**你自己的产品**直接生成一条可以拿去拍的提示词？ 👉 [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
 
 ---
 
-## 它是怎么来的
+## 这些提示词是怎么来的
 
 <p align="center">
-  <a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/how-it-works-zh.png" alt="卖爆的视频 → 背后的提示词 → 换成你的产品" width="900"></a>
+  <a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/how-it-works-zh.png" alt="真实带货视频 → 反推出提示词 → 换成你的产品" width="900"></a>
 </p>
 
 ---
@@ -36,12 +36,12 @@
 
 `prompts/<市场>/<品类>/` 下每个文件是一条：
 
-- **中英双语提示词** —— 风格、环境、节奏、镜头、灯光、人物，然后是带时间轴和口播的逐镜头拆解；
-- **开场那一下** —— 视频开场说的那句话（原文是英文的照引，不是英文的给英译），以及它打的痛点；
+- **中英双语提示词** —— 风格、环境、节奏、镜头、灯光、人物，再逐个镜头写清时间、画面和口播；
+- **开场第一句话** —— 视频开头说的那句话（原文是英文就照抄，不是英文就翻成英文），以及它对应的痛点；
 - **结构化标签** —— 视频形态、钩子类型、出镜情况、促销机制、口播语言；
-- **原 TikTok 视频链接**，提示词描述的是什么，可以直接看。
+- **原 TikTok 视频链接** —— 提示词写的是哪个视频，点开就能看。
 
-我们不转发视频、封面、商品图和销售数据。见 [NOTICE.md](./NOTICE.md)。
+仓库里不包含视频文件、封面图、商品图和销售数据。见 [NOTICE.md](./NOTICE.md)。
 
 ### 一条长什么样
 
@@ -49,7 +49,7 @@
   <a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/prompt-detail-zh.png" alt="同一条在 clipcat.ai 上：完整提示词、结构化标签、一键复刻" width="880"></a>
 </p>
 
-<p align="center"><sub>下面这条<a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library">在 clipcat.ai 上的样子</a> —— 同一份提示词，外加原视频和一键复刻。</sub></p>
+<p align="center"><sub>下面这条<a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library">在 clipcat.ai 上的页面</a>：同一份提示词，另外还有原视频和复刻按钮。</sub></p>
 
 <details open>
 <summary><b>Cordless Tyre Inflator Air… — Real Review (United Kingdom · Tools & Hardware)</b> — <code>gb-tools-463382</code></summary>
@@ -74,17 +74,17 @@ Shot 1:
 
 ## 怎么用
 
-**配任意视频模型用。** 把中文或英文提示词粘进 Sora 2、Veo 3、可灵、Seedance 或你在用的模型。提示词是模型无关的自然语言，真正关键的是镜头表。
+**配任意视频模型用。** 把中文或英文提示词粘进 Sora 2、Veo 3、可灵、Seedance 或你在用的模型。提示词是普通文本，不挑模型，关键的是镜头表。
 
-**换成你自己的产品。** 提示词描述的是别人的产品。把产品名词和口播换掉，**结构留着** —— 卖货的是结构。
+**换成你自己的产品。** 提示词写的是别人的产品。把产品名称和口播换成你自己的，镜头结构保持不动。
 
-**配 Clipcat 用。** 每条都链到 [clipcat.ai](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) 上的同一条提示词，在那儿可以直接传自己的产品图一键复刻。
+**在 Clipcat 上用。** 每条都链到 [clipcat.ai](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) 上的同一条提示词，在那里上传自己的产品图，可以直接生成整条视频。
 
 ---
 
 ## 提示词格式
 
-每个区块什么意思、为什么这么切，见 [docs/prompt-format.md](./docs/prompt-format.md)；13 种开场钩子和 13 种视频形态的定义见 [docs/hook-taxonomy.md](./docs/hook-taxonomy.md)。
+每个区块是什么意思，见 [docs/prompt-format.md](./docs/prompt-format.md)；13 种开场钩子和 13 种视频形态的定义，见 [docs/hook-taxonomy.md](./docs/hook-taxonomy.md)。
 
 ---
 
@@ -94,7 +94,7 @@ Shot 1:
   <a href="https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/library-coverage-zh.png" alt="Clipcat 库覆盖的全部市场与品类，附实时视频数" width="880"></a>
 </p>
 
-下面的数字是 [Clipcat 库](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library)里的实时总量 —— 点任意一行即可看视频、抄它背后的提示词。同步到本仓库的条目放在 `prompts/<市场>/<品类>/` 下。
+下面的数字是 [clipcat.ai](https://clipcat.ai/zh/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) 上的视频总数。点任意一行，可以看到这个市场、品类或形态下的视频和提示词。本仓库收录的条目放在 `prompts/<市场>/<品类>/` 目录下。
 
 ### 按市场
 
@@ -142,7 +142,7 @@ Shot 1:
 
 ### 按开场钩子
 
-本仓库这些条目的开场分布 —— 每种钩子具体怎么用，见[钩子分类](./docs/hook-taxonomy.md#opening-hooks)。
+本仓库这些条目的开场类型分布。每种钩子是什么意思，见[钩子分类](./docs/hook-taxonomy.md#opening-hooks)。
 
 | 钩子 | 占比 | 钩子 | 占比 |
 | --- | ---: | --- | ---: |
@@ -157,11 +157,11 @@ Shot 1:
 
 ## 机器可读数据
 
-`data/prompts.jsonl` —— 一行一个 JSON，字段与文件头一致，外加中英双语提示词全文。给 agent 或 RAG 索引吃的，不是给人读的。
+`data/prompts.jsonl` —— 一行一个 JSON 对象，字段和文件头部一致，另外带中英文提示词全文。用来给 agent 调用或建 RAG 索引，不适合直接阅读。
 
 ## 参与贡献
 
-给我们**视频链接**，不是提示词 —— 反推交给我们的流水线，署名归原作者。已有条目的纠错非常欢迎。见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+请提交 **TikTok 视频链接**，不用自己写提示词 —— 反推由我们的流水线完成，并会标注原作者。也欢迎纠正已有条目里的错误。见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
 
 ## 许可
 

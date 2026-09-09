@@ -16,18 +16,18 @@
   <a href="https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/clipcat-prompt-library.png" alt="Clipcat · AI Shoppable Videos & Prompt Library" width="900"></a>
 </p>
 
-**Prompts reverse-engineered from real TikTok Shop selling videos** — every one of them ranked #1 in its market and category for the week it went viral. Not hand-written prompts: each is a shot-by-shot reconstruction of a video that actually moved product, with the original video linked so you can check our work.
+**These prompts are reverse-engineered from real TikTok Shop selling videos.** Each one describes a video that ranked #1 by sales in its market and category that week. Nothing here is written by hand — every prompt is a shot-by-shot reconstruction of a real video, and every entry links to the video it came from.
 
-This repo is the open, readable cut of the [Clipcat AI Shoppable Videos & Prompt Library](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) — **10,648+ viral AI shoppable videos across 15 markets and 30 categories, updated daily**. Read and diff the prompts here; search, filter and one-click replicate the whole thing there.
+This repo holds part of the [Clipcat video and prompt library](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) as plain Markdown files, so you can read them on GitHub, grep them and fork them. The full library is on clipcat.ai: **10,648+ videos across 15 markets and 30 categories, updated daily**, with search, filters, and one-click replication using your own product photos.
 
 > 🤖 Want your AI agent to search this library and write a ready-to-shoot prompt for *your* product? 👉 [clipcat-skill](https://github.com/Clipcat-ai/clipcat-skill)
 
 ---
 
-## How it works
+## Where these prompts come from
 
 <p align="center">
-  <a href="https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/how-it-works.png" alt="A video that sold, the prompt behind it, then your product" width="900"></a>
+  <a href="https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/how-it-works.png" alt="Where these prompts come from: a video that sold, the prompt behind it, then your product" width="900"></a>
 </p>
 
 ---
@@ -37,12 +37,11 @@ This repo is the open, readable cut of the [Clipcat AI Shoppable Videos & Prompt
 Every file under `prompts/<market>/<category>/` holds one entry:
 
 - **the prompt, in English and Chinese** — style, environment, pacing, camera, lighting, cast, then a shot-by-shot breakdown with timings and spoken lines;
-- **the opening beat** — the line the video opens on (quoted verbatim when it was spoken in
-  English, translated when it was not) and the pain point it attacks;
+- **the opening line** — the first line spoken in the video (quoted as-is when it was in English, translated when it was not), and the pain point it targets;
 - **structured labels** — video format, hook type, who is on camera, promo mechanism, voiceover language;
 - **a link to the original TikTok video**, so you can watch what the prompt describes.
 
-We do not redistribute the videos, cover images, product photos or sales figures. See [NOTICE.md](./NOTICE.md).
+The repo does not include video files, cover images, product photos or sales figures. See [NOTICE.md](./NOTICE.md).
 
 ### What one looks like
 
@@ -50,7 +49,7 @@ We do not redistribute the videos, cover images, product photos or sales figures
   <a href="https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/prompt-detail.png" alt="The same entry on clipcat.ai: full prompt, structured labels, one-click Replicate" width="880"></a>
 </p>
 
-<p align="center"><sub>The entry below, <a href="https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library">as it looks on clipcat.ai</a> — same prompt, plus the original video and a one-click Replicate.</sub></p>
+<p align="center"><sub>The entry below, <a href="https://clipcat.ai/en/tools/ai-tiktok-videos-prompt/gb-tools-463382?utm_source=github&utm_medium=repo&utm_campaign=prompt-library">as it looks on clipcat.ai</a>: the same prompt, plus the original video and a Replicate button.</sub></p>
 
 <details open>
 <summary><b>Cordless Tyre Inflator Air… — Real Review (United Kingdom · Tools & Hardware)</b> — <code>gb-tools-463382</code></summary>
@@ -75,17 +74,17 @@ Shot 1:
 
 ## How to use these
 
-**With any video model.** Copy the English or Chinese prompt into Sora 2, Veo 3, Kling, Seedance or whatever you run. The prompts are model-agnostic prose; the shot list is the part that matters.
+**With any video model.** Copy the English or Chinese prompt into Sora 2, Veo 3, Kling, Seedance or whatever you run. The prompts are plain text and not tied to one model. The shot list is the part that matters.
 
-**Swap in your own product.** The prompts describe someone else's product. Replace the product nouns and the spoken lines, keep the structure — the structure is what sold.
+**Swap in your own product.** The prompts describe someone else's product. Replace the product names and the spoken lines, and keep the shot structure as it is.
 
-**With Clipcat.** Each entry links to the same prompt on [clipcat.ai](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library), where you can hit Replicate with your own product images and get the video back.
+**With Clipcat.** Each entry links to the same prompt on [clipcat.ai](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library), where you can upload your own product images and generate the whole video.
 
 ---
 
 ## The prompt format
 
-Read [docs/prompt-format.md](./docs/prompt-format.md) for what each block means and why it is there, and [docs/hook-taxonomy.md](./docs/hook-taxonomy.md) for the 13 opening-hook types and 13 video formats we label against.
+[docs/prompt-format.md](./docs/prompt-format.md) explains what each block means. [docs/hook-taxonomy.md](./docs/hook-taxonomy.md) lists the 13 opening-hook types and 13 video formats used as labels.
 
 ---
 
@@ -95,7 +94,7 @@ Read [docs/prompt-format.md](./docs/prompt-format.md) for what each block means 
   <a href="https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library"><img src="assets/library-coverage.png" alt="Every market and category in the Clipcat library, with live video counts" width="880"></a>
 </p>
 
-Counts are live totals in the [Clipcat library](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library) — click any row to watch the videos and copy the prompt behind them. The entries mirrored into this repo sit under `prompts/<market>/<category>/`.
+The counts below are video totals on [clipcat.ai](https://clipcat.ai/en/tools/ai-tiktok-videos-prompt?utm_source=github&utm_medium=repo&utm_campaign=prompt-library). Click a row to see the videos and prompts for that market, category or format. The entries included in this repo are under `prompts/<market>/<category>/`.
 
 ### By market
 
@@ -143,7 +142,7 @@ Counts are live totals in the [Clipcat library](https://clipcat.ai/en/tools/ai-t
 
 ### By opening hook
 
-How the openings break down across the entries in this repo — the [taxonomy](./docs/hook-taxonomy.md#opening-hooks) explains what each one does.
+How the openings break down across the entries in this repo. The [taxonomy](./docs/hook-taxonomy.md#opening-hooks) explains what each hook means.
 
 | Hook | Share | Hook | Share |
 | --- | ---: | --- | ---: |
@@ -158,11 +157,11 @@ How the openings break down across the entries in this repo — the [taxonomy](.
 
 ## Machine-readable data
 
-`data/prompts.jsonl` — one JSON object per line, same fields as the front matter plus both prompts. Built for feeding an agent or a RAG index, not for reading.
+`data/prompts.jsonl` — one JSON object per line, with the same fields as the front matter plus both prompts. Meant for feeding an agent or building a RAG index, not for reading directly.
 
 ## Contributing
 
-Send us a **TikTok video link**, not a prompt — our pipeline reverse-engineers it and credits the creator. Corrections to existing entries are very welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md).
+Send a **TikTok video link** rather than a prompt — our pipeline does the reverse-engineering and credits the creator. Corrections to existing entries are welcome too. See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## License
 
